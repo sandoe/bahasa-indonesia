@@ -1,0 +1,19 @@
+---
+import LandingPage from "@components/LandingPage.astro";
+import { isSupportedLocale } from "@lib/content";
+import { uiLocales } from "@data/site";
+
+export function getStaticPaths() {
+  return uiLocales.map((locale) => ({
+    params: { locale }
+  }));
+}
+
+const localeParam = Astro.params.locale ?? "";
+
+if (!isSupportedLocale(localeParam)) {
+  throw new Error(`Unsupported locale: ${localeParam}`);
+}
+---
+
+<LandingPage locale={localeParam} />

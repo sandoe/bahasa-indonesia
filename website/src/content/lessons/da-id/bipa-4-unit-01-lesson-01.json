@@ -1,0 +1,242 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-4",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 60,
+  "title": {
+    "da": "Korte observationer og rapporter",
+    "en": "Short Observations and Reports",
+    "id": "Pengamatan dan Laporan Singkat"
+  },
+  "summary": {
+    "da": "Saml information, beskriv hvad du observerer, og form det som en kort rapport.",
+    "en": "Gather information, describe what you observe, and shape it into a short report.",
+    "id": "Kumpulkan informasi, jelaskan apa yang Anda amati, lalu bentuk menjadi laporan singkat."
+  },
+  "objectives": [
+    {
+      "da": "Beskrive en situation neutralt og tydeligt på indonesisk.",
+      "en": "Describe a situation neutrally and clearly in Indonesian.",
+      "id": "Menjelaskan suatu situasi secara netral dan jelas dalam bahasa Indonesia."
+    },
+    {
+      "da": "Brug sekvenser som pertama, kemudian og akhirnya til at strukturere en rapport.",
+      "en": "Use sequencing such as pertama, kemudian, and akhirnya to structure a report.",
+      "id": "Menggunakan urutan seperti pertama, kemudian, dan akhirnya untuk menyusun laporan."
+    },
+    {
+      "da": "Skelne mellem observation og personlig vurdering.",
+      "en": "Distinguish between observation and personal evaluation.",
+      "id": "Membedakan antara pengamatan dan penilaian pribadi."
+    }
+  ],
+  "unit": {
+    "slug": "unit-01",
+    "order": 1,
+    "title": {
+      "da": "Observation og rapport",
+      "en": "Observation and Reporting",
+      "id": "Pengamatan dan Pelaporan"
+    },
+    "summary": {
+      "da": "At indsamle, strukturere og videreformidle information i et mere formelt register.",
+      "en": "Gathering, structuring, and conveying information in a more formal register.",
+      "id": "Mengumpulkan, menyusun, dan menyampaikan informasi dalam register yang lebih formal."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis et billede af en travl scene og bed eleverne nævne tre rene observationer uden tolkning.",
+        "en": "Show an image of a busy scene and ask learners to name three pure observations without interpretation.",
+        "id": "Tampilkan gambar adegan yang ramai lalu minta siswa menyebutkan tiga pengamatan murni tanpa interpretasi."
+      },
+      "flow": [
+        {
+          "da": "Indfør forskellen mellem faktaudsagn og vurderende kommentarer.",
+          "en": "Introduce the difference between factual statements and evaluative comments.",
+          "id": "Perkenalkan perbedaan antara pernyataan faktual dan komentar yang bersifat menilai."
+        },
+        {
+          "da": "Byg en kort rapport i tre trin: situation, udvikling, resultat.",
+          "en": "Build a short report in three steps: situation, development, result.",
+          "id": "Susun laporan singkat dalam tiga tahap: situasi, perkembangan, hasil."
+        },
+        {
+          "da": "Lad grupper skrive mini-rapporter ud fra samme input og sammenligne struktur og tone.",
+          "en": "Have groups write mini reports from the same input and compare structure and tone.",
+          "id": "Biarkan kelompok menulis laporan mini dari input yang sama lalu membandingkan struktur dan nadanya."
+        },
+        {
+          "da": "Afslut med fælles redigering af en rapport på tavlen.",
+          "en": "Finish with collective editing of one report on the board.",
+          "id": "Tutup dengan penyuntingan bersama satu laporan di papan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Hold fokus på klarhed og rækkefølge før komplekse sætninger.",
+          "en": "Keep the focus on clarity and sequence before complex sentences.",
+          "id": "Jaga fokus pada kejelasan dan urutan sebelum kalimat yang kompleks."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Observer et sted i fem minutter og skriv fem neutrale faktaudsagn.",
+          "en": "Observe a place for five minutes and write five neutral factual statements.",
+          "id": "Amati suatu tempat selama lima menit lalu tulis lima pernyataan fakta yang netral."
+        },
+        {
+          "da": "Omskriv dine noter til en rapport på seks til otte sætninger.",
+          "en": "Rewrite your notes into a report of six to eight sentences.",
+          "id": "Ubah catatan Anda menjadi laporan enam sampai delapan kalimat."
+        },
+        {
+          "da": "Marker de sætninger, hvor du glider over i vurdering, og justér dem hvis nødvendigt.",
+          "en": "Mark the sentences where you drift into evaluation and adjust them if needed.",
+          "id": "Tandai kalimat yang berubah menjadi penilaian lalu perbaiki jika perlu."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du bruge sekvensord til at gøre rapporten lettere at følge?",
+          "en": "Can you use sequence words to make the report easier to follow?",
+          "id": "Bisakah Anda menggunakan kata urutan agar laporan lebih mudah diikuti?"
+        },
+        {
+          "da": "Kan du holde tonen nøgtern uden at miste information?",
+          "en": "Can you keep the tone neutral without losing information?",
+          "id": "Bisakah Anda menjaga nada tetap netral tanpa kehilangan informasi?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Reporter",
+      "source": "Først ankom deltagerne mellem klokken otte og halv ni.",
+      "target": "Pertama, para peserta datang antara pukul delapan dan setengah sembilan."
+    },
+    {
+      "speaker": "Reporter",
+      "source": "Derefter begyndte mødet med en kort introduktion fra koordinatoren.",
+      "target": "Kemudian, rapat dimulai dengan pengantar singkat dari koordinator."
+    },
+    {
+      "speaker": "Reporter",
+      "source": "Til sidst blev tre hovedbeslutninger skrevet på tavlen.",
+      "target": "Akhirnya, tiga keputusan utama ditulis di papan."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "observation",
+      "target": "pengamatan",
+      "note": {
+        "da": "Nøglerord til neutral beskrivelse.",
+        "en": "A key term for neutral description.",
+        "id": "Kata kunci untuk deskripsi yang netral."
+      }
+    },
+    {
+      "source": "resultat",
+      "target": "hasil",
+      "note": {
+        "da": "Bruges til at afslutte en kort rapport eller opsummering.",
+        "en": "Used to end a short report or summary.",
+        "id": "Digunakan untuk menutup laporan atau ringkasan singkat."
+      }
+    },
+    {
+      "source": "deltager",
+      "target": "peserta",
+      "note": {
+        "da": "Et nyttigt ord i mere formelle eller organisatoriske sammenhænge.",
+        "en": "A useful word in more formal or organizational contexts.",
+        "id": "Kata yang berguna dalam konteks yang lebih formal atau organisatoris."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Pertama ... kemudian ... akhirnya ...",
+      "explanation": {
+        "da": "Et enkelt, stærkt skelet til at strukturere observationer kronologisk.",
+        "en": "A simple, strong skeleton for structuring observations chronologically.",
+        "id": "Kerangka sederhana dan kuat untuk menyusun pengamatan secara kronologis."
+      },
+      "examples": [
+        {
+          "source": "Først åbnede butikken. Derefter kom de første kunder. Til sidst blev køen længere.",
+          "target": "Pertama toko dibuka. Kemudian pelanggan pertama datang. Akhirnya antreannya menjadi lebih panjang."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt efter hvilken information der er observation, og hvilken der er fortolkning.",
+        "en": "Listen for which information is observation and which is interpretation.",
+        "id": "Dengarkan informasi mana yang merupakan pengamatan dan mana yang merupakan interpretasi."
+      },
+      "answerShape": {
+        "da": "To kolonner",
+        "en": "Two columns",
+        "id": "Dua kolom"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en kort rapport om en klasseaktivitet eller en begivenhed.",
+        "en": "Write a short report about a class activity or an event.",
+        "id": "Tulis laporan singkat tentang kegiatan kelas atau suatu peristiwa."
+      },
+      "answerShape": {
+        "da": "Mini-rapport",
+        "en": "Mini report",
+        "id": "Laporan mini"
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvorfor er det nyttigt at adskille observation fra vurdering i en rapport?",
+        "en": "Why is it useful to separate observation from evaluation in a report?",
+        "id": "Mengapa berguna memisahkan pengamatan dari penilaian dalam sebuah laporan?"
+      },
+      "answerShape": {
+        "da": "Kort forklaring",
+        "en": "Short explanation",
+        "id": "Penjelasan singkat"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "image-bipa4-report-01",
+      "type": "image",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Placeholder for observationsbillede",
+        "en": "Placeholder for observation image",
+        "id": "Placeholder untuk gambar pengamatan"
+      },
+      "note": {
+        "da": "Senere kan du indsætte et foto eller en illustration, som eleverne skal beskrive formelt.",
+        "en": "Later you can insert a photo or illustration that learners should describe in a formal way.",
+        "id": "Nanti Anda dapat memasukkan foto atau ilustrasi yang harus dideskripsikan siswa secara formal."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

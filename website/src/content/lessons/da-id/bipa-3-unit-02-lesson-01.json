@@ -1,0 +1,271 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-3",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 55,
+  "title": {
+    "da": "Invitationer og aftaler",
+    "en": "Invitations and Plans",
+    "id": "Undangan dan Rencana"
+  },
+  "summary": {
+    "da": "Lær at invitere, foreslå et tidspunkt og reagere høfligt på planer med andre.",
+    "en": "Learn to invite, suggest a time, and respond politely to plans with others.",
+    "id": "Belajar mengundang, mengusulkan waktu, dan merespons rencana dengan sopan."
+  },
+  "objectives": [
+    {
+      "da": "Lave en enkel invitation med tid, sted og aktivitet.",
+      "en": "Create a simple invitation with time, place, and activity.",
+      "id": "Membuat undangan sederhana dengan waktu, tempat, dan kegiatan."
+    },
+    {
+      "da": "Bringe forslag som bagaimana kalau og bolehkah og reagere passende.",
+      "en": "Use suggestion forms such as bagaimana kalau and bolehkah and respond appropriately.",
+      "id": "Menggunakan bentuk usulan seperti bagaimana kalau dan bolehkah serta merespons dengan tepat."
+    },
+    {
+      "da": "Forhandle en aftale, hvis den første plan ikke passer.",
+      "en": "Negotiate an arrangement if the first plan does not work.",
+      "id": "Menegosiasikan rencana jika usulan pertama tidak cocok."
+    }
+  ],
+  "unit": {
+    "slug": "unit-02",
+    "order": 2,
+    "title": {
+      "da": "Planer og sociale situationer",
+      "en": "Plans and Social Situations",
+      "id": "Rencana dan Situasi Sosial"
+    },
+    "summary": {
+      "da": "At invitere, aftale og forklare sine præferencer på en naturlig måde.",
+      "en": "Inviting, arranging, and explaining preferences in a natural way.",
+      "id": "Mengundang, membuat janji, dan menjelaskan preferensi secara alami."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis tre hverdagsaktiviteter på tavlen og lad klassen stemme om, hvilken de helst vil inviteres til.",
+        "en": "Show three everyday activities on the board and let the class vote on which one they would most like to be invited to.",
+        "id": "Tampilkan tiga kegiatan sehari-hari di papan dan biarkan kelas memilih kegiatan mana yang paling ingin mereka hadiri."
+      },
+      "flow": [
+        {
+          "da": "Præsenter faste fraser til invitation, accept, tøven og afslag.",
+          "en": "Present fixed phrases for invitations, acceptance, hesitation, and refusal.",
+          "id": "Perkenalkan frasa tetap untuk undangan, penerimaan, keraguan, dan penolakan."
+        },
+        {
+          "da": "Gennemgå modeldialogen og markér hvor deltagerne justerer planen.",
+          "en": "Go through the model dialogue and mark where the speakers adjust the plan.",
+          "id": "Tinjau dialog model dan tandai bagian saat para penutur menyesuaikan rencana."
+        },
+        {
+          "da": "Lad eleverne rotere mellem kort med aktiviteter, tidspunkter og steder og bygge nye invitationer.",
+          "en": "Have learners rotate between cards with activities, times, and places and build new invitations.",
+          "id": "Biarkan siswa bergilir memakai kartu aktivitas, waktu, dan tempat lalu membangun undangan baru."
+        },
+        {
+          "da": "Afslut med rollespil, hvor den ene part skal ændre planen én gang undervejs.",
+          "en": "Finish with role play where one speaker must change the plan once during the conversation.",
+          "id": "Tutup dengan bermain peran ketika salah satu penutur harus mengubah rencana sekali di tengah percakapan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Fokuser på høflig rytme og naturlige småord som ya, mungkin og baik.",
+          "en": "Focus on polite rhythm and natural small words such as ya, mungkin, and baik.",
+          "id": "Fokus pada ritme yang sopan dan kata-kata kecil yang alami seperti ya, mungkin, dan baik."
+        },
+        {
+          "da": "Brug konkrete tidspunkter for at undgå at eleverne kun siger 'senere' eller 'en dag'.",
+          "en": "Use concrete times to avoid learners saying only 'later' or 'someday'.",
+          "id": "Gunakan waktu yang konkret agar siswa tidak hanya mengatakan 'nanti' atau 'suatu hari'."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Byg fem invitationer med forskellige aktiviteter og forskellige tidspunkter.",
+          "en": "Build five invitations with different activities and different times.",
+          "id": "Susun lima undangan dengan kegiatan dan waktu yang berbeda."
+        },
+        {
+          "da": "Læs dialogen og skriv to alternative svar: et accepterende og et høfligt afvisende.",
+          "en": "Read the dialogue and write two alternative responses: one accepting and one politely declining.",
+          "id": "Baca dialog lalu tulis dua jawaban alternatif: satu menerima dan satu menolak dengan sopan."
+        },
+        {
+          "da": "Optag dig selv, mens du foreslår en plan og justerer den, når noget ikke passer.",
+          "en": "Record yourself suggesting a plan and adjusting it when something does not work.",
+          "id": "Rekam diri Anda saat mengusulkan rencana lalu menyesuaikannya ketika sesuatu tidak cocok."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du både invitere og foreslå et andet tidspunkt?",
+          "en": "Can you both invite and suggest a different time?",
+          "id": "Bisakah Anda mengundang sekaligus mengusulkan waktu lain?"
+        },
+        {
+          "da": "Kan du afslå uden at lyde afvisende eller brat?",
+          "en": "Can you decline without sounding dismissive or abrupt?",
+          "id": "Bisakah Anda menolak tanpa terdengar dingin atau mendadak?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Nina",
+      "source": "Har du lyst til at drikke kaffe efter undervisningen i morgen?",
+      "target": "Apakah kamu mau minum kopi setelah kelas besok?"
+    },
+    {
+      "speaker": "Budi",
+      "source": "Ja, det vil jeg gerne. Hvor vil du mødes?",
+      "target": "Ya, saya mau. Kamu mau bertemu di mana?"
+    },
+    {
+      "speaker": "Nina",
+      "source": "Hvordan ville det være at mødes på caféen ved biblioteket klokken fire?",
+      "target": "Bagaimana kalau kita bertemu di kafe dekat perpustakaan jam empat?"
+    },
+    {
+      "speaker": "Budi",
+      "source": "Klokken fire er lidt svært for mig. Må vi flytte det til halv fem?",
+      "target": "Jam empat agak sulit bagi saya. Bolehkah kita mengubahnya menjadi jam setengah lima?"
+    },
+    {
+      "speaker": "Nina",
+      "source": "Ja, det passer fint. Så ses vi der.",
+      "target": "Ya, itu cocok. Sampai jumpa di sana."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "hvordan ville det være, hvis ...?",
+      "target": "bagaimana kalau ...?",
+      "note": {
+        "da": "En meget brugbar og blød måde at foreslå noget på.",
+        "en": "A very useful and gentle way to suggest something.",
+        "id": "Cara yang sangat berguna dan halus untuk mengusulkan sesuatu."
+      }
+    },
+    {
+      "source": "må vi ...?",
+      "target": "bolehkah kita ...?",
+      "note": {
+        "da": "Høfligt mønster til at ændre eller bede om noget.",
+        "en": "A polite pattern for changing or requesting something.",
+        "id": "Pola sopan untuk mengubah atau meminta sesuatu."
+      }
+    },
+    {
+      "source": "det passer fint",
+      "target": "itu cocok",
+      "note": {
+        "da": "Naturlig accept i sociale aftaler.",
+        "en": "A natural acceptance phrase in social arrangements.",
+        "id": "Frasa penerimaan yang alami dalam rencana sosial."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Bagaimana kalau + clause?",
+      "explanation": {
+        "da": "Bruges til at komme med forslag uden at virke for direkte.",
+        "en": "Used to make suggestions without sounding too direct.",
+        "id": "Digunakan untuk memberi usulan tanpa terdengar terlalu langsung."
+      },
+      "examples": [
+        {
+          "source": "Hvad med at vi spiser frokost først?",
+          "target": "Bagaimana kalau kita makan siang dulu?"
+        }
+      ]
+    },
+    {
+      "pattern": "Bolehkah + subject + verb",
+      "explanation": {
+        "da": "Bruges til høflige spørgsmål eller justeringer af en plan.",
+        "en": "Used for polite questions or adjustments to a plan.",
+        "id": "Digunakan untuk pertanyaan sopan atau penyesuaian rencana."
+      },
+      "examples": [
+        {
+          "source": "Må vi flytte mødet til fredag?",
+          "target": "Bolehkah kita memindahkan pertemuan ke hari Jumat?"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Lav tre invitationer og få din partner til at acceptere, afvise eller flytte tidspunktet.",
+        "en": "Create three invitations and have your partner accept, decline, or move the time.",
+        "id": "Buat tiga undangan dan minta pasangan Anda menerima, menolak, atau memindahkan waktunya."
+      },
+      "answerShape": {
+        "da": "Rollespil",
+        "en": "Role play",
+        "id": "Bermain peran"
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt efter vendinger, der gør samtalen mere høflig.",
+        "en": "Listen for phrases that make the conversation more polite.",
+        "id": "Dengarkan ungkapan yang membuat percakapan menjadi lebih sopan."
+      },
+      "answerShape": {
+        "da": "Kort liste",
+        "en": "Short list",
+        "id": "Daftar singkat"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en chatudveksling på fem linjer om at planlægge en aktivitet.",
+        "en": "Write a five-line chat exchange about planning an activity.",
+        "id": "Tulis percakapan chat lima baris tentang merencanakan suatu kegiatan."
+      },
+      "answerShape": {
+        "da": "Kort chat",
+        "en": "Short chat",
+        "id": "Chat singkat"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "audio-bipa3-invitation-01",
+      "type": "audio",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Placeholder for invitation-dialog",
+        "en": "Placeholder for invitation dialogue",
+        "id": "Placeholder untuk dialog undangan"
+      },
+      "note": {
+        "da": "Egner sig godt til senere indtaling med to stemmer og tydelig intonation.",
+        "en": "Well suited for later recording with two voices and clear intonation.",
+        "id": "Cocok untuk direkam nanti dengan dua suara dan intonasi yang jelas."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

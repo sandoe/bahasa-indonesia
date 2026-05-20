@@ -1,0 +1,378 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import PairMatrix from "@components/PairMatrix.astro";
+import { type UiLocale } from "@data/site";
+
+interface Props {
+  locale: UiLocale;
+}
+
+const { locale } = Astro.props;
+
+const copy = {
+  da: {
+    title: "BahasaBroen | Sprogbroen mellem Danmark og Indonesien",
+    description:
+      "Lær indonesisk eller dansk gratis. En moderne platform skabt til at forbinde kulturer gennem sprog.",
+    eyebrow: "Velkommen til BahasaBroen",
+    headingLead: "Sprogbroen mellem",
+    headingAccent: "Danmark, England & Indonesien",
+    body:
+      "Vælg visningssprog på globussen og gå direkte ind i den læringsrute, du vil bruge. Platformen samler BIPA-forløb, selvstudie og undervisning i én struktur.",
+    cta: "Åbn Dansk til Indonesisk",
+    globeTitle: "Vælg visningssprog",
+    globeBody: "Skift hele forsiden til dansk, engelsk eller indonesisk.",
+    routesEyebrow: "Sprogruter",
+    routesTitle: "Vælg din retning",
+    routesBody: "Start med den rute, der passer til din undervisning eller dit selvstudie.",
+    languages: [
+      { code: "da", label: "Dansk", flag: "🇩🇰" },
+      { code: "en", label: "English", flag: "🇬🇧" },
+      { code: "id", label: "Bahasa Indonesia", flag: "🇮🇩" }
+    ]
+  },
+  en: {
+    title: "BahasaBridge | The language bridge between Denmark and Indonesia",
+    description:
+      "Learn Indonesian or Danish for free. A modern platform built to connect cultures through language.",
+    eyebrow: "Welcome to BahasaBridge",
+    headingLead: "The language bridge between",
+    headingAccent: "Denmark, England & Indonesia",
+    body:
+      "Choose the interface language on the globe and jump directly into the learning route you want to use. The platform brings BIPA courses, self-study, and teaching into one structure.",
+    cta: "Open Danish to Indonesian",
+    globeTitle: "Choose interface language",
+    globeBody: "Switch the whole landing page to Danish, English, or Indonesian.",
+    routesEyebrow: "Language routes",
+    routesTitle: "Choose your direction",
+    routesBody: "Start with the route that fits your teaching or self-study flow.",
+    languages: [
+      { code: "da", label: "Dansk", flag: "🇩🇰" },
+      { code: "en", label: "English", flag: "🇬🇧" },
+      { code: "id", label: "Bahasa Indonesia", flag: "🇮🇩" }
+    ]
+  },
+  id: {
+    title: "BahasaBridge | Jembatan bahasa antara Denmark dan Indonesia",
+    description:
+      "Belajar bahasa Indonesia atau Denmark secara gratis. Platform modern yang dibangun untuk menghubungkan budaya melalui bahasa.",
+    eyebrow: "Selamat datang di BahasaBridge",
+    headingLead: "Jembatan bahasa antara",
+    headingAccent: "Denmark, Inggris & Indonesia",
+    body:
+      "Pilih bahasa tampilan melalui globe lalu masuk langsung ke jalur belajar yang ingin digunakan. Platform ini menyatukan kursus BIPA, belajar mandiri, dan pengajaran dalam satu struktur.",
+    cta: "Buka Denmark ke Indonesia",
+    globeTitle: "Pilih bahasa tampilan",
+    globeBody: "Ganti seluruh halaman depan ke bahasa Denmark, Inggris, atau Indonesia.",
+    routesEyebrow: "Rute bahasa",
+    routesTitle: "Pilih arah Anda",
+    routesBody: "Mulailah dengan rute yang paling sesuai untuk pengajaran atau belajar mandiri Anda.",
+    languages: [
+      { code: "da", label: "Dansk", flag: "🇩🇰" },
+      { code: "en", label: "English", flag: "🇬🇧" },
+      { code: "id", label: "Bahasa Indonesia", flag: "🇮🇩" }
+    ]
+  }
+} as const;
+
+const currentCopy = copy[locale];
+---
+
+<BaseLayout title={currentCopy.title} description={currentCopy.description} locale={locale}>
+  <div class="animated-bg">
+    <div class="blob"></div>
+    <div class="blob"></div>
+  </div>
+
+  <section class="shell landing-hero">
+    <div class="hero-content">
+      <span class="eyebrow animated">{currentCopy.eyebrow}</span>
+      <h1 class="animated delay-1">
+        {currentCopy.headingLead}<br />
+        <span class="text-gradient">{currentCopy.headingAccent}</span>
+      </h1>
+      <p class="hero-text animated delay-2">{currentCopy.body}</p>
+
+      <div class="hero-actions animated delay-3">
+        <a class="primary-link" href={`/${locale}/da-id/`}>
+          {currentCopy.cta}
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+        </a>
+      </div>
+    </div>
+
+    <div class="hero-visual animated delay-4">
+      <div class="globe-panel">
+        <div class="globe-stage" aria-hidden="true">
+          <div class="hero-globe">
+            <div class="hero-globe-shell">
+              <span class="meridian one"></span>
+              <span class="meridian two"></span>
+              <span class="meridian three"></span>
+              <span class="parallel top"></span>
+              <span class="parallel middle"></span>
+              <span class="parallel bottom"></span>
+              <span class="orb-core"></span>
+            </div>
+          </div>
+        </div>
+
+        <div class="globe-copy">
+          <span class="eyebrow">{currentCopy.globeTitle}</span>
+          <p>{currentCopy.globeBody}</p>
+        </div>
+
+        <div class="language-list">
+          {currentCopy.languages.map((language) => (
+            <a
+              class={`language-option ${language.code === locale ? "is-active" : ""}`}
+              href={`/${language.code}/`}
+            >
+              <span class="language-flag">{language.flag}</span>
+              <span class="language-label">{language.label}</span>
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="shell section-shell animated delay-5" id="routes">
+    <div class="section-header">
+      <span class="eyebrow">{currentCopy.routesEyebrow}</span>
+      <h2>{currentCopy.routesTitle}</h2>
+      <p>{currentCopy.routesBody}</p>
+    </div>
+    <PairMatrix locale={locale} />
+  </section>
+
+  <style>
+    .landing-hero {
+      display: grid;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 4rem;
+      padding: 8rem 0 4rem;
+      min-height: 80vh;
+      align-items: center;
+    }
+
+    .hero-content {
+      max-width: 700px;
+    }
+
+    .hero-text {
+      font-size: 1.4rem;
+      color: var(--muted);
+      margin: 2rem 0 3rem;
+      line-height: 1.5;
+    }
+
+    .hero-visual {
+      display: flex;
+      justify-content: center;
+    }
+
+    .globe-panel {
+      width: min(100%, 420px);
+      padding: 2rem;
+      background: rgba(255, 255, 255, 0.78);
+      border: 1px solid rgba(13, 26, 28, 0.08);
+      border-radius: 36px;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(20px);
+    }
+
+    .globe-stage {
+      display: grid;
+      place-items: center;
+      margin-bottom: 1.6rem;
+      padding: 1rem 0 1.4rem;
+    }
+
+    .hero-globe {
+      width: 220px;
+      height: 220px;
+      display: grid;
+      place-items: center;
+      perspective: 1000px;
+    }
+
+    .hero-globe-shell {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      border: 2px solid rgba(28, 77, 79, 0.9);
+      background: radial-gradient(circle at 35% 30%, rgba(255, 255, 255, 0.9), rgba(58, 191, 155, 0.12) 45%, rgba(28, 77, 79, 0.12) 100%);
+      transform-style: preserve-3d;
+      animation: spin-globe 16s linear infinite;
+      box-shadow: inset 0 0 40px rgba(58, 191, 155, 0.15), 0 24px 60px rgba(13, 26, 28, 0.14);
+    }
+
+    .meridian,
+    .parallel {
+      position: absolute;
+      inset: 0;
+      border-radius: 50%;
+      border: 1.5px solid rgba(28, 77, 79, 0.7);
+    }
+
+    .meridian.one { transform: rotateY(0deg); }
+    .meridian.two { transform: rotateY(60deg); }
+    .meridian.three { transform: rotateY(120deg); }
+
+    .parallel {
+      left: 10%;
+      width: 80%;
+      inset: auto;
+      border-left: none;
+      border-right: none;
+    }
+
+    .parallel.top {
+      top: 25%;
+      height: 26%;
+    }
+
+    .parallel.middle {
+      top: 49%;
+      height: 0;
+      width: 100%;
+      left: 0;
+    }
+
+    .parallel.bottom {
+      top: 62%;
+      height: 22%;
+    }
+
+    .orb-core {
+      position: absolute;
+      width: 18px;
+      height: 18px;
+      top: 28%;
+      left: 55%;
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 20px rgba(255, 138, 61, 0.5);
+    }
+
+    .globe-copy p {
+      margin: 0 0 1.4rem;
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    .language-list {
+      display: grid;
+      gap: 0.8rem;
+    }
+
+    .language-option {
+      display: flex;
+      align-items: center;
+      gap: 0.9rem;
+      padding: 0.95rem 1rem;
+      text-decoration: none;
+      border-radius: 18px;
+      background: rgba(255, 255, 255, 0.72);
+      border: 1px solid rgba(13, 26, 28, 0.08);
+      color: var(--ink);
+      font-weight: 800;
+      transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .language-option:hover {
+      transform: translateY(-2px);
+      border-color: rgba(255, 138, 61, 0.35);
+      box-shadow: 0 14px 28px rgba(13, 26, 28, 0.08);
+    }
+
+    .language-option.is-active {
+      border-color: rgba(58, 191, 155, 0.45);
+      background: linear-gradient(135deg, rgba(58, 191, 155, 0.12), rgba(255, 255, 255, 0.95));
+    }
+
+    .language-flag {
+      font-size: 1.5rem;
+    }
+
+    .animated {
+      opacity: 0;
+      animation: fadeInUp 0.8s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+    }
+
+    .delay-1 { animation-delay: 0.2s; }
+    .delay-2 { animation-delay: 0.4s; }
+    .delay-3 { animation-delay: 0.6s; }
+    .delay-4 { animation-delay: 0.8s; }
+    .delay-5 { animation-delay: 1s; }
+
+    .animated-bg {
+      position: fixed;
+      inset: 0;
+      z-index: -1;
+      overflow: hidden;
+      pointer-events: none;
+    }
+
+    .blob {
+      position: absolute;
+      width: 600px;
+      height: 600px;
+      background: radial-gradient(circle, rgba(255, 138, 61, 0.15) 0%, transparent 70%);
+      border-radius: 50%;
+      filter: blur(80px);
+    }
+
+    .blob:nth-child(1) {
+      top: -200px;
+      right: -100px;
+      animation: float 10s ease-in-out infinite;
+    }
+
+    .blob:nth-child(2) {
+      bottom: -200px;
+      left: -100px;
+      animation: float 12s ease-in-out infinite;
+      animation-delay: -2s;
+    }
+
+    .section-header {
+      margin-bottom: 3rem;
+    }
+
+    @keyframes spin-globe {
+      from { transform: rotateX(16deg) rotateY(0deg); }
+      to { transform: rotateX(16deg) rotateY(360deg); }
+    }
+
+    @media (max-width: 1024px) {
+      .landing-hero {
+        grid-template-columns: 1fr;
+        padding-top: 4rem;
+      }
+
+      .hero-content {
+        margin: 0 auto;
+        text-align: center;
+      }
+
+      .hero-actions {
+        justify-content: center;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .globe-panel {
+        padding: 1.4rem;
+        border-radius: 28px;
+      }
+
+      .hero-globe {
+        width: 180px;
+        height: 180px;
+      }
+    }
+  </style>
+</BaseLayout>

@@ -1,0 +1,233 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-4",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 60,
+  "title": {
+    "da": "Opsummering og hovedpointer",
+    "en": "Summaries and Main Points",
+    "id": "Ringkasan dan Pokok Utama"
+  },
+  "summary": {
+    "da": "Lær at udtrække hovedpointer fra en tekst eller samtale og gengive dem kort og præcist.",
+    "en": "Learn to extract main points from a text or conversation and retell them briefly and precisely.",
+    "id": "Belajar mengambil pokok-pokok utama dari teks atau percakapan lalu menyampaikannya kembali secara singkat dan tepat."
+  },
+  "objectives": [
+    {
+      "da": "Udpege centrale pointer og skelne dem fra detaljer.",
+      "en": "Identify central points and distinguish them from details.",
+      "id": "Mengidentifikasi pokok utama dan membedakannya dari rincian."
+    },
+    {
+      "da": "Brug opsummeringssignaler som singkatnya og inti dari ... adalah ...",
+      "en": "Use summary signals such as singkatnya and inti dari ... adalah ...",
+      "id": "Menggunakan penanda ringkasan seperti singkatnya dan inti dari ... adalah ..."
+    },
+    {
+      "da": "Levere en kort mundtlig eller skriftlig opsummering i logisk rækkefølge.",
+      "en": "Deliver a short spoken or written summary in logical order.",
+      "id": "Menyampaikan ringkasan lisan atau tertulis yang singkat dalam urutan logis."
+    }
+  ],
+  "unit": {
+    "slug": "unit-02",
+    "order": 2,
+    "title": {
+      "da": "Opsummering og formidling",
+      "en": "Summarizing and Conveying Information",
+      "id": "Merangkum dan Menyampaikan Informasi"
+    },
+    "summary": {
+      "da": "At koge indhold ned og formidle essensen til andre.",
+      "en": "Condensing content and conveying the essence to others.",
+      "id": "Merangkum isi dan menyampaikan intinya kepada orang lain."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Læs en kort tekst højt og bed eleverne skrive de tre vigtigste oplysninger ned.",
+        "en": "Read a short text aloud and ask learners to write down the three most important pieces of information.",
+        "id": "Bacakan teks pendek lalu minta siswa menulis tiga informasi yang paling penting."
+      },
+      "flow": [
+        {
+          "da": "Marker sammen forskellen mellem hovedpointe, støtteoplysning og detalje.",
+          "en": "Mark together the difference between a main point, supporting information, and detail.",
+          "id": "Tandai bersama perbedaan antara pokok utama, informasi pendukung, dan rincian."
+        },
+        {
+          "da": "Indfør opsummeringsrammer, som eleverne kan bruge som stillads.",
+          "en": "Introduce summary frames that learners can use as scaffolding.",
+          "id": "Perkenalkan kerangka ringkasan yang dapat digunakan siswa sebagai penyangga."
+        },
+        {
+          "da": "Lad eleverne skrive en første version og derefter skære den ned til halvdelen.",
+          "en": "Have learners write a first version and then cut it down by half.",
+          "id": "Biarkan siswa menulis versi pertama lalu memotongnya menjadi setengahnya."
+        },
+        {
+          "da": "Afslut med mundtlige opsummeringer på 30 sekunder.",
+          "en": "Finish with 30-second oral summaries.",
+          "id": "Tutup dengan ringkasan lisan selama 30 detik."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Opsummering er en reduktionsopgave. Bed eleverne vælge frem for at kopiere alt.",
+          "en": "Summarizing is a reduction task. Ask learners to choose rather than copy everything.",
+          "id": "Merangkum adalah tugas reduksi. Minta siswa memilih, bukan menyalin semuanya."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs en kort tekst og skriv først alle detaljer ned.",
+          "en": "Read a short text and first write down all the details.",
+          "id": "Baca teks pendek lalu tulis semua rinciannya terlebih dahulu."
+        },
+        {
+          "da": "Vælg derefter de tre vigtigste pointer og skriv en samlet opsummering på tre sætninger.",
+          "en": "Then choose the three most important points and write a combined summary in three sentences.",
+          "id": "Kemudian pilih tiga poin terpenting dan tulis ringkasan gabungan dalam tiga kalimat."
+        },
+        {
+          "da": "Læs din opsummering højt og fjern ord, der ikke bærer hovedindhold.",
+          "en": "Read your summary aloud and remove words that do not carry the main content.",
+          "id": "Baca ringkasan Anda dengan suara keras dan hapus kata-kata yang tidak membawa isi utama."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige essensen uden at gentage hele teksten?",
+          "en": "Can you state the essence without repeating the whole text?",
+          "id": "Bisakah Anda menyampaikan inti tanpa mengulang seluruh teks?"
+        },
+        {
+          "da": "Er rækkefølgen i din opsummering let at følge?",
+          "en": "Is the sequence in your summary easy to follow?",
+          "id": "Apakah urutan dalam ringkasan Anda mudah diikuti?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Lina",
+      "source": "Kan du kort forklare, hvad mødet handlede om?",
+      "target": "Bisakah kamu menjelaskan secara singkat apa isi rapat tadi?"
+    },
+    {
+      "speaker": "Rafi",
+      "source": "Kort sagt handlede det om tre ting: budget, tidsplan og fordeling af opgaver.",
+      "target": "Singkatnya, rapat itu membahas tiga hal: anggaran, jadwal, dan pembagian tugas."
+    },
+    {
+      "speaker": "Rafi",
+      "source": "Hovedpointen var, at projektet starter næste måned.",
+      "target": "Inti utamanya adalah proyek itu akan dimulai bulan depan."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "kort sagt",
+      "target": "singkatnya",
+      "note": {
+        "da": "Praktisk signal om, at en opsummering kommer nu.",
+        "en": "A practical signal that a summary is coming now.",
+        "id": "Penanda praktis bahwa ringkasan akan disampaikan sekarang."
+      }
+    },
+    {
+      "source": "hovedpointen",
+      "target": "inti utama",
+      "note": {
+        "da": "Bruges til at løfte den vigtigste information frem.",
+        "en": "Used to bring forward the most important information.",
+        "id": "Digunakan untuk menonjolkan informasi yang paling penting."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Singkatnya, ... / Inti dari ... adalah ...",
+      "explanation": {
+        "da": "To tydelige rammer som hjælper eleverne med at komprimere information.",
+        "en": "Two clear frames that help learners compress information.",
+        "id": "Dua kerangka yang jelas untuk membantu siswa memadatkan informasi."
+      },
+      "examples": [
+        {
+          "source": "Kort sagt var kurset nyttigt og meget praktisk.",
+          "target": "Singkatnya, kursus itu bermanfaat dan sangat praktis."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til en forklaring og vælg kun de tre vigtigste pointer.",
+        "en": "Listen to an explanation and choose only the three most important points.",
+        "id": "Dengarkan sebuah penjelasan lalu pilih hanya tiga poin yang paling penting."
+      },
+      "answerShape": {
+        "da": "Punktliste",
+        "en": "Bullet list",
+        "id": "Daftar poin"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Lav en skriftlig opsummering af en tekst, video eller samtale.",
+        "en": "Create a written summary of a text, video, or conversation.",
+        "id": "Buat ringkasan tertulis dari teks, video, atau percakapan."
+      },
+      "answerShape": {
+        "da": "Tre til fire sætninger",
+        "en": "Three to four sentences",
+        "id": "Tiga sampai empat kalimat"
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Giv en 30-sekunders opsummering uden at læse op.",
+        "en": "Give a 30-second summary without reading aloud.",
+        "id": "Berikan ringkasan 30 detik tanpa membaca teks."
+      },
+      "answerShape": {
+        "da": "Kort mundtlig opsummering",
+        "en": "Short oral summary",
+        "id": "Ringkasan lisan singkat"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "audio-bipa4-summary-01",
+      "type": "audio",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Placeholder for kort mødeopsummering",
+        "en": "Placeholder for short meeting summary",
+        "id": "Placeholder untuk ringkasan rapat singkat"
+      },
+      "note": {
+        "da": "God kandidat til en senere lydfil med autentisk tempo og tydelige hovedpointer.",
+        "en": "A good candidate for a later audio file with authentic pace and clear main points.",
+        "id": "Kandidat yang baik untuk file audio nanti dengan tempo yang alami dan poin utama yang jelas."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

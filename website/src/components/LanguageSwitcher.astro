@@ -3,15 +3,23 @@ import { uiLocales, localeLabels, type UiLocale } from "@data/site";
 
 interface Props {
   currentLocale: UiLocale;
+  pathname: string;
 }
 
-const { currentLocale } = Astro.props;
+const { currentLocale, pathname } = Astro.props;
 
-// Helper function to get the target URL for a locale change
-// It tries to keep the user on the same functional page but in the new language
-function getLocalePath(targetLocale: string) {
-  // In a static Astro build, we often need to rewrite the URL path
-  // This is a simplified version for the switcher
+function getLocalePath(targetLocale: UiLocale) {
+  const segments = pathname.split("/").filter(Boolean);
+
+  if (segments.length === 0) {
+    return `/${targetLocale}/`;
+  }
+
+  if (uiLocales.includes(segments[0] as UiLocale)) {
+    segments[0] = targetLocale;
+    return `/${segments.join("/")}/`;
+  }
+
   return `/${targetLocale}/`;
 }
 ---
@@ -34,7 +42,7 @@ function getLocalePath(targetLocale: string) {
   <div class="lang-dropdown" id="lang-dropdown">
     {uiLocales.map((loc) => (
       <a 
-        href={`/${loc}/`} 
+        href={getLocalePath(loc)} 
         class={`lang-option ${loc === currentLocale ? 'is-active' : ''}`}
       >
         <span class="lang-flag">

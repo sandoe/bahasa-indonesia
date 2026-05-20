@@ -1,0 +1,224 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-4",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 60,
+  "title": {
+    "da": "Formelle beskeder",
+    "en": "Formal Messages",
+    "id": "Pesan Formal"
+  },
+  "summary": {
+    "da": "Skriv korte, præcise beskeder i en mere professionel og høflig tone.",
+    "en": "Write short, precise messages in a more professional and polite tone.",
+    "id": "Menulis pesan singkat yang tepat dalam nada yang lebih profesional dan sopan."
+  },
+  "objectives": [
+    {
+      "da": "Åbne og afslutte en formel besked på passende indonesisk.",
+      "en": "Open and close a formal message in appropriate Indonesian.",
+      "id": "Membuka dan menutup pesan formal dalam bahasa Indonesia yang sesuai."
+    },
+    {
+      "da": "Formulere et tydeligt formål i én til to sætninger.",
+      "en": "State a clear purpose in one to two sentences.",
+      "id": "Menyatakan tujuan yang jelas dalam satu hingga dua kalimat."
+    },
+    {
+      "da": "Skifte mellem venlig uformel tone og mere professionel registerbrug.",
+      "en": "Shift between friendly informal tone and a more professional register.",
+      "id": "Beralih antara nada informal yang ramah dan register yang lebih profesional."
+    }
+  ],
+  "unit": {
+    "slug": "unit-01",
+    "order": 1,
+    "title": {
+      "da": "Observation og rapport",
+      "en": "Observation and Reporting",
+      "id": "Pengamatan dan Pelaporan"
+    },
+    "summary": {
+      "da": "At indsamle, strukturere og videreformidle information i et mere formelt register.",
+      "en": "Gathering, structuring, and conveying information in a more formal register.",
+      "id": "Mengumpulkan, menyusun, dan menyampaikan informasi dalam register yang lebih formal."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis to korte beskeder med samme indhold, men forskellig tone, og bed klassen pege på forskellene.",
+        "en": "Show two short messages with the same content but different tones and ask the class to point out the differences.",
+        "id": "Tampilkan dua pesan singkat dengan isi yang sama tetapi nada yang berbeda lalu minta kelas menunjukkan perbedaannya."
+      },
+      "flow": [
+        {
+          "da": "Identificér høflige hilsner, formålssætninger og afslutninger i modelteksten.",
+          "en": "Identify polite greetings, purpose sentences, and closings in the model text.",
+          "id": "Identifikasi salam sopan, kalimat tujuan, dan penutup dalam teks model."
+        },
+        {
+          "da": "Omskriv en uformel chat til en formel besked sammen med klassen.",
+          "en": "Rewrite an informal chat into a formal message together with the class.",
+          "id": "Ubah chat informal menjadi pesan formal bersama kelas."
+        },
+        {
+          "da": "Lad eleverne skrive egne beskeder til fx lærer, kontor eller arrangør.",
+          "en": "Have learners write their own messages to, for example, a teacher, office, or organizer.",
+          "id": "Biarkan siswa menulis pesan mereka sendiri kepada pengajar, kantor, atau penyelenggara."
+        },
+        {
+          "da": "Lav peer-feedback med fokus på klarhed, høflighed og præcision.",
+          "en": "Do peer feedback with a focus on clarity, politeness, and precision.",
+          "id": "Lakukan umpan balik teman dengan fokus pada kejelasan, kesopanan, dan ketepatan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Undgå alt for stive formularer; målet er funktionelt og høfligt sprog, ikke bureaukratisk sprog.",
+          "en": "Avoid overly stiff formulas; the goal is functional and polite language, not bureaucratic language.",
+          "id": "Hindari formula yang terlalu kaku; tujuannya adalah bahasa yang fungsional dan sopan, bukan bahasa birokratis."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Vælg tre realistiske situationer og skriv en formel besked til hver af dem.",
+          "en": "Choose three realistic situations and write a formal message for each.",
+          "id": "Pilih tiga situasi yang realistis lalu tulis pesan formal untuk masing-masing."
+        },
+        {
+          "da": "Understreg hilsner, formål og afslutninger i dine egne tekster.",
+          "en": "Underline greetings, purposes, and closings in your own texts.",
+          "id": "Garisbawahi salam, tujuan, dan penutup dalam teks Anda sendiri."
+        },
+        {
+          "da": "Sammenlign med en mere uformel version og notér forskellene i register.",
+          "en": "Compare with a more informal version and note the register differences.",
+          "id": "Bandingkan dengan versi yang lebih informal dan catat perbedaan register."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan en modtager hurtigt forstå, hvad du vil?",
+          "en": "Can a receiver quickly understand what you want?",
+          "id": "Bisakah penerima cepat memahami apa yang Anda inginkan?"
+        },
+        {
+          "da": "Lyder beskeden respektfuld uden at være overdrevent tung?",
+          "en": "Does the message sound respectful without being overly heavy?",
+          "id": "Apakah pesannya terdengar sopan tanpa terasa terlalu berat?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Besked",
+      "source": "God eftermiddag. Jeg vil gerne informere om, at jeg kommer cirka ti minutter for sent til mødet i dag.",
+      "target": "Selamat siang. Saya ingin memberitahukan bahwa saya akan terlambat sekitar sepuluh menit untuk rapat hari ini."
+    },
+    {
+      "speaker": "Besked",
+      "source": "Tak for forståelsen. Med venlig hilsen, Nadia.",
+      "target": "Terima kasih atas pengertiannya. Hormat saya, Nadia."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "jeg vil gerne informere om, at ...",
+      "target": "saya ingin memberitahukan bahwa ...",
+      "note": {
+        "da": "En sikker og funktionel åbning i mange halvformelle beskeder.",
+        "en": "A safe and functional opening in many semi-formal messages.",
+        "id": "Pembuka yang aman dan fungsional dalam banyak pesan semi formal."
+      }
+    },
+    {
+      "source": "tak for forståelsen",
+      "target": "terima kasih atas pengertiannya",
+      "note": {
+        "da": "Ofte brugt, når man ændrer en aftale eller beder om fleksibilitet.",
+        "en": "Often used when changing an arrangement or asking for flexibility.",
+        "id": "Sering digunakan ketika mengubah rencana atau meminta kelonggaran."
+      }
+    },
+    {
+      "source": "med venlig hilsen",
+      "target": "hormat saya",
+      "note": {
+        "da": "En enkel formel afslutning.",
+        "en": "A simple formal closing.",
+        "id": "Penutup formal yang sederhana."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya ingin + verb",
+      "explanation": {
+        "da": "Et klart og høfligt mønster til at formulere sit formål uden at virke hård.",
+        "en": "A clear and polite pattern for stating your purpose without sounding harsh.",
+        "id": "Pola yang jelas dan sopan untuk menyatakan tujuan tanpa terdengar keras."
+      },
+      "examples": [
+        {
+          "source": "Jeg vil gerne spørge, om mødet kan flyttes.",
+          "target": "Saya ingin bertanya apakah rapatnya bisa dipindahkan."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en formel besked om forsinkelse, fravær eller en forespørgsel.",
+        "en": "Write a formal message about being late, an absence, or a request.",
+        "id": "Tulis pesan formal tentang keterlambatan, ketidakhadiran, atau suatu permintaan."
+      },
+      "answerShape": {
+        "da": "Kort besked",
+        "en": "Short message",
+        "id": "Pesan singkat"
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad ændrer sig, når samme information sendes til en ven i stedet for en underviser?",
+        "en": "What changes when the same information is sent to a friend instead of a teacher?",
+        "id": "Apa yang berubah ketika informasi yang sama dikirim kepada teman, bukan kepada pengajar?"
+      },
+      "answerShape": {
+        "da": "Sammenlignende note",
+        "en": "Comparative note",
+        "id": "Catatan perbandingan"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "image-bipa4-message-01",
+      "type": "image",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Placeholder for besked-layout",
+        "en": "Placeholder for message layout",
+        "id": "Placeholder untuk tata letak pesan"
+      },
+      "note": {
+        "da": "Kan senere bruges til at vise e-mail- eller chatformat med farvekodede felter.",
+        "en": "Can later be used to show an email or chat format with color-coded fields.",
+        "id": "Nanti dapat digunakan untuk menampilkan format email atau chat dengan bagian yang diberi kode warna."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

@@ -11,8 +11,14 @@ interface Props {
 const { locale, pair } = Astro.props;
 const currentLocale = (locale in uiCopy.brand ? locale : "da") as UiLocale;
 const currentPair = pair && pair in pairMeta ? (pair as LearningPair) : undefined;
-const homeHref = currentPair ? `/${currentLocale}/${currentPair}/` : "/";
 const pathname = Astro.url.pathname;
+let homeHref = "/";
+
+if (currentPair) {
+  homeHref = `/${currentLocale}/${currentPair}/`;
+} else if (new RegExp(`^/${currentLocale}(?:/|$)`).test(pathname)) {
+  homeHref = `/${currentLocale}/`;
+}
 
 function isActive(href: string) {
   return pathname === href || pathname === href.replace(/\/$/, "");
@@ -59,7 +65,7 @@ function isActive(href: string) {
     </nav>
 
     <div class="header-actions">
-      <LanguageSwitcher currentLocale={currentLocale} />
+      <LanguageSwitcher currentLocale={currentLocale} pathname={pathname} />
       
       <button class="mobile-menu-btn" aria-label={t(uiCopy.ariaOpenMenu, currentLocale)} aria-expanded="false" aria-controls="mobile-nav">
         <span></span>

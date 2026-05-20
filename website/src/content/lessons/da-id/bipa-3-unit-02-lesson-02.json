@@ -1,0 +1,261 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-3",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 55,
+  "title": {
+    "da": "Meninger med begrundelser",
+    "en": "Opinions with Reasons",
+    "id": "Pendapat dan Alasan"
+  },
+  "summary": {
+    "da": "Udtryk en personlig mening, forklar hvorfor, og sammenlign to muligheder.",
+    "en": "Express a personal opinion, explain why, and compare two options.",
+    "id": "Ungkapkan pendapat pribadi, jelaskan alasannya, dan bandingkan dua pilihan."
+  },
+  "objectives": [
+    {
+      "da": "Brug mønstre som saya pikir, menurut saya og karena til at begrunde en mening.",
+      "en": "Use patterns such as saya pikir, menurut saya, and karena to justify an opinion.",
+      "id": "Gunakan pola seperti saya pikir, menurut saya, dan karena untuk menjelaskan pendapat."
+    },
+    {
+      "da": "Sammenligne to valg med lebih ... daripada ...",
+      "en": "Compare two options with lebih ... daripada ...",
+      "id": "Membandingkan dua pilihan dengan lebih ... daripada ..."
+    },
+    {
+      "da": "Holde en kort mundtlig anbefaling om en aktivitet eller et sted.",
+      "en": "Give a short spoken recommendation about an activity or place.",
+      "id": "Memberikan rekomendasi lisan singkat tentang kegiatan atau tempat."
+    }
+  ],
+  "unit": {
+    "slug": "unit-02",
+    "order": 2,
+    "title": {
+      "da": "Planer og sociale situationer",
+      "en": "Plans and Social Situations",
+      "id": "Rencana dan Situasi Sosial"
+    },
+    "summary": {
+      "da": "At invitere, aftale og forklare sine præferencer på en naturlig måde.",
+      "en": "Inviting, arranging, and explaining preferences in a natural way.",
+      "id": "Mengundang, membuat janji, dan menjelaskan preferensi secara alami."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Sæt to muligheder på tavlen, fx byferie eller strandferie, og bed eleverne vælge side.",
+        "en": "Put two options on the board, for example city holiday or beach holiday, and ask learners to choose a side.",
+        "id": "Tuliskan dua pilihan di papan, misalnya liburan kota atau liburan pantai, lalu minta siswa memilih salah satu."
+      },
+      "flow": [
+        {
+          "da": "Indfør meningsmarkører og vis forskellen mellem en kort mening og en mening med begrundelse.",
+          "en": "Introduce opinion markers and show the difference between a short opinion and an opinion with a reason.",
+          "id": "Perkenalkan penanda pendapat dan tunjukkan perbedaan antara pendapat singkat dan pendapat yang disertai alasan."
+        },
+        {
+          "da": "Lad eleverne udvide udsagn med karena, jadi og tetapi.",
+          "en": "Have learners expand statements with karena, jadi, and tetapi.",
+          "id": "Biarkan siswa memperluas pernyataan dengan karena, jadi, dan tetapi."
+        },
+        {
+          "da": "Arbejd i små grupper med at anbefale en aktivitet til en besøgende i byen.",
+          "en": "Work in small groups to recommend an activity to a visitor in town.",
+          "id": "Bekerja dalam kelompok kecil untuk merekomendasikan kegiatan kepada pengunjung kota."
+        },
+        {
+          "da": "Afslut med to-minutters anbefalinger, hvor hver gruppe forsvarer sit valg.",
+          "en": "Finish with two-minute recommendations where each group defends its choice.",
+          "id": "Tutup dengan rekomendasi dua menit saat setiap kelompok membela pilihannya."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Det vigtigste på dette niveau er sammenhæng mellem påstand og begrundelse, ikke perfekte lange sætninger.",
+          "en": "At this level, the main goal is coherence between claim and reason, not perfectly long sentences.",
+          "id": "Pada level ini, tujuan utama adalah keterkaitan antara pernyataan dan alasan, bukan kalimat panjang yang sempurna."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv tre meninger om mad, transport eller fritid og begrund hver af dem.",
+          "en": "Write three opinions about food, transport, or free time and justify each one.",
+          "id": "Tulis tiga pendapat tentang makanan, transportasi, atau waktu luang lalu beri alasan untuk masing-masing."
+        },
+        {
+          "da": "Sammenlign to steder eller to aktiviteter i fire sætninger.",
+          "en": "Compare two places or two activities in four sentences.",
+          "id": "Bandingkan dua tempat atau dua kegiatan dalam empat kalimat."
+        },
+        {
+          "da": "Optag en kort anbefaling på 30-45 sekunder.",
+          "en": "Record a short recommendation of 30-45 seconds.",
+          "id": "Rekam rekomendasi singkat selama 30-45 detik."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du bruge fordi-ord som karena naturligt?",
+          "en": "Can you use reason words such as karena naturally?",
+          "id": "Bisakah Anda menggunakan kata alasan seperti karena secara alami?"
+        },
+        {
+          "da": "Kan du sammenligne to ting uden at falde tilbage til kun ét ord?",
+          "en": "Can you compare two things without falling back to just one word?",
+          "id": "Bisakah Anda membandingkan dua hal tanpa kembali hanya pada satu kata?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Sofie",
+      "source": "Hvilket sted synes du er bedst til en rolig weekend, Bandung eller Jakarta?",
+      "target": "Menurutmu, tempat mana yang lebih baik untuk akhir pekan yang santai, Bandung atau Jakarta?"
+    },
+    {
+      "speaker": "Dimas",
+      "source": "Efter min mening er Bandung bedre, fordi vejret er køligere og tempoet roligere.",
+      "target": "Menurut saya, Bandung lebih baik karena cuacanya lebih sejuk dan suasananya lebih tenang."
+    },
+    {
+      "speaker": "Sofie",
+      "source": "Jeg synes Jakarta er mere interessant, men den er også mere travl.",
+      "target": "Saya pikir Jakarta lebih menarik, tetapi juga lebih sibuk."
+    },
+    {
+      "speaker": "Dimas",
+      "source": "Det er rigtigt. Hvis du vil shoppe og spise sent, er Jakarta måske bedre.",
+      "target": "Itu benar. Kalau kamu ingin berbelanja dan makan malam larut, Jakarta mungkin lebih baik."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "efter min mening",
+      "target": "menurut saya",
+      "note": {
+        "da": "God og sikker markør for personlig mening.",
+        "en": "A solid and safe marker for personal opinion.",
+        "id": "Penanda yang baik dan aman untuk pendapat pribadi."
+      }
+    },
+    {
+      "source": "jeg synes / jeg tror",
+      "target": "saya pikir",
+      "note": {
+        "da": "Mere mundtlig og fleksibel end menurut saya.",
+        "en": "More spoken and flexible than menurut saya.",
+        "id": "Lebih lisan dan fleksibel daripada menurut saya."
+      }
+    },
+    {
+      "source": "fordi",
+      "target": "karena",
+      "note": {
+        "da": "Binder mening og begrundelse sammen.",
+        "en": "Connects an opinion to a reason.",
+        "id": "Menghubungkan pendapat dengan alasan."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Menurut saya / Saya pikir + clause",
+      "explanation": {
+        "da": "To almindelige måder at indlede en mening på. Ifølge rytmen i samtalen kan man bruge begge.",
+        "en": "Two common ways to introduce an opinion. Either can be used depending on the rhythm of the conversation.",
+        "id": "Dua cara umum untuk memulai pendapat. Keduanya bisa digunakan tergantung ritme percakapan."
+      },
+      "examples": [
+        {
+          "source": "Jeg synes online-undervisning er praktisk.",
+          "target": "Saya pikir kelas online praktis."
+        }
+      ]
+    },
+    {
+      "pattern": "lebih + adjective + daripada",
+      "explanation": {
+        "da": "Standardmønsteret til at sammenligne to ting på indonesisk.",
+        "en": "The standard pattern for comparing two things in Indonesian.",
+        "id": "Pola standar untuk membandingkan dua hal dalam bahasa Indonesia."
+      },
+      "examples": [
+        {
+          "source": "Toget er hurtigere end bussen.",
+          "target": "Kereta lebih cepat daripada bus."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Anbefal et sted eller en aktivitet til en ven og giv mindst to grunde.",
+        "en": "Recommend a place or activity to a friend and give at least two reasons.",
+        "id": "Rekomendasikan tempat atau kegiatan kepada teman dan berikan setidaknya dua alasan."
+      },
+      "answerShape": {
+        "da": "Kort anbefaling",
+        "en": "Short recommendation",
+        "id": "Rekomendasi singkat"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Sammenlign to valg i en mini-tekst på fire til seks sætninger.",
+        "en": "Compare two options in a mini text of four to six sentences.",
+        "id": "Bandingkan dua pilihan dalam teks mini empat sampai enam kalimat."
+      },
+      "answerShape": {
+        "da": "Kort sammenligning",
+        "en": "Short comparison",
+        "id": "Perbandingan singkat"
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad gør en anbefaling troværdig og nyttig for lytteren?",
+        "en": "What makes a recommendation credible and useful for the listener?",
+        "id": "Apa yang membuat rekomendasi terasa meyakinkan dan berguna bagi pendengar?"
+      },
+      "answerShape": {
+        "da": "Refleksionsnote",
+        "en": "Reflection note",
+        "id": "Catatan refleksi"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-bipa3-opinions-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Placeholder for anbefalingspitch",
+        "en": "Placeholder for recommendation pitch",
+        "id": "Placeholder untuk presentasi rekomendasi"
+      },
+      "note": {
+        "da": "Kan senere erstattes af korte elevpræsentationer med undertekster.",
+        "en": "Can later be replaced by short student presentations with subtitles.",
+        "id": "Nanti dapat diganti dengan presentasi siswa singkat yang dilengkapi subtitle."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

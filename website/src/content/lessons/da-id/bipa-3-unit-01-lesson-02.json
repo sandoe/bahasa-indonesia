@@ -1,0 +1,289 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-3",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 50,
+  "title": {
+    "da": "Livserfaringer og milepæle",
+    "en": "Life Experiences and Milestones",
+    "id": "Pengalaman Hidup dan Pencapaian"
+  },
+  "summary": {
+    "da": "Tal om steder du har besøgt, ting du har lært, og mål du allerede har nået.",
+    "en": "Talk about places you have visited, things you have learned, and goals you have already reached.",
+    "id": "Bicarakan tempat yang pernah Anda kunjungi, hal yang telah Anda pelajari, dan tujuan yang sudah Anda capai."
+  },
+  "objectives": [
+    {
+      "da": "Fortælle om mindst tre personlige erfaringer med pernah og sudah.",
+      "en": "Describe at least three personal experiences using pernah and sudah.",
+      "id": "Menceritakan setidaknya tiga pengalaman pribadi dengan pernah dan sudah."
+    },
+    {
+      "da": "Spørge andre om milepæle og følge op med et ekstra spørgsmål.",
+      "en": "Ask others about milestones and follow up with an extra question.",
+      "id": "Menanyakan pencapaian orang lain dan menindaklanjuti dengan pertanyaan tambahan."
+    },
+    {
+      "da": "Sammenfatte en partners erfaringer i korte sætninger på indonesisk.",
+      "en": "Summarize a partner's experiences in short Indonesian sentences.",
+      "id": "Merangkum pengalaman pasangan belajar dalam kalimat-kalimat pendek berbahasa Indonesia."
+    }
+  ],
+  "unit": {
+    "slug": "unit-01",
+    "order": 1,
+    "title": {
+      "da": "Fortid og Erfaringer",
+      "en": "Past and Experiences",
+      "id": "Masa Lalu dan Pengalaman"
+    },
+    "summary": {
+      "da": "At fortælle om fortidige begivenheder og personlige erfaringer på indonesisk.",
+      "en": "Talking about past events and personal experiences in Indonesian.",
+      "id": "Menceritakan peristiwa masa lalu dan pengalaman pribadi dalam bahasa Indonesia."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Bed eleverne skrive tre milepæle fra deres liv på små kort og blande dem i grupper.",
+        "en": "Ask learners to write three milestones from their lives on small cards and mix them in groups.",
+        "id": "Minta siswa menulis tiga pencapaian hidup mereka pada kartu kecil lalu mencampurnya dalam kelompok."
+      },
+      "flow": [
+        {
+          "da": "Aktivér ordforråd om rejser, studier og færdigheder gennem en hurtig brainstorm.",
+          "en": "Activate vocabulary about travel, study, and skills through a quick brainstorm.",
+          "id": "Aktifkan kosakata tentang perjalanan, studi, dan keterampilan melalui curah pendapat singkat."
+        },
+        {
+          "da": "Modellér spørgsmål som 'Apakah kamu pernah...?' og opfølgning som 'Kapan?' eller 'Dengan siapa?'.",
+          "en": "Model questions such as 'Apakah kamu pernah...?' and follow-up prompts such as 'When?' or 'With whom?'.",
+          "id": "Modelkan pertanyaan seperti 'Apakah kamu pernah...?' dan pertanyaan lanjutan seperti 'Kapan?' atau 'Dengan siapa?'."
+        },
+        {
+          "da": "Lad eleverne interviewe hinanden og notere partnerens svar som korte faktasætninger.",
+          "en": "Have learners interview each other and note their partner's answers as short fact sentences.",
+          "id": "Biarkan siswa saling mewawancarai dan mencatat jawaban pasangannya sebagai kalimat fakta singkat."
+        },
+        {
+          "da": "Afslut med små mundtlige præsentationer, hvor hver elev opsummerer en partners erfaringer.",
+          "en": "Finish with short oral presentations where each learner summarizes a partner's experiences.",
+          "id": "Tutup dengan presentasi lisan singkat ketika setiap siswa merangkum pengalaman pasangannya."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Pres ud over ja/nej-svar ved altid at kræve mindst ét opfølgende tids- eller stedsled.",
+          "en": "Push beyond yes/no answers by always requiring at least one follow-up time or place phrase.",
+          "id": "Dorong lebih dari jawaban ya/tidak dengan selalu meminta setidaknya satu keterangan waktu atau tempat."
+        },
+        {
+          "da": "Mind eleverne om, at pernah typisk går foran verbet og ikke skal oversættes ord for ord.",
+          "en": "Remind learners that pernah usually comes before the verb and should not be translated word for word.",
+          "id": "Ingatkan siswa bahwa pernah biasanya berada sebelum kata kerja dan tidak perlu diterjemahkan kata demi kata."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv seks sætninger om ting, du har prøvet eller opnået i livet.",
+          "en": "Write six sentences about things you have tried or achieved in life.",
+          "id": "Tulis enam kalimat tentang hal-hal yang pernah Anda coba atau capai dalam hidup."
+        },
+        {
+          "da": "Læs dialogen højt to gange og marker alle spørgsmål, der åbner for mere end ja eller nej.",
+          "en": "Read the dialogue aloud twice and mark all questions that open up more than yes or no answers.",
+          "id": "Baca dialog dengan suara keras dua kali dan tandai semua pertanyaan yang membuka jawaban lebih dari ya atau tidak."
+        },
+        {
+          "da": "Lav en mini-biografi på fem linjer om en ven eller dig selv ud fra mønstrene i lektionen.",
+          "en": "Create a five-line mini biography about a friend or yourself using the lesson patterns.",
+          "id": "Buat biografi mini lima baris tentang teman atau diri sendiri menggunakan pola dalam pelajaran ini."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du skelne mellem noget du allerede har gjort og noget du engang har oplevet?",
+          "en": "Can you distinguish between something you have already done and something you have experienced at some point?",
+          "id": "Bisakah Anda membedakan antara sesuatu yang sudah Anda lakukan dan sesuatu yang pernah Anda alami?"
+        },
+        {
+          "da": "Kan du følge et spørgsmål op med tid, sted eller person?",
+          "en": "Can you follow up a question with time, place, or person?",
+          "id": "Bisakah Anda menindaklanjuti pertanyaan dengan waktu, tempat, atau orang?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Maja",
+      "source": "Har du nogensinde deltaget i et kursus i Indonesien?",
+      "target": "Apakah kamu pernah mengikuti kursus di Indonesia?"
+    },
+    {
+      "speaker": "Arif",
+      "source": "Ja, jeg har allerede taget et sommerkursus i Yogyakarta sidste år.",
+      "target": "Ya, saya sudah mengikuti kursus musim panas di Yogyakarta tahun lalu."
+    },
+    {
+      "speaker": "Maja",
+      "source": "Hvad lærte du der?",
+      "target": "Apa yang kamu pelajari di sana?"
+    },
+    {
+      "speaker": "Arif",
+      "source": "Jeg lærte at tale mere frit med lokalbefolkningen og jeg prøvede også at skrive korte dagbogsnoter på indonesisk.",
+      "target": "Saya belajar berbicara lebih lancar dengan penduduk setempat dan saya juga pernah menulis catatan harian pendek dalam bahasa Indonesia."
+    },
+    {
+      "speaker": "Maja",
+      "source": "Har du allerede besøgt Borobudur?",
+      "target": "Apakah kamu sudah mengunjungi Borobudur?"
+    },
+    {
+      "speaker": "Arif",
+      "source": "Ja, og det er stadig en af de bedste oplevelser, jeg har haft.",
+      "target": "Ya, dan itu masih menjadi salah satu pengalaman terbaik yang pernah saya alami."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "livserfaring",
+      "target": "pengalaman hidup",
+      "note": {
+        "da": "Bruges når man taler om noget, man har oplevet gennem livet.",
+        "en": "Used when talking about something one has experienced over the course of life.",
+        "id": "Digunakan ketika membicarakan sesuatu yang dialami sepanjang hidup."
+      }
+    },
+    {
+      "source": "at opnå",
+      "target": "mencapai",
+      "note": {
+        "da": "Godt verbum til milepæle, mål og resultater.",
+        "en": "A useful verb for milestones, goals, and results.",
+        "id": "Kata kerja yang berguna untuk pencapaian, tujuan, dan hasil."
+      }
+    },
+    {
+      "source": "at deltage",
+      "target": "mengikuti",
+      "note": {
+        "da": "Bruges om kurser, møder og aktiviteter.",
+        "en": "Used for courses, meetings, and activities.",
+        "id": "Digunakan untuk kursus, rapat, dan kegiatan."
+      }
+    },
+    {
+      "source": "lokalbefolkning",
+      "target": "penduduk setempat",
+      "note": {
+        "da": "Praktisk ord til rejser og kulturmøder.",
+        "en": "A practical expression for travel and cultural encounters.",
+        "id": "Ungkapan praktis untuk perjalanan dan pertemuan budaya."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Apakah kamu pernah + verb?",
+      "explanation": {
+        "da": "Dette mønster bruges til at spørge til erfaringer på et ubestemt tidspunkt i livet.",
+        "en": "This pattern is used to ask about experiences at an unspecified point in life.",
+        "id": "Pola ini digunakan untuk menanyakan pengalaman pada waktu yang tidak ditentukan dalam hidup."
+      },
+      "examples": [
+        {
+          "source": "Har du nogensinde arbejdet i udlandet?",
+          "target": "Apakah kamu pernah bekerja di luar negeri?"
+        },
+        {
+          "source": "Har du nogensinde lært et sprog alene?",
+          "target": "Apakah kamu pernah belajar bahasa sendiri?"
+        }
+      ]
+    },
+    {
+      "pattern": "Saya sudah + verb",
+      "explanation": {
+        "da": "Sudah fremhæver, at noget er gennemført eller allerede sket.",
+        "en": "Sudah highlights that something has been completed or has already happened.",
+        "id": "Sudah menekankan bahwa sesuatu telah selesai atau sudah terjadi."
+      },
+      "examples": [
+        {
+          "source": "Jeg har allerede afsluttet kurset.",
+          "target": "Saya sudah menyelesaikan kursus itu."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Interview en partner om tre rejser, tre færdigheder og én vigtig milepæl.",
+        "en": "Interview a partner about three trips, three skills, and one important milestone.",
+        "id": "Wawancarai pasangan tentang tiga perjalanan, tiga keterampilan, dan satu pencapaian penting."
+      },
+      "answerShape": {
+        "da": "Mundtlig samtale med noter",
+        "en": "Spoken conversation with notes",
+        "id": "Percakapan lisan dengan catatan"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv fire sætninger om en anden persons erfaringer i tredje person.",
+        "en": "Write four sentences about another person's experiences in the third person.",
+        "id": "Tulis empat kalimat tentang pengalaman orang lain dalam sudut pandang orang ketiga."
+      },
+      "answerShape": {
+        "da": "Kort profiltekst",
+        "en": "Short profile text",
+        "id": "Teks profil singkat"
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilke spørgsmål giver de mest interessante svar i denne type interview?",
+        "en": "Which questions lead to the most interesting answers in this kind of interview?",
+        "id": "Pertanyaan mana yang menghasilkan jawaban paling menarik dalam wawancara seperti ini?"
+      },
+      "answerShape": {
+        "da": "Kort refleksion",
+        "en": "Short reflection",
+        "id": "Refleksi singkat"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-bipa3-milestones-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Placeholder for interview om livserfaringer",
+        "en": "Placeholder for life-experience interview",
+        "id": "Placeholder untuk wawancara tentang pengalaman hidup"
+      },
+      "note": {
+        "da": "Kan senere erstattes med en selvproduceret samtale mellem to elever eller lærer og elev.",
+        "en": "Can later be replaced with a self-produced conversation between two learners or a teacher and learner.",
+        "id": "Nanti dapat diganti dengan percakapan buatan sendiri antara dua siswa atau pengajar dan siswa."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}
