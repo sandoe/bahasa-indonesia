@@ -1,0 +1,296 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 6,
+  "slug": "lesson-06",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Natur og Eventyr",
+    "en": "Nature and Adventure",
+    "id": "Alam dan Petualangan"
+  },
+  "summary": {
+    "da": "Lær at tale om natur- og eventyrlige aktiviteter på indonesisk, og planlæg en weekendtur til Indonesiens fantastiske natur.",
+    "en": "Learn to talk about nature and adventure activities in Indonesian, and plan a weekend trip to Indonesia's amazing natural landscape.",
+    "id": "Belajar berbicara tentang aktivitas alam dan petualangan dalam bahasa Indonesia, dan rencanakan perjalanan akhir pekan ke alam Indonesia yang menakjubkan."
+  },
+  "objectives": [
+    {
+      "da": "Nævne mindst fem naturaktiviteter på indonesisk.",
+      "en": "Name at least five nature activities in Indonesian.",
+      "id": "Menyebutkan minimal lima aktivitas alam dalam bahasa Indonesia."
+    },
+    {
+      "da": "Planlægge en weekendtur ved hjælp af enkle forslag og svar.",
+      "en": "Plan a weekend trip using simple suggestions and responses.",
+      "id": "Merencanakan perjalanan akhir pekan menggunakan usulan dan respons sederhana."
+    },
+    {
+      "da": "Beskrive Indonesiens naturlandskab med to til tre sætninger.",
+      "en": "Describe Indonesia's natural landscape with two to three sentences.",
+      "id": "Menggambarkan lanskap alam Indonesia dengan dua hingga tiga kalimat."
+    }
+  ],
+  "unit": {
+    "slug": "theme-08",
+    "order": 8,
+    "title": {
+      "da": "Tema 8: Fritid & Interesser",
+      "en": "Theme 8: Hobbies & Interests",
+      "id": "Tema 8: Hobi & Minat"
+    },
+    "summary": {
+      "da": "Fritidsaktiviteter, sport, kultur og personlige interesser.",
+      "en": "Leisure activities, sports, culture, and personal interests.",
+      "id": "Aktivitas waktu luang, olahraga, budaya, dan minat pribadi."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis billeder af Indonesiens natur: Bali, Komodo, Rinjani-vulkanen. Spørg: 'Hvad vil du gøre her?' og introducer aktivitetsordene.",
+        "en": "Show pictures of Indonesia's nature: Bali, Komodo, Mount Rinjani. Ask: 'What would you do here?' and introduce the activity words.",
+        "id": "Tunjukkan gambar alam Indonesia: Bali, Komodo, Gunung Rinjani. Tanya: 'Apa yang ingin kamu lakukan di sini?' dan perkenalkan kata-kata aktivitas."
+      },
+      "flow": [
+        {
+          "da": "Gennemgå naturaktiviteter. Understreg 'ke + sted'-konstruktionen: ke pantai, ke gunung, ke hutan. Forklar at 'ke' svarer til 'til/hen til'.",
+          "en": "Go through nature activities. Emphasise the 'ke + place' construction: ke pantai, ke gunung, ke hutan. Explain that 'ke' corresponds to 'to'.",
+          "id": "Pelajari aktivitas alam. Tekankan konstruksi 'ke + tempat': ke pantai, ke gunung, ke hutan. Jelaskan bahwa 'ke' sesuai dengan 'ke'."
+        },
+        {
+          "da": "Introducer kontekst: Indonesien har 17.000+ øer, aktive vulkaner, regnskove og koralrev. Diskuter hvad der er interessant fra et dansk perspektiv.",
+          "en": "Introduce context: Indonesia has 17,000+ islands, active volcanoes, rainforests and coral reefs. Discuss what is interesting from a Danish perspective.",
+          "id": "Perkenalkan konteks: Indonesia memiliki 17.000+ pulau, gunung berapi aktif, hutan hujan, dan terumbu karang. Diskusikan apa yang menarik dari perspektif Denmark."
+        },
+        {
+          "da": "Par-dialog: planlæg en weekendtur. Én foreslår destinationer og aktiviteter, den anden accepterer/forhandler.",
+          "en": "Pair dialogue: plan a weekend trip. One suggests destinations and activities, the other accepts/negotiates.",
+          "id": "Dialog berpasangan: rencanakan perjalanan akhir pekan. Satu menyarankan tujuan dan aktivitas, yang lain menerima/bernegosiasi."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Indonesien er et af verdens mest biodiverse lande. At introducere naturkonteksten motiverer eleverne og giver kulturel forståelse.",
+          "en": "Indonesia is one of the world's most biodiverse countries. Introducing the nature context motivates students and builds cultural understanding.",
+          "id": "Indonesia adalah salah satu negara paling beragam hayati di dunia. Memperkenalkan konteks alam memotivasi siswa dan membangun pemahaman budaya."
+        },
+        {
+          "da": "'Mendaki' bruges specifikt om bjergvandring. 'Jalan-jalan' er bredere: gåtur, udflugter og rejser.",
+          "en": "'Mendaki' is used specifically for hiking/mountain climbing. 'Jalan-jalan' is broader: walks, outings, and travel.",
+          "id": "'Mendaki' digunakan khusus untuk mendaki gunung. 'Jalan-jalan' lebih luas: jalan kaki, tamasya, dan perjalanan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær naturordforrådets ord og fraser. Bemærk 'ke + sted'-mønsteret.",
+          "en": "Learn the nature vocabulary words and phrases. Notice the 'ke + place' pattern.",
+          "id": "Pelajari kata-kata dan frasa kosakata alam. Perhatikan pola 'ke + tempat'."
+        },
+        {
+          "da": "Se på et kort over Indonesien. Vælg to steder du vil besøge og skriv en sætning om hvad du vil gøre der.",
+          "en": "Look at a map of Indonesia. Choose two places you would like to visit and write a sentence about what you would do there.",
+          "id": "Lihat peta Indonesia. Pilih dua tempat yang ingin kamu kunjungi dan tulis kalimat tentang apa yang akan kamu lakukan di sana."
+        },
+        {
+          "da": "Øv dialogen og læg mærke til forslags- og svarfraserne.",
+          "en": "Practice the dialogue and notice the suggestion and response phrases.",
+          "id": "Latih dialog dan perhatikan frasa usulan dan respons."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du planlægge en weekend-naturtur på indonesisk med mindst tre aktiviteter?",
+          "en": "Can you plan a weekend nature trip in Indonesian with at least three activities?",
+          "id": "Bisakah kamu merencanakan perjalanan alam akhir pekan dalam bahasa Indonesia dengan minimal tiga aktivitas?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Tono",
+      "source": "Weekenden nærmer sig! Skal vi tage ud i naturen?",
+      "target": "Akhir pekan sudah dekat! Kita pergi ke alam, yuk?"
+    },
+    {
+      "speaker": "Fitri",
+      "source": "Ja! Jeg vil gerne til stranden. Stranden er smuk her.",
+      "target": "Mau! Saya ingin ke pantai. Pantainya indah di sini."
+    },
+    {
+      "speaker": "Tono",
+      "source": "God idé. Og hvad med søndag? Skal vi vandre til bjerget?",
+      "target": "Ide bagus. Terus hari Minggu? Kita mendaki ke gunung?"
+    },
+    {
+      "speaker": "Fitri",
+      "source": "Vandring er lidt hårdt for mig. Hvad med at sove i telt i stedet?",
+      "target": "Mendaki agak berat buat saya. Bagaimana kalau berkemah saja?"
+    },
+    {
+      "speaker": "Tono",
+      "source": "Fantastisk! Vi sover i telt ved foden af bjerget. Og vi kan lave bål.",
+      "target": "Seru! Kita berkemah di kaki gunung. Dan bisa buat api unggun."
+    },
+    {
+      "speaker": "Fitri",
+      "source": "Jeg glæder mig! Indonesisk natur er virkelig fantastisk.",
+      "target": "Saya tidak sabar! Alam Indonesia memang luar biasa."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "jalan-jalan",
+      "target": "gå tur / se sig omkring / stroll/sightseeing",
+      "note": {
+        "da": "Gentagelse af 'jalan' (vej/at gå). Kan betyde alt fra en gåtur til en rejse.",
+        "en": "Reduplication of 'jalan' (road/to walk). Can mean anything from a stroll to a trip.",
+        "id": "Pengulangan dari 'jalan'. Bisa berarti apa saja dari jalan santai hingga perjalanan."
+      }
+    },
+    {
+      "source": "mendaki",
+      "target": "at vandre / at bestige / hike/climb",
+      "note": {
+        "da": "'Mendaki gunung' = at bestige et bjerg. Fra roden 'daki'.",
+        "en": "'Mendaki gunung' = to climb a mountain. From root 'daki'.",
+        "id": "'Mendaki gunung' = mendaki gunung. Dari kata dasar 'daki'."
+      }
+    },
+    {
+      "source": "ke pantai",
+      "target": "til stranden / to the beach",
+      "note": {
+        "da": "'Pantai' = strand. 'Ke pantai' = hen til stranden. Indonesien har tusindvis af strande!",
+        "en": "'Pantai' = beach. 'Ke pantai' = to the beach. Indonesia has thousands of beaches!",
+        "id": "'Pantai' = pantai. 'Ke pantai' = ke pantai. Indonesia memiliki ribuan pantai!"
+      }
+    },
+    {
+      "source": "ke gunung",
+      "target": "til bjerget / to the mountain",
+      "note": {
+        "da": "'Gunung' = bjerg/vulkan. Indonesien har over 130 aktive vulkaner.",
+        "en": "'Gunung' = mountain/volcano. Indonesia has over 130 active volcanoes.",
+        "id": "'Gunung' = gunung/gunung berapi. Indonesia memiliki lebih dari 130 gunung berapi aktif."
+      }
+    },
+    {
+      "source": "berkemah",
+      "target": "at sove i telt / camping",
+      "note": {
+        "da": "Fra 'kemah' (telt). 'Ber-' + 'kemah' = at campere.",
+        "en": "From 'kemah' (tent). 'Ber-' + 'kemah' = to camp.",
+        "id": "Dari kata 'kemah'. 'Ber-' + 'kemah' = berkemah."
+      }
+    },
+    {
+      "source": "alam",
+      "target": "natur / nature",
+      "note": {
+        "da": "Fra arabisk 'alam' (verden/univers). I indonesisk brugt om naturen.",
+        "en": "From Arabic 'alam' (world/universe). In Indonesian used for nature.",
+        "id": "Dari bahasa Arab 'alam'. Dalam bahasa Indonesia digunakan untuk alam."
+      }
+    },
+    {
+      "source": "luar biasa",
+      "target": "fantastisk / vidunderlig / amazing/extraordinary",
+      "note": {
+        "da": "Bogstaveligt: 'uden for det sædvanlige'. Et meget brugt udtryk for noget imponerende.",
+        "en": "Literally: 'outside the ordinary'. A very common expression for something impressive.",
+        "id": "Harfiah: 'di luar yang biasa'. Ekspresi yang sangat umum untuk sesuatu yang mengesankan."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Pergi ke + [sted] / [verbum] + ke + [sted]",
+      "explanation": {
+        "da": "'Ke' bruges som retningspartikel og svarer til 'til/hen til' på dansk. Det placeres direkte foran stedet: ke pantai, ke gunung, ke hutan. Kombineret med 'pergi' eller andre bevægelsesverber.",
+        "en": "'Ke' is used as a directional particle equivalent to 'to' in English. It is placed directly before the place: ke pantai, ke gunung, ke hutan. Combined with 'pergi' or other movement verbs.",
+        "id": "'Ke' digunakan sebagai partikel arah yang setara dengan 'ke' dalam bahasa Indonesia. Ditempatkan langsung sebelum tempat: ke pantai, ke gunung, ke hutan. Dikombinasikan dengan 'pergi' atau kata kerja gerakan lainnya."
+      },
+      "examples": [
+        {
+          "source": "Vi tager til stranden.",
+          "target": "Kita pergi ke pantai."
+        },
+        {
+          "source": "De vandrer til bjerget.",
+          "target": "Mereka mendaki ke gunung."
+        },
+        {
+          "source": "Jeg vil til skoven.",
+          "target": "Saya mau ke hutan."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Planlæg en to-dages naturtur til Indonesien. Hvad gør du dag 1 og dag 2? Brug 'ke + sted' og aktivitetsverber.",
+        "en": "Plan a two-day nature trip to Indonesia. What do you do on day 1 and day 2? Use 'ke + place' and activity verbs.",
+        "id": "Rencanakan perjalanan alam dua hari ke Indonesia. Apa yang kamu lakukan hari 1 dan hari 2? Gunakan 'ke + tempat' dan kata kerja aktivitas."
+      },
+      "answerShape": {
+        "da": "Hari pertama, saya pergi ke [sted] dan [aktivitet]. Hari kedua, saya [aktivitet] ke [sted].",
+        "en": "Hari pertama, saya pergi ke [place] dan [activity]. Hari kedua, saya [activity] ke [place].",
+        "id": "Hari pertama, saya pergi ke [tempat] dan [aktivitas]. Hari kedua, saya [aktivitas] ke [tempat]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Lav sætninger med: 1) mendaki + gunung, 2) pergi + pantai, 3) berkemah + hutan",
+        "en": "Make sentences with: 1) mendaki + gunung, 2) pergi + pantai, 3) berkemah + hutan",
+        "id": "Buat kalimat dengan: 1) mendaki + gunung, 2) pergi + pantai, 3) berkemah + hutan"
+      },
+      "answerShape": {
+        "da": "Saya suka mendaki gunung. / Kami pergi ke pantai. / Mereka berkemah di hutan.",
+        "en": "Saya suka mendaki gunung. / Kami pergi ke pantai. / Mereka berkemah di hutan.",
+        "id": "Saya suka mendaki gunung. / Kami pergi ke pantai. / Mereka berkemah di hutan."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad er anderledes ved Indonesiens natur sammenlignet med Danmarks? Nævn to ting på indonesisk.",
+        "en": "What is different about Indonesia's nature compared to Denmark's? Name two things in Indonesian.",
+        "id": "Apa yang berbeda tentang alam Indonesia dibandingkan dengan Denmark? Sebutkan dua hal dalam bahasa Indonesia."
+      },
+      "answerShape": {
+        "da": "Contoh: Di Indonesia ada banyak gunung berapi. / Di Indonesia ada pantai yang sangat indah.",
+        "en": "Example: Di Indonesia ada banyak gunung berapi. / Di Indonesia ada pantai yang sangat indah.",
+        "id": "Contoh: Di Indonesia ada banyak gunung berapi. / Di Indonesia ada pantai yang sangat indah."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme08-lesson06-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Alam Indonesia: Natur og Eventyr",
+        "en": "Alam Indonesia: Nature and Adventure",
+        "id": "Alam Indonesia: Alam dan Petualangan"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

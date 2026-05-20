@@ -1,0 +1,290 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 8,
+  "slug": "lesson-08",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Repetisi Keluarga – Gennemgang: Familie",
+    "en": "Repetisi Keluarga – Family Consolidation",
+    "id": "Repetisi Keluarga – Konsolidasi Materi Keluarga"
+  },
+  "summary": {
+    "da": "Saml alle familietermer og -strukturer i en komplet familiebeskrivelsse. Øvelse: Skriv et brev til en indonesisk penneveninde og beskriv din familie.",
+    "en": "Bring together all family terms and structures in a complete family description. Exercise: Write a letter to an Indonesian pen pal describing your family.",
+    "id": "Kumpulkan semua istilah dan struktur keluarga dalam deskripsi keluarga yang lengkap. Latihan: Tulis surat kepada teman pena Indonesia yang mendeskripsikan keluarga Anda."
+  },
+  "objectives": [
+    {
+      "da": "Kombinere alle Tema 4-strukturer i en sammenhængende familiebeskrivelsse.",
+      "en": "Combine all Tema 4 structures in a coherent family description.",
+      "id": "Menggabungkan semua struktur Tema 4 dalam deskripsi keluarga yang koheren."
+    },
+    {
+      "da": "Skrive et kort brev (5-8 sætninger) til en fiktiv indonesisk penneveninde.",
+      "en": "Write a short letter (5-8 sentences) to a fictional Indonesian pen pal.",
+      "id": "Menulis surat singkat (5-8 kalimat) kepada teman pena Indonesia yang fiktif."
+    },
+    {
+      "da": "Identificere og rette egne fejl ved at sammenligne med modeleksempler.",
+      "en": "Identify and correct own mistakes by comparing with model examples.",
+      "id": "Mengidentifikasi dan memperbaiki kesalahan sendiri dengan membandingkan dengan contoh model."
+    }
+  ],
+  "unit": {
+    "slug": "theme-04",
+    "order": 4,
+    "title": {
+      "da": "Tema 4: Min Familie",
+      "en": "Theme 4: My Family",
+      "id": "Tema 4: Keluarga Saya"
+    },
+    "summary": {
+      "da": "Familiebetegnelser og at tale om sin familie.",
+      "en": "Family terms and talking about your family.",
+      "id": "Istilah keluarga dan berbicara tentang keluarga."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis et mindmap på tavlen med alle emner fra Tema 4: kernefamilie, tiltaleformer, udvidet familie, beskrivelse, størrelse, possessiver, kultur. Lad eleverne huske et ord fra hvert emne.",
+        "en": "Show a mind map on the board with all topics from Tema 4: core family, address forms, extended family, description, size, possessives, culture. Have students recall one word from each topic.",
+        "id": "Tampilkan peta pikiran di papan tulis dengan semua topik dari Tema 4: keluarga inti, bentuk sapaan, keluarga besar, deskripsi, ukuran, posesif, budaya. Minta siswa mengingat satu kata dari setiap topik."
+      },
+      "flow": [
+        {
+          "da": "Vis et modelbrev på indonesisk (om en fiktiv dansk familie). Læs det højt og bed eleverne identificere strukturerne fra tidligere lektioner.",
+          "en": "Show a model letter in Indonesian (about a fictional Danish family). Read it aloud and ask students to identify the structures from previous lessons.",
+          "id": "Tampilkan surat model dalam bahasa Indonesia (tentang keluarga Denmark fiktif). Bacakan dengan keras dan minta siswa mengidentifikasi struktur dari pelajaran sebelumnya."
+        },
+        {
+          "da": "Eleverne skriver deres eget brev til 'teman pena' (penneveninde). Giv 10-12 minutter til at skrive. Minimumskrav: navn, familiestruktur, søskendeposition, én kulturel observation.",
+          "en": "Students write their own letter to 'teman pena' (pen pal). Give 10-12 minutes to write. Minimum requirement: name, family structure, sibling position, one cultural observation.",
+          "id": "Siswa menulis surat mereka sendiri kepada 'teman pena'. Berikan 10-12 menit untuk menulis. Persyaratan minimum: nama, struktur keluarga, posisi saudara kandung, satu observasi budaya."
+        },
+        {
+          "da": "Par-feedback: eleverne bytter breve og giver ét positivt og ét konstruktivt punkt. Læreren cirkulerer og hjælper.",
+          "en": "Pair feedback: students swap letters and give one positive and one constructive point. Teacher circulates and helps.",
+          "id": "Umpan balik berpasangan: siswa menukar surat dan memberikan satu poin positif dan satu konstruktif. Guru berkeliling dan membantu."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Fejl er forventet og ønsket i denne øvelse. Fokusér feedback på kommunikation fremfor fejlrettelse. Er budskabet forståeligt?",
+          "en": "Mistakes are expected and welcome in this exercise. Focus feedback on communication rather than error correction. Is the message understandable?",
+          "id": "Kesalahan diharapkan dan disambut dalam latihan ini. Fokuskan umpan balik pada komunikasi daripada koreksi kesalahan. Apakah pesannya dapat dipahami?"
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Gennemgå ordlisterne fra alle Tema 4-lektioner. Markér de ord du stadig er usikker på.",
+          "en": "Review the vocabulary lists from all Tema 4 lessons. Mark the words you are still unsure about.",
+          "id": "Tinjau daftar kosakata dari semua pelajaran Tema 4. Tandai kata-kata yang masih Anda ragukan."
+        },
+        {
+          "da": "Skriv dit eget brev til en fiktiv indonesisk penneveninde. Brug mindst seks strukturer fra Tema 4.",
+          "en": "Write your own letter to a fictional Indonesian pen pal. Use at least six structures from Tema 4.",
+          "id": "Tulis surat Anda sendiri kepada teman pena Indonesia fiktif. Gunakan setidaknya enam struktur dari Tema 4."
+        },
+        {
+          "da": "Læs dit brev igennem og tjek: Har du brugt possessiver rigtigt? Kakak/adik korrekt? Tiltaleformer?",
+          "en": "Read through your letter and check: Have you used possessives correctly? Kakak/adik correctly? Address forms?",
+          "id": "Baca ulang surat Anda dan periksa: Apakah Anda menggunakan posesif dengan benar? Kakak/adik dengan benar? Bentuk sapaan?"
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du skrive et sammenhængende brev på 5-8 sætninger om din familie?",
+          "en": "Can you write a coherent letter of 5-8 sentences about your family?",
+          "id": "Bisakah Anda menulis surat yang koheren sebanyak 5-8 kalimat tentang keluarga Anda?"
+        },
+        {
+          "da": "Kan du identificere mindst fem strukturer fra Tema 4 i dit eget brev?",
+          "en": "Can you identify at least five structures from Tema 4 in your own letter?",
+          "id": "Bisakah Anda mengidentifikasi setidaknya lima struktur dari Tema 4 dalam surat Anda sendiri?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Brev fra Mads til Adi",
+      "source": "Halo Adi! Nama saya Mads. Saya orang Denmark, dari kota Aarhus.",
+      "target": "Hej Adi! Mit navn er Mads. Jeg er dansker fra byen Aarhus."
+    },
+    {
+      "speaker": "Mads (fortsat)",
+      "source": "Keluarga saya terdiri dari empat orang: ayah, ibu, saya, dan adik perempuan saya.",
+      "target": "Min familie består af fire: far, mor, mig og min lillesøster."
+    },
+    {
+      "speaker": "Mads (fortsat)",
+      "source": "Saya anak pertama. Adikku masih sekolah.",
+      "target": "Jeg er ældste barn. Min lillesøster går stadig i skole."
+    },
+    {
+      "speaker": "Mads (fortsat)",
+      "source": "Ayahku sudah menikah dengan ibuku selama dua puluh tahun.",
+      "target": "Min far og mor har været gift i tyve år."
+    },
+    {
+      "speaker": "Mads (fortsat)",
+      "source": "Di Denmark, biasanya kami tidak tinggal bersama kakek-nenek. Bagaimana di Indonesia?",
+      "target": "I Danmark bor vi normalt ikke med bedsteforældrene. Hvad med i Indonesien?"
+    },
+    {
+      "speaker": "Mads (fortsat)",
+      "source": "Saya mau belajar bahasa Indonesia dan budaya Indonesia. Salam kenal!",
+      "target": "Jeg vil gerne lære indonesisk og indonesisk kultur. Hej og goddag!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Penneveninde / Penven",
+      "target": "Teman pena",
+      "note": {
+        "da": "'Teman' = ven, 'pena' = pen. En klassisk betegnelse for brevvenner.",
+        "en": "'Teman' = friend, 'pena' = pen. A classic term for pen pals.",
+        "id": "'Teman' = teman, 'pena' = pena. Istilah klasik untuk teman pena."
+      }
+    },
+    {
+      "source": "Hej! / Goddag! (afslutning)",
+      "target": "Salam kenal!",
+      "note": {
+        "da": "Bogstaveligt: 'hilsen ved at møde nogen'. Bruges ved første bekendtskab. Svarer til 'nice to meet you'.",
+        "en": "Literally: 'greetings upon meeting someone'. Used at first acquaintance. Equivalent to 'nice to meet you'.",
+        "id": "Secara harfiah: 'salam perkenalan'. Digunakan saat pertama kali berkenalan. Setara dengan 'senang berkenalan'."
+      }
+    },
+    {
+      "source": "Stadig / Endnu",
+      "target": "Masih",
+      "note": {
+        "da": "'Masih' = endnu/stadig. 'Masih sekolah' = går stadig i skole (er ikke færdig).",
+        "en": "'Masih' = still/yet. 'Masih sekolah' = still in school (not finished yet).",
+        "id": "'Masih' = masih. 'Masih sekolah' = masih bersekolah (belum selesai)."
+      }
+    },
+    {
+      "source": "I tyve år",
+      "target": "Selama dua puluh tahun",
+      "note": {
+        "da": "'Selama' = i løbet af / i (tidsvarighed). 'Tahun' = år.",
+        "en": "'Selama' = for (duration of time). 'Tahun' = year.",
+        "id": "'Selama' = selama (durasi waktu). 'Tahun' = tahun."
+      }
+    },
+    {
+      "source": "Kultur",
+      "target": "Budaya",
+      "note": {
+        "da": "'Budaya' og 'kultur' bruges begge på indonesisk – 'budaya' er det lokale ord.",
+        "en": "'Budaya' and 'kultur' are both used in Indonesian – 'budaya' is the local word.",
+        "id": "'Budaya' dan 'kultur' keduanya digunakan dalam bahasa Indonesia – 'budaya' adalah kata lokal."
+      }
+    },
+    {
+      "source": "Hilsen / Salam",
+      "target": "Salam",
+      "note": {
+        "da": "Bruges i brevafslutninger og -åbninger. 'Salam' = fred/hilsen (fra arabisk 'salaam').",
+        "en": "Used in letter closings and openings. 'Salam' = peace/greetings (from Arabic 'salaam').",
+        "id": "Digunakan dalam pembuka dan penutup surat. 'Salam' = damai/salam (dari bahasa Arab 'salaam')."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Selama + tidsangivelse",
+      "explanation": {
+        "da": "'Selama' bruges til at angive en tidsperiode som noget varer. Det svarer til 'i' + tidsperiode på dansk. Sæt det foran tidsangivelsen.",
+        "en": "'Selama' is used to indicate a time period that something lasts. It corresponds to 'for' + time period in English. Place it before the time expression.",
+        "id": "'Selama' digunakan untuk menunjukkan periode waktu berlangsungnya sesuatu. Letakkan di depan ungkapan waktu."
+      },
+      "examples": [
+        { "source": "I tyve år", "target": "Selama dua puluh tahun" },
+        { "source": "I tre måneder", "target": "Selama tiga bulan" },
+        { "source": "I lang tid", "target": "Selama lama" }
+      ]
+    },
+    {
+      "pattern": "Masih + [verbum/tilstand] = stadig i gang",
+      "explanation": {
+        "da": "'Masih' viser at en tilstand eller handling fortsætter. Det placeres foran verbet. Modsætningen er 'sudah' (allerede afsluttet).",
+        "en": "'Masih' shows that a state or action is continuing. It is placed before the verb. The opposite is 'sudah' (already completed).",
+        "id": "'Masih' menunjukkan bahwa suatu keadaan atau tindakan sedang berlanjut. Diletakkan sebelum kata kerja. Lawannya adalah 'sudah' (sudah selesai)."
+      },
+      "examples": [
+        { "source": "Går stadig i skole", "target": "Masih sekolah" },
+        { "source": "Bor stadig i Aarhus", "target": "Masih tinggal di Aarhus" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv et brev på 5-8 sætninger til en fiktiv indonesisk penneveninde. Inkludér: din families sammensætning, din søskendeposition, om du er gift/ugift, og én kulturel forskel du har lært.",
+        "en": "Write a letter of 5-8 sentences to a fictional Indonesian pen pal. Include: your family composition, your sibling position, whether you are married/unmarried, and one cultural difference you have learned.",
+        "id": "Tulis surat 5-8 kalimat kepada teman pena Indonesia fiktif. Sertakan: susunan keluarga, posisi saudara kandung, apakah sudah/belum menikah, dan satu perbedaan budaya yang telah Anda pelajari."
+      },
+      "answerShape": {
+        "da": "Et brev på indonesisk med 5-8 sætninger.",
+        "en": "A letter in Indonesian with 5-8 sentences.",
+        "id": "Surat dalam bahasa Indonesia dengan 5-8 kalimat."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Læs dit brev højt for en makker. Makkeren lytter og stiller to spørgsmål om det de hørte.",
+        "en": "Read your letter aloud to a partner. The partner listens and asks two questions about what they heard.",
+        "id": "Bacakan surat Anda dengan keras kepada pasangan. Pasangan mendengarkan dan mengajukan dua pertanyaan tentang apa yang mereka dengar."
+      },
+      "answerShape": {
+        "da": "Brevlæsning efterfulgt af mini-samtale.",
+        "en": "Letter reading followed by a mini-conversation.",
+        "id": "Membaca surat diikuti dengan percakapan mini."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Se tilbage på Tema 4. Hvad var det vigtigste du lærte? Hvad vil du huske og bruge? Skriv to sætninger.",
+        "en": "Look back at Tema 4. What was the most important thing you learned? What will you remember and use? Write two sentences.",
+        "id": "Lihat kembali Tema 4. Apa hal terpenting yang Anda pelajari? Apa yang akan Anda ingat dan gunakan? Tulislah dua kalimat."
+      },
+      "answerShape": {
+        "da": "To sætninger på dansk eller indonesisk.",
+        "en": "Two sentences in Danish or Indonesian.",
+        "id": "Dua kalimat dalam bahasa Denmark atau Indonesia."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme04-lesson08-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Et brev til Indonesia – familiebeskrivelsse fra A til Z",
+        "en": "A letter to Indonesia – family description from A to Z",
+        "id": "Surat ke Indonesia – deskripsi keluarga dari A sampai Z"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

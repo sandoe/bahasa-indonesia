@@ -1,0 +1,296 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 5,
+  "slug": "lesson-05",
+  "durationMinutes": 30,
+  "title": {
+    "da": "Indonesisk vs. Dansk Udtale",
+    "en": "Indonesian vs. Danish Pronunciation",
+    "id": "Pelafalan Bahasa Indonesia vs. Bahasa Denmark"
+  },
+  "summary": {
+    "da": "Sammenlign de to sprogs udtaleprincipper: Indonesisk har ingen stumme bogstaver, ingen schwa-tvetydighed og ingen toner. Hvert bogstav udtales altid. En dansktalendes glæde og lettelse.",
+    "en": "Compare the pronunciation principles of the two languages: Indonesian has no silent letters, no schwa ambiguity, and no tones. Every letter is always pronounced. A Danish speaker's joy and relief.",
+    "id": "Bandingkan prinsip pengucapan kedua bahasa: Bahasa Indonesia tidak memiliki huruf yang tidak diucapkan, tidak ada ambiguitas schwa, dan tidak ada nada. Setiap huruf selalu diucapkan. Kegembiraan dan kelegaan penutur bahasa Denmark."
+  },
+  "objectives": [
+    {
+      "da": "Forklare tre nøgleforskelle mellem indonesisk og dansk udtale",
+      "en": "Explain three key differences between Indonesian and Danish pronunciation",
+      "id": "Menjelaskan tiga perbedaan utama antara pelafalan bahasa Indonesia dan bahasa Denmark"
+    },
+    {
+      "da": "Anvende reglen 'udtale hvert bogstav' på indonesiske ord",
+      "en": "Apply the rule 'pronounce every letter' to Indonesian words",
+      "id": "Menerapkan aturan 'ucapkan setiap huruf' pada kata-kata bahasa Indonesia"
+    },
+    {
+      "da": "Genkende fordelen ved indonesisk konsistens som dansktaler",
+      "en": "Recognise the advantage of Indonesian consistency as a Danish speaker",
+      "id": "Mengenali keuntungan konsistensi bahasa Indonesia sebagai penutur bahasa Denmark"
+    }
+  ],
+  "unit": {
+    "slug": "theme-00",
+    "order": 0,
+    "title": {
+      "da": "Tema 0: Fundamentet",
+      "en": "Theme 0: The Foundation",
+      "id": "Tema 0: Dasar"
+    },
+    "summary": {
+      "da": "Sprogets byggesten: Bogstaver, lyde og de første regler.",
+      "en": "Building blocks: Letters, sounds, first rules.",
+      "id": "Fondasi bahasa: huruf, bunyi, aturan pertama."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg klassen: 'Udtales alle bogstaver i det danske ord \"hjerte\"?' (Svar: nej – H er stum, J er stum, E er reduceret.) Kontrast med indonesisk: 'hati' (hjerte) – udtales nøjagtigt som det skrives. Skab stemning ved at fortælle det som 'godt nyt'.",
+        "en": "Ask the class: 'Are all letters pronounced in the Danish word \"hjerte\" (heart)?' (Answer: no – H is silent, J is silent, E is reduced.) Contrast with Indonesian: 'hati' (heart) – pronounced exactly as written. Build a positive atmosphere by presenting this as 'good news'.",
+        "id": "Tanya kelas: 'Apakah semua huruf diucapkan dalam kata Denmark \"hjerte\" (hati)?' (Jawaban: tidak – H diam, J diam, E dikurangi.) Bandingkan dengan bahasa Indonesia: 'hati' – diucapkan persis seperti tertulis. Bangun suasana positif dengan menyajikan ini sebagai 'kabar baik'."
+      },
+      "flow": [
+        {
+          "da": "Forskel 1 – Ingen stumme bogstaver: Skriv 5 ord på tavlen og vis at hvert eneste bogstav udtales. Sammenlign med tilsvarende engelske/franske ord der har stumme bogstaver. Eleverne øver ved at sige hvert bogstav tydeligt.",
+          "en": "Difference 1 – No silent letters: Write 5 words on the board and show that every single letter is pronounced. Compare with equivalent English/French words that have silent letters. Students practise by saying every letter distinctly.",
+          "id": "Perbedaan 1 – Tidak ada huruf yang tidak diucapkan: Tulis 5 kata di papan dan tunjukkan bahwa setiap huruf diucapkan. Bandingkan dengan kata-kata bahasa Inggris/Prancis yang memiliki huruf diam. Siswa berlatih dengan mengucapkan setiap huruf dengan jelas."
+        },
+        {
+          "da": "Forskel 2 – Ingen schwa-reduktion: På dansk er mange ubetonte vokaler reduceret til en neutral schwa-lyd. På indonesisk udtales ubetonte vokaler fuldt ud. Vis: dansk 'moden' udtales 'mo-dn' mens indonesisk 'meja' udtales 'me-ja' – begge vokaler klare.",
+          "en": "Difference 2 – No schwa reduction: In Danish many unstressed vowels are reduced to a neutral schwa sound. In Indonesian unstressed vowels are pronounced in full. Show: Danish 'moden' is pronounced 'mo-dn' while Indonesian 'meja' is pronounced 'me-ja' – both vowels clear.",
+          "id": "Perbedaan 2 – Tidak ada reduksi schwa: Dalam bahasa Denmark banyak vokal tidak bertekanan yang direduksi menjadi bunyi schwa netral. Dalam bahasa Indonesia vokal tidak bertekanan diucapkan sepenuhnya. Tunjukkan: 'meja' diucapkan 'me-ja' – kedua vokal jelas."
+        },
+        {
+          "da": "Forskel 3 – Ingen toner: Indonesisk er ikke et tonesprog (i modsætning til kinesisk eller vietnamesisk). Brug dialogeksemplet til at afslutte – en dansktaler der med lettet udtryk siger: 'Det her er faktisk lettere end jeg troede!'",
+          "en": "Difference 3 – No tones: Indonesian is not a tonal language (unlike Chinese or Vietnamese). Use the dialogue example to close – a Danish speaker with a relieved expression saying: 'This is actually easier than I thought!'",
+          "id": "Perbedaan 3 – Tidak ada nada: Bahasa Indonesia bukan bahasa tonal (tidak seperti bahasa Cina atau Vietnam). Gunakan contoh dialog untuk menutup – penutur bahasa Denmark dengan ekspresi lega berkata: 'Ini sebenarnya lebih mudah dari yang saya kira!'"
+        }
+      ],
+      "notes": [
+        {
+          "da": "Det er pædagogisk effektivt at fremhæve de positive aspekter af indonesisk for begyndere. Mange dansktalende er bekymrede over at lære et nyt sprogs udtale – fortæl dem at indonesisk er et af de mest lydkonsistente sprog i verden.",
+          "en": "It is pedagogically effective to highlight the positive aspects of Indonesian for beginners. Many Danish speakers are anxious about learning a new language's pronunciation – tell them that Indonesian is one of the most phonetically consistent languages in the world.",
+          "id": "Secara pedagogis efektif untuk menyoroti aspek positif bahasa Indonesia bagi pemula. Banyak penutur bahasa Denmark yang cemas tentang mempelajari pengucapan bahasa baru – beritahu mereka bahwa bahasa Indonesia adalah salah satu bahasa yang paling konsisten secara fonetik di dunia."
+        },
+        {
+          "da": "Undtagelse der er værd at nævne: det stødlignende glottale stop i ord som 'ma'af' (undskyld) og finale K i uformelt tale der kan reduces til glottalt stop. Men dette er avanceret – nævn det kun hvis en elev spørger.",
+          "en": "An exception worth mentioning: the glottal stop in words like 'ma'af' (sorry) and final K in informal speech which can reduce to a glottal stop. But this is advanced – mention it only if a student asks.",
+          "id": "Pengecualian yang perlu disebutkan: bunyi glottal stop dalam kata-kata seperti 'ma'af' (maaf) dan K akhir dalam bicara informal yang dapat menjadi glottal stop. Tapi ini tingkat lanjut – sebutkan hanya jika ada siswa yang bertanya."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lav en tabel med to kolonner: 'Dansk udfordring' og 'Indonesisk fordel'. Skriv mindst tre eksempler i hver kolonne baseret på denne lektion.",
+          "en": "Make a table with two columns: 'Danish challenge' and 'Indonesian advantage'. Write at least three examples in each column based on this lesson.",
+          "id": "Buat tabel dengan dua kolom: 'Tantangan bahasa Denmark' dan 'Keuntungan bahasa Indonesia'. Tulis setidaknya tiga contoh di setiap kolom berdasarkan pelajaran ini."
+        },
+        {
+          "da": "Øv at læse disse ord højt som de staves – husk at udtale hvert bogstav: menulis, berjalan, membaca, tertawa, berbicara. Ingen bogstav er stiltiende.",
+          "en": "Practise reading these words aloud exactly as they are spelled – remember to pronounce every letter: menulis, berjalan, membaca, tertawa, berbicara. No letter is silent.",
+          "id": "Latih membaca kata-kata ini dengan keras persis seperti ejaannya – ingat untuk mengucapkan setiap huruf: menulis, berjalan, membaca, tertawa, berbicara. Tidak ada huruf yang diam."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du nævne de tre nøglefordele ved indonesisk udtale for en dansktaler?",
+          "en": "Can you name the three key advantages of Indonesian pronunciation for a Danish speaker?",
+          "id": "Dapatkah Anda menyebutkan tiga keuntungan utama pengucapan bahasa Indonesia bagi penutur bahasa Denmark?"
+        },
+        {
+          "da": "Kan du udtale 'menulis' og 'berbicara' uden at reducere nogen vokaler?",
+          "en": "Can you pronounce 'menulis' and 'berbicara' without reducing any vowels?",
+          "id": "Dapatkah Anda mengucapkan 'menulis' dan 'berbicara' tanpa mereduksi vokal apa pun?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Lars",
+      "source": "Jeg var bekymret – jeg troede indonesisk udtale var svær som kinesisk med toner.",
+      "target": "Saya khawatir – saya kira pengucapan bahasa Indonesia sulit seperti bahasa Cina dengan nada-nada."
+    },
+    {
+      "speaker": "Guru",
+      "source": "Godt nyt: indonesisk er ikke et tonesprog! Ingen toner som på kinesisk eller vietnamesisk.",
+      "target": "Kabar baiknya: bahasa Indonesia bukan bahasa tonal! Tidak ada nada seperti dalam bahasa Cina atau Vietnam."
+    },
+    {
+      "speaker": "Lars",
+      "source": "Og stumme bogstaver – er der mange af dem?",
+      "target": "Dan huruf yang tidak diucapkan – apakah banyak?"
+    },
+    {
+      "speaker": "Guru",
+      "source": "Ingen! Hvert bogstav udtales præcis som det staves. 'Hati' – H, A, T, I – alle fire udtales.",
+      "target": "Tidak ada! Setiap huruf diucapkan persis seperti ejaannya. 'Hati' – H, A, T, I – keempat huruf diucapkan."
+    },
+    {
+      "speaker": "Lars",
+      "source": "Det er fantastisk! I dansk er 'hjerte' – man siger det næsten som 'yerte' – H og J er stumme!",
+      "target": "Luar biasa! Dalam bahasa Denmark, 'hjerte' – hampir diucapkan seperti 'yerte' – H dan J tidak dibunyikan!"
+    },
+    {
+      "speaker": "Guru",
+      "source": "Præcis! Indonesisk er en af verdens mest lydkonsistente sprog. Udtale som du staver – altid.",
+      "target": "Tepat! Bahasa Indonesia adalah salah satu bahasa paling konsisten secara fonetik di dunia. Ucapkan seperti ejaan – selalu."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "hjerte",
+      "target": "hati",
+      "note": {
+        "da": "Udtales nøjagtigt: H-A-T-I. Ingen stumme bogstaver. På dansk er 'hjerte' = 'yerte'.",
+        "en": "Pronounced exactly: H-A-T-I. No silent letters. In Danish 'hjerte' is approximately 'yerte'.",
+        "id": "Diucapkan persis: H-A-T-I. Tidak ada huruf yang diam."
+      }
+    },
+    {
+      "source": "at skrive",
+      "target": "menulis",
+      "note": {
+        "da": "5 bogstaver, 5 lyde, ingen reduktion. me-NU-lis. Tryk på NU.",
+        "en": "7 letters, all pronounced, no reduction. me-NU-lis. Stress on NU.",
+        "id": "Semua huruf diucapkan, tidak ada reduksi. me-NU-lis. Tekanan pada NU."
+      }
+    },
+    {
+      "source": "at læse",
+      "target": "membaca",
+      "note": {
+        "da": "Alle vokaler udtales fuldt ud – ingen schwa. mem-BA-ca. Tryk på BA.",
+        "en": "All vowels pronounced fully – no schwa. mem-BA-ca. Stress on BA.",
+        "id": "Semua vokal diucapkan penuh – tidak ada schwa. mem-BA-ca. Tekanan pada BA."
+      }
+    },
+    {
+      "source": "at le",
+      "target": "tertawa",
+      "note": {
+        "da": "4 stavelser, alle udtalt klart: ter-TA-wa. Et eksempel på ingen vokalreduktion.",
+        "en": "3 syllables, all pronounced clearly: ter-TA-wa. An example of no vowel reduction.",
+        "id": "3 suku kata, semua diucapkan dengan jelas: ter-TA-wa. Contoh tidak ada reduksi vokal."
+      }
+    },
+    {
+      "source": "konsekvent / konsistent",
+      "target": "konsisten",
+      "note": {
+        "da": "Et lånord fra nederlandsk/latin. Udtales præcis som det skrives på indonesisk: kon-SIS-ten.",
+        "en": "A loanword from Dutch/Latin. Pronounced exactly as written in Indonesian: kon-SIS-ten.",
+        "id": "Kata pinjaman dari Belanda/Latin. Diucapkan persis seperti penulisannya: kon-SIS-ten."
+      }
+    },
+    {
+      "source": "tone (musikalsk pitch)",
+      "target": "nada",
+      "note": {
+        "da": "Indonesisk bruger ikke toner til at skelne betydning – i modsætning til mandarinkinesisk, thai, vietnamesisk.",
+        "en": "Indonesian does not use tones to distinguish meaning – unlike Mandarin Chinese, Thai, Vietnamese.",
+        "id": "Bahasa Indonesia tidak menggunakan nada untuk membedakan makna – tidak seperti bahasa Mandarin, Thai, Vietnam."
+      }
+    },
+    {
+      "source": "at udtale / udtale (substantiv)",
+      "target": "mengucapkan / pengucapan",
+      "note": {
+        "da": "'Mengucapkan' = at udtale (verbum). 'Pengucapan' = udtale (substantiv). Begge udtales som skrevet.",
+        "en": "'Mengucapkan' = to pronounce (verb). 'Pengucapan' = pronunciation (noun). Both pronounced as written.",
+        "id": "'Mengucapkan' = to pronounce (kata kerja). 'Pengucapan' = pronunciation (kata benda). Keduanya diucapkan seperti tertulis."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Fonetisk konsistens: ét bogstav = én lyd",
+      "explanation": {
+        "da": "I indonesisk er forholdet mellem bogstav og lyd næsten perfekt: hvert bogstav svarer til én bestemt lyd, og den lyd ændrer sig aldrig baseret på kontekst (undtagen E, som vi allerede har lært). Dette adskiller indonesisk fra dansk (stumme bogstaver, kontekstafhængige udtaler) og engelsk (utallige undtagelser).",
+        "en": "In Indonesian the relationship between letter and sound is almost perfect: each letter corresponds to one specific sound, and that sound never changes based on context (except E, which we have already learnt). This sets Indonesian apart from Danish (silent letters, context-dependent pronunciations) and English (countless exceptions).",
+        "id": "Dalam bahasa Indonesia, hubungan antara huruf dan bunyi hampir sempurna: setiap huruf sesuai dengan satu bunyi tertentu, dan bunyi itu tidak pernah berubah berdasarkan konteks (kecuali E, yang sudah kita pelajari). Ini membedakan bahasa Indonesia dari bahasa Denmark (huruf diam, pengucapan yang bergantung konteks) dan bahasa Inggris (banyak pengecualian)."
+      },
+      "examples": [
+        {
+          "source": "Dansk 'hjerte' [jɛɐ̯dɛ] – H og J er stumme, E er reduceret",
+          "target": "Indonesia 'hati' – H, A, T, I – alle fire bogstaver udtales fuldt"
+        },
+        {
+          "source": "Engelsk 'write' [raɪt] – W er stum, E er stum",
+          "target": "Indonesia 'menulis' – alle bogstaver udtales, ingen er stumme"
+        },
+        {
+          "source": "Dansk vokalreduktion: 'moden' → [moðn] – E forsvinder",
+          "target": "Indonesisk ingen reduktion: 'meja' → [me-ja] – begge vokaler klare"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Tænk på et dansk ord med stumme bogstaver (fx 'hvid', 'hjælp', 'knæ'). Skriv det ned og forklar hvilke bogstaver der er stumme. Sammenlign derefter med et tilsvarende indonesisk ord – er alle bogstaver udtalt?",
+        "en": "Think of a Danish word with silent letters (e.g. 'hvid', 'hjælp', 'knæ'). Write it down and explain which letters are silent. Then compare with a corresponding Indonesian word – are all letters pronounced?",
+        "id": "Pikirkan kata bahasa Denmark dengan huruf yang tidak diucapkan (mis. 'hvid', 'hjælp', 'knæ'). Tuliskan dan jelaskan huruf mana yang diam. Kemudian bandingkan dengan kata bahasa Indonesia yang sesuai – apakah semua huruf diucapkan?"
+      },
+      "answerShape": {
+        "da": "Individuelle svar. Feks: 'hvid' = /vi/ (h og d er stumme). Indonesisk: 'putih' (hvid) = pu-tih, alle bogstaver udtalt.",
+        "en": "Individual answers. E.g.: 'hvid' = /vi/ (h and d are silent). Indonesian: 'putih' (white) = pu-tih, all letters pronounced.",
+        "id": "Jawaban individual. Mis.: 'hvid' = /vi/ (h dan d diam). Indonesia: 'putih' (putih) = pu-tih, semua huruf diucapkan."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til disse indonesiske ord og bekræft: udtales hvert bogstav? menulis / hati / tertawa / konsisten / membaca. Svar ja eller nej for hvert ord.",
+        "en": "Listen to these Indonesian words and confirm: is every letter pronounced? menulis / hati / tertawa / konsisten / membaca. Answer yes or no for each word.",
+        "id": "Dengarkan kata-kata bahasa Indonesia ini dan konfirmasi: apakah setiap huruf diucapkan? menulis / hati / tertawa / konsisten / membaca. Jawab ya atau tidak untuk setiap kata."
+      },
+      "answerShape": {
+        "da": "Alle fem ord: Ja, hvert bogstav udtales fuldt ud. Ingen stumme bogstaver, ingen vokalreduktion.",
+        "en": "All five words: Yes, every letter is pronounced fully. No silent letters, no vowel reduction.",
+        "id": "Semua lima kata: Ya, setiap huruf diucapkan sepenuhnya. Tidak ada huruf diam, tidak ada reduksi vokal."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig disse ord ekstra tydeligt – udtale hvert bogstav fuldt ud, ingen mumlen eller reduktion: berbicara / mengucapkan / tertawa / berjalan / membaca.",
+        "en": "Say these words extra clearly – pronounce every letter fully, no mumbling or reduction: berbicara / mengucapkan / tertawa / berjalan / membaca.",
+        "id": "Ucapkan kata-kata ini dengan sangat jelas – ucapkan setiap huruf dengan penuh, tidak ada gumaman atau reduksi: berbicara / mengucapkan / tertawa / berjalan / membaca."
+      },
+      "answerShape": {
+        "da": "Alle vokaler klare og fulde. Alle konsonanter tydelige. Tryk på næstsidste stavelse. Ingen reducerede lyde.",
+        "en": "All vowels clear and full. All consonants distinct. Stress on second-to-last syllable. No reduced sounds.",
+        "id": "Semua vokal jelas dan penuh. Semua konsonan terdengar jelas. Tekanan pada suku kata kedua dari belakang. Tidak ada bunyi yang dikurangi."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme00-lesson06-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Indonesisk udtale: enkelt og konsekvent",
+        "en": "Indonesian pronunciation: simple and consistent",
+        "id": "Pelafalan bahasa Indonesia: sederhana dan konsisten"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

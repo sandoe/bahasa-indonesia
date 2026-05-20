@@ -1,0 +1,337 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Belanja di Butik — Enkel Shopping",
+    "en": "Shopping in a Store — Basic Shopping",
+    "id": "Belanja di Toko"
+  },
+  "summary": {
+    "da": "Lær at spørge om pris, størrelse og farve, så du kan klare en enkel shoppingdialog på indonesisk.",
+    "en": "Learn to ask about price, size, and colour so you can handle a simple shopping dialogue in Indonesian.",
+    "id": "Belajar bertanya tentang harga, ukuran, dan warna agar Anda dapat melakukan dialog belanja sederhana dalam bahasa Indonesia."
+  },
+  "objectives": [
+    {
+      "da": "Spørge 'Berapa harganya?' og forstå et enkelt prissvar.",
+      "en": "Ask 'Berapa harganya?' and understand a simple price answer.",
+      "id": "Bertanya 'Berapa harganya?' dan memahami jawaban harga sederhana."
+    },
+    {
+      "da": "Bruge ord for størrelse og farve i en butikssamtale.",
+      "en": "Use size and colour words in a store conversation.",
+      "id": "Menggunakan kata ukuran dan warna dalam percakapan di toko."
+    },
+    {
+      "da": "Skrive en kort indkøbsliste eller besked om hvad du gerne vil købe.",
+      "en": "Write a short shopping list or message about what you want to buy.",
+      "id": "Menulis daftar belanja singkat atau pesan tentang apa yang ingin Anda beli."
+    }
+  ],
+  "unit": {
+    "slug": "theme-11",
+    "order": 11,
+    "title": {
+      "da": "Tema 11: Shopping",
+      "en": "Theme 11: Shopping",
+      "id": "Tema 11: Berbelanja"
+    },
+    "summary": {
+      "da": "Priser, varer, størrelser, farver og korte samtaler i butik eller på marked.",
+      "en": "Prices, items, sizes, colours, and short conversations in a store or market.",
+      "id": "Harga, barang, ukuran, warna, dan percakapan singkat di toko atau pasar."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis en taske, en T-shirt eller et billede af en vare. Spørg: 'Hvad koster den mon?' og 'Hvilken farve vil du vælge?'",
+        "en": "Show a bag, a T-shirt, or a picture of an item. Ask: 'What do you think it costs?' and 'Which colour would you choose?'",
+        "id": "Tunjukkan tas, kaus, atau gambar barang. Tanyakan: 'Menurutmu harganya berapa?' dan 'Warna mana yang akan kamu pilih?'"
+      },
+      "flow": [
+        {
+          "da": "Introducer butiksvokabular: baju, celana, sepatu, tas, murah, mahal, ukuran, warna. Træn udtale og hurtige genkendelsessvar.",
+          "en": "Introduce store vocabulary: baju, celana, sepatu, tas, murah, mahal, ukuran, warna. Practise pronunciation and quick recognition responses.",
+          "id": "Perkenalkan kosakata toko: baju, celana, sepatu, tas, murah, mahal, ukuran, warna. Latih pengucapan dan respons pengenalan cepat."
+        },
+        {
+          "da": "Byg butiksdialogen op trin for trin: 'Saya mau beli...' - 'Berapa harganya?' - 'Ada warna biru?' - 'Ada ukuran besar?'",
+          "en": "Build the store dialogue step by step: 'Saya mau beli...' - 'Berapa harganya?' - 'Ada warna biru?' - 'Ada ukuran besar?'",
+          "id": "Bangun dialog toko selangkah demi selangkah: 'Saya mau beli...' - 'Berapa harganya?' - 'Ada warna biru?' - 'Ada ukuran besar?'"
+        },
+        {
+          "da": "Lav rollebytte: den ene elev er kunde, den anden er ekspedient. Kunden spørger om pris, farve og størrelse før købet.",
+          "en": "Switch roles: one student is the customer, the other is the shop assistant. The customer asks about price, colour, and size before buying.",
+          "id": "Tukar peran: satu siswa menjadi pembeli, yang lain menjadi penjaga toko. Pembeli bertanya tentang harga, warna, dan ukuran sebelum membeli."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Shopping giver en god bro mellem ordforråd og funktionelt sprog. Eleverne oplever hurtigt, at sproget kan bruges i en konkret situation.",
+          "en": "Shopping creates a strong bridge between vocabulary and functional language. Learners quickly feel that the language can be used in a concrete situation.",
+          "id": "Belanja menjadi jembatan yang kuat antara kosakata dan bahasa fungsional. Pembelajar cepat merasakan bahwa bahasa dapat digunakan dalam situasi nyata."
+        },
+        {
+          "da": "'Murah' og 'mahal' er nyttige ord allerede i BIPA 1, fordi de ofte dukker op i hverdagssamtaler om køb.",
+          "en": "'Murah' and 'mahal' are useful words already in BIPA 1 because they often appear in everyday conversations about buying.",
+          "id": "'Murah' dan 'mahal' sudah berguna di BIPA 1 karena sering muncul dalam percakapan sehari-hari tentang membeli."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs ordforrådet og lav din egen lille billedliste med tre ting du gerne vil købe.",
+          "en": "Read the vocabulary and make your own small picture list with three things you would like to buy.",
+          "id": "Baca kosakata dan buat daftar gambar kecil berisi tiga hal yang ingin Anda beli."
+        },
+        {
+          "da": "Lyt til dialogen og markér hvornår kunden spørger om pris, farve og størrelse.",
+          "en": "Listen to the dialogue and mark when the customer asks about price, colour, and size.",
+          "id": "Dengarkan dialog dan tandai kapan pembeli bertanya tentang harga, warna, dan ukuran."
+        },
+        {
+          "da": "Skriv en kort besked til en ven: hvad vil du købe, hvilken farve vil du have, og hvad må det koste?",
+          "en": "Write a short message to a friend: what do you want to buy, which colour do you want, and how much may it cost?",
+          "id": "Tulis pesan singkat kepada teman: apa yang ingin Anda beli, warna apa yang Anda inginkan, dan berapa harganya boleh?"
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du spørge om prisen på en vare og forstå et kort svar?",
+          "en": "Can you ask the price of an item and understand a short answer?",
+          "id": "Bisakah Anda menanyakan harga suatu barang dan memahami jawaban singkat?"
+        },
+        {
+          "da": "Kan du skrive én sætning om noget du vil købe?",
+          "en": "Can you write one sentence about something you want to buy?",
+          "id": "Bisakah Anda menulis satu kalimat tentang sesuatu yang ingin Anda beli?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Kunde",
+      "source": "Jeg vil gerne købe en blå T-shirt.",
+      "target": "Saya mau beli baju biru."
+    },
+    {
+      "speaker": "Ekspedient",
+      "source": "Ja, selvfølgelig. Hvilken størrelse vil du have?",
+      "target": "Ya, tentu. Mau ukuran apa?"
+    },
+    {
+      "speaker": "Kunde",
+      "source": "Stor, tak. Hvad koster den?",
+      "target": "Ukuran besar, ya. Berapa harganya?"
+    },
+    {
+      "speaker": "Ekspedient",
+      "source": "Den koster hundrede tusind rupiah.",
+      "target": "Harganya seratus ribu rupiah."
+    },
+    {
+      "speaker": "Kunde",
+      "source": "Fint. Har I også sorte sko?",
+      "target": "Baik. Ada sepatu hitam juga?"
+    },
+    {
+      "speaker": "Ekspedient",
+      "source": "Ja, de er herovre.",
+      "target": "Ada, di sini."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "T-shirt / tøj",
+      "target": "baju",
+      "note": {
+        "da": "Et bredt ord for tøj eller overdel. Meget brugt i hverdagen.",
+        "en": "A broad word for clothing or a top. Very common in daily life.",
+        "id": "Kata luas untuk pakaian atau atasan. Sangat umum dalam kehidupan sehari-hari."
+      }
+    },
+    {
+      "source": "bukser",
+      "target": "celana",
+      "note": {
+        "da": "Kan bruges om både lange bukser og shorts, afhængigt af konteksten.",
+        "en": "Can refer to both long trousers and shorts, depending on context.",
+        "id": "Dapat merujuk pada celana panjang maupun celana pendek, tergantung konteks."
+      }
+    },
+    {
+      "source": "sko",
+      "target": "sepatu",
+      "note": {
+        "da": "Et meget almindeligt ord i butikssammenhæng.",
+        "en": "A very common word in shopping contexts.",
+        "id": "Kata yang sangat umum dalam konteks berbelanja."
+      }
+    },
+    {
+      "source": "taske",
+      "target": "tas",
+      "note": {
+        "da": "Bruges om både håndtaske, rygsæk og andre tasker i enkel tale.",
+        "en": "Used for handbags, backpacks, and other bags in simple speech.",
+        "id": "Digunakan untuk tas tangan, ransel, dan tas lain dalam percakapan sederhana."
+      }
+    },
+    {
+      "source": "billig",
+      "target": "murah",
+      "note": {
+        "da": "Godt ord når man sammenligner priser eller spørger om noget er dyrt eller billigt.",
+        "en": "Useful when comparing prices or asking whether something is expensive or cheap.",
+        "id": "Berguna saat membandingkan harga atau menanyakan apakah sesuatu mahal atau murah."
+      }
+    },
+    {
+      "source": "dyr",
+      "target": "mahal",
+      "note": {
+        "da": "Modsætning til 'murah'.",
+        "en": "The opposite of 'murah'.",
+        "id": "Lawan kata dari 'murah'."
+      }
+    },
+    {
+      "source": "størrelse",
+      "target": "ukuran",
+      "note": {
+        "da": "Bruges til tøj, sko og andre varer.",
+        "en": "Used for clothes, shoes, and other items.",
+        "id": "Digunakan untuk pakaian, sepatu, dan barang lainnya."
+      }
+    },
+    {
+      "source": "pris",
+      "target": "harga",
+      "note": {
+        "da": "Indgår i spørgsmålet 'Berapa harganya?'",
+        "en": "Appears in the question 'Berapa harganya?'",
+        "id": "Muncul dalam pertanyaan 'Berapa harganya?'"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Berapa harganya?",
+      "explanation": {
+        "da": "Standardspørgsmålet for pris. 'Berapa' betyder 'hvor meget/hvor mange', og 'harganya' betyder 'prisen på den'.",
+        "en": "The standard question for price. 'Berapa' means 'how much/how many', and 'harganya' means 'its price'.",
+        "id": "Pertanyaan standar untuk harga. 'Berapa' berarti 'berapa banyak', dan 'harganya' berarti 'harganya'."
+      },
+      "examples": [
+        {
+          "source": "Hvad koster tasken?",
+          "target": "Berapa harganya?"
+        },
+        {
+          "source": "Den koster halvtreds tusind rupiah.",
+          "target": "Harganya lima puluh ribu rupiah."
+        }
+      ]
+    },
+    {
+      "pattern": "Saya mau beli... / Ada ...?",
+      "explanation": {
+        "da": "Brug 'Saya mau beli...' når du vil sige hvad du ønsker at købe. Brug 'Ada ...?' når du spørger om varen findes i en bestemt farve eller størrelse.",
+        "en": "Use 'Saya mau beli...' to say what you want to buy. Use 'Ada ...?' when asking whether the item exists in a certain colour or size.",
+        "id": "Gunakan 'Saya mau beli...' untuk mengatakan apa yang ingin dibeli. Gunakan 'Ada ...?' saat menanyakan apakah barang tersedia dalam warna atau ukuran tertentu."
+      },
+      "examples": [
+        {
+          "source": "Jeg vil gerne købe en sort taske.",
+          "target": "Saya mau beli tas hitam."
+        },
+        {
+          "source": "Har I den i blå?",
+          "target": "Ada warna biru?"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen og skriv ned hvilken vare, farve og størrelse kunden spørger om.",
+        "en": "Listen to the dialogue and write down which item, colour, and size the customer asks about.",
+        "id": "Dengarkan dialog dan tuliskan barang, warna, dan ukuran yang ditanyakan pembeli."
+      },
+      "answerShape": {
+        "da": "Baju biru, ukuran besar, og derefter sepatu hitam.",
+        "en": "Baju biru, ukuran besar, and then sepatu hitam.",
+        "id": "Baju biru, ukuran besar, lalu sepatu hitam."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Lav et kort rollespil hvor du spørger om pris, farve og størrelse på en vare.",
+        "en": "Do a short role-play where you ask about the price, colour, and size of an item.",
+        "id": "Lakukan role-play singkat di mana Anda bertanya tentang harga, warna, dan ukuran suatu barang."
+      },
+      "answerShape": {
+        "da": "Saya mau beli ... / Berapa harganya? / Ada warna ...?",
+        "en": "Saya mau beli ... / Berapa harganya? / Ada warna ...?",
+        "id": "Saya mau beli ... / Berapa harganya? / Ada warna ...?"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en indkøbsliste med tre ting du vil købe og én farve til hver.",
+        "en": "Write a shopping list with three things you want to buy and one colour for each.",
+        "id": "Tulis daftar belanja dengan tiga barang yang ingin Anda beli dan satu warna untuk masing-masing."
+      },
+      "answerShape": {
+        "da": "Saya mau beli baju biru, tas hitam, dan sepatu putih.",
+        "en": "Saya mau beli baju biru, tas hitam, dan sepatu putih.",
+        "id": "Saya mau beli baju biru, tas hitam, dan sepatu putih."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvornår foretrækker du marked, og hvornår foretrækker du butik? Svar kort og brug mindst ét indonesisk ord for vare eller pris.",
+        "en": "When do you prefer a market, and when do you prefer a shop? Answer briefly and use at least one Indonesian word for an item or price.",
+        "id": "Kapan Anda lebih memilih pasar, dan kapan Anda lebih memilih toko? Jawab singkat dan gunakan setidaknya satu kata bahasa Indonesia untuk barang atau harga."
+      },
+      "answerShape": {
+        "da": "To til tre sætninger.",
+        "en": "Two to three sentences.",
+        "id": "Dua sampai tiga kalimat."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme11-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Enkel shoppingdialog på indonesisk",
+        "en": "Basic shopping dialogue in Indonesian",
+        "id": "Dialog belanja sederhana dalam bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video eller lydfil til lytte- og taleøvelser.",
+        "en": "Replace with your own video or audio file for listening and speaking practice.",
+        "id": "Ganti dengan video atau audio sendiri untuk latihan menyimak dan berbicara."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

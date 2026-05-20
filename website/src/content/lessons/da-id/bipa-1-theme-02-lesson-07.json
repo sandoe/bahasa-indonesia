@@ -1,0 +1,294 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 7,
+  "slug": "lesson-07",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Tinggal di Mana? — Hvor Bor Du?",
+    "en": "Tinggal di Mana? — Where Do You Live?",
+    "id": "Tinggal di Mana?"
+  },
+  "summary": {
+    "da": "Lær at tale om, hvor du bor. Introduktion til boligtyper, stedsbeskrivelse og strukturen 'tinggal di' + sted.",
+    "en": "Learn to talk about where you live. Introduction to housing types, location descriptions, and the structure 'tinggal di' + place.",
+    "id": "Belajar berbicara tentang tempat tinggal Anda. Pengenalan jenis tempat tinggal, deskripsi lokasi, dan struktur 'tinggal di' + tempat."
+  },
+  "objectives": [
+    {
+      "da": "Bruge strukturen 'Saya tinggal di + sted' korrekt.",
+      "en": "Use the structure 'Saya tinggal di + place' correctly.",
+      "id": "Menggunakan struktur 'Saya tinggal di + tempat' dengan benar."
+    },
+    {
+      "da": "Nævne og skelne boligtyper: rumah, apartemen, kos-kosan.",
+      "en": "Name and distinguish housing types: rumah, apartemen, kos-kosan.",
+      "id": "Menyebutkan dan membedakan jenis tempat tinggal: rumah, apartemen, kos-kosan."
+    },
+    {
+      "da": "Beskrive placering med dekat (nær), jauh (langt) og di + sted.",
+      "en": "Describe location using dekat (near), jauh (far), and di + place.",
+      "id": "Mendeskripsikan lokasi menggunakan dekat (dekat), jauh (jauh), dan di + tempat."
+    }
+  ],
+  "unit": {
+    "slug": "theme-02",
+    "order": 2,
+    "title": {
+      "da": "Tema 2: Identitet",
+      "en": "Theme 2: Identity",
+      "id": "Tema 2: Identitas"
+    },
+    "summary": {
+      "da": "Hvem er du? Personlige oplysninger og selvbeskrivelse.",
+      "en": "Who are you? Personal details and self-description.",
+      "id": "Siapa kamu? Informasi pribadi dan deskripsi diri."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg klassen: 'Tinggal di mana kamu?' Giv en model-svar og lad alle svare kort.",
+        "en": "Ask the class: 'Tinggal di mana kamu?' Give a model answer and let everyone respond briefly.",
+        "id": "Tanyakan kepada kelas: 'Tinggal di mana kamu?' Berikan contoh jawaban dan biarkan semua orang menjawab singkat."
+      },
+      "flow": [
+        {
+          "da": "Introducer boligtyperne: rumah (hus), apartemen (lejlighed), kos-kosan (ungdomsbolig/lejeværelse). Forklar at kos-kosan er meget almindeligt for studerende.",
+          "en": "Introduce housing types: rumah (house), apartemen (apartment), kos-kosan (boarding house room). Explain that kos-kosan is very common for students.",
+          "id": "Perkenalkan jenis tempat tinggal: rumah (rumah), apartemen (apartemen), kos-kosan (kamar kos). Jelaskan bahwa kos-kosan sangat umum untuk mahasiswa."
+        },
+        {
+          "da": "Forklar: tinggal = bo/bebo. Saya tinggal di + navn på by, kvarter eller adresse. Di er det centrale præpositionsord.",
+          "en": "Explain: tinggal = live/reside. Saya tinggal di + name of city, neighborhood, or address. Di is the key preposition.",
+          "id": "Jelaskan: tinggal = tinggal/menetap. Saya tinggal di + nama kota, kawasan, atau alamat. Di adalah kata depan kunci."
+        },
+        {
+          "da": "Lav en kort rollespiløvelse: nye naboer mødes og fortæller hinanden om deres boligsituation.",
+          "en": "Do a short role play exercise: new neighbors meet and tell each other about their housing situation.",
+          "id": "Lakukan latihan bermain peran singkat: tetangga baru bertemu dan saling bercerita tentang situasi hunian mereka."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Kos-kosan er et meget typisk indonesisk fænomen – enkeltværelser i private hjem udlejet til studerende. Det er kulturelt vigtigt at kende.",
+          "en": "Kos-kosan is a very typical Indonesian phenomenon – single rooms in private homes rented to students. It is culturally important to know.",
+          "id": "Kos-kosan adalah fenomena yang sangat khas Indonesia – kamar tunggal di rumah pribadi yang disewakan kepada mahasiswa. Penting diketahui secara budaya."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv din adresse på indonesisk. Brug jalan (gade), nomor (nummer), kota (by).",
+          "en": "Write your address in Indonesian. Use jalan (street), nomor (number), kota (city).",
+          "id": "Tuliskan alamat Anda dalam bahasa Indonesia. Gunakan jalan (jalan), nomor (nomor), kota (kota)."
+        },
+        {
+          "da": "Beskriv din bolig i tre sætninger: type, sted, og om den er nær eller langt fra noget vigtigt.",
+          "en": "Describe your home in three sentences: type, place, and whether it is near or far from something important.",
+          "id": "Deskripsikan tempat tinggal Anda dalam tiga kalimat: jenis, lokasi, dan apakah dekat atau jauh dari sesuatu yang penting."
+        },
+        {
+          "da": "Øv: 'Saya tinggal di apartemen di kota Kopenhagen. Apartemen saya dekat dengan stasiun kereta.'",
+          "en": "Practice: 'Saya tinggal di apartemen di kota Kopenhagen. Apartemen saya dekat dengan stasiun kereta.'",
+          "id": "Berlatihlah: 'Saya tinggal di apartemen di kota Kopenhagen. Apartemen saya dekat dengan stasiun kereta.'"
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du beskrive, hvor du bor i tre sætninger på indonesisk?",
+          "en": "Can you describe where you live in three sentences in Indonesian?",
+          "id": "Dapatkah Anda mendeskripsikan tempat tinggal Anda dalam tiga kalimat dalam bahasa Indonesia?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Andi (Nabo)",
+      "source": "Selamat siang! Jeg hedder Andi. Bor du her i lejligheden over for?",
+      "target": "Selamat siang! Nama saya Andi. Apakah kamu tinggal di apartemen di seberang sini?"
+    },
+    {
+      "speaker": "Mads",
+      "source": "Ya! Saya Mads. Saya tinggal di apartemen nomor lima.",
+      "target": "Ya! Saya Mads. Saya tinggal di apartemen nomor lima."
+    },
+    {
+      "speaker": "Andi (Nabo)",
+      "source": "Velkommen til kvarteret! Hvor er du fra?",
+      "target": "Selamat datang di sini! Kamu dari mana?"
+    },
+    {
+      "speaker": "Mads",
+      "source": "Saya dari Denmark. Jeg er ny i Jakarta.",
+      "target": "Saya dari Denmark. Saya baru di Jakarta."
+    },
+    {
+      "speaker": "Andi (Nabo)",
+      "source": "Aha! Rumah saya dekat dengan pasar tradisional. Er der noget du mangler?",
+      "target": "Aha! Rumah saya dekat dengan pasar tradisional. Ada yang kamu butuhkan?"
+    },
+    {
+      "speaker": "Mads",
+      "source": "Terima kasih, Andi! Harganya jauh dari tempat saya di Denmark.",
+      "target": "Terima kasih, Andi! Harganya jauh berbeda dari tempat saya di Denmark."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "At bo / At bebo",
+      "target": "Tinggal",
+      "note": {
+        "da": "Tinggal = bo/bebo/opholde sig. Også: tinggal = efterlad/forbliv (kontekstafhængigt).",
+        "en": "Tinggal = live/reside/stay. Also: tinggal = leave behind/remain (context dependent).",
+        "id": "Tinggal = tinggal/menetap. Juga: tinggal = meninggalkan/tetap (bergantung konteks)."
+      }
+    },
+    {
+      "source": "Hus",
+      "target": "Rumah",
+      "note": {
+        "da": "Rumah = hus/hjem. Rumah sakit = hospital (bogstaveligt: sygdomshjemmet).",
+        "en": "Rumah = house/home. Rumah sakit = hospital (literally: sick house).",
+        "id": "Rumah = rumah/rumah. Rumah sakit = rumah sakit (harfiah: rumah orang sakit)."
+      }
+    },
+    {
+      "source": "Lejlighed",
+      "target": "Apartemen",
+      "note": {
+        "da": "Internationalt lånord. Udtales ah-par-TEH-men.",
+        "en": "International loanword. Pronounced ah-par-TEH-men.",
+        "id": "Kata pinjaman internasional. Diucapkan ah-par-TEH-men."
+      }
+    },
+    {
+      "source": "By",
+      "target": "Kota",
+      "note": {
+        "da": "Kota = by (storby/city). Kabupaten = distrikt/regional enhed. Ibu kota = hovedstad (bogstaveligt: moderbyen).",
+        "en": "Kota = city (large city). Kabupaten = district/regional unit. Ibu kota = capital city (literally: mother city).",
+        "id": "Kota = kota (kota besar). Kabupaten = kabupaten/satuan regional. Ibu kota = ibu kota (harfiah: kota ibu)."
+      }
+    },
+    {
+      "source": "Landsby",
+      "target": "Desa",
+      "note": {
+        "da": "Desa = landsby. Orang desa = landsbybeboer. Perbedaan kota/desa (by/land) er meget markant i Indonesien.",
+        "en": "Desa = village. Orang desa = villager. The kota/desa divide (urban/rural) is very pronounced in Indonesia.",
+        "id": "Desa = desa. Orang desa = orang desa. Perbedaan kota/desa sangat terasa di Indonesia."
+      }
+    },
+    {
+      "source": "Tæt på / Nær",
+      "target": "Dekat",
+      "note": {
+        "da": "Dekat = nær/tæt på. Dekat dengan = tæt på + sted. Saya tinggal dekat dengan sekolah.",
+        "en": "Dekat = near/close to. Dekat dengan = close to + place. Saya tinggal dekat dengan sekolah.",
+        "id": "Dekat = dekat. Dekat dengan = dekat dengan + tempat. Saya tinggal dekat dengan sekolah."
+      }
+    },
+    {
+      "source": "Langt fra",
+      "target": "Jauh",
+      "note": {
+        "da": "Jauh = langt/langt væk. Jauh dari = langt fra + sted. Modsætning til dekat.",
+        "en": "Jauh = far/far away. Jauh dari = far from + place. Opposite of dekat.",
+        "id": "Jauh = jauh. Jauh dari = jauh dari + tempat. Lawan kata dekat."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya tinggal di [sted].",
+      "explanation": {
+        "da": "Di er det grundlæggende præposition for sted (statisk position). Di + sted = i/på/ved et sted. Sammenlign: ke = bevægelse mod sted. Dari = bevægelse fra sted.",
+        "en": "Di is the basic preposition for location (static position). Di + place = in/at/on a place. Compare: ke = movement toward place. Dari = movement from place.",
+        "id": "Di adalah kata depan dasar untuk lokasi (posisi statis). Di + tempat = di/pada/di atas suatu tempat. Bandingkan: ke = gerakan menuju tempat. Dari = gerakan dari tempat."
+      },
+      "examples": [
+        { "source": "Jeg bor i København.", "target": "Saya tinggal di Kopenhagen." },
+        { "source": "Han bor på landet.", "target": "Dia tinggal di desa." },
+        { "source": "Vi bor i en lejlighed.", "target": "Kita tinggal di apartemen." }
+      ]
+    },
+    {
+      "pattern": "Dekat dengan / Jauh dari + sted",
+      "explanation": {
+        "da": "Dekat dengan = tæt på (med dengan = med/tilknytning). Jauh dari = langt fra (med dari = fra). Disse bruges til at beskrive relativ beliggenhed.",
+        "en": "Dekat dengan = close to (with dengan = with/connection). Jauh dari = far from (with dari = from). These are used to describe relative location.",
+        "id": "Dekat dengan = dekat dengan (dengan = dengan/hubungan). Jauh dari = jauh dari (dari = dari). Ini digunakan untuk mendeskripsikan lokasi relatif."
+      },
+      "examples": [
+        { "source": "Jeg bor tæt på skolen.", "target": "Saya tinggal dekat dengan sekolah." },
+        { "source": "Det er langt fra by.", "target": "Itu jauh dari kota." }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Beskriv din bolig: Hvilken type, i hvilken by, og hvad er den tæt på?",
+        "en": "Describe your home: What type, in which city, and what is it close to?",
+        "id": "Deskripsikan tempat tinggal Anda: Jenis apa, di kota mana, dan dekat dengan apa?"
+      },
+      "answerShape": {
+        "da": "Saya tinggal di [type] di [by]. [type] saya dekat dengan [sted].",
+        "en": "Saya tinggal di [type] di [city]. [type] saya dekat dengan [place].",
+        "id": "Saya tinggal di [jenis] di [kota]. [jenis] saya dekat dengan [tempat]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Oversæt: 'Min ven bor langt fra byen i et lille hus på landet.'",
+        "en": "Translate: 'My friend lives far from the city in a small house in the countryside.'",
+        "id": "Terjemahkan: 'Teman saya tinggal jauh dari kota di rumah kecil di desa.'"
+      },
+      "answerShape": {
+        "da": "Teman saya tinggal jauh dari kota di rumah kecil di desa.",
+        "en": "Teman saya tinggal jauh dari kota di rumah kecil di desa.",
+        "id": "Teman saya tinggal jauh dari kota di rumah kecil di desa."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad tror du er de vigtigste forskelle på at bo i en stor indonesisk by som Jakarta vs. en dansk by som København?",
+        "en": "What do you think are the most important differences between living in a large Indonesian city like Jakarta vs. a Danish city like Copenhagen?",
+        "id": "Apa menurut Anda perbedaan terpenting antara tinggal di kota besar Indonesia seperti Jakarta vs. kota Denmark seperti Kopenhagen?"
+      },
+      "answerShape": {
+        "da": "Fri refleksion om bylivet.",
+        "en": "Free reflection on city life.",
+        "id": "Refleksi bebas tentang kehidupan kota."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme02-lesson07-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Boliger og Boligformer i Indonesien",
+        "en": "Homes and Housing Types in Indonesia",
+        "id": "Rumah dan Jenis Tempat Tinggal di Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

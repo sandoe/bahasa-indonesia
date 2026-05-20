@@ -1,0 +1,305 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-2",
+  "order": 3,
+  "slug": "lesson-03",
+  "durationMinutes": 45,
+  "title": {
+    "da": "Warung eller Supermarked?",
+    "en": "Warung or Supermarket?",
+    "id": "Warung vs. Supermarket"
+  },
+  "summary": {
+    "da": "Udforsk forskellige indonesiske indkøbsmiljøer — fra den lokale warung til det moderne supermarked — og lær at sammenligne dem.",
+    "en": "Explore different Indonesian shopping environments — from the local warung to the modern supermarket — and learn to compare them.",
+    "id": "Jelajahi berbagai lingkungan belanja Indonesia — dari warung lokal hingga supermarket modern — dan belajar membandingkannya."
+  },
+  "objectives": [
+    {
+      "da": "Navngive og beskrive mindst fire typer indonesiske butikker og stader.",
+      "en": "Name and describe at least four types of Indonesian shops and stalls.",
+      "id": "Menyebutkan dan mendeskripsikan setidaknya empat jenis toko dan kios Indonesia."
+    },
+    {
+      "da": "Sammenligne steder ved hjælp af strukturen 'lebih ... daripada'.",
+      "en": "Compare places using the structure 'lebih ... daripada'.",
+      "id": "Membandingkan tempat menggunakan struktur 'lebih ... daripada'."
+    },
+    {
+      "da": "Rådgive en nyankomne om, hvilken butiktype der passer til forskellige behov.",
+      "en": "Advise a newcomer on which type of shop suits different needs.",
+      "id": "Memberi saran kepada pendatang baru tentang jenis toko yang sesuai untuk kebutuhan yang berbeda."
+    }
+  ],
+  "unit": {
+    "slug": "unit-01",
+    "order": 1,
+    "title": {
+      "da": "Hverdag ude i Byen",
+      "en": "Everyday Life in Town",
+      "id": "Keseharian di Kota"
+    },
+    "summary": {
+      "da": "Sproget i brug: marked, butik, bank, posthus og transport.",
+      "en": "Language in use: market, shop, bank, post office, and transport.",
+      "id": "Bahasa dalam praktik: pasar, toko, bank, kantor pos, dan transportasi."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis billeder af en warung, et toko kelontong, et Indomaret og et stort supermarked side om side. Spørg eleverne: 'Hvad er forskelligt? Hvad er det samme?' Lad dem diskutere i par.",
+        "en": "Show pictures of a warung, a toko kelontong, an Indomaret, and a large supermarket side by side. Ask students: 'What is different? What is the same?' Let them discuss in pairs.",
+        "id": "Tampilkan gambar warung, toko kelontong, Indomaret, dan supermarket besar secara berdampingan. Tanya siswa: 'Apa yang berbeda? Apa yang sama?' Biarkan mereka berdiskusi berpasangan."
+      },
+      "flow": [
+        {
+          "da": "Introducer de fem butiktyper med ordforrådet. Fokuser på sociale og sproglige forskelle: på en warung taler du med ejeren, i et minimarket scanner du selv varerne.",
+          "en": "Introduce the five shop types with the vocabulary. Focus on social and linguistic differences: at a warung you chat with the owner, at a minimarket you may self-scan.",
+          "id": "Perkenalkan lima jenis toko dengan kosakata. Fokus pada perbedaan sosial dan linguistik: di warung kamu berbicara dengan pemiliknya, di minimarket kamu mungkin melakukan self-scan."
+        },
+        {
+          "da": "Lav grammatikøvelse med 'lebih ... daripada'. Eleverne skriver sætninger om de forskellige butiktyper: pris, atmosfære, sortiment.",
+          "en": "Do a grammar exercise with 'lebih ... daripada'. Students write sentences comparing the shop types: price, atmosphere, range of products.",
+          "id": "Lakukan latihan tata bahasa dengan 'lebih ... daripada'. Siswa menulis kalimat yang membandingkan jenis toko: harga, suasana, ragam produk."
+        },
+        {
+          "da": "Par-aktivitet: én spiller en nyankommet udlænding, den anden er en lokal hjælper. De diskuterer, hvilken butik der passer til specifikke indkøb.",
+          "en": "Pair activity: one plays a newly arrived foreigner, the other is a local helper. They discuss which shop suits specific purchases.",
+          "id": "Aktivitas berpasangan: satu orang berperan sebagai orang asing yang baru tiba, yang lain adalah pembantu lokal. Mereka mendiskusikan toko mana yang cocok untuk pembelian tertentu."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Indomaret og Alfamart er franchisekæder der har revolutioneret detailhandlen. De er tilgængelige 24/7 og sælger standardvarer til faste priser — ingen forhandling.",
+          "en": "Indomaret and Alfamart are franchise chains that have revolutionised retail. They are open 24/7 and sell standard goods at fixed prices — no bargaining.",
+          "id": "Indomaret dan Alfamart adalah jaringan waralaba yang telah merevolusi perdagangan eceran. Buka 24/7 dan menjual barang standar dengan harga tetap — tidak ada tawar-menawar."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs og lyt til dialogen to gange. Forsøg at forstå rådene, der gives, uden at se på ordlisten.",
+          "en": "Read and listen to the dialogue twice. Try to understand the advice given without looking at the vocabulary list.",
+          "id": "Baca dan dengarkan dialog dua kali. Coba pahami saran yang diberikan tanpa melihat daftar kosakata."
+        },
+        {
+          "da": "Skriv fem sammenligningssætninger om din by derhjemme og din by i Indonesien ved hjælp af 'lebih ... daripada'.",
+          "en": "Write five comparison sentences about your home city and an Indonesian city using 'lebih ... daripada'.",
+          "id": "Tulis lima kalimat perbandingan tentang kotamu di rumah dan kota di Indonesia menggunakan 'lebih ... daripada'."
+        },
+        {
+          "da": "Find et kort over dit nærmeste indonesiske bykvarter online og identificer, hvilke butiktyper der nævnes i denne lektion.",
+          "en": "Find a map of a nearby Indonesian neighbourhood online and identify which shop types from this lesson appear.",
+          "id": "Cari peta lingkungan Indonesia terdekat secara online dan identifikasi jenis toko dari pelajaran ini yang muncul."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du forklare forskellen mellem en warung og et minimarket med mindst to 'lebih ... daripada'-sætninger?",
+          "en": "Can you explain the difference between a warung and a minimarket using at least two 'lebih ... daripada' sentences?",
+          "id": "Bisakah kamu menjelaskan perbedaan antara warung dan minimarket menggunakan setidaknya dua kalimat 'lebih ... daripada'?"
+        },
+        {
+          "da": "Kan du anbefale den rigtige butiktype til mindst tre forskellige indkøbssituationer?",
+          "en": "Can you recommend the right shop type for at least three different shopping situations?",
+          "id": "Bisakah kamu merekomendasikan jenis toko yang tepat untuk setidaknya tiga situasi belanja yang berbeda?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Rania",
+      "source": "Hei, Lars! Har du fundet ud af, hvor du handler ind herpå?",
+      "target": "Hei, Lars! Kamu sudah tahu belanja di mana di sini?"
+    },
+    {
+      "speaker": "Lars",
+      "source": "Ikke helt. Jeg ser warung, minimarket og supermarked overalt. Hvad er forskellen egentlig?",
+      "target": "Belum terlalu. Aku lihat warung, minimarket, dan supermarket ada di mana-mana. Sebenarnya apa bedanya?"
+    },
+    {
+      "speaker": "Rania",
+      "source": "En warung er meget billigere end et minimarket til frisk mad, men sortimentet er begrænset. Det er bedst til morgenmad og snak.",
+      "target": "Warung jauh lebih murah daripada minimarket untuk makanan segar, tapi pilihannya terbatas. Paling enak untuk sarapan dan ngobrol."
+    },
+    {
+      "speaker": "Lars",
+      "source": "Og Indomaret — det er vel det samme som et 7-Eleven?",
+      "target": "Kalau Indomaret — sama seperti 7-Eleven kali ya?"
+    },
+    {
+      "speaker": "Rania",
+      "source": "Næsten. Det er mere praktisk end et supermarked fordi det er åbent hele natten, men det er dyrere end en warung. Brug det til snacks og toiletartikler.",
+      "target": "Hampir sama. Lebih praktis daripada supermarket karena buka sampai larut malam, tapi lebih mahal daripada warung. Pakai itu untuk camilan dan keperluan mandi."
+    },
+    {
+      "speaker": "Lars",
+      "source": "Forstået! Og det store supermarked i malet — hvornår er det værd at tage derhen?",
+      "target": "Paham! Lalu supermarket besar di mal — kapan sebaiknya pergi ke sana?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "madbod / lille spisested",
+      "target": "warung",
+      "note": {
+        "da": "Lille familieejet bod eller lille restaurant. Hjertet i det lokale dagligliv.",
+        "en": "Small family-owned stall or eatery. The heart of local daily life.",
+        "id": "Kios atau warung makan kecil milik keluarga. Jantung kehidupan sehari-hari lokal."
+      }
+    },
+    {
+      "source": "lokalt kolonialhandel / nærbutik",
+      "target": "toko kelontong",
+      "note": {
+        "da": "Lille nærbutik med basisvarer — tænk: hul-i-væggen med alt det nødvendige.",
+        "en": "Small neighbourhood grocery with basic goods — think: hole-in-the-wall with essentials.",
+        "id": "Toko kelontong kecil dengan barang-barang dasar — bayangkan: toko kecil dengan semua kebutuhan pokok."
+      }
+    },
+    {
+      "source": "minimarked (kæde)",
+      "target": "minimarket",
+      "note": {
+        "da": "Franchisekæder som Indomaret og Alfamart. Faste priser, åbner 24 timer.",
+        "en": "Franchise chains like Indomaret and Alfamart. Fixed prices, open 24 hours.",
+        "id": "Jaringan waralaba seperti Indomaret dan Alfamart. Harga tetap, buka 24 jam."
+      }
+    },
+    {
+      "source": "supermarked",
+      "target": "supermarket",
+      "note": {
+        "da": "Større butik med bredere sortiment, ofte i et indkøbscenter (mal).",
+        "en": "Larger store with a wider range, often in a shopping centre (mal).",
+        "id": "Toko yang lebih besar dengan pilihan lebih luas, sering berada di pusat perbelanjaan (mal)."
+      }
+    },
+    {
+      "source": "indkøbscenter / mall",
+      "target": "mal",
+      "note": {
+        "da": "Indonesiske maller er meget populære og fungerer som sociale mødesteder.",
+        "en": "Indonesian malls are very popular and function as social gathering places.",
+        "id": "Mal Indonesia sangat populer dan berfungsi sebagai tempat pertemuan sosial."
+      }
+    },
+    {
+      "source": "billigere",
+      "target": "lebih murah",
+      "note": {
+        "da": "'Lebih' + adjektiv = komparativ. 'Lebih murah' = billigere.",
+        "en": "'Lebih' + adjective = comparative. 'Lebih murah' = cheaper.",
+        "id": "'Lebih' + kata sifat = komparatif. 'Lebih murah' = lebih murah."
+      }
+    },
+    {
+      "source": "end / i sammenligning med",
+      "target": "daripada",
+      "note": {
+        "da": "Sammenligningspartikel: 'lebih mahal daripada' = dyrere end.",
+        "en": "Comparison particle: 'lebih mahal daripada' = more expensive than.",
+        "id": "Partikel perbandingan: 'lebih mahal daripada' = lebih mahal dari."
+      }
+    },
+    {
+      "source": "sortiment / valg / muligheder",
+      "target": "pilihan",
+      "note": {
+        "da": "Fra 'pilih' (at vælge). 'Pilihannya banyak' = der er mange valg.",
+        "en": "From 'pilih' (to choose). 'Pilihannya banyak' = there are many choices.",
+        "id": "Dari kata 'pilih'. 'Pilihannya banyak' = banyak pilihan."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "lebih + adjektiv + daripada + sammenligningsobjekt",
+      "explanation": {
+        "da": "Komparativ i indonesisk dannes med 'lebih' (mere) foran adjektivet og 'daripada' (end) efter det. Ordstillingen er fast. Der er ingen bøjning af adjektivet.",
+        "en": "Comparative in Indonesian is formed with 'lebih' (more) before the adjective and 'daripada' (than) after it. The word order is fixed. The adjective does not change form.",
+        "id": "Komparatif dalam bahasa Indonesia dibentuk dengan 'lebih' di depan kata sifat dan 'daripada' setelahnya. Urutan kata sudah tetap. Kata sifat tidak berubah bentuk."
+      },
+      "examples": [
+        {
+          "source": "En warung er billigere end et minimarket.",
+          "target": "Warung lebih murah daripada minimarket."
+        },
+        {
+          "source": "Et supermarked er større end en warung.",
+          "target": "Supermarket lebih besar daripada warung."
+        },
+        {
+          "source": "Et minimarket er mere bekvemt end et traditionelt marked.",
+          "target": "Minimarket lebih praktis daripada pasar tradisional."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Din ven er ny i Jakarta og beder om råd. Sammenlign warung og minimarket i mindst tre sætninger, og anbefal én til morgenmad.",
+        "en": "Your friend is new to Jakarta and asks for advice. Compare warung and minimarket in at least three sentences and recommend one for breakfast.",
+        "id": "Temanmu baru di Jakarta dan meminta saran. Bandingkan warung dan minimarket dalam setidaknya tiga kalimat dan rekomendasikan satu untuk sarapan."
+      },
+      "answerShape": {
+        "da": "Brug 'lebih ... daripada' mindst to gange. Afslut med en anbefaling: 'Saya sarankan pergi ke warung karena...'",
+        "en": "Use 'lebih ... daripada' at least twice. Conclude with a recommendation: 'Saya sarankan pergi ke warung karena...'",
+        "id": "Gunakan 'lebih ... daripada' setidaknya dua kali. Akhiri dengan rekomendasi: 'Saya sarankan pergi ke warung karena...'"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Byg fire sammenligningssætninger om to steder, du kender (kan være i Danmark eller Indonesien). Brug: murah, mahal, besar, praktis.",
+        "en": "Build four comparison sentences about two places you know (can be in Denmark or Indonesia). Use: murah, mahal, besar, praktis.",
+        "id": "Buat empat kalimat perbandingan tentang dua tempat yang kamu kenal (bisa di Denmark atau Indonesia). Gunakan: murah, mahal, besar, praktis."
+      },
+      "answerShape": {
+        "da": "F.eks. 'Pasar lebih murah daripada mal.' Alle fire sætninger skal bruge 'lebih ... daripada'.",
+        "en": "E.g. 'Pasar lebih murah daripada mal.' All four sentences should use 'lebih ... daripada'.",
+        "id": "Mis. 'Pasar lebih murah daripada mal.' Semua empat kalimat harus menggunakan 'lebih ... daripada'."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad tror du en warung betyder for det lokale samfund ud over at sælge mad? Tænk på sociale og kulturelle aspekter.",
+        "en": "What do you think a warung means for the local community beyond selling food? Think about social and cultural aspects.",
+        "id": "Menurutmu apa arti sebuah warung bagi masyarakat setempat selain berjualan makanan? Pikirkan aspek sosial dan budaya."
+      },
+      "answerShape": {
+        "da": "F.eks. mødested, information, kredit til stamkunder, tryghed i nabolaget. Svar på indonesisk med 2-3 sætninger.",
+        "en": "E.g. meeting place, information hub, credit for regulars, neighbourhood safety. Answer in Indonesian with 2-3 sentences.",
+        "id": "Mis. tempat berkumpul, pusat informasi, kredit untuk pelanggan tetap, keamanan lingkungan. Jawab dalam bahasa Indonesia dengan 2-3 kalimat."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-unit01-lesson03-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Fra Warung til Mal: Indonesiens Butiksliv",
+        "en": "From Warung to Mall: Indonesian Retail Life",
+        "id": "Dari Warung ke Mal: Kehidupan Ritel Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

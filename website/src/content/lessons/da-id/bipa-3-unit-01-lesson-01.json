@@ -1,0 +1,353 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-3",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 50,
+  "title": {
+    "da": "Fortidsmarkører",
+    "en": "Past Time Markers",
+    "id": "Penanda Waktu Lampau"
+  },
+  "summary": {
+    "da": "Lær at bruge indonesiske fortidsmarkører som sudah, pernah, dulu og tadi til at beskrive fortidige handlinger og livsoplevelser.",
+    "en": "Learn to use Indonesian past time markers such as sudah, pernah, dulu, and tadi to describe completed actions and life experiences.",
+    "id": "Belajar menggunakan penanda waktu lampau seperti sudah, pernah, dulu, dan tadi untuk menggambarkan tindakan yang telah selesai dan pengalaman hidup."
+  },
+  "objectives": [
+    {
+      "da": "Skelne mellem sudah (afsluttet handling) og pernah (livserfaring) og bruge dem korrekt i sætninger.",
+      "en": "Distinguish between sudah (completed action) and pernah (life experience) and use them correctly in sentences.",
+      "id": "Membedakan antara sudah (tindakan selesai) dan pernah (pengalaman hidup) dan menggunakannya dengan benar dalam kalimat."
+    },
+    {
+      "da": "Anvende tidsudtryk som dulu, tadi, kemarin og minggu lalu til at fortælle om begivenheder på forskellige tidspunkter i fortiden.",
+      "en": "Use time expressions such as dulu, tadi, kemarin, and minggu lalu to describe events at different points in the past.",
+      "id": "Menggunakan ekspresi waktu seperti dulu, tadi, kemarin, dan minggu lalu untuk menggambarkan peristiwa di berbagai titik di masa lalu."
+    },
+    {
+      "da": "Sammenligne livsoplevelser i en samtale ved hjælp af fortidsmarkører og relevante tidsudtryk.",
+      "en": "Compare life experiences in a conversation using past markers and relevant time expressions.",
+      "id": "Membandingkan pengalaman hidup dalam percakapan menggunakan penanda waktu lampau dan ekspresi waktu yang relevan."
+    }
+  ],
+  "unit": {
+    "slug": "unit-01",
+    "order": 1,
+    "title": {
+      "da": "Fortid og Erfaringer",
+      "en": "Past and Experiences",
+      "id": "Masa Lalu dan Pengalaman"
+    },
+    "summary": {
+      "da": "At fortælle om fortidige begivenheder og personlige erfaringer på indonesisk.",
+      "en": "Telling about past events and personal experiences in Indonesian.",
+      "id": "Menceritakan peristiwa masa lalu dan pengalaman pribadi dalam bahasa Indonesia."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg eleverne: 'Hvad lavede I i weekenden?' og skriv svaret på tavlen. Vis derefter, hvordan sudah og pernah ændrer betydningen af den samme sætning.",
+        "en": "Ask students: 'What did you do this weekend?' and write the answer on the board. Then show how sudah and pernah change the meaning of the same sentence.",
+        "id": "Tanya siswa: 'Apa yang kamu lakukan akhir pekan ini?' dan tulis jawabannya di papan. Kemudian tunjukkan bagaimana sudah dan pernah mengubah makna kalimat yang sama."
+      },
+      "flow": [
+        {
+          "da": "Introduktion (10 min): Præsenter de otte fortidsmarkører på tavlen og forklar den grundlæggende forskel: sudah/telah markerer afslutning, pernah markerer livserfaring.",
+          "en": "Introduction (10 min): Present the eight past markers on the board and explain the core distinction: sudah/telah mark completion, pernah marks life experience.",
+          "id": "Pengenalan (10 menit): Sajikan delapan penanda waktu lampau di papan dan jelaskan perbedaan inti: sudah/telah menandai penyelesaian, pernah menandai pengalaman hidup."
+        },
+        {
+          "da": "Meningskontrast (10 min): Skriv par af sætninger, f.eks. 'Saya sudah makan' vs 'Saya pernah makan durian', og lad eleverne diskutere forskellen to og to.",
+          "en": "Meaning contrast (10 min): Write pairs of sentences, e.g. 'Saya sudah makan' vs 'Saya pernah makan durian', and have students discuss the difference in pairs.",
+          "id": "Kontras makna (10 menit): Tulis pasangan kalimat, misalnya 'Saya sudah makan' vs 'Saya pernah makan durian', dan minta siswa mendiskusikan perbedaannya secara berpasangan."
+        },
+        {
+          "da": "Dialoglytning (10 min): Gennemgå dialogen om livsoplevelser, og bed eleverne markere alle fortidsmarkører og tidsudtryk, de hører.",
+          "en": "Dialogue listening (10 min): Go through the dialogue about life experiences and ask students to mark all past markers and time expressions they encounter.",
+          "id": "Menyimak dialog (10 menit): Tinjau dialog tentang pengalaman hidup dan minta siswa menandai semua penanda waktu lampau dan ekspresi waktu yang mereka temukan."
+        },
+        {
+          "da": "Parøvelse (15 min): Eleverne interviewer hinanden om tre ting, de har gjort (sudah) og tre unikke livsoplevelser (pernah), og noterer svarene.",
+          "en": "Pair practice (15 min): Students interview each other about three things they have done recently (sudah) and three unique life experiences (pernah), noting the answers.",
+          "id": "Latihan berpasangan (15 menit): Siswa mewawancarai satu sama lain tentang tiga hal yang telah mereka lakukan (sudah) dan tiga pengalaman hidup yang unik (pernah), sambil mencatat jawabannya."
+        },
+        {
+          "da": "Opsamling (5 min): Gennemgå klassens svar og ret eventuelle fejl i brugen af fortidsmarkørerne.",
+          "en": "Wrap-up (5 min): Review the class's answers and correct any errors in the use of past markers.",
+          "id": "Penutup (5 menit): Tinjau jawaban kelas dan perbaiki kesalahan apa pun dalam penggunaan penanda waktu lampau."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Telah er mere formelt end sudah og bruges mest i skriftsprog og nyheder. Undgå at overbelaste eleverne med telah i denne lektion — introducer det, men fokuser på sudah.",
+          "en": "Telah is more formal than sudah and is mostly used in written language and news. Avoid overloading students with telah in this lesson — introduce it but focus on sudah.",
+          "id": "Telah lebih formal daripada sudah dan paling sering digunakan dalam bahasa tulisan dan berita. Hindari membebani siswa dengan telah di pelajaran ini — perkenalkan saja tetapi fokus pada sudah."
+        },
+        {
+          "da": "Belum pernah er negationsformen af pernah. Introducer den kort, da den er meget nyttig i samtaler.",
+          "en": "Belum pernah is the negation of pernah. Introduce it briefly as it is very useful in conversations.",
+          "id": "Belum pernah adalah bentuk negasi dari pernah. Perkenalkan secara singkat karena sangat berguna dalam percakapan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs forklaringen på sudah vs pernah, og skriv fem eksempelsætninger med hver markør baseret på dine egne oplevelser.",
+          "en": "Read the explanation of sudah vs pernah, then write five example sentences with each marker based on your own experiences.",
+          "id": "Baca penjelasan tentang sudah vs pernah, lalu tulis lima kalimat contoh dengan setiap penanda berdasarkan pengalamanmu sendiri."
+        },
+        {
+          "da": "Lær de otte fortidsmarkører og tidsudtryk udenad. Brug flashkort, og øv dig i at udtale dem korrekt.",
+          "en": "Memorize the eight past markers and time expressions. Use flashcards and practice pronouncing them correctly.",
+          "id": "Hafalkanlah delapan penanda waktu lampau dan ekspresi waktu. Gunakan kartu flash dan berlatihlah mengucapkannya dengan benar."
+        },
+        {
+          "da": "Lyt til dialogen to gange, og identificer alle forekomster af sudah, pernah, dulu og tadi. Skriv dem ned med kontekst.",
+          "en": "Listen to the dialogue twice and identify all instances of sudah, pernah, dulu, and tadi. Write them down with context.",
+          "id": "Dengarkan dialog dua kali dan identifikasi semua kemunculan sudah, pernah, dulu, dan tadi. Tuliskan beserta konteksnya."
+        },
+        {
+          "da": "Udfør aktiviteterne til sidst, og tjek dine svar ved hjælp af tjekpunkterne.",
+          "en": "Complete the activities at the end, then check your answers using the checkpoints.",
+          "id": "Selesaikan aktivitas di bagian akhir, lalu periksa jawabanmu menggunakan titik periksa."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du forklare forskellen mellem 'Saya sudah makan' og 'Saya pernah makan durian' på indonesisk?",
+          "en": "Can you explain the difference between 'Saya sudah makan' and 'Saya pernah makan durian' in Indonesian?",
+          "id": "Bisakah kamu menjelaskan perbedaan antara 'Saya sudah makan' dan 'Saya pernah makan durian' dalam bahasa Indonesia?"
+        },
+        {
+          "da": "Kan du bruge mindst fire forskellige tidsudtryk (dulu, tadi, kemarin, minggu lalu) i korrekte sætninger?",
+          "en": "Can you use at least four different time expressions (dulu, tadi, kemarin, minggu lalu) in correct sentences?",
+          "id": "Bisakah kamu menggunakan setidaknya empat ekspresi waktu yang berbeda (dulu, tadi, kemarin, minggu lalu) dalam kalimat yang benar?"
+        },
+        {
+          "da": "Kan du spørge en ven eller et familiemedlem om tre livsoplevelser ved hjælp af 'Apakah kamu pernah...'?",
+          "en": "Can you ask a friend or family member about three life experiences using 'Apakah kamu pernah...'?",
+          "id": "Bisakah kamu menanyakan tiga pengalaman hidup kepada teman atau anggota keluarga menggunakan 'Apakah kamu pernah...'?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Rina",
+      "source": "Hej Bram, jeg har ikke set dig i lang tid! Har du allerede boet i Jakarta i et helt år nu?",
+      "target": "Hei Bram, sudah lama kita tidak bertemu! Apakah kamu sudah tinggal di Jakarta selama setahun penuh sekarang?"
+    },
+    {
+      "speaker": "Bram",
+      "source": "Ja, det har jeg faktisk. Tiden flyver virkelig hurtigt! Jeg er allerede vant til trafikken her, selvom det tog mig et par måneder at vænne mig til det.",
+      "target": "Ya, sudah betul. Waktu memang cepat sekali berlalu! Saya sudah terbiasa dengan lalu lintas di sini, meskipun butuh beberapa bulan untuk menyesuaikan diri."
+    },
+    {
+      "speaker": "Rina",
+      "source": "Har du nogensinde prøvet at tage en bajaj? Det er en oplevelse, man aldrig glemmer!",
+      "target": "Apakah kamu pernah mencoba naik bajaj? Itu adalah pengalaman yang tidak pernah terlupakan!"
+    },
+    {
+      "speaker": "Bram",
+      "source": "Ja, jeg har prøvet det et par gange! For en uge siden tog jeg en bajaj fra Kota Tua til hotellet, og det var faktisk sjovt, selvom det var lidt skræmmende i den tætte trafik.",
+      "target": "Ya, saya pernah mencobanya beberapa kali! Minggu lalu saya naik bajaj dari Kota Tua ke hotel, dan itu sebenarnya menyenangkan, meskipun sedikit mendebarkan dalam kemacetan."
+    },
+    {
+      "speaker": "Rina",
+      "source": "Har du allerede besøgt Borobudur? Det er en af de mest berømte seværdigheder i hele Indonesien.",
+      "target": "Apakah kamu sudah mengunjungi Borobudur? Itu adalah salah satu tempat wisata paling terkenal di seluruh Indonesia."
+    },
+    {
+      "speaker": "Bram",
+      "source": "Nej, jeg har faktisk aldrig besøgt Borobudur endnu, men jeg planlagde at tage dertil i forrige uge. Derimod er jeg allerede på Bali og Lombok.",
+      "target": "Belum, saya belum pernah mengunjungi Borobudur, tapi saya sudah merencanakan untuk pergi ke sana minggu lalu. Tapi saya sudah pernah ke Bali dan Lombok."
+    },
+    {
+      "speaker": "Rina",
+      "source": "Det lyder fantastisk! Dengang jeg var barn, boede jeg tæt på Borobudur, og vi plejede at gå dertil næsten hver måned. Det sted er virkelig magisk.",
+      "target": "Wah, kedengarannya luar biasa! Dulu waktu saya masih kecil, saya tinggal dekat Borobudur, dan kami sering pergi ke sana hampir setiap bulan. Tempat itu benar-benar ajaib."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "allerede (afsluttet)",
+      "target": "sudah",
+      "note": {
+        "da": "Bruges til at markere, at en handling er afsluttet. Placeres normalt foran verbet.",
+        "en": "Used to mark that an action is completed. Usually placed before the verb.",
+        "id": "Digunakan untuk menandai bahwa suatu tindakan telah selesai. Biasanya ditempatkan sebelum kata kerja."
+      }
+    },
+    {
+      "source": "har gjort (formel)",
+      "target": "telah",
+      "note": {
+        "da": "Formel variant af sudah. Bruges mest i skriftsprog, nyheder og officielle sammenhænge.",
+        "en": "Formal variant of sudah. Mostly used in written language, news, and official contexts.",
+        "id": "Varian formal dari sudah. Paling sering digunakan dalam bahasa tulisan, berita, dan konteks resmi."
+      }
+    },
+    {
+      "source": "nogensinde / har prøvet",
+      "target": "pernah",
+      "note": {
+        "da": "Markerer en livserfaring — noget man har gjort på et eller andet tidspunkt i livet. Bruges med spørgsmål og bekræftende sætninger.",
+        "en": "Marks a life experience — something one has done at some point in life. Used with questions and affirmative sentences.",
+        "id": "Menandai pengalaman hidup — sesuatu yang pernah dilakukan di suatu waktu dalam hidup. Digunakan dalam pertanyaan dan kalimat afirmatif."
+      }
+    },
+    {
+      "source": "aldrig (livserfaring)",
+      "target": "belum pernah",
+      "note": {
+        "da": "Negationsform af pernah — har aldrig gjort noget i sit liv. Bogstaveligt: 'endnu ikke nogensinde'.",
+        "en": "Negation of pernah — has never done something in one's life. Literally: 'not yet ever'.",
+        "id": "Bentuk negasi dari pernah — belum pernah melakukan sesuatu dalam hidupnya. Secara harfiah: 'belum pernah'."
+      }
+    },
+    {
+      "source": "dengang / tidligere",
+      "target": "dulu",
+      "note": {
+        "da": "Bruges om fortiden generelt, ofte om vaner eller tilstande, der ikke længere gælder. Kan bruges alene som sætningsadverbial.",
+        "en": "Used for the general past, often about habits or states that no longer apply. Can be used alone as a sentence adverb.",
+        "id": "Digunakan untuk masa lalu secara umum, sering tentang kebiasaan atau keadaan yang tidak lagi berlaku. Bisa digunakan sendiri sebagai keterangan kalimat."
+      }
+    },
+    {
+      "source": "lige før / for lidt siden",
+      "target": "tadi",
+      "note": {
+        "da": "Refererer til noget, der skete for kort tid siden — typisk inden for den samme dag eller time.",
+        "en": "Refers to something that happened a short time ago — typically within the same day or hour.",
+        "id": "Merujuk pada sesuatu yang terjadi tidak lama yang lalu — biasanya dalam hari atau jam yang sama."
+      }
+    },
+    {
+      "source": "i går",
+      "target": "kemarin",
+      "note": {
+        "da": "Standardordet for 'i går'. Bruges som tidsadverbial i begyndelsen eller slutningen af sætningen.",
+        "en": "The standard word for 'yesterday'. Used as a time adverb at the beginning or end of the sentence.",
+        "id": "Kata standar untuk 'kemarin'. Digunakan sebagai keterangan waktu di awal atau akhir kalimat."
+      }
+    },
+    {
+      "source": "i sidste uge",
+      "target": "minggu lalu",
+      "note": {
+        "da": "Bogstaveligt: 'forrige uge'. Mønsteret [tidsperiode] + lalu bruges for alle fortidsreferencer: bulan lalu (forrige måned), tahun lalu (sidste år).",
+        "en": "Literally: 'last week'. The pattern [time period] + lalu is used for all past references: bulan lalu (last month), tahun lalu (last year).",
+        "id": "Secara harfiah: 'minggu yang lalu'. Pola [periode waktu] + lalu digunakan untuk semua referensi masa lalu: bulan lalu (bulan lalu), tahun lalu (tahun lalu)."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Subjek + sudah/belum + Verb",
+      "explanation": {
+        "da": "Sudah placeres foran verbet for at markere, at en handling er afsluttet. Belum (endnu ikke) er negationsformen. Denne konstruktion svarer til dansk 'har + participium', men sudah er uforanderlig og bøjes ikke.",
+        "en": "Sudah is placed before the verb to mark that an action is completed. Belum (not yet) is the negative form. This construction corresponds to English 'have + past participle', but sudah is invariable and does not inflect.",
+        "id": "Sudah ditempatkan sebelum kata kerja untuk menandai bahwa suatu tindakan telah selesai. Belum (belum) adalah bentuk negatifnya. Konstruksi ini sesuai dengan bahasa Inggris 'have + past participle', tetapi sudah tidak berubah dan tidak diinfleksikan."
+      },
+      "examples": [
+        {
+          "source": "Jeg har allerede spist frokost, så jeg er ikke sulten.",
+          "target": "Saya sudah makan siang, jadi saya tidak lapar."
+        },
+        {
+          "source": "Han har endnu ikke sendt rapporten, selvom det er forbi deadline.",
+          "target": "Dia belum mengirim laporan itu, meskipun sudah melewati batas waktu."
+        },
+        {
+          "source": "Vi har allerede set den film to gange i denne måned.",
+          "target": "Kami sudah menonton film itu dua kali bulan ini."
+        }
+      ]
+    },
+    {
+      "pattern": "Subjek + pernah/belum pernah + Verb",
+      "explanation": {
+        "da": "Pernah bruges til at beskrive en livserfaring — noget man har gjort mindst én gang i livet. Belum pernah er negationsformen. I modsætning til sudah fokuserer pernah ikke på, hvornår handlingen fandt sted, men på om erfaringen eksisterer overhovedet.",
+        "en": "Pernah is used to describe a life experience — something one has done at least once in life. Belum pernah is the negative form. Unlike sudah, pernah does not focus on when the action took place, but on whether the experience exists at all.",
+        "id": "Pernah digunakan untuk menggambarkan pengalaman hidup — sesuatu yang pernah dilakukan setidaknya sekali dalam hidup. Belum pernah adalah bentuk negatifnya. Tidak seperti sudah, pernah tidak berfokus pada kapan tindakan itu terjadi, tetapi pada apakah pengalaman itu ada sama sekali."
+      },
+      "examples": [
+        {
+          "source": "Har du nogensinde prøvet at spise soto Betawi? Det er en fantastisk suppe.",
+          "target": "Apakah kamu pernah mencoba makan soto Betawi? Itu adalah sup yang luar biasa."
+        },
+        {
+          "source": "Jeg har aldrig besøgt Papua, men jeg drømmer om at tage dertid en dag.",
+          "target": "Saya belum pernah mengunjungi Papua, tetapi saya bermimpi untuk pergi ke sana suatu hari nanti."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Fortæl din partner om tre ting, du allerede har gjort i dag (brug sudah), og tre oplevelser, du har haft i dit liv (brug pernah). Din partner spørger opfølgende spørgsmål.",
+        "en": "Tell your partner about three things you have already done today (use sudah) and three experiences you have had in your life (use pernah). Your partner asks follow-up questions.",
+        "id": "Ceritakan kepada pasanganmu tentang tiga hal yang sudah kamu lakukan hari ini (gunakan sudah) dan tiga pengalaman yang pernah kamu alami dalam hidupmu (gunakan pernah). Pasanganmu mengajukan pertanyaan lanjutan."
+      },
+      "answerShape": {
+        "da": "Saya sudah [verb] hari ini. / Saya pernah [verb] waktu saya [konteks]. / Saya belum pernah [verb], tetapi saya ingin [verb] suatu hari nanti.",
+        "en": "Saya sudah [verb] hari ini. / Saya pernah [verb] waktu saya [context]. / Saya belum pernah [verb], tetapi saya ingin [verb] suatu hari nanti.",
+        "id": "Saya sudah [kata kerja] hari ini. / Saya pernah [kata kerja] waktu saya [konteks]. / Saya belum pernah [kata kerja], tetapi saya ingin [kata kerja] suatu hari nanti."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Sæt de rigtige fortidsmarkører ind i de tomme felter: dulu, tadi, kemarin, minggu lalu. Pas på — kun én markør passer til hvert hul.",
+        "en": "Fill in the correct past time marker in each blank: dulu, tadi, kemarin, minggu lalu. Be careful — only one marker fits each gap.",
+        "id": "Isikan penanda waktu lampau yang tepat di setiap tempat kosong: dulu, tadi, kemarin, minggu lalu. Hati-hati — hanya satu penanda yang cocok untuk setiap bagian yang kosong."
+      },
+      "answerShape": {
+        "da": "_____ saya tinggal di Surabaya. (= Dulu) / Saya baru makan _____ di kantin. (= tadi) / _____ hujan sangat lebat. (= Kemarin) / Kami pergi ke museum _____. (= minggu lalu)",
+        "en": "_____ saya tinggal di Surabaya. (= Dulu) / Saya baru makan _____ di kantin. (= tadi) / _____ hujan sangat lebat. (= Kemarin) / Kami pergi ke museum _____. (= minggu lalu)",
+        "id": "_____ saya tinggal di Surabaya. (= Dulu) / Saya baru makan _____ di kantin. (= tadi) / _____ hujan sangat lebat. (= Kemarin) / Kami pergi ke museum _____. (= minggu lalu)"
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Skriv et kort afsnit (fem til syv sætninger) om en ting, du har gjort for nylig (brug sudah), og én livsoplevelse, der er vigtig for dig (brug pernah). Forklaring af, hvorfor den oplevelse var vigtig.",
+        "en": "Write a short paragraph (five to seven sentences) about one thing you have done recently (use sudah) and one life experience that is important to you (use pernah). Include an explanation of why that experience was important.",
+        "id": "Tulislah sebuah paragraf singkat (lima hingga tujuh kalimat) tentang satu hal yang baru saja kamu lakukan (gunakan sudah) dan satu pengalaman hidup yang penting bagimu (gunakan pernah). Sertakan penjelasan mengapa pengalaman itu penting."
+      },
+      "answerShape": {
+        "da": "Saya sudah [aktivitet] karena [grund]. Saya pernah [oplevelse] dan itu sangat berkesan bagi saya karena [forklaring].",
+        "en": "Saya sudah [activity] karena [reason]. Saya pernah [experience] dan itu sangat berkesan bagi saya karena [explanation].",
+        "id": "Saya sudah [aktivitas] karena [alasan]. Saya pernah [pengalaman] dan itu sangat berkesan bagi saya karena [penjelasan]."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-unit01-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Fortidsmarkører i brug: sudah og pernah i hverdagssamtaler",
+        "en": "Past markers in use: sudah and pernah in everyday conversations",
+        "id": "Penanda waktu lampau dalam penggunaan: sudah dan pernah dalam percakapan sehari-hari"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

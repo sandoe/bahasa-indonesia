@@ -1,0 +1,328 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 30,
+  "title": {
+    "da": "Vokaler i Praksis",
+    "en": "Vowels in Practice",
+    "id": "Vokal dalam Praktik"
+  },
+  "summary": {
+    "da": "Øv de 5 indonesiske vokaler (a, e, i, o, u) med rigtige ord. Særlig fokus på de to lyde af E: åben og lukket.",
+    "en": "Practice the 5 Indonesian vowels (a, e, i, o, u) with real words. Special focus on the two sounds of E: open and closed.",
+    "id": "Latih 5 vokal bahasa Indonesia (a, e, i, o, u) dengan kata-kata nyata. Fokus khusus pada dua bunyi E: terbuka dan tertutup."
+  },
+  "objectives": [
+    {
+      "da": "Udtale alle 5 indonesiske vokaler korrekt i rigtige ord",
+      "en": "Pronounce all 5 Indonesian vowels correctly in real words",
+      "id": "Mengucapkan semua 5 vokal bahasa Indonesia dengan benar dalam kata-kata nyata"
+    },
+    {
+      "da": "Skelne mellem åben-E (terbuka) og lukket-E (tertutup)",
+      "en": "Distinguish between open-E (terbuka) and closed-E (tertutup)",
+      "id": "Membedakan antara E terbuka dan E tertutup"
+    },
+    {
+      "da": "Genkende og udtale dagligdags ord som meja, buku og pagi",
+      "en": "Recognise and pronounce everyday words such as meja, buku, and pagi",
+      "id": "Mengenali dan mengucapkan kata-kata sehari-hari seperti meja, buku, dan pagi"
+    }
+  ],
+  "unit": {
+    "slug": "theme-00",
+    "order": 0,
+    "title": {
+      "da": "Tema 0: Fundamentet",
+      "en": "Theme 0: The Foundation",
+      "id": "Tema 0: Dasar"
+    },
+    "summary": {
+      "da": "Sprogets byggesten: Bogstaver, lyde og de første regler.",
+      "en": "Building blocks: Letters, sounds, first rules.",
+      "id": "Fondasi bahasa: huruf, bunyi, aturan pertama."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skriv de fem vokaler på tavlen: A – E – I – O – U. Spørg eleverne: 'Kender I alle disse lyde fra dansk?' Fremhæv at E er den eneste vokal med to distinkte lyde på indonesisk.",
+        "en": "Write the five vowels on the board: A – E – I – O – U. Ask students: 'Do you recognise all these sounds from Danish?' Highlight that E is the only vowel with two distinct sounds in Indonesian.",
+        "id": "Tulis lima vokal di papan tulis: A – E – I – O – U. Tanya siswa: 'Apakah kalian mengenal semua bunyi ini dari bahasa Denmark?' Tekankan bahwa E adalah satu-satunya vokal dengan dua bunyi yang berbeda dalam bahasa Indonesia."
+      },
+      "flow": [
+        {
+          "da": "Runde 1 – Enkeltlyde: Sig hvert vokaleksempel langsomt og tydeligt. Eleverne gentager i kor. Brug håndbevægelser: åben hånd for åben-E, lukket hånd for lukket-E.",
+          "en": "Round 1 – Single sounds: Say each vowel example slowly and clearly. Students repeat in chorus. Use hand gestures: open hand for open-E, closed fist for closed-E.",
+          "id": "Putaran 1 – Bunyi tunggal: Ucapkan setiap contoh vokal dengan perlahan dan jelas. Siswa mengulangi bersama. Gunakan gerakan tangan: tangan terbuka untuk E terbuka, tangan terkepal untuk E tertutup."
+        },
+        {
+          "da": "Runde 2 – Ordpar: Sammenlign ord med åben-E og lukket-E side om side, f.eks. 'beli' vs. 'emak'. Eleverne lytter og identificerer hvilken E-lyd de hører.",
+          "en": "Round 2 – Word pairs: Compare words with open-E and closed-E side by side, e.g. 'beli' vs. 'emak'. Students listen and identify which E sound they hear.",
+          "id": "Putaran 2 – Pasangan kata: Bandingkan kata-kata dengan E terbuka dan E tertutup secara berdampingan, mis. 'beli' vs. 'emak'. Siswa mendengarkan dan mengidentifikasi bunyi E mana yang mereka dengar."
+        },
+        {
+          "da": "Runde 3 – Rollespil: Brug dialogeksemplet. Elev A er lærer, elev B er studerende. Skift roller. Fokuser på naturlig udtale frem for perfektionisme.",
+          "en": "Round 3 – Role play: Use the dialogue example. Student A is the teacher, student B is the student. Switch roles. Focus on natural pronunciation rather than perfectionism.",
+          "id": "Putaran 3 – Bermain peran: Gunakan contoh dialog. Siswa A adalah guru, siswa B adalah pelajar. Ganti peran. Fokus pada pengucapan alami daripada kesempurnaan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Dansk har også en åben og lukket E-lyd (sammenlign 'sæt' og 'se'), så brug dette som bro til forståelse. De fleste elever genkender forskel instinktivt, når det påpeges.",
+          "en": "Danish also has open and closed E sounds (compare 'sæt' and 'se'), so use this as a bridge to understanding. Most students recognise the difference instinctively once it is pointed out.",
+          "id": "Bahasa Denmark juga memiliki bunyi E terbuka dan tertutup (bandingkan 'sæt' dan 'se'), jadi gunakan ini sebagai jembatan pemahaman. Sebagian besar siswa mengenali perbedaan secara instinktif begitu diberitahu."
+        },
+        {
+          "da": "Undgå at bruge IPA-notation med begyndere. Hold fokus på lytning og imitation frem for tekniske symboler.",
+          "en": "Avoid using IPA notation with beginners. Keep focus on listening and imitation rather than technical symbols.",
+          "id": "Hindari penggunaan notasi IPA dengan pemula. Fokus pada mendengarkan dan meniru daripada simbol teknis."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lyt til eksempelordene for alle 5 vokaler. For hvert ord: lyt, gentag højt, og skriv ordet ned. Kontroller din stavning bagefter.",
+          "en": "Listen to the example words for all 5 vowels. For each word: listen, repeat aloud, and write the word down. Check your spelling afterwards.",
+          "id": "Dengarkan kata-kata contoh untuk semua 5 vokal. Untuk setiap kata: dengarkan, ulangi dengan suara keras, dan tuliskan katanya. Periksa ejaan Anda sesudahnya."
+        },
+        {
+          "da": "Øv de to E-lyde: lav en liste med 3 ord til åben-E og 3 ord til lukket-E. Sig dem højt og mærk forskellen i munden.",
+          "en": "Practise the two E sounds: make a list of 3 words with open-E and 3 words with closed-E. Say them aloud and feel the difference in your mouth.",
+          "id": "Latih dua bunyi E: buat daftar 3 kata dengan E terbuka dan 3 kata dengan E tertutup. Ucapkan dengan keras dan rasakan perbedaannya di mulut Anda."
+        },
+        {
+          "da": "Optag dig selv, mens du udtaler alle vokabelordene. Afspil optagelsen og sammenlign med eksemplerne.",
+          "en": "Record yourself pronouncing all the vocabulary words. Play back the recording and compare with the examples.",
+          "id": "Rekam diri Anda mengucapkan semua kata kosakata. Putar rekaman dan bandingkan dengan contoh."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du udtale alle 5 vokaler i ord som meja, buku og pagi uden at tøve?",
+          "en": "Can you pronounce all 5 vowels in words like meja, buku, and pagi without hesitating?",
+          "id": "Dapatkah Anda mengucapkan semua 5 vokal dalam kata-kata seperti meja, buku, dan pagi tanpa ragu-ragu?"
+        },
+        {
+          "da": "Kan du høre og gentage forskellen mellem åben-E i 'beli' og lukket-E i 'emak'?",
+          "en": "Can you hear and reproduce the difference between open-E in 'beli' and closed-E in 'emak'?",
+          "id": "Dapatkah Anda mendengar dan mereproduksi perbedaan antara E terbuka dalam 'beli' dan E tertutup dalam 'emak'?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Guru",
+      "source": "God morgen! Lad os øve vokalerne i dag. Sig efter mig: a, e, i, o, u.",
+      "target": "Selamat pagi! Hari ini kita berlatih vokal. Tirukan saya: a, e, i, o, u."
+    },
+    {
+      "speaker": "Murid",
+      "source": "A, e, i, o, u. Er det rigtigt?",
+      "target": "A, e, i, o, u. Apakah sudah benar?"
+    },
+    {
+      "speaker": "Guru",
+      "source": "Næsten! Lyt til E: der er to lyde. I 'beli' er E åben – som i dansk 'sæt'. I 'emak' er E lukket – som i dansk 'se'.",
+      "target": "Hampir benar! Perhatikan E: ada dua bunyi. Dalam 'beli', E terbuka. Dalam 'emak', E tertutup."
+    },
+    {
+      "speaker": "Murid",
+      "source": "Forstår jeg det rigtigt – 'meja' har en åben E?",
+      "target": "Apakah saya benar – 'meja' memakai E terbuka?"
+    },
+    {
+      "speaker": "Guru",
+      "source": "Præcis! Og 'guru' – hvilke vokaler hører du?",
+      "target": "Tepat! Dan 'guru' – vokal apa yang kamu dengar?"
+    },
+    {
+      "speaker": "Murid",
+      "source": "Jeg hører u og u. Og i 'pagi' hører jeg a og i.",
+      "target": "Saya mendengar u dan u. Dan dalam 'pagi' saya mendengar a dan i."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "bord (bord)",
+      "target": "meja",
+      "note": {
+        "da": "Vokaler: e (åben) + a. Et af de første ord alle indonesiske børn lærer.",
+        "en": "Vowels: e (open) + a. One of the first words all Indonesian children learn.",
+        "id": "Vokal: e (terbuka) + a. Salah satu kata pertama yang dipelajari semua anak Indonesia."
+      }
+    },
+    {
+      "source": "bog",
+      "target": "buku",
+      "note": {
+        "da": "Vokaler: u + u. Bemærk at begge u'er udtales ens.",
+        "en": "Vowels: u + u. Note that both u sounds are pronounced the same.",
+        "id": "Vokal: u + u. Perhatikan bahwa kedua bunyi u diucapkan sama."
+      }
+    },
+    {
+      "source": "morgen",
+      "target": "pagi",
+      "note": {
+        "da": "Vokaler: a + i. Bruges i hilsenen 'selamat pagi'.",
+        "en": "Vowels: a + i. Used in the greeting 'selamat pagi'.",
+        "id": "Vokal: a + i. Digunakan dalam salam 'selamat pagi'."
+      }
+    },
+    {
+      "source": "eftermiddag / sen eftermiddag",
+      "target": "sore",
+      "note": {
+        "da": "Vokaler: o + e (åben). Bruges om perioden ca. 15–18.",
+        "en": "Vowels: o + e (open). Used for the period approximately 15:00–18:00.",
+        "id": "Vokal: o + e (terbuka). Digunakan untuk periode sekitar pukul 15.00–18.00."
+      }
+    },
+    {
+      "source": "lærer",
+      "target": "guru",
+      "note": {
+        "da": "Vokaler: u + u. Et lånord der er kommet ind i mange europæiske sprog.",
+        "en": "Vowels: u + u. A loanword that has entered many European languages.",
+        "id": "Vokal: u + u. Kata pinjaman yang masuk ke banyak bahasa Eropa."
+      }
+    },
+    {
+      "source": "at købe / billig",
+      "target": "beli",
+      "note": {
+        "da": "Vokaler: e (åben) + i. Et godt eksempel på åben-E.",
+        "en": "Vowels: e (open) + i. A good example of open-E.",
+        "id": "Vokal: e (terbuka) + i. Contoh yang baik untuk E terbuka."
+      }
+    },
+    {
+      "source": "mor (uformel)",
+      "target": "emak",
+      "note": {
+        "da": "Vokaler: e (lukket) + a. Et godt eksempel på lukket-E. Uformel/dialektal betegnelse for mor.",
+        "en": "Vowels: e (closed) + a. A good example of closed-E. Informal/dialectal word for mother.",
+        "id": "Vokal: e (tertutup) + a. Contoh yang baik untuk E tertutup. Kata tidak resmi/dialek untuk ibu."
+      }
+    },
+    {
+      "source": "ris",
+      "target": "nasi",
+      "note": {
+        "da": "Vokaler: a + i. Det vigtigste basisfødevare i indonesisk kultur.",
+        "en": "Vowels: a + i. The most important staple food in Indonesian culture.",
+        "id": "Vokal: a + i. Makanan pokok terpenting dalam budaya Indonesia."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Vokalidentifikation: sæt + vokal + ord",
+      "explanation": {
+        "da": "For at identificere en vokal i et ord kan man sige: 'Vokalen i [ord] er [vokal].' På indonesisk: 'Vokal dalam [kata] adalah [vokal].' Dette er et nyttigt redskab i udtaleundervisning.",
+        "en": "To identify a vowel in a word one can say: 'The vowel in [word] is [vowel].' In Indonesian: 'Vokal dalam [kata] adalah [vokal].' This is a useful tool in pronunciation teaching.",
+        "id": "Untuk mengidentifikasi vokal dalam sebuah kata, seseorang dapat berkata: 'Vokal dalam [kata] adalah [vokal].' Ini adalah alat yang berguna dalam pengajaran pengucapan."
+      },
+      "examples": [
+        {
+          "source": "Vokalen i 'meja' er E og A.",
+          "target": "Vokal dalam 'meja' adalah e dan a."
+        },
+        {
+          "source": "Vokalen i 'buku' er U og U.",
+          "target": "Vokal dalam 'buku' adalah u dan u."
+        },
+        {
+          "source": "Vokalen i 'pagi' er A og I.",
+          "target": "Vokal dalam 'pagi' adalah a dan i."
+        }
+      ]
+    },
+    {
+      "pattern": "E terbuka vs. E tertutup",
+      "explanation": {
+        "da": "Indonesisk E har to udtaler: E terbuka (åben E) lyder som dansk 'æ' og forekommer i ord som 'beli', 'sore', 'meja'. E tertutup (lukket E) lyder som dansk 'e' i 'se' og forekommer i ord som 'emak', 'enak', 'besar'. I standard skriftlig indonesisk skelnes der ikke i stavemåden.",
+        "en": "Indonesian E has two pronunciations: E terbuka (open E) sounds like Danish 'æ' and occurs in words like 'beli', 'sore', 'meja'. E tertutup (closed E) sounds like English 'e' in 'they' and occurs in words like 'emak', 'enak', 'besar'. Standard written Indonesian does not distinguish between them in spelling.",
+        "id": "E dalam bahasa Indonesia memiliki dua pengucapan: E terbuka terdengar seperti 'e' dalam kata 'ekor' dan terjadi dalam kata-kata seperti 'beli', 'sore', 'meja'. E tertutup terdengar lebih seperti 'e' dalam 'ember' dan terjadi dalam kata-kata seperti 'emak', 'enak', 'besar'. Ejaan bahasa Indonesia standar tidak membedakan keduanya."
+      },
+      "examples": [
+        {
+          "source": "Åben E – 'at købe': udtales som dansk 'æ'",
+          "target": "E terbuka – beli: diucapkan seperti 'e' dalam 'ekor'"
+        },
+        {
+          "source": "Lukket E – 'lækkert': udtales som dansk 'e' i 'se'",
+          "target": "E tertutup – enak: diucapkan seperti 'e' dalam 'ember'"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til de følgende ord og skriv hvilken vokal du hører i den betonede stavelse: meja, buku, pagi, sore, guru.",
+        "en": "Listen to the following words and write down which vowel you hear in the stressed syllable: meja, buku, pagi, sore, guru.",
+        "id": "Dengarkan kata-kata berikut dan tuliskan vokal yang Anda dengar pada suku kata yang ditekankan: meja, buku, pagi, sore, guru."
+      },
+      "answerShape": {
+        "da": "meja → E og A, buku → U og U, pagi → A og I, sore → O og E, guru → U og U",
+        "en": "meja → E and A, buku → U and U, pagi → A and I, sore → O and E, guru → U and U",
+        "id": "meja → E dan A, buku → U dan U, pagi → A dan I, sore → O dan E, guru → U dan U"
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig hvert ord tre gange tydeligt: meja, buku, pagi, sore, guru, beli, emak, nasi. Optag dig selv og lyt efter om vokalerne lyder klare og distinkte.",
+        "en": "Say each word three times clearly: meja, buku, pagi, sore, guru, beli, emak, nasi. Record yourself and listen to whether the vowels sound clear and distinct.",
+        "id": "Ucapkan setiap kata tiga kali dengan jelas: meja, buku, pagi, sore, guru, beli, emak, nasi. Rekam diri Anda dan dengarkan apakah vokalnya terdengar jelas dan berbeda."
+      },
+      "answerShape": {
+        "da": "Alle vokaler udtales klart og fuldt – ingen reducerede lyde. E i 'beli' og 'meja' lyder åbnere end E i 'emak'.",
+        "en": "All vowels pronounced clearly and fully – no reduced sounds. E in 'beli' and 'meja' sounds more open than E in 'emak'.",
+        "id": "Semua vokal diucapkan dengan jelas dan penuh – tidak ada bunyi yang dikurangi. E dalam 'beli' dan 'meja' terdengar lebih terbuka daripada E dalam 'emak'."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Sorter disse ord i to kolonner: Åben-E og Lukket-E: beli, emak, meja, enak, sore, besar.",
+        "en": "Sort these words into two columns: Open-E and Closed-E: beli, emak, meja, enak, sore, besar.",
+        "id": "Urutkan kata-kata ini ke dalam dua kolom: E Terbuka dan E Tertutup: beli, emak, meja, enak, sore, besar."
+      },
+      "answerShape": {
+        "da": "Åben-E: beli, meja, sore. Lukket-E: emak, enak, besar.",
+        "en": "Open-E: beli, meja, sore. Closed-E: emak, enak, besar.",
+        "id": "E Terbuka: beli, meja, sore. E Tertutup: emak, enak, besar."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme00-lesson02-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Vokalerne A, E, I, O, U med eksempelord",
+        "en": "The vowels A, E, I, O, U with example words",
+        "id": "Vokal A, E, I, O, U dengan kata-kata contoh"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

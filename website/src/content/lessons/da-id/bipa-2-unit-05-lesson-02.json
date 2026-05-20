@@ -1,0 +1,316 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-2",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 45,
+  "title": {
+    "da": "Book hotel og overnatning",
+    "en": "Booking accommodation",
+    "id": "Memesan Hotel dan Akomodasi"
+  },
+  "summary": {
+    "da": "Lær at booke og checke ind på hotel eller gæstehus — spørg om faciliteter, pris og ledige rum.",
+    "en": "Learn to book and check into a hotel or guesthouse — ask about facilities, price, and room availability.",
+    "id": "Belajar memesan dan check-in di hotel atau penginapan — tanyakan fasilitas, harga, dan ketersediaan kamar."
+  },
+  "objectives": [
+    {
+      "da": "Spørge om ledige rum med 'apakah ada kamar untuk...'.",
+      "en": "Ask about room availability using 'apakah ada kamar untuk...'.",
+      "id": "Menanyakan ketersediaan kamar dengan 'apakah ada kamar untuk...'."
+    },
+    {
+      "da": "Forstå og bruge nøgleord om hotel-faciliteter og betingelser.",
+      "en": "Understand and use key vocabulary about hotel facilities and conditions.",
+      "id": "Memahami dan menggunakan kosakata utama tentang fasilitas dan kondisi hotel."
+    },
+    {
+      "da": "Gennemføre en check-in-samtale på indonesisk.",
+      "en": "Carry out a check-in conversation in Indonesian.",
+      "id": "Melakukan percakapan check-in dalam bahasa Indonesia."
+    }
+  ],
+  "unit": {
+    "slug": "unit-05",
+    "order": 5,
+    "title": {
+      "da": "Rejser og Turisme",
+      "en": "Travel and Tourism",
+      "id": "Perjalanan dan Wisata"
+    },
+    "summary": {
+      "da": "Planlæg og gennemfør rejser i Indonesia med sproget som kompas.",
+      "en": "Plan and complete trips in Indonesia with language as your compass.",
+      "id": "Rencanakan dan laksanakan perjalanan di Indonesia dengan bahasa sebagai kompas."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis billeder af forskellige typer overnatning i Indonesien: bintang lima-hotel, losmen, homestay og villa. Spørg klassen: 'Hvad er forskellen? Hvornår ville du vælge hvad?'",
+        "en": "Show images of different accommodation types in Indonesia: five-star hotel, losmen, homestay, and villa. Ask the class: 'What is the difference? When would you choose each?'",
+        "id": "Tampilkan gambar berbagai jenis akomodasi di Indonesia: hotel bintang lima, losmen, homestay, dan villa. Tanya kelas: 'Apa perbedaannya? Kapan kamu akan memilih masing-masing?'"
+      },
+      "flow": [
+        {
+          "da": "Introducer nøgleord for akomodasi og faciliteter. Brug billedkort og sæt ord på: AC, wifi, kolam renang, sarapan.",
+          "en": "Introduce key vocabulary for accommodation and facilities. Use picture cards and label them: AC, wifi, kolam renang, sarapan.",
+          "id": "Perkenalkan kosakata utama untuk akomodasi dan fasilitas. Gunakan kartu gambar dan beri label: AC, wifi, kolam renang, sarapan."
+        },
+        {
+          "da": "Præsenter grammatikmønstret 'apakah ada kamar untuk...'. Øv med forskellige scenarier: enkeltværelse, dobbeltværelse, tre nætter.",
+          "en": "Present the grammar pattern 'apakah ada kamar untuk...'. Practise with different scenarios: single room, double room, three nights.",
+          "id": "Perkenalkan pola tata bahasa 'apakah ada kamar untuk...'. Praktikkan dengan berbagai skenario: kamar single, kamar double, tiga malam."
+        },
+        {
+          "da": "Lyt til og læs dialogen. Diskuter: Hvad beder gæsten om? Hvad siger receptionisten?",
+          "en": "Listen to and read the dialogue. Discuss: What does the guest ask for? What does the receptionist say?",
+          "id": "Dengarkan dan baca dialog. Diskusikan: Apa yang diminta tamu? Apa yang dikatakan resepsionis?"
+        },
+        {
+          "da": "Rollespil: Halvdelen af klassen er gæster, halvdelen er receptionister. De skifter roller efter to minutter.",
+          "en": "Role play: Half the class are guests, half are receptionists. They swap roles after two minutes.",
+          "id": "Permainan peran: Setengah kelas berperan sebagai tamu, setengahnya sebagai resepsionis. Mereka berganti peran setelah dua menit."
+        },
+        {
+          "da": "Afslutning: Kort skriveopgave — skriv en e-mail om at booke et hotelværelse i Yogyakarta.",
+          "en": "Closing: Short writing task — write an email booking a hotel room in Yogyakarta.",
+          "id": "Penutup: Tugas menulis singkat — tulis email untuk memesan kamar hotel di Yogyakarta."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Husk at forklare forskellen på 'hotel', 'losmen/penginapan' og 'homestay' — det er en kulturel forskel, ikke kun et spørgsmål om pris.",
+          "en": "Remember to explain the difference between 'hotel', 'losmen/penginapan', and 'homestay' — it is a cultural difference, not just a matter of price.",
+          "id": "Ingat untuk menjelaskan perbedaan antara 'hotel', 'losmen/penginapan', dan 'homestay' — ini adalah perbedaan budaya, bukan hanya soal harga."
+        },
+        {
+          "da": "Elever kan forveksle 'check in' (proces) og 'check-in time' — hjælp dem med at skelne.",
+          "en": "Students may confuse 'check in' (process) and 'check-in time' — help them distinguish.",
+          "id": "Siswa mungkin mengacaukan 'check in' (proses) dan 'waktu check-in' — bantu mereka membedakannya."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lyt til dialogen mindst to gange. Læg mærke til, hvordan receptionisten tilbyder alternativer.",
+          "en": "Listen to the dialogue at least twice. Notice how the receptionist offers alternatives.",
+          "id": "Dengarkan dialog setidaknya dua kali. Perhatikan bagaimana resepsionis menawarkan alternatif."
+        },
+        {
+          "da": "Studer ordlisten og grammatikmønstrene. Øv ved at skrive tre forskellige forespørgsler om hotelværelse.",
+          "en": "Study the vocabulary and grammar patterns. Practise by writing three different hotel room enquiries.",
+          "id": "Pelajari kosakata dan pola tata bahasa. Berlatihlah dengan menulis tiga permintaan kamar hotel yang berbeda."
+        },
+        {
+          "da": "Gennemfør aktiviteterne. Forestil dig selv i hotellets reception — hvad ville du spørge om?",
+          "en": "Complete the activities. Imagine yourself at the hotel reception — what would you ask about?",
+          "id": "Selesaikan aktivitas. Bayangkan dirimu di resepsi hotel — apa yang akan kamu tanyakan?"
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du spørge om et ledigt dobbeltværelse med aircondition i tre nætter ved at bruge 'apakah ada'?",
+          "en": "Can you ask about an available double room with air conditioning for three nights using 'apakah ada'?",
+          "id": "Bisakah kamu menanyakan kamar double yang tersedia dengan AC untuk tiga malam menggunakan 'apakah ada'?"
+        },
+        {
+          "da": "Kender du ordene for mindst fem hotelfaciliteter på indonesisk?",
+          "en": "Do you know the words for at least five hotel facilities in Indonesian?",
+          "id": "Apakah kamu tahu kata-kata untuk setidaknya lima fasilitas hotel dalam bahasa Indonesia?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Tamu (Gæst)",
+      "source": "Selamat sore. Apakah ada kamar untuk dua orang, untuk tiga malam?",
+      "target": "God eftermiddag. Har I et værelse til to personer i tre nætter?"
+    },
+    {
+      "speaker": "Resepsionis",
+      "source": "Selamat sore. Ada, Pak. Kami punya kamar double dengan AC dan wifi. Harganya tiga ratus ribu rupiah per malam.",
+      "target": "God eftermiddag. Ja, det har vi. Vi har et dobbeltværelse med aircondition og wifi. Prisen er tre hundrede tusinde rupiah pr. nat."
+    },
+    {
+      "speaker": "Tamu",
+      "source": "Apakah ada kolam renang di hotel ini?",
+      "target": "Er der swimmingpool på dette hotel?"
+    },
+    {
+      "speaker": "Resepsionis",
+      "source": "Ya, ada kolam renang dan restoran. Sarapan sudah termasuk dalam harga.",
+      "target": "Ja, der er swimmingpool og restaurant. Morgenmad er inkluderet i prisen."
+    },
+    {
+      "speaker": "Tamu",
+      "source": "Baik, saya mau pesan kamar itu. Jam berapa bisa check in?",
+      "target": "Fint, jeg vil gerne reservere det værelse. Hvad er check-in-tidspunktet?"
+    },
+    {
+      "speaker": "Resepsionis",
+      "source": "Check in mulai jam dua siang, dan check out sebelum jam dua belas siang. Boleh saya lihat paspornya?",
+      "target": "Check-in starter klokken to om eftermiddagen, og check-out er inden kl. tolv. Må jeg se dit pas?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "kamar single / kamar double",
+      "target": "enkeltværelse / dobbeltværelse",
+      "note": {
+        "da": "Indonesisk bruger engelske låneord: 'single' og 'double'. Udtales nogenlunde som på dansk.",
+        "en": "Indonesian uses English loanwords: 'single' and 'double'. Pronounced similarly to English.",
+        "id": "Bahasa Indonesia menggunakan kata pinjaman dari bahasa Inggris: 'single' dan 'double'."
+      }
+    },
+    {
+      "source": "fasilitas",
+      "target": "faciliteter",
+      "note": {
+        "da": "Generelt ord for alle tilbud og services. 'Apa saja fasilitasnya?' = Hvad er faciliteterne?",
+        "en": "General word for all amenities and services. 'Apa saja fasilitasnya?' = What are the facilities?",
+        "id": "Kata umum untuk semua fasilitas dan layanan. 'Apa saja fasilitasnya?' = Apa saja fasilitasnya?"
+      }
+    },
+    {
+      "source": "AC (air conditioner)",
+      "target": "aircondition",
+      "note": {
+        "da": "Udtales 'ah-say' på indonesisk. Meget vigtigt ved hotelvalg i det tropiske Indonesien.",
+        "en": "Pronounced 'ah-say' in Indonesian. Very important when choosing a hotel in tropical Indonesia.",
+        "id": "Diucapkan 'ah-say' dalam bahasa Indonesia. Sangat penting saat memilih hotel di Indonesia yang tropis."
+      }
+    },
+    {
+      "source": "kolam renang",
+      "target": "swimmingpool",
+      "note": {
+        "da": "'Kolam' = bassinet/sø. 'Renang' = svømning. Bogstaveligt: 'svømmebassinet'.",
+        "en": "'Kolam' = pool/pond. 'Renang' = swimming. Literally: 'swimming pond'.",
+        "id": "'Kolam' = kolam/danau kecil. 'Renang' = berenang. Secara harfiah: 'kolam untuk berenang'."
+      }
+    },
+    {
+      "source": "sarapan",
+      "target": "morgenmad",
+      "note": {
+        "da": "'Sarapan sudah termasuk' = morgenmad er inkluderet. 'Sarapan' er specifikt morgenmaden.",
+        "en": "'Sarapan sudah termasuk' = breakfast is included. 'Sarapan' specifically refers to morning breakfast.",
+        "id": "'Sarapan sudah termasuk' = sarapan sudah termasuk. 'Sarapan' khusus merujuk pada makan pagi."
+      }
+    },
+    {
+      "source": "harga per malam",
+      "target": "pris pr. nat",
+      "note": {
+        "da": "'Harga' = pris. 'Per malam' = pr. nat. 'Berapa harganya per malam?' = Hvad koster det pr. nat?",
+        "en": "'Harga' = price. 'Per malam' = per night. 'Berapa harganya per malam?' = How much per night?",
+        "id": "'Harga' = harga. 'Per malam' = per malam. 'Berapa harganya per malam?' = Berapa harganya per malam?"
+      }
+    },
+    {
+      "source": "check in / check out",
+      "target": "check ind / check ud",
+      "note": {
+        "da": "Engelske låneord bruges i indonesisk. 'Jam check in' = check-in-tidspunktet.",
+        "en": "English loanwords are used in Indonesian. 'Jam check in' = check-in time.",
+        "id": "Kata pinjaman dari bahasa Inggris digunakan dalam bahasa Indonesia. 'Jam check in' = waktu check in."
+      }
+    },
+    {
+      "source": "losmen / penginapan",
+      "target": "gæstehus / billig overnatning",
+      "note": {
+        "da": "Enklere og billigere end hotel. Almindeligt i mindre byer og turistdestinationer.",
+        "en": "Simpler and cheaper than a hotel. Common in smaller towns and tourist destinations.",
+        "id": "Lebih sederhana dan murah dibanding hotel. Umum di kota-kota kecil dan destinasi wisata."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Apakah ada + noun + untuk + [person/time]?",
+      "explanation": {
+        "da": "Dette mønster bruges til at spørge om tilgængelighed. 'Apakah ada' = er der / findes der. Det efterfølges af det man søger og derefter hvem eller hvornår. Man kan udelade 'apakah' i uformel tale og bare sige 'Ada kamar untuk...?'",
+        "en": "This pattern is used to ask about availability. 'Apakah ada' = is there / do you have. It is followed by what you are looking for and then who or when. 'Apakah' can be dropped in informal speech: 'Ada kamar untuk...?'",
+        "id": "Pola ini digunakan untuk menanyakan ketersediaan. 'Apakah ada' = apakah ada / apakah tersedia. Diikuti dengan apa yang dicari kemudian untuk siapa atau kapan. 'Apakah' bisa dihilangkan dalam percakapan informal: 'Ada kamar untuk...?'"
+      },
+      "examples": [
+        {
+          "source": "Apakah ada kamar untuk satu orang malam ini?",
+          "target": "Har I et enkeltværelse til i aften?"
+        },
+        {
+          "source": "Apakah ada kamar double untuk akhir pekan?",
+          "target": "Har I et dobbeltværelse til weekenden?"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Du ankommer til et hotel i Bali og skal checke ind. Stil mindst tre spørgsmål til receptionisten om faciliteter og pris ved at bruge 'apakah ada'.",
+        "en": "You arrive at a hotel in Bali and need to check in. Ask the receptionist at least three questions about facilities and price using 'apakah ada'.",
+        "id": "Kamu tiba di hotel di Bali dan harus check in. Ajukan setidaknya tiga pertanyaan kepada resepsionis tentang fasilitas dan harga menggunakan 'apakah ada'."
+      },
+      "answerShape": {
+        "da": "Tre eller flere sammenhængende spørgsmål med korrekt brug af 'apakah ada' og naturlige svar.",
+        "en": "Three or more connected questions with correct use of 'apakah ada' and natural responses.",
+        "id": "Tiga pertanyaan atau lebih yang terhubung dengan penggunaan 'apakah ada' yang benar dan jawaban yang alami."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en kort e-mail (5-7 sætninger) til et hotel i Yogyakarta, hvor du bestiller et dobbeltværelse med aircondition og spørger om pool og morgenmad er inkluderet.",
+        "en": "Write a short email (5-7 sentences) to a hotel in Yogyakarta, booking a double room with air conditioning and asking whether a pool and breakfast are included.",
+        "id": "Tulis email singkat (5-7 kalimat) ke hotel di Yogyakarta, memesan kamar double dengan AC dan menanyakan apakah kolam renang dan sarapan sudah termasuk."
+      },
+      "answerShape": {
+        "da": "En e-mail med korrekt brug af 'apakah ada', prisforespørgsel og polite formulering.",
+        "en": "An email with correct use of 'apakah ada', a price enquiry, and polite phrasing.",
+        "id": "Email dengan penggunaan 'apakah ada' yang benar, pertanyaan harga, dan ungkapan yang sopan."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen igen og notér: (1) Hvad er prisen pr. nat? (2) Hvilke faciliteter nævnes? (3) Hvad er check-in-tidspunktet?",
+        "en": "Listen to the dialogue again and note: (1) What is the price per night? (2) Which facilities are mentioned? (3) What is the check-in time?",
+        "id": "Dengarkan dialog lagi dan catat: (1) Berapa harga per malam? (2) Fasilitas apa yang disebutkan? (3) Jam berapa waktu check-in?"
+      },
+      "answerShape": {
+        "da": "Tre korrekte svar med de relevante detaljer fra dialogen.",
+        "en": "Three correct answers with the relevant details from the dialogue.",
+        "id": "Tiga jawaban yang benar dengan detail relevan dari dialog."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-unit05-lesson02-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Check ind på et hotel i Bali",
+        "en": "Checking into a hotel in Bali",
+        "id": "Check in di hotel di Bali"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

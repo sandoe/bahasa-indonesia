@@ -1,0 +1,247 @@
+{
+  "pair": "id-da",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "I byen",
+    "en": "In the City",
+    "id": "Di kota"
+  },
+  "summary": {
+    "da": "Lær steder i byen, enkel placering og hvordan du spørger hvor noget ligger på dansk.",
+    "en": "Learn places in the city, simple location, and how to ask where something is in Danish.",
+    "id": "Belajar tempat-tempat di kota, lokasi sederhana, dan cara menanyakan letak sesuatu dalam bahasa Denmark."
+  },
+  "objectives": [
+    {
+      "da": "Nævne vigtige steder i byen på dansk.",
+      "en": "Name important places in the city in Danish.",
+      "id": "Menyebutkan tempat-tempat penting di kota dalam bahasa Denmark."
+    },
+    {
+      "da": "Spørge “hvor er...?” og forstå et enkelt svar.",
+      "en": "Ask “where is...?” and understand a simple answer.",
+      "id": "Mengajukan pertanyaan “di mana...?” dan memahami jawaban sederhana."
+    },
+    {
+      "da": "Bruge ord som højre, venstre og ligeud.",
+      "en": "Use words like right, left, and straight ahead.",
+      "id": "Menggunakan kata seperti kanan, kiri, dan lurus."
+    }
+  ],
+  "unit": {
+    "slug": "theme-10",
+    "order": 10,
+    "title": {
+      "da": "Tema 10: Byen & Transport",
+      "en": "Theme 10: City & Transport",
+      "id": "Tema 10: Kota & Transportasi"
+    },
+    "summary": {
+      "da": "Steder, retning og enkel navigation.",
+      "en": "Places, direction, and simple navigation.",
+      "id": "Tempat, arah, dan navigasi sederhana."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Brug et simpelt bykort og peg på skole, station og butik.",
+        "en": "Use a simple city map and point to school, station, and shop.",
+        "id": "Gunakan peta kota sederhana dan tunjuk sekolah, stasiun, dan toko."
+      },
+      "flow": [
+        {
+          "da": "Introducer skole, station, butik, hospital, bus og gade.",
+          "en": "Introduce school, station, shop, hospital, bus, and street.",
+          "id": "Perkenalkan sekolah, stasiun, toko, rumah sakit, bus, dan jalan."
+        },
+        {
+          "da": "Øv spørgsmål: “hvor er stationen?”",
+          "en": "Practise questions: “where is the station?”",
+          "id": "Latih pertanyaan: “di mana stasiunnya?”"
+        },
+        {
+          "da": "Lad eleverne give enkle retninger med højre, venstre og ligeud.",
+          "en": "Let students give simple directions with right, left, and straight ahead.",
+          "id": "Minta siswa memberi petunjuk sederhana dengan kanan, kiri, dan lurus."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Bytemaet bliver bedst når eleverne peger og bevæger sig. Gør det fysisk.",
+          "en": "The city theme works best when students point and move. Make it physical.",
+          "id": "Tema kota bekerja paling baik ketika siswa menunjuk dan bergerak. Buatlah secara fisik."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lav et lille bykort og skriv fem steder på dansk.",
+          "en": "Make a small city map and write five places in Danish.",
+          "id": "Buat peta kota kecil dan tulis lima tempat dalam bahasa Denmark."
+        },
+        {
+          "da": "Øv tre retningsord højt.",
+          "en": "Practise three direction words aloud.",
+          "id": "Latih tiga kata arah dengan suara keras."
+        },
+        {
+          "da": "Skriv en mini-dialog om at finde stationen.",
+          "en": "Write a mini-dialogue about finding the station.",
+          "id": "Tulis mini-dialog tentang menemukan stasiun."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du spørge hvor et sted er?",
+          "en": "Can you ask where a place is?",
+          "id": "Bisakah Anda menanyakan letak suatu tempat?"
+        },
+        {
+          "da": "Kan du give én enkel retning?",
+          "en": "Can you give one simple direction?",
+          "id": "Bisakah Anda memberikan satu petunjuk sederhana?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Bima",
+      "source": "Di mana stasiunnya?",
+      "target": "Hvor er stationen?"
+    },
+    {
+      "speaker": "Anna",
+      "source": "Stasiunnya di kiri.",
+      "target": "Stationen er til venstre."
+    },
+    {
+      "speaker": "Bima",
+      "source": "Lalu butiknya?",
+      "target": "Og butikken?"
+    },
+    {
+      "speaker": "Anna",
+      "source": "Butikken er ligeud.",
+      "target": "Butikken er ligeud."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "stasiun / sekolah / toko",
+      "target": "station / skole / butik",
+      "note": {
+        "da": "Tre meget nyttige ord i bysamtaler.",
+        "en": "Three very useful words in city conversations.",
+        "id": "Tiga kata yang sangat berguna dalam percakapan kota."
+      }
+    },
+    {
+      "source": "rumah sakit",
+      "target": "hospital",
+      "note": {
+        "da": "Godt ord i både by- og sundhedstemaer.",
+        "en": "A good word in both city and health themes.",
+        "id": "Kata yang baik dalam tema kota dan kesehatan."
+      }
+    },
+    {
+      "source": "kiri / kanan / lurus",
+      "target": "venstre / højre / ligeud",
+      "note": {
+        "da": "Grundlæggende retningsord.",
+        "en": "Basic direction words.",
+        "id": "Kata arah dasar."
+      }
+    },
+    {
+      "source": "di mana",
+      "target": "hvor er",
+      "note": {
+        "da": "Nøgleudtryk til at finde steder.",
+        "en": "Key expression for finding places.",
+        "id": "Ungkapan kunci untuk menemukan tempat."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Hvor er ...? / ... er til venstre, til højre, ligeud",
+      "explanation": {
+        "da": "Et grundmønster til at finde vej og forstå simple lokationssvar.",
+        "en": "A basic pattern for finding your way and understanding simple location answers.",
+        "id": "Pola dasar untuk mencari jalan dan memahami jawaban lokasi sederhana."
+      },
+      "examples": [
+        {
+          "source": "Di mana sekolahnya?",
+          "target": "Hvor er skolen?"
+        },
+        {
+          "source": "Sekolahnya di kanan.",
+          "target": "Skolen er til højre."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til en kort vejbeskrivelse og tegn pilene.",
+        "en": "Listen to a short route description and draw the arrows.",
+        "id": "Dengarkan petunjuk jalan singkat dan gambar panahnya."
+      },
+      "answerShape": {
+        "da": "En lille kortøvelse.",
+        "en": "A small map exercise.",
+        "id": "Latihan peta kecil."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Spørg hvor et sted er, og giv én retning til en partner.",
+        "en": "Ask where a place is and give one direction to a partner.",
+        "id": "Tanyakan di mana suatu tempat dan berikan satu petunjuk kepada pasangan Anda."
+      },
+      "answerShape": {
+        "da": "To korte linjer.",
+        "en": "Two short lines.",
+        "id": "Dua kalimat pendek."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv tre steder på et bykort og beskriv hvor de er.",
+        "en": "Write three places on a city map and describe where they are.",
+        "id": "Tulis tiga tempat pada peta kota dan jelaskan letaknya."
+      },
+      "answerShape": {
+        "da": "Tre korte sætninger.",
+        "en": "Three short sentences.",
+        "id": "Tiga kalimat pendek."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilke danske stedord og retningsord får du mest brug for først?",
+        "en": "Which Danish place and direction words will you need most first?",
+        "id": "Kosakata tempat dan arah bahasa Denmark mana yang paling Anda butuhkan terlebih dahulu?"
+      },
+      "answerShape": {
+        "da": "En kort liste.",
+        "en": "A short list.",
+        "id": "Daftar singkat."
+      }
+    }
+  ],
+  "media": []
+}

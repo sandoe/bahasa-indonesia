@@ -1,0 +1,283 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 5,
+  "slug": "lesson-05",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Transport i Jakarta",
+    "en": "Transport in Jakarta",
+    "id": "Transportasi di Jakarta"
+  },
+  "summary": {
+    "da": "Lær om Jakartas transportnetværk: TransJakarta, MRT, Commuter Line, ride-hailing-apps og den berygtede Jakarta-trafik.",
+    "en": "Learn about Jakarta's transport network: TransJakarta, MRT, Commuter Line, ride-hailing apps, and the notorious Jakarta traffic.",
+    "id": "Pelajari jaringan transportasi Jakarta: TransJakarta, MRT, Commuter Line, aplikasi ride-hailing, dan kemacetan Jakarta yang terkenal."
+  },
+  "objectives": [
+    {
+      "da": "Navngive og beskrive de vigtigste transportmidler i Jakarta.",
+      "en": "Name and describe the main means of transport in Jakarta.",
+      "id": "Menyebutkan dan mendeskripsikan alat transportasi utama di Jakarta."
+    },
+    {
+      "da": "Sammenligne transportmuligheder og give en enkel anbefaling.",
+      "en": "Compare transport options and give a simple recommendation.",
+      "id": "Membandingkan pilihan transportasi dan memberikan rekomendasi sederhana."
+    },
+    {
+      "da": "Bruge 'lebih ... daripada' til at sammenligne to ting.",
+      "en": "Use 'lebih ... daripada' to compare two things.",
+      "id": "Menggunakan 'lebih ... daripada' untuk membandingkan dua hal."
+    }
+  ],
+  "unit": {
+    "slug": "theme-10",
+    "order": 10,
+    "title": {
+      "da": "Tema 10: Byen & Transport",
+      "en": "Theme 10: City & Transport",
+      "id": "Tema 10: Kota & Transportasi"
+    },
+    "summary": {
+      "da": "At navigere i en indonesisk by og bruge offentlig transport.",
+      "en": "Navigating an Indonesian city and using public transport.",
+      "id": "Menavigasi kota Indonesia dan menggunakan transportasi umum."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis et billede af Jakartas trafik og spørg: Hvad synes du? Har du set noget lignende? Hvad gør man, hvis man er forsinket?",
+        "en": "Show a picture of Jakarta traffic and ask: What do you think? Have you seen anything like it? What do you do if you are late?",
+        "id": "Tampilkan gambar kemacetan Jakarta dan tanya: Apa pendapatmu? Pernahkah kamu melihat sesuatu yang serupa? Apa yang kamu lakukan jika terlambat?"
+      },
+      "flow": [
+        {
+          "da": "Introducer hvert Jakartansk transportsystem: TransJakarta (bus BRT med egne baner), MRT Jakarta (underjordisk/overjordisk tog), KRL Commuter Line (forstadstog), Gojek/Grab (ride-hailing), bajaj (tre-hjulet køretøj).",
+          "en": "Introduce each Jakarta transport system: TransJakarta (BRT bus with dedicated lanes), MRT Jakarta (underground/elevated train), KRL Commuter Line (commuter rail), Gojek/Grab (ride-hailing), bajaj (three-wheeled vehicle).",
+          "id": "Perkenalkan setiap sistem transportasi Jakarta: TransJakarta (bus BRT dengan jalur khusus), MRT Jakarta (kereta bawah tanah/layang), KRL Commuter Line (kereta komuter), Gojek/Grab (ride-hailing), bajaj (kendaraan roda tiga)."
+        },
+        {
+          "da": "Introducer sammenligningsstrukturen 'lebih ... daripada' (mere ... end). Øv med transporteksempler: MRT lebih cepat daripada bus.",
+          "en": "Introduce the comparison structure 'lebih ... daripada' (more ... than). Practise with transport examples: MRT lebih cepat daripada bus.",
+          "id": "Perkenalkan struktur perbandingan 'lebih ... daripada' (lebih ... dari). Latih dengan contoh transportasi: MRT lebih cepat daripada bus."
+        },
+        {
+          "da": "Gruppediskussion: Hvilket transportmiddel ville eleverne vælge til forskellige scenarier? Brug sammenligningsstrukturen.",
+          "en": "Group discussion: Which transport would students choose for different scenarios? Use the comparison structure.",
+          "id": "Diskusi kelompok: Transportasi apa yang akan dipilih siswa untuk skenario berbeda? Gunakan struktur perbandingan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Macet (trafikprop) er et centralt ord i Jakartas hverdag. Jakarta er konsekvent rangeret som en af verdens mest trafikerede byer. Dette er en god indgang til kulturel diskussion om by-liv i Indonesien.",
+          "en": "Macet (traffic jam) is a central word in Jakarta daily life. Jakarta is consistently ranked among the world's most congested cities. This is a good entry point for cultural discussion about city life in Indonesia.",
+          "id": "Macet (kemacetan lalu lintas) adalah kata sentral dalam kehidupan sehari-hari Jakarta. Jakarta secara konsisten menempati peringkat sebagai salah satu kota paling macet di dunia. Ini adalah titik masuk yang baik untuk diskusi budaya tentang kehidupan kota di Indonesia."
+        },
+        {
+          "da": "Bajaj udtales [ba-jai] og er et ikonisk trehjulet køretøj af indisk oprindelse, der nu mest ses i ældre dele af Jakarta.",
+          "en": "Bajaj is pronounced [ba-jai] and is an iconic three-wheeled vehicle of Indian origin, now mostly seen in older parts of Jakarta.",
+          "id": "Bajaj diucapkan [ba-jai] dan merupakan kendaraan roda tiga ikonik yang berasal dari India, sekarang sebagian besar terlihat di bagian Jakarta yang lebih tua."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs om TransJakarta, MRT og Gojek online. Notér tre interessante fakta om hvert system på indonesisk.",
+          "en": "Read about TransJakarta, MRT, and Gojek online. Note three interesting facts about each system in Indonesian.",
+          "id": "Baca tentang TransJakarta, MRT, dan Gojek secara online. Catat tiga fakta menarik tentang setiap sistem dalam bahasa Indonesia."
+        },
+        {
+          "da": "Skriv fem sammenligningssætninger om Jakartas transport ved hjælp af 'lebih ... daripada': f.eks. MRT lebih cepat daripada ojek.",
+          "en": "Write five comparison sentences about Jakarta's transport using 'lebih ... daripada': e.g. MRT lebih cepat daripada ojek.",
+          "id": "Tulis lima kalimat perbandingan tentang transportasi Jakarta menggunakan 'lebih ... daripada': misalnya MRT lebih cepat daripada ojek."
+        },
+        {
+          "da": "Øv dialogen og prøv at tilføje din egen mening om, hvilken transport der er bedst.",
+          "en": "Practise the dialogue and try adding your own opinion about which transport is best.",
+          "id": "Latih dialog dan coba tambahkan pendapatmu sendiri tentang transportasi mana yang terbaik."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du navngive fem transportmidler der er specifikke for Jakarta?",
+          "en": "Can you name five means of transport specific to Jakarta?",
+          "id": "Bisakah kamu menyebutkan lima alat transportasi yang spesifik untuk Jakarta?"
+        },
+        {
+          "da": "Kan du lave to sammenligningssætninger med 'lebih ... daripada' om transport?",
+          "en": "Can you make two comparison sentences using 'lebih ... daripada' about transport?",
+          "id": "Bisakah kamu membuat dua kalimat perbandingan menggunakan 'lebih ... daripada' tentang transportasi?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Emma (Turist fra Danmark)",
+      "source": "Ini pertama kalinya saya di Jakarta. Transportasi apa yang bagus?",
+      "target": "Det er første gang jeg er i Jakarta. Hvad er god transport her?"
+    },
+    {
+      "speaker": "Wahyu (Lokal)",
+      "source": "Tergantung tujuanmu. Untuk dalam kota, MRT atau TransJakarta paling nyaman.",
+      "target": "Det afhænger af dit mål. Inden for byen er MRT eller TransJakarta mest behagelig."
+    },
+    {
+      "speaker": "Emma (Turist fra Danmark)",
+      "source": "Apa bedanya MRT dan TransJakarta?",
+      "target": "Hvad er forskellen på MRT og TransJakarta?"
+    },
+    {
+      "speaker": "Wahyu (Lokal)",
+      "source": "MRT lebih cepat daripada TransJakarta karena punya jalur sendiri di bawah tanah. TransJakarta adalah bus, tapi juga punya jalur khusus.",
+      "target": "MRT er hurtigere end TransJakarta fordi den har egne spor under jorden. TransJakarta er en bus, men har også egne baner."
+    },
+    {
+      "speaker": "Emma (Turist fra Danmark)",
+      "source": "Bagaimana dengan ojek? Saya lihat banyak motor di jalan.",
+      "target": "Hvad med ojek? Jeg ser mange motorcykler på vejen."
+    },
+    {
+      "speaker": "Wahyu (Lokal)",
+      "source": "Ojek via Gojek atau Grab lebih fleksibel daripada bus, tapi hati-hati waktu macet. Jakarta terkenal dengan macetnya!",
+      "target": "Ojek via Gojek eller Grab er mere fleksibel end bus, men pas på i trafikken. Jakarta er berømt for sine trafikpropper!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "TransJakarta (BRT)",
+      "target": "TransJakarta",
+      "note": {
+        "da": "Bus Rapid Transit-system med over 200 ruter og dedikerede busbaner. Billig og effektiv.",
+        "en": "Bus Rapid Transit system with over 200 routes and dedicated bus lanes. Cheap and efficient.",
+        "id": "Sistem Bus Rapid Transit dengan lebih dari 200 rute dan jalur bus khusus. Murah dan efisien."
+      }
+    },
+    {
+      "source": "MRT Jakarta",
+      "target": "MRT Jakarta",
+      "note": {
+        "da": "Mass Rapid Transit – åbnede 2019. Kører under og over jorden i Jakarta Syd-Nord-korridoren.",
+        "en": "Mass Rapid Transit – opened in 2019. Runs underground and elevated along the Jakarta South-North corridor.",
+        "id": "Mass Rapid Transit – dibuka pada 2019. Beroperasi di bawah tanah dan layang di koridor Selatan-Utara Jakarta."
+      }
+    },
+    {
+      "source": "Commuter Line (KRL)",
+      "target": "Commuter Line (KRL)",
+      "note": {
+        "da": "Kereta Rel Listrik – elektrisk forstadstog, der forbinder Jakarta med omegnskommunerne.",
+        "en": "Kereta Rel Listrik – electric commuter train connecting Jakarta with surrounding areas.",
+        "id": "Kereta Rel Listrik – kereta listrik yang menghubungkan Jakarta dengan daerah sekitarnya."
+      }
+    },
+    {
+      "source": "Gojek / Grab (ride-hailing)",
+      "target": "Gojek / Grab",
+      "note": {
+        "da": "App-baserede ride-hailing-tjenester. Gojek er indonesisk, Grab er singaporansk. Tilbyder motorcykeltaxi, bil, mad og mere.",
+        "en": "App-based ride-hailing services. Gojek is Indonesian, Grab is Singaporean. Offer motorcycle taxi, car, food delivery, and more.",
+        "id": "Layanan ride-hailing berbasis aplikasi. Gojek adalah Indonesia, Grab adalah Singapura. Menawarkan ojek motor, mobil, pesan makanan, dan lainnya."
+      }
+    },
+    {
+      "source": "Bajaj (trehjulet køretøj)",
+      "target": "Bajaj",
+      "note": {
+        "da": "Ikonisk orange trehjulet motoriseret rickshaw. Stammer fra Indien. Bruges mest i ældre bydele.",
+        "en": "Iconic orange three-wheeled motorised rickshaw. Originates from India. Mostly used in older parts of the city.",
+        "id": "Bajaj roda tiga bermotor berwarna oranye yang ikonik. Berasal dari India. Sebagian besar digunakan di bagian kota yang lebih tua."
+      }
+    },
+    {
+      "source": "Trafikprop / Kø",
+      "target": "Macet",
+      "note": {
+        "da": "Uhyre vigtigt ord i Jakarta! Jakarta er konsekvent rangeret som en af verdens mest trafikerede byer.",
+        "en": "Extremely important word in Jakarta! Jakarta is consistently ranked among the world's most congested cities.",
+        "id": "Kata yang sangat penting di Jakarta! Jakarta secara konsisten menempati peringkat sebagai salah satu kota paling macet di dunia."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Lebih ... daripada (mere ... end)",
+      "explanation": {
+        "da": "'Lebih' = 'mere'. 'Daripada' = 'end'. Strukturen bruges til at sammenligne to ting. Mønsteret: [A] lebih [egenskab] daripada [B].",
+        "en": "'Lebih' = 'more'. 'Daripada' = 'than'. The structure is used to compare two things. Pattern: [A] lebih [adjective] daripada [B].",
+        "id": "'Lebih' = 'lebih'. 'Daripada' = 'dari'. Struktur ini digunakan untuk membandingkan dua hal. Pola: [A] lebih [kata sifat] daripada [B]."
+      },
+      "examples": [
+        { "source": "MRT er hurtigere end bus.", "target": "MRT lebih cepat daripada bus." },
+        { "source": "Ojek er billigere end taxa.", "target": "Ojek lebih murah daripada taksi." },
+        { "source": "Tog er mere behagelig end bajaj.", "target": "Kereta lebih nyaman daripada bajaj." }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "En turist spørger dig: 'Hvad er den bedste måde at komme til Monas (nationalt monument) fra Gambir station på?' Giv en anbefaling og forklar hvorfor.",
+        "en": "A tourist asks you: 'What is the best way to get to Monas (national monument) from Gambir station?' Give a recommendation and explain why.",
+        "id": "Seorang turis bertanya: 'Apa cara terbaik untuk pergi ke Monas dari Stasiun Gambir?' Berikan rekomendasi dan jelaskan alasannya."
+      },
+      "answerShape": {
+        "da": "Saya sarankan naik [transport] karena lebih [egenskab] daripada [alternativ].",
+        "en": "Saya sarankan naik [transport] karena lebih [adjective] daripada [alternative].",
+        "id": "Saya sarankan naik [transport] karena lebih [kata sifat] daripada [alternatif]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Lav sammenligningssætninger: (1) MRT / bus / cepat (2) ojek / taksi / murah (3) berjalan kaki / semua / sehat.",
+        "en": "Make comparison sentences: (1) MRT / bus / cepat (2) ojek / taksi / murah (3) berjalan kaki / semua / sehat.",
+        "id": "Buat kalimat perbandingan: (1) MRT / bus / cepat (2) ojek / taksi / murah (3) berjalan kaki / semua / sehat."
+      },
+      "answerShape": {
+        "da": "MRT lebih cepat daripada bus. Ojek lebih murah daripada taksi. Berjalan kaki lebih sehat daripada semua.",
+        "en": "MRT lebih cepat daripada bus. Ojek lebih murah daripada taksi. Berjalan kaki lebih sehat daripada semua.",
+        "id": "MRT lebih cepat daripada bus. Ojek lebih murah daripada taksi. Berjalan kaki lebih sehat daripada semua."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Jakarta har 10+ millioner indbyggere og et komplekst transportnet. Sammenlign med København. Hvad er ligheder og forskelle i byplanlægning og transport?",
+        "en": "Jakarta has 10+ million residents and a complex transport network. Compare with Copenhagen. What are the similarities and differences in urban planning and transport?",
+        "id": "Jakarta memiliki 10+ juta penduduk dan jaringan transportasi yang kompleks. Bandingkan dengan Copenhagen. Apa persamaan dan perbedaan dalam perencanaan kota dan transportasi?"
+      },
+      "answerShape": {
+        "da": "Fri refleksion",
+        "en": "Free reflection",
+        "id": "Refleksi bebas"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme10-lesson05-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Jakartas Transportnetværk",
+        "en": "Jakarta's Transport Network",
+        "id": "Jaringan Transportasi Jakarta"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

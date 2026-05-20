@@ -1,0 +1,343 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-2",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 45,
+  "title": {
+    "da": "Ægteskab og ny familie",
+    "en": "Marriage and New Family",
+    "id": "Pernikahan dan Keluarga Baru"
+  },
+  "summary": {
+    "da": "Lær ordforråd om ægteskab, bryllupper og udvidede familierelationer, samt en kort introduktion til indonesiske bryllupssskikke.",
+    "en": "Learn vocabulary about marriage, weddings, and extended family relations, with a brief introduction to Indonesian wedding customs.",
+    "id": "Pelajari kosakata tentang pernikahan, perkawinan, dan hubungan keluarga yang diperluas, serta pengantar singkat tentang adat pernikahan Indonesia."
+  },
+  "objectives": [
+    {
+      "da": "Bruge ordforråd om ægteskab og svigerfamilien korrekt",
+      "en": "Use vocabulary about marriage and in-laws correctly",
+      "id": "Menggunakan kosakata tentang pernikahan dan keluarga mertua dengan benar"
+    },
+    {
+      "da": "Udtrykke ægteskabsstatus med 'sudah menikah' og 'belum menikah'",
+      "en": "Express marital status using 'sudah menikah' and 'belum menikah'",
+      "id": "Mengungkapkan status pernikahan menggunakan 'sudah menikah' dan 'belum menikah'"
+    },
+    {
+      "da": "Deltage i samtaler om bryllupsplaner og familieudvidelse",
+      "en": "Participate in conversations about wedding plans and family expansion",
+      "id": "Berpartisipasi dalam percakapan tentang rencana pernikahan dan perluasan keluarga"
+    }
+  ],
+  "unit": {
+    "slug": "unit-03",
+    "order": 3,
+    "title": {
+      "da": "Familie og Sociale Relationer",
+      "en": "Family and Social Relations",
+      "id": "Keluarga dan Relasi Sosial"
+    },
+    "summary": {
+      "da": "Dybere familiesprog, sociale roller og relationer i indonesisk kontekst.",
+      "en": "Deeper family language, social roles, and relationships in Indonesian context.",
+      "id": "Bahasa keluarga yang lebih dalam, peran sosial, dan hubungan dalam konteks Indonesia."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis billeder af et traditionelt indonesisk bryllup. Spørg eleverne: 'Hvad ser du? Hvad sker der?' Introducer derefter nøgleordforrådet.",
+        "en": "Show pictures of a traditional Indonesian wedding. Ask students: 'What do you see? What is happening?' Then introduce key vocabulary.",
+        "id": "Tunjukkan gambar pernikahan tradisional Indonesia. Tanya siswa: 'Apa yang kamu lihat? Apa yang terjadi?' Kemudian perkenalkan kosakata kunci."
+      },
+      "flow": [
+        {
+          "da": "Introduktion (5 min): Vis bryllupsbilleder og aktiver forkundskaber om familierelationer.",
+          "en": "Introduction (5 min): Show wedding pictures and activate prior knowledge about family relations.",
+          "id": "Pembukaan (5 menit): Tunjukkan gambar pernikahan dan aktifkan pengetahuan awal tentang hubungan keluarga."
+        },
+        {
+          "da": "Ordforråd (10 min): Præsenter ægteskabs- og familievokabular. Elever øver i par med spørgsmål og svar.",
+          "en": "Vocabulary (10 min): Present marriage and family vocabulary. Students practice in pairs with questions and answers.",
+          "id": "Kosakata (10 menit): Perkenalkan kosakata pernikahan dan keluarga. Siswa berlatih berpasangan dengan tanya jawab."
+        },
+        {
+          "da": "Grammatik (10 min): Forklar 'sudah/belum'-konstruktionen til at udtrykke status. Lav en klasseaktivitet: 'Apakah kamu sudah menikah?'",
+          "en": "Grammar (10 min): Explain the 'sudah/belum' construction for expressing status. Do a class activity: 'Apakah kamu sudah menikah?'",
+          "id": "Tata bahasa (10 menit): Jelaskan konstruksi 'sudah/belum' untuk mengungkapkan status. Lakukan aktivitas kelas: 'Apakah kamu sudah menikah?'"
+        },
+        {
+          "da": "Kulturnotits (5 min): Beskriv kort indonesiske bryllupssskikke — religiøs ceremoni, stor fest, traditionel tøj.",
+          "en": "Culture note (5 min): Briefly describe Indonesian wedding customs — religious ceremony, large feast, traditional dress.",
+          "id": "Catatan budaya (5 menit): Jelaskan singkat adat pernikahan Indonesia — upacara agama, pesta besar, pakaian adat."
+        },
+        {
+          "da": "Dialog og aktiviteter (15 min): Rollespil dialogen, derefter de tre aktiviteter.",
+          "en": "Dialogue and activities (15 min): Role-play the dialogue, then the three activities.",
+          "id": "Dialog dan aktivitas (15 menit): Mainkan peran dalam dialog, lalu tiga aktivitas."
+        }
+      ],
+      "notes": [
+        {
+          "da": "'Belum' betyder 'endnu ikke' og antyder, at noget kan ske i fremtiden. Det er mere optimistisk end 'tidak' (aldrig / generel negation).",
+          "en": "'Belum' means 'not yet' and implies something may happen in the future. It is more optimistic than 'tidak' (never / general negation).",
+          "id": "'Belum' berarti 'belum' dan menyiratkan sesuatu mungkin terjadi di masa depan. Lebih optimis daripada 'tidak' (tidak pernah / negasi umum)."
+        },
+        {
+          "da": "I mange indonesiske familier er det at spørge til ægteskabsstatus helt normalt — det opfattes ikke som indiskretion.",
+          "en": "In many Indonesian families, asking about marital status is completely normal — it is not considered intrusive.",
+          "id": "Dalam banyak keluarga Indonesia, menanyakan status pernikahan sangat normal — tidak dianggap sebagai gangguan privasi."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær alle vokabularord om ægteskab og familie. Skriv dem ned med eksempelsætninger.",
+          "en": "Learn all vocabulary words about marriage and family. Write them down with example sentences.",
+          "id": "Pelajari semua kata kosakata tentang pernikahan dan keluarga. Tuliskan dengan kalimat contoh."
+        },
+        {
+          "da": "Øv 'sudah/belum'-konstruktionen: Skriv fem sætninger om ting, du allerede har gjort, og fem om ting, du endnu ikke har gjort.",
+          "en": "Practice the 'sudah/belum' construction: Write five sentences about things you have already done and five about things you have not yet done.",
+          "id": "Latih konstruksi 'sudah/belum': Tulis lima kalimat tentang hal yang sudah kamu lakukan dan lima tentang hal yang belum kamu lakukan."
+        },
+        {
+          "da": "Lyt til dialogen to gange. Besvar derefter: Hvad planlægger de to?",
+          "en": "Listen to the dialogue twice. Then answer: What are the two speakers planning?",
+          "id": "Dengarkan dialog dua kali. Kemudian jawab: Apa yang direncanakan oleh keduanya?"
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du forklare forskellen på 'mertua' og 'ipar' på indonesisk?",
+          "en": "Can you explain the difference between 'mertua' and 'ipar' in Indonesian?",
+          "id": "Bisakah kamu menjelaskan perbedaan antara 'mertua' dan 'ipar' dalam bahasa Indonesia?"
+        },
+        {
+          "da": "Kan du svare på 'Apakah kamu sudah menikah?' med en fuld sætning?",
+          "en": "Can you answer 'Apakah kamu sudah menikah?' with a full sentence?",
+          "id": "Bisakah kamu menjawab 'Apakah kamu sudah menikah?' dengan kalimat lengkap?"
+        },
+        {
+          "da": "Kan du nævne tre indonesiske bryllupstraditioner?",
+          "en": "Can you name three Indonesian wedding traditions?",
+          "id": "Bisakah kamu menyebutkan tiga tradisi pernikahan Indonesia?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Dewi",
+      "source": "Erik, aku dengar kamu akan menikah bulan depan. Benar?",
+      "target": "Erik, jeg hørte, at du gifter dig næste måned. Er det rigtigt?"
+    },
+    {
+      "speaker": "Erik",
+      "source": "Ya, benar! Kami sudah merencanakan pernikahan sejak setahun lalu.",
+      "target": "Ja, det er rigtigt! Vi har planlagt brylluppet i et år."
+    },
+    {
+      "speaker": "Dewi",
+      "source": "Wah, selamat ya! Apakah mertua kamu sudah setuju?",
+      "target": "Wauw, tillykke! Er dine svigerforældre allerede enige?"
+    },
+    {
+      "speaker": "Erik",
+      "source": "Sudah. Mereka sangat baik. Ipar saya juga ikut membantu persiapan pernikahan.",
+      "target": "Ja. De er meget venlige. Min svoger hjælper også med bryllupsforberedelserne."
+    },
+    {
+      "speaker": "Dewi",
+      "source": "Anak sulung atau anak bungsu pasanganmu?",
+      "target": "Er din partner det ældste eller yngste barn?"
+    },
+    {
+      "speaker": "Erik",
+      "source": "Dia anak sulung. Ada dua adik perempuannya yang belum menikah.",
+      "target": "Hun er det ældste barn. Hun har to yngre søstre, der endnu ikke er gift."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "menikah",
+      "target": "at gifte sig",
+      "note": {
+        "da": "Verbum: 'pernikahan' er substantivformen (bryllup/ægteskab)",
+        "en": "Verb: 'pernikahan' is the noun form (wedding/marriage)",
+        "id": "Kata kerja: 'pernikahan' adalah bentuk kata bendanya (pernikahan/perkawinan)"
+      }
+    },
+    {
+      "source": "pernikahan",
+      "target": "bryllup / ægteskab",
+      "note": {
+        "da": "Bruges til både selve ceremonien og institutionen",
+        "en": "Used for both the ceremony and the institution",
+        "id": "Digunakan untuk upacara maupun institusi pernikahan"
+      }
+    },
+    {
+      "source": "suami",
+      "target": "mand / ægtemand",
+      "note": {
+        "da": "Specifikt om den mandlige ægtefælle",
+        "en": "Specifically the male spouse",
+        "id": "Khusus untuk pasangan berjenis kelamin laki-laki"
+      }
+    },
+    {
+      "source": "istri",
+      "target": "kone / hustru",
+      "note": {
+        "da": "Specifikt om den kvindelige ægtefælle",
+        "en": "Specifically the female spouse",
+        "id": "Khusus untuk pasangan berjenis kelamin perempuan"
+      }
+    },
+    {
+      "source": "mertua",
+      "target": "svigerforældre",
+      "note": {
+        "da": "Dækker begge svigerfamilieforældre; 'mertua laki-laki' = svigerfar, 'mertua perempuan' = svigermor",
+        "en": "Covers both in-law parents; 'mertua laki-laki' = father-in-law, 'mertua perempuan' = mother-in-law",
+        "id": "Mencakup kedua orang tua mertua; 'mertua laki-laki' = ayah mertua, 'mertua perempuan' = ibu mertua"
+      }
+    },
+    {
+      "source": "ipar",
+      "target": "svoger / svigerinde",
+      "note": {
+        "da": "Bruges om ægtefælles søskende eller søskendes ægtefælle",
+        "en": "Used for the spouse's sibling or the sibling's spouse",
+        "id": "Digunakan untuk saudara pasangan atau pasangan dari saudara"
+      }
+    },
+    {
+      "source": "anak sulung",
+      "target": "ældste barn / førstefødte",
+      "note": {
+        "da": "Bogstaveligt: 'det første barn'. Har ofte særlig status i indonesisk familie.",
+        "en": "Literally: 'the first child'. Often carries special status in Indonesian families.",
+        "id": "Harfiah: 'anak pertama'. Sering memiliki status khusus dalam keluarga Indonesia."
+      }
+    },
+    {
+      "source": "anak bungsu",
+      "target": "yngste barn",
+      "note": {
+        "da": "Bogstaveligt: 'det sidste barn'. Kaldes ofte 'si bungsu' på talesprog.",
+        "en": "Literally: 'the last child'. Often called 'si bungsu' in spoken language.",
+        "id": "Harfiah: 'anak terakhir'. Sering disebut 'si bungsu' dalam bahasa lisan."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Sudah + kata kerja / Belum + kata kerja",
+      "explanation": {
+        "da": "'Sudah' (allerede/har) angiver, at en handling er afsluttet. 'Belum' (endnu ikke) angiver, at en handling ikke er sket, men stadig forventes. De bruges foran et verbum.",
+        "en": "'Sudah' (already/have) indicates that an action is completed. 'Belum' (not yet) indicates that an action has not happened but is still expected. They precede a verb.",
+        "id": "'Sudah' menunjukkan bahwa suatu tindakan telah selesai. 'Belum' menunjukkan bahwa suatu tindakan belum terjadi namun masih diharapkan. Keduanya mendahului kata kerja."
+      },
+      "examples": [
+        {
+          "source": "Saya sudah menikah.",
+          "target": "Jeg er allerede gift."
+        },
+        {
+          "source": "Adiknya belum menikah.",
+          "target": "Hans/hendes lillesøster er endnu ikke gift."
+        },
+        {
+          "source": "Apakah kamu sudah bertemu mertua?",
+          "target": "Har du allerede mødt dine svigerforældre?"
+        }
+      ]
+    },
+    {
+      "pattern": "Pertanyaan: Apakah ... sudah ...?",
+      "explanation": {
+        "da": "Til at danne ja/nej-spørgsmål om status bruges 'Apakah' foran subjektet og 'sudah/belum' foran verbet. Man kan svare med 'Sudah' (ja, allerede) eller 'Belum' (endnu ikke).",
+        "en": "To form yes/no questions about status, use 'Apakah' before the subject and 'sudah/belum' before the verb. You can answer with 'Sudah' (yes, already) or 'Belum' (not yet).",
+        "id": "Untuk membentuk pertanyaan ya/tidak tentang status, gunakan 'Apakah' sebelum subjek dan 'sudah/belum' sebelum kata kerja. Jawaban bisa 'Sudah' atau 'Belum'."
+      },
+      "examples": [
+        {
+          "source": "Apakah kamu sudah menikah? — Sudah.",
+          "target": "Er du allerede gift? — Ja, det er jeg."
+        },
+        {
+          "source": "Apakah mereka sudah punya anak? — Belum.",
+          "target": "Har de allerede børn? — Endnu ikke."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Spørg din partner om ægteskabsstatus og svar selv. Brug 'sudah' eller 'belum' i svaret.",
+        "en": "Ask your partner about marital status and answer yourself. Use 'sudah' or 'belum' in the answer.",
+        "id": "Tanya pasanganmu tentang status pernikahan dan jawab sendiri. Gunakan 'sudah' atau 'belum' dalam jawabannya."
+      },
+      "answerShape": {
+        "da": "Apakah kamu sudah menikah? — Sudah / Belum, saya belum menikah.",
+        "en": "Apakah kamu sudah menikah? — Sudah / Belum, saya belum menikah.",
+        "id": "Apakah kamu sudah menikah? — Sudah / Belum, saya belum menikah."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Byg en sætning: Din ældre søster er gift, og hendes mand er den yngste i sin familie.",
+        "en": "Build a sentence: Your older sister is married, and her husband is the youngest in his family.",
+        "id": "Buat kalimat: Kakak perempuanmu sudah menikah, dan suaminya adalah anak bungsu dalam keluarganya."
+      },
+      "answerShape": {
+        "da": "Kakak perempuan saya sudah menikah. Suaminya adalah anak bungsu dalam keluarganya.",
+        "en": "Kakak perempuan saya sudah menikah. Suaminya adalah anak bungsu dalam keluarganya.",
+        "id": "Kakak perempuan saya sudah menikah. Suaminya adalah anak bungsu dalam keluarganya."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad ved du om indonesiske bryllupssskikke? Hvad er anderledes fra bryllupper i dit land?",
+        "en": "What do you know about Indonesian wedding customs? What is different from weddings in your country?",
+        "id": "Apa yang kamu ketahui tentang adat pernikahan Indonesia? Apa yang berbeda dari pernikahan di negaramu?"
+      },
+      "answerShape": {
+        "da": "Di Indonesia, pernikahan biasanya ... Di negara saya, ...",
+        "en": "Di Indonesia, pernikahan biasanya ... Di negara saya, ...",
+        "id": "Di Indonesia, pernikahan biasanya ... Di negara saya, ..."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-unit03-lesson02-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Indonesiske bryllupssskikke og familieordforråd",
+        "en": "Indonesian wedding customs and family vocabulary",
+        "id": "Adat pernikahan Indonesia dan kosakata keluarga"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

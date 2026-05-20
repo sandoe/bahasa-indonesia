@@ -1,0 +1,323 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Saya Tidak Enak Badan – Jeg har det ikke godt",
+    "en": "Saya Tidak Enak Badan – I Don't Feel Well",
+    "id": "Saya Tidak Enak Badan – Saya Tidak Merasa Sehat"
+  },
+  "summary": {
+    "da": "Lær at udtrykke, at du har det dårligt, og beskriv symptomer som svimmelhed, kvalme og træthed på indonesisk.",
+    "en": "Learn to express that you feel unwell and describe symptoms such as dizziness, nausea, and fatigue in Indonesian.",
+    "id": "Belajar mengungkapkan perasaan tidak enak badan dan menggambarkan gejala seperti pusing, mual, dan lelah dalam bahasa Indonesia."
+  },
+  "objectives": [
+    {
+      "da": "Sige 'Saya sakit' og 'Saya tidak enak badan' korrekt og naturligt.",
+      "en": "Say 'Saya sakit' and 'Saya tidak enak badan' correctly and naturally.",
+      "id": "Mengucapkan 'Saya sakit' dan 'Saya tidak enak badan' dengan benar dan natural."
+    },
+    {
+      "da": "Bruge strukturen 'saya merasa + adjektiv' til at beskrive, hvordan man har det.",
+      "en": "Use the structure 'saya merasa + adjective' to describe how you feel.",
+      "id": "Menggunakan struktur 'saya merasa + kata sifat' untuk menggambarkan perasaan."
+    },
+    {
+      "da": "Føre en kort samtale om at melde sig syg til arbejde eller undervisning.",
+      "en": "Hold a short conversation about calling in sick to work or class.",
+      "id": "Melakukan percakapan singkat tentang melapor sakit ke tempat kerja atau kelas."
+    }
+  ],
+  "unit": {
+    "slug": "theme-12",
+    "order": 12,
+    "title": {
+      "da": "Tema 12: Krop & Helbred",
+      "en": "Theme 12: Body & Health",
+      "id": "Tema 12: Tubuh & Kesehatan"
+    },
+    "summary": {
+      "da": "Legemsdele, sygdom og sundhed i indonesisk kontekst.",
+      "en": "Body parts, illness, and health in an Indonesian context.",
+      "id": "Bagian tubuh, penyakit, dan kesehatan dalam konteks Indonesia."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spil en kort lydoptagelse eller rollespil en situation: en studerende ringer til sin underviser og siger, at vedkommende er syg. Spørg klassen: 'Hvad tror I, den studerende siger?' Introducer derefter sætningerne.",
+        "en": "Play a short audio clip or role-play a situation: a student calls their teacher to say they are sick. Ask the class: 'What do you think the student says?' Then introduce the key sentences.",
+        "id": "Putar klip audio singkat atau perankan situasi: seorang siswa menelepon gurunya untuk mengatakan ia sakit. Tanya kelas: 'Apa yang menurut kalian dikatakan siswa?' Kemudian perkenalkan kalimat-kalimat utama."
+      },
+      "flow": [
+        {
+          "da": "Introducer nøglesætninger og ordforråd (10 min): Skriv 'Saya sakit.' og 'Saya tidak enak badan.' på tavlen. Forklar nuancen: 'sakit' er mere direkte ('jeg er syg'), mens 'tidak enak badan' er mere uhøjtidelig ('jeg har det ikke godt/er utilpas').",
+          "en": "Introduce key sentences and vocabulary (10 min): Write 'Saya sakit.' and 'Saya tidak enak badan.' on the board. Explain the nuance: 'sakit' is more direct ('I am sick'), while 'tidak enak badan' is more colloquial ('I don't feel well/I'm under the weather').",
+          "id": "Perkenalkan kalimat kunci dan kosakata (10 menit): Tulis 'Saya sakit.' dan 'Saya tidak enak badan.' di papan. Jelaskan nuansanya: 'sakit' lebih langsung, sementara 'tidak enak badan' lebih kolokial."
+        },
+        {
+          "da": "Øv 'merasa + adjektiv' strukturen (12 min): Skriv adjektiverne pusing, mual, lelah og lemas på tavlen. Vis korte mimik-øvelser: læreren demonstrerer svimmelhed, eleverne siger 'Saya merasa pusing.' osv. Skift roller.",
+          "en": "Practise the 'merasa + adjective' structure (12 min): Write the adjectives pusing, mual, lelah, and lemas on the board. Use short mime exercises: the teacher demonstrates dizziness, students say 'Saya merasa pusing.' etc. Switch roles.",
+          "id": "Latih struktur 'merasa + kata sifat' (12 menit): Tulis kata sifat pusing, mual, lelah, dan lemas di papan. Gunakan latihan mime singkat: guru memperagakan pusing, siswa berkata 'Saya merasa pusing.' dll. Bergantian peran."
+        },
+        {
+          "da": "Rollespil: Meld dig syg (13 min): Elever arbejder i par. Den ene spiller en syg medarbejder/studerende, den anden spiller en chef/underviser. Brug dialogskabelonen og tilpas med egne symptomer.",
+          "en": "Role-play: Call in sick (13 min): Students work in pairs. One plays a sick employee/student, the other plays a boss/teacher. Use the dialogue template and adapt with their own symptoms.",
+          "id": "Bermain peran: Lapor sakit (13 menit): Siswa bekerja berpasangan. Satu memerankan karyawan/siswa yang sakit, yang lain memerankan atasan/guru. Gunakan template dialog dan sesuaikan dengan gejala mereka sendiri."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Udtrykket 'tidak enak badan' er meget brugt i hverdagssproget og lyder mere naturligt end blot 'sakit' i mange sociale situationer. Opfordr eleverne til at bruge det.",
+          "en": "The expression 'tidak enak badan' is widely used in everyday speech and sounds more natural than simply 'sakit' in many social situations. Encourage students to use it.",
+          "id": "Ungkapan 'tidak enak badan' sangat umum dalam percakapan sehari-hari dan terdengar lebih natural daripada sekadar 'sakit' dalam banyak situasi sosial."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lyt til og gentag nøglesætningerne: 'Saya sakit.', 'Saya tidak enak badan.', og de fire 'merasa'-sætninger. Fokuser på naturlig tonefalds.",
+          "en": "Listen to and repeat the key sentences: 'Saya sakit.', 'Saya tidak enak badan.', and the four 'merasa' sentences. Focus on natural intonation.",
+          "id": "Dengarkan dan ulangi kalimat-kalimat kunci: 'Saya sakit.', 'Saya tidak enak badan.', dan empat kalimat 'merasa'. Fokus pada intonasi yang natural."
+        },
+        {
+          "da": "Læs dialogen og øv begge roller højt. Prøv at bytte 'pusing' ud med et af de andre adjektiver fra ordlisten.",
+          "en": "Read the dialogue and practise both roles aloud. Try replacing 'pusing' with one of the other adjectives from the vocabulary list.",
+          "id": "Baca dialog dan latih kedua peran dengan keras. Coba ganti 'pusing' dengan salah satu kata sifat lain dari daftar kosakata."
+        },
+        {
+          "da": "Skriv tre sætninger der beskriver, hvordan du har det i dag, ved hjælp af 'saya merasa ...'.",
+          "en": "Write three sentences describing how you feel today using 'saya merasa ...'.",
+          "id": "Tulislah tiga kalimat yang menggambarkan perasaan Anda hari ini menggunakan 'saya merasa ...'."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du forklare forskellen mellem 'saya sakit' og 'saya tidak enak badan' på din modersmål?",
+          "en": "Can you explain the difference between 'saya sakit' and 'saya tidak enak badan' in your own language?",
+          "id": "Bisakah Anda menjelaskan perbedaan antara 'saya sakit' dan 'saya tidak enak badan' dalam bahasa Anda sendiri?"
+        },
+        {
+          "da": "Kan du bruge mindst tre adjektiver med 'saya merasa ...' i en sætning?",
+          "en": "Can you use at least three adjectives with 'saya merasa ...' in a sentence?",
+          "id": "Bisakah Anda menggunakan setidaknya tiga kata sifat dengan 'saya merasa ...' dalam sebuah kalimat?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Budi",
+      "source": "Halo, Pak Hendra. Ini Budi. Maaf, saya tidak bisa masuk hari ini.",
+      "target": "Halo, Pak Hendra. Ini Budi. Maaf, saya tidak bisa masuk hari ini."
+    },
+    {
+      "speaker": "Pak Hendra",
+      "source": "Kenapa, Budi? Ada apa?",
+      "target": "Kenapa, Budi? Ada apa?"
+    },
+    {
+      "speaker": "Budi",
+      "source": "Saya tidak enak badan, Pak. Saya merasa pusing dan lemas.",
+      "target": "Saya tidak enak badan, Pak. Saya merasa pusing dan lemas."
+    },
+    {
+      "speaker": "Pak Hendra",
+      "source": "Oh, kasihan. Sudah ke dokter?",
+      "target": "Oh, kasihan. Sudah ke dokter?"
+    },
+    {
+      "speaker": "Budi",
+      "source": "Belum, Pak. Tapi saya mau istirahat dulu hari ini.",
+      "target": "Belum, Pak. Tapi saya mau istirahat dulu hari ini."
+    },
+    {
+      "speaker": "Pak Hendra",
+      "source": "Baik. Semoga cepat sembuh, ya, Budi.",
+      "target": "Baik. Semoga cepat sembuh, ya, Budi."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "syg",
+      "target": "sakit",
+      "note": {
+        "da": "Direkte udtryk for sygdom; bruges også om smerte ('sakit kepala' = hovedpine).",
+        "en": "Direct expression for illness; also used for pain ('sakit kepala' = headache).",
+        "id": "Ungkapan langsung untuk sakit; juga digunakan untuk nyeri ('sakit kepala' = sakit kepala)."
+      }
+    },
+    {
+      "source": "have det ikke godt / være utilpas",
+      "target": "tidak enak badan",
+      "note": {
+        "da": "Bogstaveligt: 'krop ikke velsmagende/behagelig'. Meget naturlig hverdagsudtryk.",
+        "en": "Literally: 'body not nice/comfortable'. A very natural everyday expression.",
+        "id": "Harfiah: 'badan tidak enak'. Ungkapan sehari-hari yang sangat natural."
+      }
+    },
+    {
+      "source": "svimmel",
+      "target": "pusing",
+      "note": {
+        "da": "Svimmelhed eller hovedpine; brugt i hverdagstale om begge.",
+        "en": "Dizziness or headache; used colloquially for both.",
+        "id": "Pusing atau sakit kepala; digunakan dalam percakapan sehari-hari untuk keduanya."
+      }
+    },
+    {
+      "source": "kvalm",
+      "target": "mual",
+      "note": {
+        "da": "Kvalme — fornemmelse af at ville kaste op.",
+        "en": "Nausea — the feeling of wanting to vomit.",
+        "id": "Mual — perasaan ingin muntah."
+      }
+    },
+    {
+      "source": "træt",
+      "target": "lelah",
+      "note": {
+        "da": "Træthed efter anstrengelse eller sygdom.",
+        "en": "Tiredness from exertion or illness.",
+        "id": "Kelelahan akibat aktivitas atau penyakit."
+      }
+    },
+    {
+      "source": "svag / kraftesløs",
+      "target": "lemas",
+      "note": {
+        "da": "En svaghedsfornemmelse; kroppen har ikke energi.",
+        "en": "A feeling of weakness; the body has no energy.",
+        "id": "Perasaan lemah; tubuh tidak memiliki energi."
+      }
+    },
+    {
+      "source": "hvile / at hvile sig",
+      "target": "istirahat",
+      "note": {
+        "da": "Bruges både som navneord og udsagnsord: 'waktu istirahat' (hvilepauser), 'saya mau istirahat' (jeg vil hvile).",
+        "en": "Used as both noun and verb: 'waktu istirahat' (break time), 'saya mau istirahat' (I want to rest).",
+        "id": "Digunakan sebagai kata benda dan kata kerja: 'waktu istirahat', 'saya mau istirahat'."
+      }
+    },
+    {
+      "source": "god bedring! / rask igen snart!",
+      "target": "semoga cepat sembuh",
+      "note": {
+        "da": "Bogstaveligt: 'håber du snart er helbredt'. Standard venlighedsfrase ved sygdom.",
+        "en": "Literally: 'hope you recover soon'. Standard phrase of goodwill when someone is ill.",
+        "id": "Harfiah: 'semoga segera sembuh'. Ungkapan umum saat seseorang sakit."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya + merasa + [adjektiv]",
+      "explanation": {
+        "da": "'Merasa' er udsagnsordet 'at føle/fornemme'. Det kombineres med et adjektiv for at beskrive fysiske eller følelsesmæssige tilstande. 'Rasa' (uden 'me-') bruges mere uformelt og i sammensatte ord.",
+        "en": "'Merasa' is the verb 'to feel/sense'. It combines with an adjective to describe physical or emotional states. 'Rasa' (without 'me-') is used more informally and in compound words.",
+        "id": "'Merasa' adalah kata kerja 'merasakan'. Dikombinasikan dengan kata sifat untuk menggambarkan keadaan fisik atau emosional. 'Rasa' (tanpa 'me-') digunakan lebih informal dan dalam kata majemuk."
+      },
+      "examples": [
+        {
+          "source": "Jeg føler mig svimmel.",
+          "target": "Saya merasa pusing."
+        },
+        {
+          "source": "Jeg føler mig træt.",
+          "target": "Saya merasa lelah."
+        },
+        {
+          "source": "Jeg føler mig kvalm.",
+          "target": "Saya merasa mual."
+        }
+      ]
+    },
+    {
+      "pattern": "Saya + tidak + bisa + [verbum]",
+      "explanation": {
+        "da": "'Tidak bisa' betyder 'kan ikke'. Det placeres foran et udsagnsord. Bruges til at forklare, at man ikke er i stand til at gøre noget — f.eks. møde op.",
+        "en": "'Tidak bisa' means 'cannot'. It is placed before a verb. Used to explain that one is unable to do something — e.g. show up.",
+        "id": "'Tidak bisa' berarti 'tidak bisa'. Diletakkan sebelum kata kerja. Digunakan untuk menjelaskan bahwa seseorang tidak mampu melakukan sesuatu."
+      },
+      "examples": [
+        {
+          "source": "Jeg kan ikke komme i dag.",
+          "target": "Saya tidak bisa masuk hari ini."
+        },
+        {
+          "source": "Jeg kan ikke arbejde.",
+          "target": "Saya tidak bisa bekerja."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Ring til din lærer eller chef (spillet af en partner) og fortæl, at du er syg og ikke kan komme. Nævn mindst to symptomer.",
+        "en": "Call your teacher or boss (played by a partner) and say that you are sick and cannot come in. Mention at least two symptoms.",
+        "id": "Telepon guru atau atasan Anda (diperankan oleh pasangan) dan katakan bahwa Anda sakit dan tidak bisa masuk. Sebutkan setidaknya dua gejala."
+      },
+      "answerShape": {
+        "da": "Halo, [navn]. Ini [dit navn]. Maaf, saya tidak bisa masuk hari ini. Saya tidak enak badan. Saya merasa [symptom 1] dan [symptom 2].",
+        "en": "Halo, [name]. Ini [your name]. Maaf, saya tidak bisa masuk hari ini. Saya tidak enak badan. Saya merasa [symptom 1] dan [symptom 2].",
+        "id": "Halo, [nama]. Ini [nama Anda]. Maaf, saya tidak bisa masuk hari ini. Saya tidak enak badan. Saya merasa [gejala 1] dan [gejala 2]."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til fire korte sætninger. For hver sætning: skriv det adjektiv du hører efter 'merasa'.",
+        "en": "Listen to four short sentences. For each sentence: write the adjective you hear after 'merasa'.",
+        "id": "Dengarkan empat kalimat pendek. Untuk setiap kalimat: tulislah kata sifat yang Anda dengar setelah 'merasa'."
+      },
+      "answerShape": {
+        "da": "Skriv de fire adjektiver: pusing / mual / lelah / lemas.",
+        "en": "Write the four adjectives: pusing / mual / lelah / lemas.",
+        "id": "Tuliskan empat kata sifat: pusing / mual / lelah / lemas."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvornår og til hvem ville du bruge 'saya sakit' i stedet for 'saya tidak enak badan'? Skriv en kort forklaring.",
+        "en": "When and to whom would you use 'saya sakit' rather than 'saya tidak enak badan'? Write a short explanation.",
+        "id": "Kapan dan kepada siapa Anda akan menggunakan 'saya sakit' daripada 'saya tidak enak badan'? Tulislah penjelasan singkat."
+      },
+      "answerShape": {
+        "da": "En sætning eller to der forklarer situationsforskellen, f.eks. formelt vs. uformelt, alvorlig sygdom vs. let utilpashed.",
+        "en": "A sentence or two explaining the situational difference, e.g. formal vs. informal, serious illness vs. mild unwellness.",
+        "id": "Satu atau dua kalimat yang menjelaskan perbedaan situasional, mis. formal vs. informal, sakit serius vs. sedikit tidak enak badan."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme12-lesson02-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Saya Tidak Enak Badan – Meld dig syg på indonesisk",
+        "en": "Saya Tidak Enak Badan – Calling in Sick in Indonesian",
+        "id": "Saya Tidak Enak Badan – Melapor Sakit dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

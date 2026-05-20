@@ -1,0 +1,247 @@
+{
+  "pair": "id-da",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Tid og dato",
+    "en": "Time and Date",
+    "id": "Waktu dan tanggal"
+  },
+  "summary": {
+    "da": "Lær at sige ugedage, spørge om klokken og tale om i dag, i morgen og i går på dansk.",
+    "en": "Learn to say weekdays, ask for the time, and talk about today, tomorrow, and yesterday in Danish.",
+    "id": "Belajar menyebut hari dalam seminggu, menanyakan waktu, dan berbicara tentang hari ini, besok, dan kemarin dalam bahasa Denmark."
+  },
+  "objectives": [
+    {
+      "da": "Bruge de vigtigste tidsord på dansk.",
+      "en": "Use the key time words in Danish.",
+      "id": "Menggunakan kata-kata waktu utama dalam bahasa Denmark."
+    },
+    {
+      "da": "Spørge “hvad er klokken?”.",
+      "en": "Ask “what time is it?”.",
+      "id": "Mengajukan pertanyaan “jam berapa sekarang?”."
+    },
+    {
+      "da": "Sige enkle sætninger om dag og tidspunkt.",
+      "en": "Say simple sentences about day and time.",
+      "id": "Mengatakan kalimat sederhana tentang hari dan waktu."
+    }
+  ],
+  "unit": {
+    "slug": "theme-06",
+    "order": 6,
+    "title": {
+      "da": "Tema 6: Tid & Dato",
+      "en": "Theme 6: Time & Date",
+      "id": "Tema 6: Waktu & Tanggal"
+    },
+    "summary": {
+      "da": "Ugedage, klokkeslæt og simple tidsmarkører.",
+      "en": "Weekdays, clock times, and simple time markers.",
+      "id": "Hari dalam seminggu, jam, dan penanda waktu sederhana."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Peg på et ur og en kalender og få eleverne til at sige hvad de allerede kender.",
+        "en": "Point to a clock and a calendar and get students to say what they already know.",
+        "id": "Tunjuk jam dan kalender dan minta siswa mengatakan apa yang sudah mereka kenal."
+      },
+      "flow": [
+        {
+          "da": "Øv i dag, i morgen, i går i små kontraster.",
+          "en": "Practise today, tomorrow, yesterday in small contrasts.",
+          "id": "Latih hari ini, besok, kemarin dalam kontras kecil."
+        },
+        {
+          "da": "Træn hele og halve klokkeslæt.",
+          "en": "Train whole and half clock times.",
+          "id": "Latih jam bulat dan setengah jam."
+        },
+        {
+          "da": "Kombinér dag + tid i små udsagn.",
+          "en": "Combine day + time in small statements.",
+          "id": "Gabungkan hari + waktu dalam pernyataan kecil."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Danske klokkeslæt kan hurtigt blive komplekse. Hold jer til heltal og få faste mønstre først.",
+          "en": "Danish clock expressions get complex quickly. Stay with whole numbers and fixed patterns first.",
+          "id": "Ekspresi jam dalam bahasa Denmark cepat menjadi rumit. Tetaplah pada angka bulat dan pola tetap terlebih dahulu."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs ugedagene højt flere gange.",
+          "en": "Read the weekdays aloud several times.",
+          "id": "Bacalah nama-nama hari dengan suara keras beberapa kali."
+        },
+        {
+          "da": "Skriv tre sætninger med i dag, i morgen og i går.",
+          "en": "Write three sentences with today, tomorrow, and yesterday.",
+          "id": "Tulis tiga kalimat dengan hari ini, besok, dan kemarin."
+        },
+        {
+          "da": "Øv at sige et tidspunkt højt.",
+          "en": "Practise saying a time aloud.",
+          "id": "Latih mengucapkan waktu dengan suara keras."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du spørge hvad klokken er?",
+          "en": "Can you ask what time it is?",
+          "id": "Bisakah Anda menanyakan jam berapa sekarang?"
+        },
+        {
+          "da": "Kan du sige én sætning med i dag eller i morgen?",
+          "en": "Can you say one sentence with today or tomorrow?",
+          "id": "Bisakah Anda mengucapkan satu kalimat dengan hari ini atau besok?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Adi",
+      "source": "Jam berapa sekarang?",
+      "target": "Hvad er klokken nu?"
+    },
+    {
+      "speaker": "Emma",
+      "source": "Sekarang jam otte.",
+      "target": "Klokken er otte nu."
+    },
+    {
+      "speaker": "Adi",
+      "source": "Besok kamu kerja?",
+      "target": "Arbejder du i morgen?"
+    },
+    {
+      "speaker": "Emma",
+      "source": "Ya, saya arbejder i morgen.",
+      "target": "Ja, jeg arbejder i morgen."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "hari ini / besok / kemarin",
+      "target": "i dag / i morgen / i går",
+      "note": {
+        "da": "De tre vigtigste første tidsord.",
+        "en": "The three most important first time words.",
+        "id": "Tiga kata waktu pertama yang paling penting."
+      }
+    },
+    {
+      "source": "jam berapa?",
+      "target": "hvad er klokken?",
+      "note": {
+        "da": "Et centralt spørgsmål i hverdagssprog.",
+        "en": "A central question in everyday language.",
+        "id": "Pertanyaan inti dalam bahasa sehari-hari."
+      }
+    },
+    {
+      "source": "mandag",
+      "target": "mandag",
+      "note": {
+        "da": "En god indgang til ugedagene.",
+        "en": "A good entry point to weekdays.",
+        "id": "Pintu masuk yang baik ke nama-nama hari."
+      }
+    },
+    {
+      "source": "klokken",
+      "target": "klokken",
+      "note": {
+        "da": "Bruges når du siger et tidspunkt.",
+        "en": "Used when you say a time.",
+        "id": "Digunakan ketika Anda menyebutkan waktu."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Hvad er klokken? / Klokken er ...",
+      "explanation": {
+        "da": "Et grundmønster i dansk hverdag. Spørg først, svar derefter med “klokken er...”.",
+        "en": "A basic pattern in Danish daily life. Ask first, then answer with “klokken er...”.",
+        "id": "Pola dasar dalam kehidupan sehari-hari bahasa Denmark. Bertanya terlebih dahulu, lalu jawab dengan “klokken er...”."
+      },
+      "examples": [
+        {
+          "source": "Jam berapa sekarang?",
+          "target": "Hvad er klokken nu?"
+        },
+        {
+          "source": "Sekarang jam ni.",
+          "target": "Klokken er ni nu."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til tre klokkeslæt og skriv dem ned.",
+        "en": "Listen to three times and write them down.",
+        "id": "Dengarkan tiga waktu dan tuliskan."
+      },
+      "answerShape": {
+        "da": "Tre korte svar.",
+        "en": "Three short answers.",
+        "id": "Tiga jawaban singkat."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig hvilken dag det er i dag, og hvad klokken er.",
+        "en": "Say what day it is today and what time it is.",
+        "id": "Katakan hari apa hari ini dan jam berapa sekarang."
+      },
+      "answerShape": {
+        "da": "To korte sætninger.",
+        "en": "Two short sentences.",
+        "id": "Dua kalimat pendek."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en mini-plan for i morgen med dag og tid.",
+        "en": "Write a mini-plan for tomorrow with day and time.",
+        "id": "Tulis rencana mini untuk besok dengan hari dan waktu."
+      },
+      "answerShape": {
+        "da": "To til tre linjer.",
+        "en": "Two to three lines.",
+        "id": "Dua hingga tiga baris."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilket dansk tidsord bliver vigtigst for dig i hverdagen?",
+        "en": "Which Danish time word will be most important for you in daily life?",
+        "id": "Kata waktu bahasa Denmark mana yang akan paling penting bagi Anda dalam kehidupan sehari-hari?"
+      },
+      "answerShape": {
+        "da": "En kort sætning.",
+        "en": "One short sentence.",
+        "id": "Satu kalimat pendek."
+      }
+    }
+  ],
+  "media": []
+}

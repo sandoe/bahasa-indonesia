@@ -1,0 +1,55 @@
+---
+import type { UiLocale } from "@data/site";
+import { t } from "@lib/i18n";
+
+interface ModeInfo {
+  opener?: Record<UiLocale, string>;
+  flow?: Record<UiLocale, string>[];
+  notes?: Record<UiLocale, string>[];
+  path?: Record<UiLocale, string>[];
+  checkpoints?: Record<UiLocale, string>[];
+}
+
+interface Props {
+  locale: UiLocale;
+  teacher: ModeInfo;
+  selfStudy: ModeInfo;
+}
+
+const { locale, teacher, selfStudy } = Astro.props;
+const labels = {
+  teacherMode: { da: "Teacher mode", en: "Teacher mode", id: "Mode pengajar" },
+  selfStudyMode: { da: "Self-study mode", en: "Self-study mode", id: "Mode belajar mandiri" }
+} as const;
+---
+
+<div class="mode-grid">
+  <section class="mode-card">
+    <p class="section-kicker">{labels.teacherMode[locale]}</p>
+    {teacher.opener && <p class="mode-intro">{t(teacher.opener, locale)}</p>}
+    {teacher.flow && (
+      <ul class="mode-list">
+        {teacher.flow.map((item) => <li>{t(item, locale)}</li>)}
+      </ul>
+    )}
+    {teacher.notes && (
+      <div class="note-box">
+        {teacher.notes.map((item) => <p>{t(item, locale)}</p>)}
+      </div>
+    )}
+  </section>
+
+  <section class="mode-card mode-card-alt">
+    <p class="section-kicker">{labels.selfStudyMode[locale]}</p>
+    {selfStudy.path && (
+      <ul class="mode-list">
+        {selfStudy.path.map((item) => <li>{t(item, locale)}</li>)}
+      </ul>
+    )}
+    {selfStudy.checkpoints && (
+      <div class="checkpoint-box">
+        {selfStudy.checkpoints.map((item) => <p>{t(item, locale)}</p>)}
+      </div>
+    )}
+  </section>
+</div>

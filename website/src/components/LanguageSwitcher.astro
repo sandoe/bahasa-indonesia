@@ -1,0 +1,201 @@
+---
+import { uiLocales, localeLabels, type UiLocale } from "@data/site";
+
+interface Props {
+  currentLocale: UiLocale;
+}
+
+const { currentLocale } = Astro.props;
+
+// Helper function to get the target URL for a locale change
+// It tries to keep the user on the same functional page but in the new language
+function getLocalePath(targetLocale: string) {
+  // In a static Astro build, we often need to rewrite the URL path
+  // This is a simplified version for the switcher
+  return `/${targetLocale}/`;
+}
+---
+
+<div class="lang-switcher">
+  <button class="globe-btn" aria-label="Skift sprog / Change language / Ubah bahasa" aria-haspopup="true" aria-expanded="false">
+    <div class="globe-container">
+      <div class="globe">
+        <div class="globe-wrap">
+          <div class="circle"></div>
+          <div class="circle"></div>
+          <div class="circle"></div>
+          <div class="circle-hor"></div>
+          <div class="circle-hor-middle"></div>
+        </div>
+      </div>
+    </div>
+  </button>
+
+  <div class="lang-dropdown" id="lang-dropdown">
+    {uiLocales.map((loc) => (
+      <a 
+        href={`/${loc}/`} 
+        class={`lang-option ${loc === currentLocale ? 'is-active' : ''}`}
+      >
+        <span class="lang-flag">
+          {loc === 'da' ? '🇩🇰' : loc === 'id' ? '🇮🇩' : '🇬🇧'}
+        </span>
+        <span class="lang-label">{localeLabels[loc][loc]}</span>
+      </a>
+    ))}
+  </div>
+</div>
+
+<script>
+  const btn = document.querySelector('.globe-btn');
+  const dropdown = document.getElementById('lang-dropdown');
+
+  if (btn && dropdown) {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const isOpen = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', String(!isOpen));
+      dropdown.classList.toggle('is-open', !isOpen);
+    });
+
+    document.addEventListener('click', () => {
+      btn.setAttribute('aria-expanded', 'false');
+      dropdown.classList.remove('is-open');
+    });
+  }
+</script>
+
+<style>
+  .lang-switcher {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  .globe-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 50%;
+    transition: background 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .globe-btn:hover {
+    background: rgba(13, 26, 28, 0.05);
+  }
+
+  /* Globe Animation */
+  .globe-container {
+    width: 28px;
+    height: 28px;
+    perspective: 1000px;
+  }
+
+  .globe {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    animation: spin 12s linear infinite;
+  }
+
+  .globe-wrap {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    border-radius: 50%;
+    border: 1.5px solid var(--teal);
+  }
+
+  .circle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 1.2px solid var(--teal);
+    border-radius: 50%;
+  }
+
+  .circle:nth-child(1) { transform: rotateY(0deg); }
+  .circle:nth-child(2) { transform: rotateY(60deg); }
+  .circle:nth-child(3) { transform: rotateY(120deg); }
+
+  .circle-hor {
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    width: 80%;
+    height: 50%;
+    border-top: 1.2px solid var(--teal);
+    border-bottom: 1.2px solid var(--teal);
+    border-radius: 50%;
+  }
+
+  .circle-hor-middle {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    border-top: 1.2px solid var(--teal);
+  }
+
+  @keyframes spin {
+    from { transform: rotateY(0deg) rotateX(15deg); }
+    to { transform: rotateY(360deg) rotateX(15deg); }
+  }
+
+  /* Dropdown */
+  .lang-dropdown {
+    position: absolute;
+    top: calc(100% + 12px);
+    right: 0;
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    padding: 0.6rem;
+    min-width: 160px;
+    box-shadow: 0 10px 30px rgba(13, 26, 28, 0.12);
+    opacity: 0;
+    transform: translateY(-10px);
+    pointer-events: none;
+    transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
+    z-index: 1000;
+  }
+
+  .lang-dropdown.is-open {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: all;
+  }
+
+  .lang-option {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    padding: 0.7rem 1rem;
+    text-decoration: none;
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-weight: 700;
+    border-radius: 12px;
+    transition: all 0.2s;
+  }
+
+  .lang-option:hover {
+    background: rgba(13, 26, 28, 0.04);
+    color: var(--ink);
+  }
+
+  .lang-option.is-active {
+    color: var(--teal);
+    background: rgba(28, 77, 79, 0.05);
+  }
+
+  .lang-flag {
+    font-size: 1.2rem;
+  }
+</style>

@@ -1,0 +1,247 @@
+{
+  "pair": "id-da",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Krop og helbred",
+    "en": "Body and Health",
+    "id": "Tubuh dan kesehatan"
+  },
+  "summary": {
+    "da": "Lær enkle ord for kroppen og korte sætninger om at have det dårligt på dansk.",
+    "en": "Learn simple words for the body and short sentences about feeling unwell in Danish.",
+    "id": "Belajar kosakata sederhana untuk tubuh dan kalimat pendek tentang merasa tidak enak badan dalam bahasa Denmark."
+  },
+  "objectives": [
+    {
+      "da": "Nævne centrale kropsdele på dansk.",
+      "en": "Name central body parts in Danish.",
+      "id": "Menyebutkan bagian tubuh penting dalam bahasa Denmark."
+    },
+    {
+      "da": "Sige hvor det gør ondt.",
+      "en": "Say where it hurts.",
+      "id": "Mengatakan di mana terasa sakit."
+    },
+    {
+      "da": "Forstå og bruge enkle helbredssætninger.",
+      "en": "Understand and use simple health sentences.",
+      "id": "Memahami dan menggunakan kalimat kesehatan sederhana."
+    }
+  ],
+  "unit": {
+    "slug": "theme-12",
+    "order": 12,
+    "title": {
+      "da": "Tema 12: Krop & Helbred",
+      "en": "Theme 12: Body & Health",
+      "id": "Tema 12: Tubuh & Kesehatan"
+    },
+    "summary": {
+      "da": "Kropsord, symptomer og korte sundhedssamtaler.",
+      "en": "Body words, symptoms, and short health conversations.",
+      "id": "Kosakata tubuh, gejala, dan percakapan kesehatan singkat."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Peg på hoved, hånd og mave og lad eleverne sige ordene efter dig.",
+        "en": "Point to head, hand, and stomach and let students repeat the words after you.",
+        "id": "Tunjuk kepala, tangan, dan perut dan minta siswa mengulang kata-katanya setelah Anda."
+      },
+      "flow": [
+        {
+          "da": "Introducer hoved, hånd, mave, ben, øje og mund.",
+          "en": "Introduce head, hand, stomach, leg, eye, and mouth.",
+          "id": "Perkenalkan kepala, tangan, perut, kaki, mata, dan mulut."
+        },
+        {
+          "da": "Modelér “jeg har ondt i...” og “jeg er syg”.",
+          "en": "Model “I have pain in...” and “I am ill”.",
+          "id": "Tunjukkan “saya sakit di...” dan “saya sakit”."
+        },
+        {
+          "da": "Lad eleverne lave små helbredsdialoger i par.",
+          "en": "Let students make small health dialogues in pairs.",
+          "id": "Minta siswa membuat dialog kesehatan kecil secara berpasangan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Helbredssprog giver tryghed. Hold det enkelt og meget funktionelt.",
+          "en": "Health language creates security. Keep it simple and very functional.",
+          "id": "Bahasa kesehatan memberi rasa aman. Jagalah tetap sederhana dan sangat fungsional."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv seks kropsord på dansk.",
+          "en": "Write six body words in Danish.",
+          "id": "Tuliskan enam kosakata tubuh dalam bahasa Denmark."
+        },
+        {
+          "da": "Lav to sætninger om hvordan du har det.",
+          "en": "Make two sentences about how you feel.",
+          "id": "Buat dua kalimat tentang bagaimana perasaan Anda."
+        },
+        {
+          "da": "Øv udtrykket “jeg har ondt i...”.",
+          "en": "Practise the expression “I have pain in...”.",
+          "id": "Latih ungkapan “saya sakit di...”."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige mindst tre kropsdele på dansk?",
+          "en": "Can you say at least three body parts in Danish?",
+          "id": "Bisakah Anda menyebutkan setidaknya tiga bagian tubuh dalam bahasa Denmark?"
+        },
+        {
+          "da": "Kan du fortælle hvor det gør ondt?",
+          "en": "Can you say where it hurts?",
+          "id": "Bisakah Anda mengatakan di mana terasa sakit?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Ari",
+      "source": "Saya sakit kepala.",
+      "target": "Jeg har ondt i hovedet."
+    },
+    {
+      "speaker": "Læge",
+      "source": "Apakah kamu juga demam?",
+      "target": "Har du også feber?"
+    },
+    {
+      "speaker": "Ari",
+      "source": "Tidak, tetapi saya er meget træt.",
+      "target": "Nej, men jeg er meget træt."
+    },
+    {
+      "speaker": "Læge",
+      "source": "Baik, istirahat i dag.",
+      "target": "Godt, så skal du hvile i dag."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "kepala / tangan / perut",
+      "target": "hoved / hånd / mave",
+      "note": {
+        "da": "Tre af de mest nyttige første kropsord.",
+        "en": "Three of the most useful first body words.",
+        "id": "Tiga kosakata tubuh pertama yang paling berguna."
+      }
+    },
+    {
+      "source": "sakit",
+      "target": "ondt / syg",
+      "note": {
+        "da": "Bruges forskelligt afhængigt af om du taler om smerte eller generel sygdom.",
+        "en": "Used differently depending on whether you talk about pain or general illness.",
+        "id": "Digunakan berbeda tergantung apakah Anda berbicara tentang rasa sakit atau penyakit umum."
+      }
+    },
+    {
+      "source": "demam",
+      "target": "feber",
+      "note": {
+        "da": "Et meget nyttigt sundhedsord.",
+        "en": "A very useful health word.",
+        "id": "Kosakata kesehatan yang sangat berguna."
+      }
+    },
+    {
+      "source": "lelah",
+      "target": "træt",
+      "note": {
+        "da": "Brugbart i både helbred og hverdag.",
+        "en": "Useful in both health and daily life.",
+        "id": "Berguna baik dalam kesehatan maupun kehidupan sehari-hari."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Jeg har ondt i... / Jeg er ...",
+      "explanation": {
+        "da": "Dansk bruger ofte “jeg har ondt i...” om smerte i en bestemt kropsdel og “jeg er...” om tilstande som træt eller syg.",
+        "en": "Danish often uses “I have pain in...” for pain in a specific body part and “I am...” for states like tired or ill.",
+        "id": "Bahasa Denmark sering menggunakan “saya sakit di...” untuk nyeri pada bagian tubuh tertentu dan “saya ...” untuk kondisi seperti lelah atau sakit."
+      },
+      "examples": [
+        {
+          "source": "Saya sakit perut.",
+          "target": "Jeg har ondt i maven."
+        },
+        {
+          "source": "Saya lelah.",
+          "target": "Jeg er træt."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til tre små symptomer og match dem med kropsdelen.",
+        "en": "Listen to three small symptoms and match them with the body part.",
+        "id": "Dengarkan tiga gejala kecil dan cocokkan dengan bagian tubuhnya."
+      },
+      "answerShape": {
+        "da": "Et lille match.",
+        "en": "A small match.",
+        "id": "Pencocokan kecil."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig hvordan du har det i dag med én eller to sætninger.",
+        "en": "Say how you feel today in one or two sentences.",
+        "id": "Katakan bagaimana perasaan Anda hari ini dalam satu atau dua kalimat."
+      },
+      "answerShape": {
+        "da": "En til to sætninger.",
+        "en": "One to two sentences.",
+        "id": "Satu hingga dua kalimat."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en kort besked om at du er syg eller træt.",
+        "en": "Write a short message saying you are ill or tired.",
+        "id": "Tulis pesan singkat yang mengatakan bahwa Anda sakit atau lelah."
+      },
+      "answerShape": {
+        "da": "To korte linjer.",
+        "en": "Two short lines.",
+        "id": "Dua baris pendek."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilke helbredsord er vigtigst at lære først når man bor i Danmark?",
+        "en": "Which health words are most important to learn first when living in Denmark?",
+        "id": "Kosakata kesehatan apa yang paling penting dipelajari terlebih dahulu ketika tinggal di Denmark?"
+      },
+      "answerShape": {
+        "da": "En kort refleksion.",
+        "en": "A short reflection.",
+        "id": "Refleksi singkat."
+      }
+    }
+  ],
+  "media": []
+}

@@ -1,0 +1,299 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 6,
+  "slug": "lesson-06",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Agama dan Latar Belakang — Religion og Baggrund",
+    "en": "Agama dan Latar Belakang — Religion and Background",
+    "id": "Agama dan Latar Belakang"
+  },
+  "summary": {
+    "da": "Kulturel bevidsthed om religion og baggrund i Indonesien. Lær navnene på Indonesiens seks officielle religioner, ordforråd om kultur og etnicitet, og øv respektfuld kommunikation om følsomme emner.",
+    "en": "Cultural awareness about religion and background in Indonesia. Learn the names of Indonesia's six official religions, vocabulary about culture and ethnicity, and practice respectful communication on sensitive topics.",
+    "id": "Kesadaran budaya tentang agama dan latar belakang di Indonesia. Pelajari nama enam agama resmi Indonesia, kosakata tentang budaya dan etnis, serta berlatih komunikasi yang hormat tentang topik yang sensitif."
+  },
+  "objectives": [
+    {
+      "da": "Nævne Indonesiens seks officielle religioner på indonesisk.",
+      "en": "Name Indonesia's six official religions in Indonesian.",
+      "id": "Menyebutkan enam agama resmi Indonesia dalam bahasa Indonesia."
+    },
+    {
+      "da": "Bruge ordforråd om kultur, etnicitet og baggrund passende og respektfuldt.",
+      "en": "Use vocabulary about culture, ethnicity, and background appropriately and respectfully.",
+      "id": "Menggunakan kosakata tentang budaya, etnis, dan latar belakang dengan tepat dan hormat."
+    },
+    {
+      "da": "Forstå, at religion er en vigtig del af hverdagsidentiteten i Indonesien.",
+      "en": "Understand that religion is an important part of everyday identity in Indonesia.",
+      "id": "Memahami bahwa agama adalah bagian penting dari identitas sehari-hari di Indonesia."
+    }
+  ],
+  "unit": {
+    "slug": "theme-02",
+    "order": 2,
+    "title": {
+      "da": "Tema 2: Identitet",
+      "en": "Theme 2: Identity",
+      "id": "Tema 2: Identitas"
+    },
+    "summary": {
+      "da": "Hvem er du? Personlige oplysninger og selvbeskrivelse.",
+      "en": "Who are you? Personal details and self-description.",
+      "id": "Siapa kamu? Informasi pribadi dan deskripsi diri."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg klassen: 'Tror I, at man kan blive spurgt om sin religion ved en jobsamtale i Indonesien?' Diskuter og introducer begrebet Pancasila.",
+        "en": "Ask the class: 'Do you think you can be asked about your religion in a job interview in Indonesia?' Discuss and introduce the concept of Pancasila.",
+        "id": "Tanyakan kepada kelas: 'Apakah menurut Anda seseorang bisa ditanya tentang agamanya dalam wawancara kerja di Indonesia?' Diskusikan dan perkenalkan konsep Pancasila."
+      },
+      "flow": [
+        {
+          "da": "Præsenter de seks officielle religioner: Islam, Kristen (Protestant), Katolik, Hindu, Buddha, Konghucu. Nævn at ca. 87% af indoneserne er muslimer.",
+          "en": "Present the six official religions: Islam, Kristen (Protestant), Katolik, Hindu, Buddha, Konghucu. Mention that about 87% of Indonesians are Muslim.",
+          "id": "Perkenalkan enam agama resmi: Islam, Kristen (Protestan), Katolik, Hindu, Buddha, Konghucu. Sebutkan bahwa sekitar 87% orang Indonesia beragama Islam."
+        },
+        {
+          "da": "Diskuter: I Indonesien er religion en del af identitetskortet (KTP). Det er ikke obligatorisk at fortælle det til fremmede, men det er normalt at spørge.",
+          "en": "Discuss: In Indonesia, religion is part of the national ID card (KTP). It is not mandatory to share it with strangers, but it is normal to ask.",
+          "id": "Diskusikan: Di Indonesia, agama adalah bagian dari kartu identitas (KTP). Tidak wajib memberitahukannya kepada orang asing, tetapi wajar untuk ditanya."
+        },
+        {
+          "da": "Introducer ordforråd om etnicitet: suku. Fx Suku Jawa, Suku Batak, Suku Sunda. Forklar Indonesiens mangfoldighed.",
+          "en": "Introduce ethnicity vocabulary: suku. E.g. Suku Jawa, Suku Batak, Suku Sunda. Explain Indonesia's diversity.",
+          "id": "Perkenalkan kosakata etnis: suku. Misalnya Suku Jawa, Suku Batak, Suku Sunda. Jelaskan keragaman Indonesia."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Emnet kræver kulturel sensitivitet. Understreg at studerende aldrig er forpligtede til at afsløre deres religion, og at øvelserne er hypotetiske.",
+          "en": "The topic requires cultural sensitivity. Emphasize that students are never obligated to disclose their religion, and that exercises are hypothetical.",
+          "id": "Topik ini membutuhkan kepekaan budaya. Tekankan bahwa siswa tidak pernah diwajibkan untuk mengungkapkan agama mereka, dan latihan bersifat hipotetis."
+        },
+        {
+          "da": "Konghucu er en relativ ny tilføjelse til de officielle religioner – anerkendt igen i 2000 efter Soeharto-perioden.",
+          "en": "Konghucu is a relatively recent addition to the official religions – recognized again in 2000 after the Suharto era.",
+          "id": "Konghucu adalah tambahan yang relatif baru pada agama resmi – diakui kembali pada tahun 2000 setelah era Soeharto."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs om Bhinneka Tunggal Ika – Indonesiens nationalmotto som betyder 'Enhed i mangfoldighed'.",
+          "en": "Read about Bhinneka Tunggal Ika – Indonesia's national motto meaning 'Unity in Diversity'.",
+          "id": "Baca tentang Bhinneka Tunggal Ika – moto nasional Indonesia yang berarti 'Berbeda-beda tetapi tetap satu'."
+        },
+        {
+          "da": "Skriv et kort afsnit (på indonesisk eller dansk) om religiøs eller kulturel mangfoldighed i dit eget land.",
+          "en": "Write a short paragraph (in Indonesian or Danish) about religious or cultural diversity in your own country.",
+          "id": "Tuliskan paragraf singkat (dalam bahasa Indonesia atau Denmark) tentang keragaman agama atau budaya di negara Anda."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du nævne Indonesiens seks officielle religioner uden at kigge?",
+          "en": "Can you name Indonesia's six official religions without looking?",
+          "id": "Dapatkah Anda menyebutkan enam agama resmi Indonesia tanpa melihat?"
+        },
+        {
+          "da": "Hvad er suku, og kan du nævne to eksempler?",
+          "en": "What is suku, and can you name two examples?",
+          "id": "Apa itu suku, dan dapatkah Anda menyebutkan dua contoh?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Mads",
+      "source": "Hei Dewi, jeg er nysgerrig – hvad er din religion?",
+      "target": "Hei Dewi, saya penasaran – apa agamamu?"
+    },
+    {
+      "speaker": "Dewi",
+      "source": "Saya Muslim. Di Indonesia, agama er meget vigtigt for os.",
+      "target": "Saya Muslim. Di Indonesia, agama sangat penting bagi kami."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Interessant. Og er der mange forskellige religioner i Indonesien?",
+      "target": "Menarik. Dan apakah ada banyak agama berbeda di Indonesia?"
+    },
+    {
+      "speaker": "Dewi",
+      "source": "Ya! Ada enam agama resmi: Islam, Kristen, Katolik, Hindu, Buddha, dan Konghucu.",
+      "target": "Ya! Ada enam agama resmi: Islam, Kristen, Katolik, Hindu, Buddha, dan Konghucu."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Hvad med etnicitet? Hvad er din suku?",
+      "target": "Bagaimana dengan etnis? Apa sukumu?"
+    },
+    {
+      "speaker": "Dewi",
+      "source": "Saya dari Suku Jawa. Vi er den største etniske gruppe i Indonesien.",
+      "target": "Saya dari Suku Jawa. Kami adalah suku terbesar di Indonesia."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Religion",
+      "target": "Agama",
+      "note": {
+        "da": "Agama er et sanskrittord. Religion er en central del af hverdagslivet og den officielle identitet i Indonesien.",
+        "en": "Agama is a Sanskrit word. Religion is a central part of everyday life and official identity in Indonesia.",
+        "id": "Agama adalah kata Sanskrit. Agama adalah bagian sentral dari kehidupan sehari-hari dan identitas resmi di Indonesia."
+      }
+    },
+    {
+      "source": "Baggrund",
+      "target": "Latar belakang",
+      "note": {
+        "da": "Bogstaveligt: baggrundsbaggrund. Bruges om familiemæssig, kulturel og uddannelsesmæssig baggrund.",
+        "en": "Literally: background backdrop. Used for family, cultural, and educational background.",
+        "id": "Harfiah: latar belakang. Digunakan untuk latar belakang keluarga, budaya, dan pendidikan."
+      }
+    },
+    {
+      "source": "Kultur",
+      "target": "Budaya",
+      "note": {
+        "da": "Kebudayaan = kulturen (med ke-...-an affiks). Departemen Kebudayaan = Kulturdepartementet.",
+        "en": "Kebudayaan = the culture (with ke-...-an affix). Departemen Kebudayaan = Ministry of Culture.",
+        "id": "Kebudayaan = budaya (dengan imbuhan ke-...-an). Departemen Kebudayaan = Kementerian Kebudayaan."
+      }
+    },
+    {
+      "source": "Folkegruppe / Etnicitet",
+      "target": "Suku",
+      "note": {
+        "da": "Indonesien har over 1.300 anerkendte suku (etniske grupper). De største er Jawa, Sunda og Batak.",
+        "en": "Indonesia has over 1,300 recognized suku (ethnic groups). The largest are Jawa, Sunda, and Batak.",
+        "id": "Indonesia memiliki lebih dari 1.300 suku yang diakui. Yang terbesar adalah Jawa, Sunda, dan Batak."
+      }
+    },
+    {
+      "source": "Islam",
+      "target": "Islam",
+      "note": {
+        "da": "Ca. 87% af indoneserne er muslimer. Indonesien er verdens mest befolkede muslimske nation.",
+        "en": "About 87% of Indonesians are Muslim. Indonesia is the world's most populous Muslim-majority nation.",
+        "id": "Sekitar 87% orang Indonesia beragama Islam. Indonesia adalah negara dengan populasi Muslim terbesar di dunia."
+      }
+    },
+    {
+      "source": "Kristen (protestantisk)",
+      "target": "Kristen",
+      "note": {
+        "da": "Kristen refererer til protestantisk kristendom. Katolsk = Katolik (adskilt fra Kristen i det officielle system).",
+        "en": "Kristen refers to Protestant Christianity. Catholic = Katolik (separate from Kristen in the official system).",
+        "id": "Kristen mengacu pada Kekristenan Protestan. Katolik = Katolik (terpisah dari Kristen dalam sistem resmi)."
+      }
+    },
+    {
+      "source": "Mangfoldighed",
+      "target": "Keberagaman",
+      "note": {
+        "da": "Indonesiens nationalmotto Bhinneka Tunggal Ika fejrer keberagaman = mangfoldighed.",
+        "en": "Indonesia's national motto Bhinneka Tunggal Ika celebrates keberagaman = diversity.",
+        "id": "Moto nasional Indonesia Bhinneka Tunggal Ika merayakan keberagaman."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya beragama [religion]. / Agama saya [religion].",
+      "explanation": {
+        "da": "Beragama = have en religion (ber- + agama). Eller brug possessivkonstruktionen: Agama saya = min religion. Begge former er naturlige.",
+        "en": "Beragama = to have a religion (ber- + agama). Or use the possessive construction: Agama saya = my religion. Both forms are natural.",
+        "id": "Beragama = beragama (ber- + agama). Atau gunakan konstruksi posesif: Agama saya = agama saya. Kedua bentuk ini wajar."
+      },
+      "examples": [
+        { "source": "Jeg er muslim.", "target": "Saya beragama Islam." },
+        { "source": "Hvad er din religion?", "target": "Apa agamamu?" },
+        { "source": "Min religion er kristendom.", "target": "Agama saya Kristen." }
+      ]
+    },
+    {
+      "pattern": "Saya dari Suku [gruppenavn].",
+      "explanation": {
+        "da": "Dari = fra. Suku + gruppenavn angiver etnisk baggrund. Giver vigtig kontekst i Indonesien, da suku kan fortælle om ens modersmål og skikke.",
+        "en": "Dari = from. Suku + group name indicates ethnic background. Provides important context in Indonesia as suku can indicate one's mother tongue and customs.",
+        "id": "Dari = dari. Suku + nama kelompok menunjukkan latar belakang etnis. Memberikan konteks penting di Indonesia karena suku dapat menunjukkan bahasa ibu dan adat seseorang."
+      },
+      "examples": [
+        { "source": "Jeg er fra den javanske folkegruppe.", "target": "Saya dari Suku Jawa." },
+        { "source": "Hun er fra Batak-folket.", "target": "Dia dari Suku Batak." }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Øv en respektfuld samtale: Spørg en klassekammerat (hypotetisk) om deres kulturelle baggrund. Brug 'Dari mana latar belakangmu?'",
+        "en": "Practice a respectful conversation: Ask a classmate (hypothetically) about their cultural background. Use 'Dari mana latar belakangmu?'",
+        "id": "Berlatihlah percakapan yang sopan: Tanyakan kepada teman sekelas (secara hipotetis) tentang latar belakang budaya mereka. Gunakan 'Dari mana latar belakangmu?'"
+      },
+      "answerShape": {
+        "da": "Saya dari ... Budaya saya ...",
+        "en": "Saya dari ... Budaya saya ...",
+        "id": "Saya dari ... Budaya saya ..."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv tre sætninger om Indonesiens religiøse mangfoldighed ved brug af ordene agama, keberagaman og suku.",
+        "en": "Write three sentences about Indonesia's religious diversity using the words agama, keberagaman, and suku.",
+        "id": "Tuliskan tiga kalimat tentang keberagaman agama Indonesia menggunakan kata agama, keberagaman, dan suku."
+      },
+      "answerShape": {
+        "da": "Frie svar der bruger de tre nøgleord.",
+        "en": "Free answers using the three key words.",
+        "id": "Jawaban bebas menggunakan tiga kata kunci."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad overrasker dig mest ved religionens rolle i Indonesien? Sammenlign med Danmark.",
+        "en": "What surprises you most about the role of religion in Indonesia? Compare with Denmark.",
+        "id": "Apa yang paling mengejutkan Anda tentang peran agama di Indonesia? Bandingkan dengan Denmark."
+      },
+      "answerShape": {
+        "da": "Fri refleksion og sammenligning.",
+        "en": "Free reflection and comparison.",
+        "id": "Refleksi bebas dan perbandingan."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme02-lesson06-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Religion og Kultur i Indonesien",
+        "en": "Religion and Culture in Indonesia",
+        "id": "Agama dan Budaya di Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

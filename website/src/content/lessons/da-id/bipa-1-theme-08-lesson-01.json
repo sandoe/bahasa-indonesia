@@ -1,0 +1,328 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Mine hobbyer",
+    "en": "My Hobbies",
+    "id": "Hobi Saya"
+  },
+  "summary": {
+    "da": "Lær at fortælle om dine hobbyer og fritidsinteresser på indonesisk.",
+    "en": "Learn to talk about your hobbies and leisure interests in Indonesian.",
+    "id": "Belajar menceritakan hobi dan minat waktu luang dalam bahasa Indonesia."
+  },
+  "objectives": [
+    {
+      "da": "Sige 'Hobi saya er ...' og 'Jeg kan godt lide ...' på indonesisk.",
+      "en": "Say 'My hobby is ...' and 'I like ...' in Indonesian.",
+      "id": "Mengucapkan 'Hobi saya adalah ...' dan 'Saya suka ...' dalam bahasa Indonesia."
+    },
+    {
+      "da": "Nævne mindst fem hobbyer på indonesisk.",
+      "en": "Name at least five hobbies in Indonesian.",
+      "id": "Menyebutkan minimal lima hobi dalam bahasa Indonesia."
+    },
+    {
+      "da": "Føre en kort samtale om hobbyer ved første møde i en hobbygruppe.",
+      "en": "Hold a short conversation about hobbies at a first hobby club meeting.",
+      "id": "Melakukan percakapan singkat tentang hobi saat pertama kali bertemu di klub hobi."
+    }
+  ],
+  "unit": {
+    "slug": "theme-08",
+    "order": 8,
+    "title": {
+      "da": "Tema 8: Fritid & Interesser",
+      "en": "Theme 8: Hobbies & Interests",
+      "id": "Tema 8: Hobi & Minat"
+    },
+    "summary": {
+      "da": "Fritidsaktiviteter, sport, kultur og personlige interesser.",
+      "en": "Leisure activities, sports, culture, and personal interests.",
+      "id": "Aktivitas waktu luang, olahraga, budaya, dan minat pribadi."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg eleverne: 'Hvad laver du i din fritid?' og skriv svarene på tavlen. Introducer derefter de indonesiske ord for de nævnte hobbyer.",
+        "en": "Ask students: 'What do you do in your free time?' and write answers on the board. Then introduce the Indonesian words for the mentioned hobbies.",
+        "id": "Tanya siswa: 'Apa yang kamu lakukan di waktu luang?' dan tulis jawaban di papan. Kemudian perkenalkan kata-kata Indonesia untuk hobi yang disebutkan."
+      },
+      "flow": [
+        {
+          "da": "Præsenter de tre nøglefraser: 'Hobi saya adalah...', 'Saya suka...' og 'Saya gemar...'. Forklar at alle tre bruges til at udtrykke en hobby eller interesse, med let stigende grad af entusiasme.",
+          "en": "Present the three key phrases: 'Hobi saya adalah...', 'Saya suka...', and 'Saya gemar...'. Explain all three express a hobby or interest, with slightly increasing enthusiasm.",
+          "id": "Perkenalkan tiga frasa kunci: 'Hobi saya adalah...', 'Saya suka...', dan 'Saya gemar...'. Jelaskan bahwa ketiganya menyatakan hobi atau minat, dengan tingkat antusiasme yang sedikit meningkat."
+        },
+        {
+          "da": "Gennemgå hobbyvokabularet med billeder eller tegninger. Øv udtalen som klasse, i par og individuelt.",
+          "en": "Go through the hobby vocabulary with pictures or drawings. Practice pronunciation as a class, in pairs, and individually.",
+          "id": "Pelajari kosakata hobi dengan gambar atau ilustrasi. Latih pengucapan bersama-sama, berpasangan, dan individual."
+        },
+        {
+          "da": "Lad eleverne spille dialogscenen i par, som om de mødes i en hobbygruppe for første gang. Skift roller.",
+          "en": "Have students role-play the dialogue scene in pairs as if meeting at a hobby club for the first time. Swap roles.",
+          "id": "Minta siswa melakukan role-play dialog berpasangan seolah-olah bertemu di klub hobi untuk pertama kalinya. Bergantian peran."
+        }
+      ],
+      "notes": [
+        {
+          "da": "'Gemar' er lidt mere formelt og entusiastisk end 'suka'. Begge er korrekte og meget brugte.",
+          "en": "'Gemar' is slightly more formal and enthusiastic than 'suka'. Both are correct and widely used.",
+          "id": "'Gemar' sedikit lebih formal dan antusias dibandingkan 'suka'. Keduanya benar dan banyak digunakan."
+        },
+        {
+          "da": "Indonesisk bruger ikke -ing-form som dansk: 'Hobi saya adalah memasak' (bogstaveligt: 'Min hobby er at lave mad').",
+          "en": "Indonesian does not use a separate -ing form like Danish: 'Hobi saya adalah memasak' (literally: 'My hobby is cooking').",
+          "id": "Bahasa Indonesia tidak menggunakan bentuk -ing seperti bahasa Denmark: 'Hobi saya adalah memasak' (harfiah: 'Hobi saya adalah memasak')."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs og lyt til dialogscenen. Gentag hvert udsagn højt tre gange.",
+          "en": "Read and listen to the dialogue scene. Repeat each sentence aloud three times.",
+          "id": "Baca dan dengarkan dialog. Ulangi setiap kalimat dengan keras tiga kali."
+        },
+        {
+          "da": "Lær ordforrådslisten udenad. Skriv en liste over dine egne hobbyer på indonesisk.",
+          "en": "Memorize the vocabulary list. Write a list of your own hobbies in Indonesian.",
+          "id": "Hafalkan daftar kosakata. Tulis daftar hobi Anda sendiri dalam bahasa Indonesia."
+        },
+        {
+          "da": "Gennemfør alle tre aktiviteter og tjek dine svar mod vejledende eksempler.",
+          "en": "Complete all three activities and check your answers against the model examples.",
+          "id": "Selesaikan semua tiga aktivitas dan periksa jawaban Anda dengan contoh model."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du nævne mindst fem hobbyer på indonesisk uden at kigge i noter?",
+          "en": "Can you name at least five hobbies in Indonesian without looking at your notes?",
+          "id": "Bisakah kamu menyebutkan minimal lima hobi dalam bahasa Indonesia tanpa melihat catatan?"
+        },
+        {
+          "da": "Kan du præsentere dig selv og din hobby i tre sætninger på indonesisk?",
+          "en": "Can you introduce yourself and your hobby in three sentences in Indonesian?",
+          "id": "Bisakah kamu memperkenalkan diri dan hobi kamu dalam tiga kalimat dalam bahasa Indonesia?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Rina",
+      "source": "Hej! Jeg er ny her. Jeg hedder Rina.",
+      "target": "Halo! Saya baru di sini. Nama saya Rina."
+    },
+    {
+      "speaker": "Budi",
+      "source": "Velkommmen! Jeg hedder Budi. Hvad er din hobby?",
+      "target": "Selamat datang! Nama saya Budi. Apa hobi kamu?"
+    },
+    {
+      "speaker": "Rina",
+      "source": "Min hobby er at lave mad og fotografere. Hvad med dig?",
+      "target": "Hobi saya adalah memasak dan berfoto. Kalau kamu?"
+    },
+    {
+      "speaker": "Budi",
+      "source": "Jeg kan godt lide at læse og dyrke havearbejde. Jeg er rigtig glad for planter!",
+      "target": "Saya suka membaca dan berkebun. Saya gemar sekali dengan tanaman!"
+    },
+    {
+      "speaker": "Rina",
+      "source": "Sikke sjovt! Jeg er faktisk også glad for at skrive – jeg skriver en blog.",
+      "target": "Wah, menarik! Saya juga gemar menulis – saya punya blog."
+    },
+    {
+      "speaker": "Budi",
+      "source": "Fantastisk! Vi har mange interesser til fælles. Lad os blive venner!",
+      "target": "Bagus sekali! Kita punya banyak minat yang sama. Ayo berteman!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "hobi",
+      "target": "hobby",
+      "note": {
+        "da": "Udtales 'ho-bi'. Samme ord som på dansk, men kortere.",
+        "en": "Pronounced 'ho-bi'. Same word as in English, slightly shortened.",
+        "id": "Diucapkan 'ho-bi'. Kata serapan dari bahasa Inggris 'hobby'."
+      }
+    },
+    {
+      "source": "memasak",
+      "target": "at lave mad / cooking",
+      "note": {
+        "da": "Fra roden 'masak' (tilberedt). 'Me-' er aktivt verbalpræfiks.",
+        "en": "From root 'masak' (cooked). 'Me-' is an active verb prefix.",
+        "id": "Dari kata dasar 'masak'. Awalan 'me-' membentuk kata kerja aktif."
+      }
+    },
+    {
+      "source": "membaca",
+      "target": "at læse / reading",
+      "note": {
+        "da": "Fra roden 'baca'. Meget brugt i dagligsproget.",
+        "en": "From root 'baca'. Very common in everyday speech.",
+        "id": "Dari kata dasar 'baca'. Sangat umum digunakan sehari-hari."
+      }
+    },
+    {
+      "source": "menulis",
+      "target": "at skrive / writing",
+      "note": {
+        "da": "Fra roden 'tulis' (skrift/tekst).",
+        "en": "From root 'tulis' (written text).",
+        "id": "Dari kata dasar 'tulis'."
+      }
+    },
+    {
+      "source": "menggambar",
+      "target": "at tegne / drawing",
+      "note": {
+        "da": "Fra roden 'gambar' (billede/tegning).",
+        "en": "From root 'gambar' (picture/image).",
+        "id": "Dari kata dasar 'gambar'."
+      }
+    },
+    {
+      "source": "berkebun",
+      "target": "at have / gardening",
+      "note": {
+        "da": "Fra 'kebun' (have/mark). 'Ber-' er verbalpræfiks for aktiviteter.",
+        "en": "From 'kebun' (garden/field). 'Ber-' is a verb prefix for activities.",
+        "id": "Dari kata 'kebun'. Awalan 'ber-' membentuk kata kerja aktivitas."
+      }
+    },
+    {
+      "source": "berfoto",
+      "target": "at fotografere / photography",
+      "note": {
+        "da": "Fra 'foto'. 'Ber-' + 'foto' = tage billeder.",
+        "en": "From 'foto'. 'Ber-' + 'foto' = to take photos.",
+        "id": "Dari kata 'foto'. 'Ber-' + 'foto' = mengambil foto."
+      }
+    },
+    {
+      "source": "jalan-jalan",
+      "target": "at rejse / gå tur / travelling/strolling",
+      "note": {
+        "da": "Gentagelsesform af 'jalan' (at gå). Bruges om både korte ture og rejser.",
+        "en": "Reduplication of 'jalan' (to walk). Used for both short outings and travel.",
+        "id": "Pengulangan dari kata 'jalan'. Digunakan untuk jalan-jalan singkat maupun perjalanan jauh."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Hobi saya adalah + [verb/noun]",
+      "explanation": {
+        "da": "'Hobi saya adalah' svarer til 'Min hobby er'. 'Adalah' fungerer som 'er/er lig med' og kan udelades i uformel tale.",
+        "en": "'Hobi saya adalah' means 'My hobby is'. 'Adalah' functions as 'is/equals' and can be omitted in informal speech.",
+        "id": "'Hobi saya adalah' berarti 'Hobi saya adalah'. 'Adalah' berfungsi sebagai kopula dan bisa dihilangkan dalam percakapan informal."
+      },
+      "examples": [
+        {
+          "source": "Min hobby er at lave mad.",
+          "target": "Hobi saya adalah memasak."
+        },
+        {
+          "source": "Min hobby er fotografering.",
+          "target": "Hobi saya adalah berfoto."
+        },
+        {
+          "source": "Min hobby er havearbejde.",
+          "target": "Hobi saya berkebun."
+        }
+      ]
+    },
+    {
+      "pattern": "Saya suka / Saya gemar + [verb/noun]",
+      "explanation": {
+        "da": "'Suka' og 'gemar' betyder begge 'kan lide / er glad for'. 'Gemar' udtrykker en lidt stærkere og mere vedvarende entusiasme end 'suka'.",
+        "en": "'Suka' and 'gemar' both mean 'to like'. 'Gemar' expresses a slightly stronger and more enduring enthusiasm than 'suka'.",
+        "id": "'Suka' dan 'gemar' keduanya berarti 'menyukai'. 'Gemar' mengungkapkan antusiasme yang sedikit lebih kuat dan bertahan lama daripada 'suka'."
+      },
+      "examples": [
+        {
+          "source": "Jeg kan godt lide at læse.",
+          "target": "Saya suka membaca."
+        },
+        {
+          "source": "Jeg er rigtig glad for at skrive.",
+          "target": "Saya gemar menulis."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Præsenter dig selv og nævn to hobbyer. Brug 'Hobi saya adalah...' og 'Saya suka...'.",
+        "en": "Introduce yourself and mention two hobbies. Use 'Hobi saya adalah...' and 'Saya suka...'.",
+        "id": "Perkenalkan diri kamu dan sebutkan dua hobi. Gunakan 'Hobi saya adalah...' dan 'Saya suka...'."
+      },
+      "answerShape": {
+        "da": "Nama saya [navn]. Hobi saya adalah [hobby 1]. Saya juga suka [hobby 2].",
+        "en": "Nama saya [name]. Hobi saya adalah [hobby 1]. Saya juga suka [hobby 2].",
+        "id": "Nama saya [nama]. Hobi saya adalah [hobi 1]. Saya juga suka [hobi 2]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Sæt ordene i den rigtige rækkefølge: adalah / memasak / saya / hobi",
+        "en": "Put the words in the correct order: adalah / memasak / saya / hobi",
+        "id": "Susun kata-kata berikut menjadi kalimat yang benar: adalah / memasak / saya / hobi"
+      },
+      "answerShape": {
+        "da": "Hobi saya adalah memasak.",
+        "en": "Hobi saya adalah memasak.",
+        "id": "Hobi saya adalah memasak."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad er forskellen på 'suka' og 'gemar'? Giv et eksempel med hver.",
+        "en": "What is the difference between 'suka' and 'gemar'? Give one example with each.",
+        "id": "Apa perbedaan antara 'suka' dan 'gemar'? Berikan satu contoh untuk masing-masing."
+      },
+      "answerShape": {
+        "da": "'Suka' = kan godt lide (neutral). 'Gemar' = er rigtig glad for (stærkere). F.eks.: Saya suka membaca. / Saya gemar membaca.",
+        "en": "'Suka' = like (neutral). 'Gemar' = really enjoy (stronger). E.g.: Saya suka membaca. / Saya gemar membaca.",
+        "id": "'Suka' = menyukai (netral). 'Gemar' = sangat menyukai (lebih kuat). Contoh: Saya suka membaca. / Saya gemar membaca."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme08-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Introduktion: Mine hobbyer på indonesisk",
+        "en": "Introduction: My hobbies in Indonesian",
+        "id": "Pengenalan: Hobi saya dalam bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

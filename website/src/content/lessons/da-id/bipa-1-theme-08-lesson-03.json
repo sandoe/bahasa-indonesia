@@ -1,0 +1,296 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 3,
+  "slug": "lesson-03",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Musik og Kunst",
+    "en": "Music and Arts",
+    "id": "Musik dan Seni"
+  },
+  "summary": {
+    "da": "Lær at tale om musik, kunst og kulturelle aktiviteter på indonesisk, herunder den traditionelle batikkunst.",
+    "en": "Learn to talk about music, art, and cultural activities in Indonesian, including the traditional art of batik.",
+    "id": "Belajar berbicara tentang musik, seni, dan aktivitas budaya dalam bahasa Indonesia, termasuk seni batik tradisional."
+  },
+  "objectives": [
+    {
+      "da": "Nævne mindst fem musik- og kunstaktiviteter på indonesisk.",
+      "en": "Name at least five music and art activities in Indonesian.",
+      "id": "Menyebutkan minimal lima aktivitas musik dan seni dalam bahasa Indonesia."
+    },
+    {
+      "da": "Beskrive et kulturelt arrangement ved hjælp af enkle sætninger.",
+      "en": "Describe a cultural event using simple sentences.",
+      "id": "Menggambarkan sebuah acara budaya menggunakan kalimat sederhana."
+    },
+    {
+      "da": "Forklare hvad batik er på indonesisk.",
+      "en": "Explain what batik is in Indonesian.",
+      "id": "Menjelaskan apa itu batik dalam bahasa Indonesia."
+    }
+  ],
+  "unit": {
+    "slug": "theme-08",
+    "order": 8,
+    "title": {
+      "da": "Tema 8: Fritid & Interesser",
+      "en": "Theme 8: Hobbies & Interests",
+      "id": "Tema 8: Hobi & Minat"
+    },
+    "summary": {
+      "da": "Fritidsaktiviteter, sport, kultur og personlige interesser.",
+      "en": "Leisure activities, sports, culture, and personal interests.",
+      "id": "Aktivitas waktu luang, olahraga, budaya, dan minat pribadi."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis et billede af batik og spil et kort klip med gamelan-musik. Spørg eleverne: 'Hvad ser/hører I?' Introducer kulturkonteksten.",
+        "en": "Show a picture of batik and play a short clip of gamelan music. Ask students: 'What do you see/hear?' Introduce the cultural context.",
+        "id": "Tunjukkan gambar batik dan putar klip singkat musik gamelan. Tanya siswa: 'Apa yang kalian lihat/dengar?' Perkenalkan konteks budaya."
+      },
+      "flow": [
+        {
+          "da": "Gennemgå musik- og kunstordforrådet. Brug billeder af instrumenter og kunstformer. Understreg kulturel betydning (batik = UNESCO-arv!).",
+          "en": "Go through music and art vocabulary. Use pictures of instruments and art forms. Emphasise cultural significance (batik = UNESCO heritage!).",
+          "id": "Pelajari kosakata musik dan seni. Gunakan gambar alat musik dan bentuk seni. Tekankan signifikansi budaya (batik = warisan UNESCO!)."
+        },
+        {
+          "da": "Gennemgå verbalpræfikset 'me-' i musikverber: mendengarkan, menyanyi, melukis. Forklar mønsteret.",
+          "en": "Review the 'me-' verb prefix in music verbs: mendengarkan, menyanyi, melukis. Explain the pattern.",
+          "id": "Tinjau awalan kata kerja 'me-' dalam kata kerja musik: mendengarkan, menyanyi, melukis. Jelaskan polanya."
+        },
+        {
+          "da": "Gruppeaktivitet: eleverne planlægger et kulturelt arrangement og beskriver det ved hjælp af dialogens sprogmønstre.",
+          "en": "Group activity: students plan a cultural event and describe it using the dialogue's language patterns.",
+          "id": "Aktivitas kelompok: siswa merencanakan acara budaya dan menggambarkannya menggunakan pola bahasa dialog."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Batik er en UNESCO-anerkendt del af Indonesiens immaterielle kulturarv. Det er et kærligt emne for indonesere.",
+          "en": "Batik is a UNESCO-recognised part of Indonesia's intangible cultural heritage. It is a topic of pride for Indonesians.",
+          "id": "Batik adalah bagian dari warisan budaya takbenda Indonesia yang diakui UNESCO. Ini adalah topik kebanggaan bagi orang Indonesia."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær ordforrådet og øv udtalen. Bemærk 'me-' præfiks-mønsteret i verberne.",
+          "en": "Learn the vocabulary and practice pronunciation. Notice the 'me-' prefix pattern in verbs.",
+          "id": "Pelajari kosakata dan latih pengucapan. Perhatikan pola awalan 'me-' dalam kata kerja."
+        },
+        {
+          "da": "Læs om batik og gamelan på nettet (på dit modersmål). Vend tilbage og forklar begge begreber på indonesisk i to sætninger.",
+          "en": "Read about batik and gamelan online (in your native language). Return and explain both concepts in Indonesian in two sentences.",
+          "id": "Baca tentang batik dan gamelan secara online (dalam bahasa ibu kamu). Kembali dan jelaskan kedua konsep dalam bahasa Indonesia dalam dua kalimat."
+        },
+        {
+          "da": "Øv dialogen højt to gange, skift roller.",
+          "en": "Practice the dialogue aloud twice, switching roles.",
+          "id": "Latih dialog dengan keras dua kali, bergantian peran."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du forklare hvad batik er i to sætninger på indonesisk?",
+          "en": "Can you explain what batik is in two sentences in Indonesian?",
+          "id": "Bisakah kamu menjelaskan apa itu batik dalam dua kalimat dalam bahasa Indonesia?"
+        },
+        {
+          "da": "Kan du bruge mindst tre musik-/kunstverber i korrekte sætninger?",
+          "en": "Can you use at least three music/art verbs in correct sentences?",
+          "id": "Bisakah kamu menggunakan minimal tiga kata kerja musik/seni dalam kalimat yang benar?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Lina",
+      "source": "Hej! Er du her til det kulturelle arrangement?",
+      "target": "Halo! Kamu ke sini untuk acara budaya?"
+    },
+    {
+      "speaker": "Arif",
+      "source": "Ja! Jeg er rigtig glad for musik og kunst. Der er gamelan-optræden i aften.",
+      "target": "Ya! Saya gemar musik dan seni. Nanti ada pertunjukan gamelan."
+    },
+    {
+      "speaker": "Lina",
+      "source": "Fantastisk! Jeg kan godt lide at lytte til musik. Spiller du et instrument?",
+      "target": "Wah, bagus! Saya suka mendengarkan musik. Kamu main alat musik?"
+    },
+    {
+      "speaker": "Arif",
+      "source": "Ja, jeg spiller guitar. Og du – hvad laver du?",
+      "target": "Ya, saya main gitar. Kalau kamu, apa hobimu?"
+    },
+    {
+      "speaker": "Lina",
+      "source": "Jeg kan godt lide at male og lave batik. Batik er en smuk indonesisk kunst!",
+      "target": "Saya suka melukis dan membatik. Batik adalah seni Indonesia yang indah!"
+    },
+    {
+      "speaker": "Arif",
+      "source": "Absolut! Og der er en batikworkshop i morgen. Skal vi tage derhen?",
+      "target": "Betul! Dan besok ada workshop batik. Kita pergi bersama, yuk?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "mendengarkan musik",
+      "target": "at lytte til musik / listening to music",
+      "note": {
+        "da": "'Mendengarkan' = at lytte aktivt. Fra roden 'dengar' (høre).",
+        "en": "'Mendengarkan' = to listen actively. From root 'dengar' (to hear).",
+        "id": "'Mendengarkan' = mendengarkan secara aktif. Dari kata dasar 'dengar'."
+      }
+    },
+    {
+      "source": "main gitar / main piano",
+      "target": "at spille guitar / at spille klaver",
+      "note": {
+        "da": "'Main' bruges med instrumenter. 'Bermain gitar' er den formelle form.",
+        "en": "'Main' is used with instruments. 'Bermain gitar' is the formal form.",
+        "id": "'Main' digunakan dengan alat musik. 'Bermain gitar' adalah bentuk formal."
+      }
+    },
+    {
+      "source": "menyanyi",
+      "target": "at synge / singing",
+      "note": {
+        "da": "Fra roden 'nyanyi'. 'Me-' + 'nyanyi' → 'menyanyi'.",
+        "en": "From root 'nyanyi'. 'Me-' + 'nyanyi' → 'menyanyi'.",
+        "id": "Dari kata dasar 'nyanyi'. 'Me-' + 'nyanyi' → 'menyanyi'."
+      }
+    },
+    {
+      "source": "melukis",
+      "target": "at male / painting",
+      "note": {
+        "da": "Fra roden 'lukis' (maleri). Forskellig fra 'menggambar' (tegne).",
+        "en": "From root 'lukis' (painting). Different from 'menggambar' (drawing).",
+        "id": "Dari kata dasar 'lukis'. Berbeda dari 'menggambar' (menggambar)."
+      }
+    },
+    {
+      "source": "membatik",
+      "target": "at lave batik / batik making",
+      "note": {
+        "da": "Batik er Indonesiens UNESCO-anerkendte tekstilkunst. At lave mønstre med voks og farve på stof.",
+        "en": "Batik is Indonesia's UNESCO-recognised textile art. Making patterns with wax and dye on fabric.",
+        "id": "Batik adalah seni tekstil Indonesia yang diakui UNESCO. Membuat pola dengan lilin dan pewarna pada kain."
+      }
+    },
+    {
+      "source": "menari",
+      "target": "at danse / dancing",
+      "note": {
+        "da": "Fra roden 'tari' (dans). Indonesisk traditionel dans er en vigtig kulturarv.",
+        "en": "From root 'tari' (dance). Indonesian traditional dance is an important cultural heritage.",
+        "id": "Dari kata dasar 'tari'. Tari tradisional Indonesia adalah warisan budaya yang penting."
+      }
+    },
+    {
+      "source": "pertunjukan / acara",
+      "target": "forestilling / arrangement",
+      "note": {
+        "da": "'Pertunjukan' = forestilling/optræden. 'Acara' = arrangement/begivenhed (bredere).",
+        "en": "'Pertunjukan' = show/performance. 'Acara' = event/program (broader).",
+        "id": "'Pertunjukan' = pertunjukan/penampilan. 'Acara' = acara/program (lebih luas)."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "me- præfiks i aktivitetsverber",
+      "explanation": {
+        "da": "Præfikset 'me-' danner aktive verber fra substantiver eller rodord. Formen ændrer sig lidt afhængigt af den følgende lyd: me- + nyanyi = menyanyi, me- + lukis = melukis, me- + dengar = mendengar.",
+        "en": "The prefix 'me-' forms active verbs from nouns or root words. The form changes slightly depending on the following sound: me- + nyanyi = menyanyi, me- + lukis = melukis, me- + dengar = mendengar.",
+        "id": "Awalan 'me-' membentuk kata kerja aktif dari kata benda atau kata dasar. Bentuknya sedikit berubah tergantung bunyi berikutnya: me- + nyanyi = menyanyi, me- + lukis = melukis, me- + dengar = mendengar."
+      },
+      "examples": [
+        {
+          "source": "Jeg synger hver dag.",
+          "target": "Saya menyanyi setiap hari."
+        },
+        {
+          "source": "Han maler et billede.",
+          "target": "Dia melukis sebuah gambar."
+        },
+        {
+          "source": "Vi lytter til musik.",
+          "target": "Kami mendengarkan musik."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Fortæl om et kunst- eller musikarrangement, du har deltaget i. Hvad skete der? Brug mindst tre verber fra lektionen.",
+        "en": "Tell about an art or music event you have attended. What happened? Use at least three verbs from the lesson.",
+        "id": "Ceritakan tentang acara seni atau musik yang pernah kamu hadiri. Apa yang terjadi? Gunakan minimal tiga kata kerja dari pelajaran."
+      },
+      "answerShape": {
+        "da": "Saya pergi ke acara [nama]. Di sana ada [aktivitas 1] dan [aktivitas 2]. Saya suka [aktivitas 3].",
+        "en": "Saya pergi ke acara [name]. Di sana ada [activity 1] dan [activity 2]. Saya suka [activity 3].",
+        "id": "Saya pergi ke acara [nama]. Di sana ada [aktivitas 1] dan [aktivitas 2]. Saya suka [aktivitas 3]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Dan fem verber med 'me-' præfikset fra disse rødder: nyanyi, lukis, dengar, tari, gambar.",
+        "en": "Form five verbs with the 'me-' prefix from these roots: nyanyi, lukis, dengar, tari, gambar.",
+        "id": "Bentuk lima kata kerja dengan awalan 'me-' dari kata dasar berikut: nyanyi, lukis, dengar, tari, gambar."
+      },
+      "answerShape": {
+        "da": "menyanyi, melukis, mendengar, menari, menggambar",
+        "en": "menyanyi, melukis, mendengar, menari, menggambar",
+        "id": "menyanyi, melukis, mendengar, menari, menggambar"
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad er batik, og hvorfor er det vigtigt i Indonesien? Skriv to sætninger på indonesisk.",
+        "en": "What is batik and why is it important in Indonesia? Write two sentences in Indonesian.",
+        "id": "Apa itu batik dan mengapa penting di Indonesia? Tulis dua kalimat dalam bahasa Indonesia."
+      },
+      "answerShape": {
+        "da": "Batik adalah seni tekstil tradisional Indonesia. Batik diakui oleh UNESCO sebagai warisan budaya.",
+        "en": "Batik adalah seni tekstil tradisional Indonesia. Batik diakui oleh UNESCO sebagai warisan budaya.",
+        "id": "Batik adalah seni tekstil tradisional Indonesia. Batik diakui oleh UNESCO sebagai warisan budaya."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme08-lesson03-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Musik og Kunst: Indonesisk kultur",
+        "en": "Music and Arts: Indonesian culture",
+        "id": "Musik dan Seni: Budaya Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

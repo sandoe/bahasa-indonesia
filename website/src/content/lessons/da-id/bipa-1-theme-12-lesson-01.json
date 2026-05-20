@@ -1,0 +1,328 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Anggota Tubuh – Legemsdele",
+    "en": "Anggota Tubuh – Body Parts",
+    "id": "Anggota Tubuh – Bagian-Bagian Tubuh"
+  },
+  "summary": {
+    "da": "Lær navnene på de vigtigste legemsdele på indonesisk og øv dem i et klassespil.",
+    "en": "Learn the names of the main body parts in Indonesian and practise them in a classroom game.",
+    "id": "Pelajari nama-nama bagian tubuh utama dalam bahasa Indonesia dan latih dalam permainan kelas."
+  },
+  "objectives": [
+    {
+      "da": "Navngive mindst tolv legemsdele på indonesisk.",
+      "en": "Name at least twelve body parts in Indonesian.",
+      "id": "Menyebutkan setidaknya dua belas bagian tubuh dalam bahasa Indonesia."
+    },
+    {
+      "da": "Pege på en legemsdel og sige dens indonesiske navn korrekt.",
+      "en": "Point to a body part and say its Indonesian name correctly.",
+      "id": "Menunjuk bagian tubuh dan menyebutkan namanya dengan benar dalam bahasa Indonesia."
+    },
+    {
+      "da": "Forstå enkle spørgsmål som 'Ini apa?' (Hvad er dette?) i en klasseromssammenhæng.",
+      "en": "Understand simple questions like 'Ini apa?' (What is this?) in a classroom context.",
+      "id": "Memahami pertanyaan sederhana seperti 'Ini apa?' dalam konteks kelas."
+    }
+  ],
+  "unit": {
+    "slug": "theme-12",
+    "order": 12,
+    "title": {
+      "da": "Tema 12: Krop & Helbred",
+      "en": "Theme 12: Body & Health",
+      "id": "Tema 12: Tubuh & Kesehatan"
+    },
+    "summary": {
+      "da": "Legemsdele, sygdom og sundhed i indonesisk kontekst.",
+      "en": "Body parts, illness, and health in an Indonesian context.",
+      "id": "Bagian tubuh, penyakit, dan kesehatan dalam konteks Indonesia."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Start med at tegne en simpel menneskefigur på tavlen. Peg på forskellige legemsdele og spørg klassen: 'Bahasa Indonesia-nya apa?' (Hvad hedder det på indonesisk?). Skriv ordene op ved siden af figuren.",
+        "en": "Begin by drawing a simple human figure on the board. Point to various body parts and ask the class: 'Bahasa Indonesia-nya apa?' (What is it in Indonesian?). Write the words next to the figure.",
+        "id": "Mulailah dengan menggambar sosok manusia sederhana di papan tulis. Tunjuk berbagai bagian tubuh dan tanya kelas: 'Bahasa Indonesia-nya apa?' Tulis kata-katanya di samping gambar."
+      },
+      "flow": [
+        {
+          "da": "Introducer ordforrådet (10 min): Præsenter 16 legemsdele med billeder eller gestus. Gentag hvert ord tre gange med klassen i kor.",
+          "en": "Introduce vocabulary (10 min): Present 16 body parts using pictures or gestures. Repeat each word three times with the class in chorus.",
+          "id": "Perkenalkan kosakata (10 menit): Sajikan 16 bagian tubuh menggunakan gambar atau gerak tubuh. Ulangi setiap kata tiga kali bersama kelas."
+        },
+        {
+          "da": "Spil 'Peg og sig' (15 min): Læreren siger et indonesisk ord, og eleverne peger på den korrekte legemsdel på sig selv eller på en partner. Øg tempoet gradvist.",
+          "en": "Play 'Point and Say' (15 min): The teacher says an Indonesian word and students point to the correct body part on themselves or a partner. Gradually increase the pace.",
+          "id": "Mainkan 'Tunjuk dan Sebut' (15 menit): Guru menyebutkan kata Indonesia dan siswa menunjuk bagian tubuh yang benar pada diri sendiri atau pasangan. Tingkatkan kecepatan secara bertahap."
+        },
+        {
+          "da": "Parøvelse med dialog (10 min): Elever øver dialogen i par. En peger og spørger 'Ini apa?', den anden svarer med det korrekte indonesiske navn.",
+          "en": "Pair practice with dialogue (10 min): Students practise the dialogue in pairs. One points and asks 'Ini apa?', the other responds with the correct Indonesian name.",
+          "id": "Latihan berpasangan dengan dialog (10 menit): Siswa berlatih dialog berpasangan. Satu menunjuk dan bertanya 'Ini apa?', yang lain menjawab dengan nama Indonesia yang benar."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Bemærk at 'tangan' kan betyde både hånd og arm i indonesisk, og 'kaki' kan betyde både fod og ben. Gør opmærksom på denne forskel fra dansk.",
+          "en": "Note that 'tangan' can mean both hand and arm in Indonesian, and 'kaki' can mean both foot and leg. Highlight this difference from Danish.",
+          "id": "Perhatikan bahwa 'tangan' bisa berarti tangan dan lengan, serta 'kaki' bisa berarti kaki dan tungkai. Tekankan perbedaan ini dari bahasa Denmark."
+        },
+        {
+          "da": "Begrebet 'jari' bruges til alle fingre og tæer — differentier ved hjælp af 'jari tangan' (finger) og 'jari kaki' (tå) når nødvendigt.",
+          "en": "The word 'jari' is used for all fingers and toes — differentiate using 'jari tangan' (finger) and 'jari kaki' (toe) when needed.",
+          "id": "Kata 'jari' digunakan untuk semua jari tangan dan kaki — bedakan dengan 'jari tangan' dan 'jari kaki' bila diperlukan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lyt til ordforrådet og gentag hvert ord højt tre gange. Brug et spejl til at pege på din egen krop mens du siger ordene.",
+          "en": "Listen to the vocabulary and repeat each word aloud three times. Use a mirror to point to your own body while saying the words.",
+          "id": "Dengarkan kosakata dan ulangi setiap kata dengan keras tiga kali. Gunakan cermin untuk menunjuk tubuh Anda sendiri sambil mengucapkan kata-kata tersebut."
+        },
+        {
+          "da": "Læs dialogen og sæt dig ind i begge roller. Øv dig i at stille og svare på spørgsmålet 'Ini apa?'.",
+          "en": "Read the dialogue and familiarise yourself with both roles. Practise asking and answering the question 'Ini apa?'.",
+          "id": "Baca dialog dan kenali kedua peran. Berlatihlah bertanya dan menjawab pertanyaan 'Ini apa?'."
+        },
+        {
+          "da": "Tegn din egen menneskefigur og skriv de indonesiske navne på mindst ti legemsdele uden at se i noterne.",
+          "en": "Draw your own human figure and write the Indonesian names for at least ten body parts without looking at your notes.",
+          "id": "Gambarlah sosok manusia Anda sendiri dan tulislah nama Indonesia untuk setidaknya sepuluh bagian tubuh tanpa melihat catatan."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige navnene på tolv legemsdele uden at se i ordlisten?",
+          "en": "Can you say the names of twelve body parts without looking at the word list?",
+          "id": "Bisakah Anda menyebutkan nama dua belas bagian tubuh tanpa melihat daftar kata?"
+        },
+        {
+          "da": "Kan du forstå og besvare spørgsmålet 'Ini apa?' når en partner peger på en legemsdel?",
+          "en": "Can you understand and answer the question 'Ini apa?' when a partner points to a body part?",
+          "id": "Bisakah Anda memahami dan menjawab pertanyaan 'Ini apa?' ketika pasangan menunjuk bagian tubuh?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Guru (Lærer)",
+      "source": "Lad os spille et spil! Jeg siger et ord, og I peger. Klar? — Kepala!",
+      "target": "Ayo kita main! Saya bilang satu kata, kalian tunjuk. Siap? — Kepala!"
+    },
+    {
+      "speaker": "Siswa (Elev)",
+      "source": "(peger på sit hoved) Ini kepala!",
+      "target": "(menunjuk kepala) Ini kepala!"
+    },
+    {
+      "speaker": "Guru (Lærer)",
+      "source": "Bagus! Nu er det jeres tur. Peg på din partners øje og sig ordet.",
+      "target": "Bagus! Sekarang giliran kalian. Tunjuk mata temanmu dan ucapkan katanya."
+    },
+    {
+      "speaker": "Siswa A",
+      "source": "(peger på partners øje) Ini apa?",
+      "target": "(menunjuk mata teman) Ini apa?"
+    },
+    {
+      "speaker": "Siswa B",
+      "source": "Ini mata!",
+      "target": "Ini mata!"
+    },
+    {
+      "speaker": "Guru (Lærer)",
+      "source": "Meget godt! Husk: tangan betyder både hånd og arm på indonesisk.",
+      "target": "Bagus sekali! Ingat: tangan artinya tangan dan lengan dalam bahasa Indonesia."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "hoved",
+      "target": "kepala",
+      "note": {
+        "da": "Det øverste af kroppen.",
+        "en": "The top of the body.",
+        "id": "Bagian teratas tubuh."
+      }
+    },
+    {
+      "source": "øje / øjne",
+      "target": "mata",
+      "note": {
+        "da": "'Mata' bruges til både ental og flertal.",
+        "en": "'Mata' is used for both singular and plural.",
+        "id": "'Mata' digunakan untuk tunggal dan jamak."
+      }
+    },
+    {
+      "source": "næse",
+      "target": "hidung",
+      "note": {
+        "da": "Sidder midt i ansigtet.",
+        "en": "Located in the middle of the face.",
+        "id": "Terletak di tengah wajah."
+      }
+    },
+    {
+      "source": "mund",
+      "target": "mulut",
+      "note": {
+        "da": "Bruges til at spise og tale.",
+        "en": "Used for eating and speaking.",
+        "id": "Digunakan untuk makan dan berbicara."
+      }
+    },
+    {
+      "source": "hånd / arm",
+      "target": "tangan",
+      "note": {
+        "da": "Dækker både hånd og arm — konteksten afgør betydningen.",
+        "en": "Covers both hand and arm — context determines the meaning.",
+        "id": "Mencakup tangan dan lengan — konteks menentukan maknanya."
+      }
+    },
+    {
+      "source": "fod / ben",
+      "target": "kaki",
+      "note": {
+        "da": "Dækker både fod og ben ligesom 'tangan'.",
+        "en": "Covers both foot and leg, just like 'tangan'.",
+        "id": "Mencakup kaki dan tungkai, sama seperti 'tangan'."
+      }
+    },
+    {
+      "source": "mave / bug",
+      "target": "perut",
+      "note": {
+        "da": "Bugregionen; bruges også om sult og mavepine.",
+        "en": "The abdominal region; also used for hunger and stomachache.",
+        "id": "Area perut; juga digunakan untuk lapar dan sakit perut."
+      }
+    },
+    {
+      "source": "tand / tænder",
+      "target": "gigi",
+      "note": {
+        "da": "Vigtigt ord til sundhedssamtaler — f.eks. 'sakit gigi'.",
+        "en": "Important for health conversations — e.g. 'sakit gigi' (toothache).",
+        "id": "Penting untuk percakapan kesehatan — mis. 'sakit gigi'."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Ini + [anggota tubuh]",
+      "explanation": {
+        "da": "'Ini' betyder 'dette/denne' og bruges til at identificere noget tæt på taleren. Strukturen 'Ini + navneord' er den enkleste måde at navngive et objekt på.",
+        "en": "'Ini' means 'this' and is used to identify something close to the speaker. The structure 'Ini + noun' is the simplest way to name an object.",
+        "id": "'Ini' berarti 'ini' dan digunakan untuk mengidentifikasi sesuatu yang dekat dengan pembicara. Struktur 'Ini + kata benda' adalah cara paling sederhana untuk menamai suatu benda."
+      },
+      "examples": [
+        {
+          "source": "Dette er hovedet.",
+          "target": "Ini kepala."
+        },
+        {
+          "source": "Dette er hånden.",
+          "target": "Ini tangan."
+        },
+        {
+          "source": "Dette er knæet.",
+          "target": "Ini lutut."
+        }
+      ]
+    },
+    {
+      "pattern": "[anggota tubuh] + saya / -ku",
+      "explanation": {
+        "da": "For at sige 'min/mit + legemsdel' placeres ejestedordet efter substantivet. 'Saya' er formelt; '-ku' (klitikon) er uformelt og klistres direkte til ordet.",
+        "en": "To say 'my + body part', the possessive is placed after the noun. 'Saya' is formal; '-ku' (clitic) is informal and attaches directly to the word.",
+        "id": "Untuk mengatakan 'bagian tubuh saya', kata ganti kepemilikan diletakkan setelah kata benda. 'Saya' bersifat formal; '-ku' (klitik) bersifat informal dan melekat langsung pada kata."
+      },
+      "examples": [
+        {
+          "source": "Mit hoved",
+          "target": "kepala saya / kepalaku"
+        },
+        {
+          "source": "Min hånd",
+          "target": "tangan saya / tanganku"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Peg på fem legemsdele på dig selv og sig det indonesiske navn for hver.",
+        "en": "Point to five body parts on yourself and say the Indonesian name for each.",
+        "id": "Tunjuk lima bagian tubuh pada diri Anda dan sebutkan nama Indonesia untuk masing-masing."
+      },
+      "answerShape": {
+        "da": "Ini [legemsdel]. (f.eks. Ini kepala. Ini mata. Ini tangan. Ini kaki. Ini perut.)",
+        "en": "Ini [body part]. (e.g. Ini kepala. Ini mata. Ini tangan. Ini kaki. Ini perut.)",
+        "id": "Ini [bagian tubuh]. (mis. Ini kepala. Ini mata. Ini tangan. Ini kaki. Ini perut.)"
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til de otte gloser og peg på den korrekte legemsdel på din egen krop for hvert ord.",
+        "en": "Listen to the eight vocabulary words and point to the correct body part on your own body for each word.",
+        "id": "Dengarkan delapan kata kosakata dan tunjuk bagian tubuh yang benar pada tubuh Anda untuk setiap kata."
+      },
+      "answerShape": {
+        "da": "Peg på den rigtige legemsdel for hvert ord der siges.",
+        "en": "Point to the correct body part for each word spoken.",
+        "id": "Tunjuk bagian tubuh yang benar untuk setiap kata yang diucapkan."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Sæt de rigtige indonesiske etiketnavne på en figur af den menneskelige krop. Brug mindst otte ord fra dagens gloseliste.",
+        "en": "Label a human body outline with the correct Indonesian names. Use at least eight words from today's vocabulary list.",
+        "id": "Beri label pada gambar tubuh manusia dengan nama-nama Indonesia yang benar. Gunakan setidaknya delapan kata dari daftar kosakata hari ini."
+      },
+      "answerShape": {
+        "da": "En annoteret figur med korrekte indonesiske navne på mindst otte legemsdele.",
+        "en": "An annotated figure with correct Indonesian names for at least eight body parts.",
+        "id": "Gambar beranotasi dengan nama Indonesia yang benar untuk setidaknya delapan bagian tubuh."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme12-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Anggota Tubuh – Legemsdele på indonesisk",
+        "en": "Anggota Tubuh – Body Parts in Indonesian",
+        "id": "Anggota Tubuh – Bagian-Bagian Tubuh dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

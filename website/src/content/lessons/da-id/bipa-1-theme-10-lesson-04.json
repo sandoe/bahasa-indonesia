@@ -1,0 +1,299 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 4,
+  "slug": "lesson-04",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Afstand og Rejsetid",
+    "en": "Distance and Travel Time",
+    "id": "Jarak dan Waktu Tempuh"
+  },
+  "summary": {
+    "da": "Lær at spørge om og angive afstand og rejsetid på indonesisk, samt udtrykke omtrentlige tider med kira-kira og sekitar.",
+    "en": "Learn to ask about and state distance and travel time in Indonesian, and express approximate times using kira-kira and sekitar.",
+    "id": "Belajar bertanya dan menyatakan jarak dan waktu tempuh dalam bahasa Indonesia, serta mengungkapkan perkiraan waktu menggunakan kira-kira dan sekitar."
+  },
+  "objectives": [
+    {
+      "da": "Spørge om afstand og rejsetid med 'Berapa jauh?' og 'Berapa lama?'",
+      "en": "Ask about distance and travel time using 'Berapa jauh?' and 'Berapa lama?'",
+      "id": "Bertanya tentang jarak dan waktu tempuh menggunakan 'Berapa jauh?' dan 'Berapa lama?'"
+    },
+    {
+      "da": "Bruge strukturen 'butuh waktu ... menit/jam' til at angive rejsetid.",
+      "en": "Use the structure 'butuh waktu ... menit/jam' to state travel time.",
+      "id": "Menggunakan struktur 'butuh waktu ... menit/jam' untuk menyatakan waktu tempuh."
+    },
+    {
+      "da": "Bruge dekat og jauh korrekt i sammenhæng.",
+      "en": "Use dekat and jauh correctly in context.",
+      "id": "Menggunakan dekat dan jauh dengan benar dalam konteks."
+    }
+  ],
+  "unit": {
+    "slug": "theme-10",
+    "order": 10,
+    "title": {
+      "da": "Tema 10: Byen & Transport",
+      "en": "Theme 10: City & Transport",
+      "id": "Tema 10: Kota & Transportasi"
+    },
+    "summary": {
+      "da": "At navigere i en indonesisk by og bruge offentlig transport.",
+      "en": "Navigating an Indonesian city and using public transport.",
+      "id": "Menavigasi kota Indonesia dan menggunakan transportasi umum."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg eleverne: Hvor lang tid tog det dig at komme hertil i dag? Introducer 'Berapa lama?' og lad eleverne svare.",
+        "en": "Ask students: How long did it take you to get here today? Introduce 'Berapa lama?' and have students answer.",
+        "id": "Tanyakan kepada siswa: Berapa lama waktu yang dibutuhkan untuk sampai ke sini hari ini? Perkenalkan 'Berapa lama?' dan minta siswa menjawab."
+      },
+      "flow": [
+        {
+          "da": "Introducer 'Berapa jauh?' og 'Berapa lama?' med korte svar-eksempler. Tegn en tidslinje og et afstandsdiagram på tavlen.",
+          "en": "Introduce 'Berapa jauh?' and 'Berapa lama?' with short answer examples. Draw a timeline and a distance diagram on the board.",
+          "id": "Perkenalkan 'Berapa jauh?' dan 'Berapa lama?' dengan contoh jawaban singkat. Gambar garis waktu dan diagram jarak di papan."
+        },
+        {
+          "da": "Øv 'butuh waktu ... menit/jam'-strukturen. Vis, at 'butuh' = 'at have brug for/kræve'. Sammenlign med 'perlu waktu' som et alternativ.",
+          "en": "Practise the 'butuh waktu ... menit/jam' structure. Show that 'butuh' = 'to need/require'. Compare with 'perlu waktu' as an alternative.",
+          "id": "Latih struktur 'butuh waktu ... menit/jam'. Tunjukkan bahwa 'butuh' = 'membutuhkan'. Bandingkan dengan 'perlu waktu' sebagai alternatif."
+        },
+        {
+          "da": "Øvelse: Elev A spørger om at komme fra punkt X til Y på et bykort. Elev B svarer med afstand (km) og rejsetid med et specifikt transportmiddel.",
+          "en": "Activity: Student A asks about getting from point X to Y on a city map. Student B answers with distance (km) and travel time by a specific means of transport.",
+          "id": "Latihan: Siswa A bertanya tentang perjalanan dari titik X ke Y di peta kota. Siswa B menjawab dengan jarak (km) dan waktu tempuh menggunakan transportasi tertentu."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Kira-kira og sekitar betyder begge 'cirka / omtrent'. De bruges om hverandre. Kira-kira er lidt mere uformel og talesprog.",
+          "en": "Kira-kira and sekitar both mean 'approximately / about'. They are used interchangeably. Kira-kira is slightly more informal and colloquial.",
+          "id": "Kira-kira dan sekitar keduanya berarti 'kira-kira / sekitar'. Keduanya bisa saling menggantikan. Kira-kira sedikit lebih informal dan percakapan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Find en bykort over Jakarta (eller en anden indonesisk by) og vælg tre destinationspar. Skriv spørgsmål og svar for afstand og rejsetid.",
+          "en": "Find a city map of Jakarta (or another Indonesian city) and choose three pairs of destinations. Write questions and answers for distance and travel time.",
+          "id": "Temukan peta kota Jakarta (atau kota Indonesia lainnya) dan pilih tiga pasang destinasi. Tulis pertanyaan dan jawaban untuk jarak dan waktu tempuh."
+        },
+        {
+          "da": "Skriv fem sætninger om daglige rejser med 'butuh waktu ... menit/jam': til arbejde, til skole, til butik osv.",
+          "en": "Write five sentences about daily journeys using 'butuh waktu ... menit/jam': to work, to school, to the shops, etc.",
+          "id": "Tulis lima kalimat tentang perjalanan sehari-hari menggunakan 'butuh waktu ... menit/jam': ke tempat kerja, ke sekolah, ke toko, dll."
+        },
+        {
+          "da": "Øv dialogen og prøv at erstatte destinationerne med steder, du kender fra din dagligdag.",
+          "en": "Practise the dialogue and try replacing the destinations with places you know from your daily life.",
+          "id": "Latih dialog dan coba ganti destinasinya dengan tempat-tempat yang kamu kenal dari kehidupan sehari-hari."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du spørge og svare på 'Berapa lama ke bandara?' med tre forskellige transportmidler?",
+          "en": "Can you ask and answer 'Berapa lama ke bandara?' with three different means of transport?",
+          "id": "Bisakah kamu bertanya dan menjawab 'Berapa lama ke bandara?' dengan tiga alat transportasi berbeda?"
+        },
+        {
+          "da": "Kender du forskellen på 'Berapa jauh?' og 'Berapa lama?'",
+          "en": "Do you know the difference between 'Berapa jauh?' and 'Berapa lama?'",
+          "id": "Apakah kamu tahu perbedaan antara 'Berapa jauh?' dan 'Berapa lama?'"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Nadia",
+      "source": "Kita harus berangkat sekarang. Berapa lama perjalanan ke bandara?",
+      "target": "Vi skal af sted nu. Hvor lang tid tager turen til lufthavnen?"
+    },
+    {
+      "speaker": "Reza",
+      "source": "Tergantung transportasinya. Naik taksi butuh waktu kira-kira satu jam.",
+      "target": "Det afhænger af transportmidlet. Med taxa tager det cirka en time."
+    },
+    {
+      "speaker": "Nadia",
+      "source": "Satu jam? Itu terlalu lama! Berapa jauh jaraknya?",
+      "target": "En time? Det er for lang tid! Hvor langt er der?"
+    },
+    {
+      "speaker": "Reza",
+      "source": "Sekitar dua puluh kilometer, tapi macet sekarang. Naik kereta lebih cepat.",
+      "target": "Cirka tyve kilometer, men der er trafikprop nu. Tog er hurtigere."
+    },
+    {
+      "speaker": "Nadia",
+      "source": "Berapa lama naik kereta?",
+      "target": "Hvor lang tid tager toget?"
+    },
+    {
+      "speaker": "Reza",
+      "source": "Butuh waktu sekitar empat puluh menit. Stasiun tidak jauh, hanya lima menit jalan kaki.",
+      "target": "Det tager cirka fyrre minutter. Stationen er ikke langt, kun fem minutters gang."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Hvor langt? (afstand)",
+      "target": "Berapa jauh?",
+      "note": {
+        "da": "Berapa = hvor meget/mange. Jauh = langt. Svar med: [tal] kilometer.",
+        "en": "Berapa = how much/many. Jauh = far. Answer with: [number] kilometer.",
+        "id": "Berapa = berapa. Jauh = jauh. Jawab dengan: [angka] kilometer."
+      }
+    },
+    {
+      "source": "Hvor lang tid? (tid)",
+      "target": "Berapa lama?",
+      "note": {
+        "da": "Lama = lang (tid). Berapa lama? = Hvor lang tid? Svar med menit (minutter) eller jam (timer).",
+        "en": "Lama = long (duration). Berapa lama? = How long? Answer with menit (minutes) or jam (hours).",
+        "id": "Lama = lama (durasi). Berapa lama? = Berapa lama? Jawab dengan menit (menit) atau jam (jam)."
+      }
+    },
+    {
+      "source": "Cirka / Omtrent",
+      "target": "Kira-kira / Sekitar",
+      "note": {
+        "da": "Begge ord betyder 'cirka/omtrent'. Kira-kira er mere uformel.",
+        "en": "Both words mean 'approximately/about'. Kira-kira is more informal.",
+        "id": "Kedua kata berarti 'kira-kira/sekitar'. Kira-kira lebih informal."
+      }
+    },
+    {
+      "source": "Minut / Minutter",
+      "target": "Menit",
+      "note": {
+        "da": "Ingen ændring i flertal: satu menit = ét minut, tiga puluh menit = tredive minutter.",
+        "en": "No change in plural: satu menit = one minute, tiga puluh menit = thirty minutes.",
+        "id": "Tidak berubah dalam bentuk jamak: satu menit = satu menit, tiga puluh menit = tiga puluh menit."
+      }
+    },
+    {
+      "source": "Time / Timer",
+      "target": "Jam",
+      "note": {
+        "da": "Jam bruges om en time (varighed) og også om et ur (ur/klokken). Konteksten afgør betydningen.",
+        "en": "Jam is used for an hour (duration) and also for a clock/watch. Context determines the meaning.",
+        "id": "Jam digunakan untuk jam (durasi) dan juga untuk jam dinding/tangan. Konteks menentukan artinya."
+      }
+    },
+    {
+      "source": "Tæt på / Nær",
+      "target": "Dekat",
+      "note": {
+        "da": "Dekat = tæt på/nær. Dekat dari sini = tæt herpå. Modsætning: jauh.",
+        "en": "Dekat = near/close. Dekat dari sini = close from here. Opposite: jauh.",
+        "id": "Dekat = dekat. Dekat dari sini = dekat dari sini. Lawan kata: jauh."
+      }
+    },
+    {
+      "source": "Langt væk / Fjern",
+      "target": "Jauh",
+      "note": {
+        "da": "Jauh = langt/langt væk. Tidak jauh = ikke langt = tæt på.",
+        "en": "Jauh = far/distant. Tidak jauh = not far = close.",
+        "id": "Jauh = jauh. Tidak jauh = tidak jauh = dekat."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Butuh waktu ... menit / jam",
+      "explanation": {
+        "da": "'Butuh' = 'at have brug for / at kræve'. 'Waktu' = 'tid'. Strukturen bruges til at angive, hvor lang tid noget tager. Kan udvides med transportmiddel: naik [X] butuh waktu ...",
+        "en": "'Butuh' = 'to need / to require'. 'Waktu' = 'time'. The structure is used to state how long something takes. Can be expanded with transport: naik [X] butuh waktu ...",
+        "id": "'Butuh' = 'membutuhkan'. 'Waktu' = 'waktu'. Struktur ini digunakan untuk menyatakan berapa lama sesuatu membutuhkan waktu. Dapat diperluas dengan transportasi: naik [X] butuh waktu ..."
+      },
+      "examples": [
+        { "source": "Det tager tredive minutter.", "target": "Butuh waktu tiga puluh menit." },
+        { "source": "Toget tager cirka to timer.", "target": "Naik kereta butuh waktu kira-kira dua jam." },
+        { "source": "Det er kun fem minutters gang.", "target": "Hanya butuh waktu lima menit jalan kaki." }
+      ]
+    },
+    {
+      "pattern": "Berapa + egenskab? → spørgsmål om mål",
+      "explanation": {
+        "da": "'Berapa' er et spørgepronomen, der bruges om mål og tal. Kombineret med jauh, lama, kilometer osv. giver det specifikke spørgsmål om afstand eller varighed.",
+        "en": "'Berapa' is a question word used for measurements and numbers. Combined with jauh, lama, kilometer, etc. it forms specific questions about distance or duration.",
+        "id": "'Berapa' adalah kata tanya yang digunakan untuk ukuran dan angka. Dikombinasikan dengan jauh, lama, kilometer, dll. membentuk pertanyaan spesifik tentang jarak atau durasi."
+      },
+      "examples": [
+        { "source": "Hvor langt er det til stationen?", "target": "Berapa jauh ke stasiun?" },
+        { "source": "Hvor lang tid tager det?", "target": "Berapa lama?" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Spil scenarier: Din ven ringer og spørger, om du kan nå lufthavnen til kl. 14. Forklar, hvilke transportmidler der er tilgængelige, og hvor lang tid hvert tager.",
+        "en": "Play out scenarios: Your friend calls and asks if you can make it to the airport by 2pm. Explain which transport options are available and how long each takes.",
+        "id": "Mainkan skenario: Temanmu menelepon dan bertanya apakah kamu bisa sampai ke bandara sebelum pukul 14.00. Jelaskan pilihan transportasi yang tersedia dan berapa lama masing-masing membutuhkan waktu."
+      },
+      "answerShape": {
+        "da": "Naik [transport] butuh waktu kira-kira [tid]. [Transport lain] lebih cepat/lambat.",
+        "en": "Naik [transport] butuh waktu kira-kira [time]. [Other transport] lebih cepat/lambat.",
+        "id": "Naik [transport] butuh waktu kira-kira [waktu]. [Transport lain] lebih cepat/lambat."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Byg sætninger med 'butuh waktu': (1) fly til Bali – 1,5 time (2) MRT til centrum – 25 minutter (3) gang til butikken – 10 minutter.",
+        "en": "Build sentences using 'butuh waktu': (1) plane to Bali – 1.5 hours (2) MRT to city centre – 25 minutes (3) walking to the shop – 10 minutes.",
+        "id": "Buat kalimat menggunakan 'butuh waktu': (1) pesawat ke Bali – 1,5 jam (2) MRT ke pusat kota – 25 menit (3) jalan kaki ke toko – 10 menit."
+      },
+      "answerShape": {
+        "da": "Naik pesawat ke Bali butuh waktu satu setengah jam. Naik MRT ke pusat kota butuh waktu dua puluh lima menit. Jalan kaki ke toko butuh waktu sepuluh menit.",
+        "en": "Naik pesawat ke Bali butuh waktu satu setengah jam. Naik MRT ke pusat kota butuh waktu dua puluh lima menit. Jalan kaki ke toko butuh waktu sepuluh menit.",
+        "id": "Naik pesawat ke Bali butuh waktu satu setengah jam. Naik MRT ke pusat kota butuh waktu dua puluh lima menit. Jalan kaki ke toko butuh waktu sepuluh menit."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Tænk på din daglige pendling. Hvor lang tid bruger du? Hvad ville 'macet' (trafikprop) gøre ved din dag, hvis du boede i Jakarta?",
+        "en": "Think about your daily commute. How long does it take? What would 'macet' (traffic jam) do to your day if you lived in Jakarta?",
+        "id": "Pikirkan tentang komutemu sehari-hari. Berapa lama waktu yang dibutuhkan? Apa yang akan dilakukan 'macet' pada harimu jika kamu tinggal di Jakarta?"
+      },
+      "answerShape": {
+        "da": "Fri refleksion",
+        "en": "Free reflection",
+        "id": "Refleksi bebas"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme10-lesson04-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Afstand og Rejsetid i Jakarta",
+        "en": "Distance and Travel Time in Jakarta",
+        "id": "Jarak dan Waktu Tempuh di Jakarta"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

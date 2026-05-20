@@ -1,0 +1,23 @@
+---
+import type { UiLocale } from "@data/site";
+import { uiCopy } from "@data/site";
+import { t } from "@lib/i18n";
+
+interface Props {
+  locale: UiLocale;
+  title: Record<UiLocale, string>;
+  note: Record<UiLocale, string>;
+}
+
+const { locale, title, note } = Astro.props;
+---
+
+<article class="video-placeholder">
+  <img src="/icons/video-placeholder.svg" alt="" />
+  <div class="video-copy">
+    <span class="pill">{t(uiCopy.videoPlaceholder, locale)}</span>
+    <h3>{t(title, locale)}</h3>
+    <p>{t(note, locale)}</p>
+    <p class="safety-copy">{t(uiCopy.rightsSafe, locale)}</p>
+  </div>
+</article>

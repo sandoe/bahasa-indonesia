@@ -1,0 +1,327 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 3,
+  "slug": "lesson-03",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Sakit di Mana? – Hvor gør det ondt?",
+    "en": "Sakit di Mana? – Where Does It Hurt?",
+    "id": "Sakit di Mana? – Di Mana Sakitnya?"
+  },
+  "summary": {
+    "da": "Lær at beskrive, hvor du har smerter, og navngive almindelige symptomer som feber, hoste og forkølelse på indonesisk.",
+    "en": "Learn to describe where you have pain and name common symptoms such as fever, cough, and a cold in Indonesian.",
+    "id": "Belajar menggambarkan tempat yang sakit dan menyebutkan gejala umum seperti demam, batuk, dan pilek dalam bahasa Indonesia."
+  },
+  "objectives": [
+    {
+      "da": "Bruge strukturen 'sakit + legemsdel' til at beskrive smerter.",
+      "en": "Use the structure 'sakit + body part' to describe pain.",
+      "id": "Menggunakan struktur 'sakit + bagian tubuh' untuk menggambarkan rasa sakit."
+    },
+    {
+      "da": "Navngive mindst fire almindelige symptomer: demam, batuk, pilek, sakit kepala.",
+      "en": "Name at least four common symptoms: demam, batuk, pilek, sakit kepala.",
+      "id": "Menyebutkan setidaknya empat gejala umum: demam, batuk, pilek, sakit kepala."
+    },
+    {
+      "da": "Beskrive symptomer til et familiemedlem i en naturlig samtale.",
+      "en": "Describe symptoms to a family member in a natural conversation.",
+      "id": "Menggambarkan gejala kepada anggota keluarga dalam percakapan yang natural."
+    }
+  ],
+  "unit": {
+    "slug": "theme-12",
+    "order": 12,
+    "title": {
+      "da": "Tema 12: Krop & Helbred",
+      "en": "Theme 12: Body & Health",
+      "id": "Tema 12: Tubuh & Kesehatan"
+    },
+    "summary": {
+      "da": "Legemsdele, sygdom og sundhed i indonesisk kontekst.",
+      "en": "Body parts, illness, and health in an Indonesian context.",
+      "id": "Bagian tubuh, penyakit, dan kesehatan dalam konteks Indonesia."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Bed en elev mime en sygdom (f.eks. hoste, klø sig på maven). Klassen gætter: 'Sakit apa?' (Hvad er det for en sygdom?). Introducer derefter de officielle udtryk.",
+        "en": "Ask a student to mime an illness (e.g. cough, hold their stomach). The class guesses: 'Sakit apa?' (What illness is it?). Then introduce the official expressions.",
+        "id": "Minta seorang siswa memperagakan penyakit (mis. batuk, memegang perut). Kelas menebak: 'Sakit apa?' Kemudian perkenalkan ungkapan resmi."
+      },
+      "flow": [
+        {
+          "da": "Introducer 'sakit + legemsdel' mønsteret (10 min): Skriv eksempler på tavlen. Vis at 'sakit' foran en legemsdel betyder '-pine' eller 'ondt i ...'. Øv udtalen af hvert udtryk i kor.",
+          "en": "Introduce the 'sakit + body part' pattern (10 min): Write examples on the board. Show that 'sakit' before a body part means 'ache' or 'pain in ...'. Practise pronunciation of each expression in chorus.",
+          "id": "Perkenalkan pola 'sakit + bagian tubuh' (10 menit): Tulis contoh di papan. Tunjukkan bahwa 'sakit' sebelum bagian tubuh berarti 'nyeri' atau 'sakit di ...'. Latih pengucapan setiap ungkapan bersama."
+        },
+        {
+          "da": "Diskuter symptomer (12 min): Introducer 'demam', 'batuk', 'pilek' som selvstændige ord (ikke 'sakit + legemsdel'). Vis en simpel symptom-liste på tavlen. Eleverne matcher symptom til situation.",
+          "en": "Discuss symptoms (12 min): Introduce 'demam', 'batuk', 'pilek' as standalone words (not 'sakit + body part'). Show a simple symptom list on the board. Students match symptom to situation.",
+          "id": "Diskusikan gejala (12 menit): Perkenalkan 'demam', 'batuk', 'pilek' sebagai kata tersendiri (bukan 'sakit + bagian tubuh'). Tampilkan daftar gejala sederhana di papan. Siswa mencocokkan gejala dengan situasi."
+        },
+        {
+          "da": "Parrollespil med familiemedlem (13 min): Eleverne øver dialogen. Den ene spiller en syg person, den anden et bekymret familiemedlem. Eleverne opfordres til at variere symptomerne.",
+          "en": "Pair role-play with family member (13 min): Students practise the dialogue. One plays a sick person, the other a concerned family member. Students are encouraged to vary the symptoms.",
+          "id": "Bermain peran berpasangan dengan anggota keluarga (13 menit): Siswa berlatih dialog. Satu memerankan orang sakit, yang lain anggota keluarga yang khawatir. Siswa didorong untuk memvariasikan gejalanya."
+        }
+      ],
+      "notes": [
+        {
+          "da": "'Demam', 'batuk' og 'pilek' er ikke sammensætninger med 'sakit' — de er selvstændige sygdomsnavne. Eleverne forveksler ofte disse. Skriv dem i en separat kolonne på tavlen.",
+          "en": "'Demam', 'batuk', and 'pilek' are not compounds with 'sakit' — they are standalone illness names. Students often confuse these. Write them in a separate column on the board.",
+          "id": "'Demam', 'batuk', dan 'pilek' bukan gabungan dengan 'sakit' — mereka adalah nama penyakit tersendiri. Siswa sering membingungkan ini. Tulislah dalam kolom terpisah di papan."
+        },
+        {
+          "da": "'Sakit di sini' bruges med en gestus (pegen på stedet). Lær eleverne at kombinere sætningen med kropssprog.",
+          "en": "'Sakit di sini' is used with a gesture (pointing to the spot). Teach students to combine the sentence with body language.",
+          "id": "'Sakit di sini' digunakan dengan gerak tubuh (menunjuk tempat yang sakit). Ajarkan siswa menggabungkan kalimat dengan bahasa tubuh."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær 'sakit + legemsdel'-mønsteret ved at øve fem eksempler højt: sakit kepala, sakit perut, sakit gigi, sakit punggung, sakit tenggorokan.",
+          "en": "Learn the 'sakit + body part' pattern by practising five examples aloud: sakit kepala, sakit perut, sakit gigi, sakit punggung, sakit tenggorokan.",
+          "id": "Pelajari pola 'sakit + bagian tubuh' dengan berlatih lima contoh dengan keras: sakit kepala, sakit perut, sakit gigi, sakit punggung, sakit tenggorokan."
+        },
+        {
+          "da": "Læs dialogen og markér alle symptomer der nævnes. Øv rollen som den syge person.",
+          "en": "Read the dialogue and mark all the symptoms mentioned. Practise the role of the sick person.",
+          "id": "Baca dialog dan tandai semua gejala yang disebutkan. Latih peran sebagai orang yang sakit."
+        },
+        {
+          "da": "Lav en liste over dine egne nuværende fornemmelser og skriv dem på indonesisk ved hjælp af dagens mønstre.",
+          "en": "Make a list of your own current feelings and write them in Indonesian using today's patterns.",
+          "id": "Buat daftar perasaan Anda saat ini dan tulislah dalam bahasa Indonesia menggunakan pola hari ini."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du producere tre korrekte sætninger med 'sakit + legemsdel' uden at kigge i noter?",
+          "en": "Can you produce three correct sentences with 'sakit + body part' without looking at notes?",
+          "id": "Bisakah Anda membuat tiga kalimat benar dengan 'sakit + bagian tubuh' tanpa melihat catatan?"
+        },
+        {
+          "da": "Kan du skelne mellem 'demam', 'batuk' og 'pilek' og bruge dem i korrekte sætninger?",
+          "en": "Can you distinguish between 'demam', 'batuk', and 'pilek' and use them in correct sentences?",
+          "id": "Bisakah Anda membedakan antara 'demam', 'batuk', dan 'pilek' dan menggunakannya dalam kalimat yang benar?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Ibu (Mor)",
+      "source": "Kamu kelihatan pucat. Kenapa, Nak?",
+      "target": "Kamu kelihatan pucat. Kenapa, Nak?"
+    },
+    {
+      "speaker": "Anak (Barn)",
+      "source": "Bu, saya sakit kepala dan saya demam.",
+      "target": "Bu, saya sakit kepala dan saya demam."
+    },
+    {
+      "speaker": "Ibu (Mor)",
+      "source": "Aduh! Sakit di mana lagi?",
+      "target": "Aduh! Sakit di mana lagi?"
+    },
+    {
+      "speaker": "Anak (Barn)",
+      "source": "Saya juga sakit tenggorokan dan batuk terus.",
+      "target": "Saya juga sakit tenggorokan dan batuk terus."
+    },
+    {
+      "speaker": "Ibu (Mor)",
+      "source": "Kamu harus istirahat dan minum air hangat. Besok kita ke dokter.",
+      "target": "Kamu harus istirahat dan minum air hangat. Besok kita ke dokter."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "hovedpine",
+      "target": "sakit kepala",
+      "note": {
+        "da": "Direkte oversættelse: 'sygt hoved'. Det mest almindelige smerteudtryk.",
+        "en": "Literal translation: 'sick head'. The most common pain expression.",
+        "id": "Terjemahan harfiah: 'kepala sakit'. Ungkapan nyeri yang paling umum."
+      }
+    },
+    {
+      "source": "mavepine",
+      "target": "sakit perut",
+      "note": {
+        "da": "Meget brugt — dækker alt fra maven til bugen.",
+        "en": "Widely used — covers everything from the stomach to the abdomen.",
+        "id": "Sangat umum — mencakup segalanya dari lambung hingga perut."
+      }
+    },
+    {
+      "source": "feber",
+      "target": "demam",
+      "note": {
+        "da": "Selvstændigt ord — siger ikke 'sakit demam'. 'Saya demam.' er korrekt.",
+        "en": "Standalone word — do not say 'sakit demam'. 'Saya demam.' is correct.",
+        "id": "Kata tersendiri — jangan katakan 'sakit demam'. 'Saya demam.' adalah yang benar."
+      }
+    },
+    {
+      "source": "hoste",
+      "target": "batuk",
+      "note": {
+        "da": "Bruges som navneord ('hoste') og udsagnsord ('at hoste'): 'Saya batuk.' kan betyde begge.",
+        "en": "Used as both noun ('a cough') and verb ('to cough'): 'Saya batuk.' can mean both.",
+        "id": "Digunakan sebagai kata benda ('batuk') dan kata kerja ('terbatuk'): 'Saya batuk.' bisa berarti keduanya."
+      }
+    },
+    {
+      "source": "forkølelse / snue",
+      "target": "pilek",
+      "note": {
+        "da": "Specifikt om snue/løbende næse. Bruges som 'saya pilek'.",
+        "en": "Specifically about a runny nose/nasal congestion. Used as 'saya pilek'.",
+        "id": "Khusus tentang hidung meler/tersumbat. Digunakan sebagai 'saya pilek'."
+      }
+    },
+    {
+      "source": "ondt her",
+      "target": "sakit di sini",
+      "note": {
+        "da": "Kombineres med en pegegeste. 'Di sini' = 'her'.",
+        "en": "Combined with a pointing gesture. 'Di sini' = 'here'.",
+        "id": "Dikombinasikan dengan gerak menunjuk. 'Di sini' = 'di sini'."
+      }
+    },
+    {
+      "source": "ondt i halsen",
+      "target": "sakit tenggorokan",
+      "note": {
+        "da": "'Tenggorokan' er halsen/svælget. Vigtigt symptomord.",
+        "en": "'Tenggorokan' is the throat. An important symptom word.",
+        "id": "'Tenggorokan' adalah tenggorokan. Kata gejala yang penting."
+      }
+    },
+    {
+      "source": "bleg",
+      "target": "pucat",
+      "note": {
+        "da": "Bruges til at beskrive, at nogen ser syg ud. 'Kamu kelihatan pucat.' = Du ser bleg ud.",
+        "en": "Used to describe someone looking ill. 'Kamu kelihatan pucat.' = You look pale.",
+        "id": "Digunakan untuk menggambarkan seseorang terlihat sakit. 'Kamu kelihatan pucat.' = Kamu terlihat pucat."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya + sakit + [anggota tubuh]",
+      "explanation": {
+        "da": "Denne struktur udtrykker smerte i en specifik legemsdel. 'Sakit' her er et prædikat ('gør ondt'/'har vondt i') efterfulgt af den legemsdel der er ramt. Ordstillingen er fast.",
+        "en": "This structure expresses pain in a specific body part. 'Sakit' here is a predicate ('hurts'/'aches') followed by the affected body part. The word order is fixed.",
+        "id": "Struktur ini mengungkapkan rasa sakit pada bagian tubuh tertentu. 'Sakit' di sini adalah predikat diikuti oleh bagian tubuh yang terkena. Urutan kata tetap."
+      },
+      "examples": [
+        {
+          "source": "Jeg har hovedpine.",
+          "target": "Saya sakit kepala."
+        },
+        {
+          "source": "Jeg har mavepine.",
+          "target": "Saya sakit perut."
+        },
+        {
+          "source": "Jeg har ondt i ryggen.",
+          "target": "Saya sakit punggung."
+        }
+      ]
+    },
+    {
+      "pattern": "Saya + [symptom] — feber/hoste/snue som selvstændigt prædikat",
+      "explanation": {
+        "da": "Visse symptomord bruges direkte som prædikat uden 'sakit' foran: 'demam' (feber), 'batuk' (hoste), 'pilek' (snue). Disse er undtagelser fra 'sakit + legemsdel'-mønsteret.",
+        "en": "Certain symptom words are used directly as predicates without 'sakit' in front: 'demam' (fever), 'batuk' (cough), 'pilek' (runny nose). These are exceptions to the 'sakit + body part' pattern.",
+        "id": "Beberapa kata gejala digunakan langsung sebagai predikat tanpa 'sakit' di depan: 'demam', 'batuk', 'pilek'. Ini adalah pengecualian dari pola 'sakit + bagian tubuh'."
+      },
+      "examples": [
+        {
+          "source": "Jeg har feber.",
+          "target": "Saya demam."
+        },
+        {
+          "source": "Jeg hoster.",
+          "target": "Saya batuk."
+        },
+        {
+          "source": "Jeg er forkølet.",
+          "target": "Saya pilek."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Forestil dig at du er syg. Fortæl en partner om tre af dine symptomer ved hjælp af 'sakit + legemsdel' eller de selvstændige symptomord.",
+        "en": "Imagine you are sick. Tell a partner about three of your symptoms using 'sakit + body part' or the standalone symptom words.",
+        "id": "Bayangkan Anda sakit. Ceritakan kepada pasangan tentang tiga gejala Anda menggunakan 'sakit + bagian tubuh' atau kata-kata gejala tersendiri."
+      },
+      "answerShape": {
+        "da": "Saya [symptom 1]. Saya juga [symptom 2]. Dan saya [symptom 3]. (f.eks. Saya sakit kepala. Saya juga demam. Dan saya batuk.)",
+        "en": "Saya [symptom 1]. Saya juga [symptom 2]. Dan saya [symptom 3]. (e.g. Saya sakit kepala. Saya juga demam. Dan saya batuk.)",
+        "id": "Saya [gejala 1]. Saya juga [gejala 2]. Dan saya [gejala 3]. (mis. Saya sakit kepala. Saya juga demam. Dan saya batuk.)"
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til fem sætninger om symptomer. Skriv om hvert symptom er 'sakit + legemsdel' eller et selvstændigt ord som demam/batuk/pilek.",
+        "en": "Listen to five sentences about symptoms. Write whether each symptom is 'sakit + body part' or a standalone word like demam/batuk/pilek.",
+        "id": "Dengarkan lima kalimat tentang gejala. Tulislah apakah setiap gejala adalah 'sakit + bagian tubuh' atau kata tersendiri seperti demam/batuk/pilek."
+      },
+      "answerShape": {
+        "da": "Kategoriser hvert symptom: 'sakit + legemsdel' ELLER 'selvstændigt symptomord'.",
+        "en": "Categorise each symptom: 'sakit + body part' OR 'standalone symptom word'.",
+        "id": "Kategorikan setiap gejala: 'sakit + bagian tubuh' ATAU 'kata gejala tersendiri'."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Byg fem korrekte sætninger om symptomer: brug mindst tre 'sakit + legemsdel'-eksempler og mindst ét selvstændigt symptomord.",
+        "en": "Build five correct sentences about symptoms: use at least three 'sakit + body part' examples and at least one standalone symptom word.",
+        "id": "Buat lima kalimat benar tentang gejala: gunakan setidaknya tiga contoh 'sakit + bagian tubuh' dan setidaknya satu kata gejala tersendiri."
+      },
+      "answerShape": {
+        "da": "Fem korrekte sætninger med de specificerede mønstre.",
+        "en": "Five correct sentences using the specified patterns.",
+        "id": "Lima kalimat benar menggunakan pola yang ditentukan."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme12-lesson03-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Sakit di Mana? – Beskrive smerter og symptomer på indonesisk",
+        "en": "Sakit di Mana? – Describing Pain and Symptoms in Indonesian",
+        "id": "Sakit di Mana? – Menggambarkan Nyeri dan Gejala dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

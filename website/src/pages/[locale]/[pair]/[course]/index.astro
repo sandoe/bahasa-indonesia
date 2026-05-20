@@ -1,0 +1,614 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import LessonCard from "@components/LessonCard.astro";
+import { getCourses, getLessonsForCourse, getStaticRouteMatrix, groupLessonsByUnit } from "@lib/content";
+import { getDirectionLabel, t } from "@lib/i18n";
+import { uiCopy, type LearningPair, type UiLocale } from "@data/site";
+
+export async function getStaticPaths() {
+  const [courses, matrix] = await Promise.all([getCourses(), Promise.resolve(getStaticRouteMatrix())]);
+  return matrix.flatMap(({ locale, pair }) =>
+    courses
+      .filter((course) => course.data.supportedPairs.includes(pair))
+      .map((course) => ({
+        params: { locale, pair, course: course.data.slug }
+      }))
+  );
+}
+
+const locale = Astro.params.locale as UiLocale;
+const pair = Astro.params.pair as LearningPair;
+const courseSlug = Astro.params.course ?? "";
+
+const courses = await getCourses();
+const course = courses.find((entry) => entry.data.slug === courseSlug);
+
+if (!course) {
+  throw new Error(`Unknown course slug: ${courseSlug}`);
+}
+
+const lessons = await getLessonsForCourse(pair, courseSlug);
+const units = groupLessonsByUnit(lessons);
+const totalMinutes = lessons.reduce((sum, lesson) => sum + lesson.data.durationMinutes, 0);
+
+// Definer alle 13 temaer (0-12) for BIPA 1 for at sikre den røde tråd vises selv uden lektioner
+const bipa1Themes = [
+  { id: 0, slug: "theme-00", da: "Fundamentet", en: "The Foundation", idn: "Dasar" },
+  { id: 1, slug: "theme-01", da: "Første Møde", en: "First Meeting", idn: "Pertemuan Pertama" },
+  { id: 2, slug: "theme-02", da: "Identitet", en: "Identity", idn: "Identitas" },
+  { id: 3, slug: "theme-03", da: "Tal & Farver", en: "Numbers & Colors", idn: "Angka & Warna" },
+  { id: 4, slug: "theme-04", da: "Min Familie", en: "My Family", idn: "Keluarga Saya" },
+  { id: 5, slug: "theme-05", da: "Andre Mennesker", en: "Other People", idn: "Orang Lain" },
+  { id: 6, slug: "theme-06", da: "Tid & Dato", en: "Time & Date", idn: "Waktu & Tanggal" },
+  { id: 7, slug: "theme-07", da: "Min Hverdag", en: "My Daily Life", idn: "Keseharian" },
+  { id: 8, slug: "theme-08", da: "Fritid & Interesser", en: "Leisure & Interests", idn: "Hobi & Minat" },
+  { id: 9, slug: "theme-09", da: "Mad & Drikke", en: "Food & Drink", idn: "Makanan & Minuman" },
+  { id: 10, slug: "theme-10", da: "Byen & Transport", en: "The City & Transport", idn: "Kota & Transportasi" },
+  { id: 11, slug: "theme-11", da: "Shopping", en: "Shopping", idn: "Berbelanja" },
+  { id: 12, slug: "theme-12", da: "Krop & Helbred", en: "Body & Health", idn: "Tubuh & Kesehatan" },
+];
+
+const isBipa1 = courseSlug === 'bipa-1';
+const startLesson = lessons[0] ?? null;
+const availableThemes = isBipa1
+  ? bipa1Themes.filter((theme) => units.some((unit) => unit.slug === theme.slug)).length
+  : units.length;
+const plannedThemes = isBipa1 ? bipa1Themes.length - availableThemes : 0;
+const pageCopy = {
+  startCourse: { da: "Start i kurset", en: "Start course", id: "Mulai kursus" },
+  seeStructure: { da: "Se kursusstruktur", en: "See course structure", id: "Lihat struktur kursus" },
+  seeProgress: { da: "Se progression", en: "See progress", id: "Lihat progres" },
+  lessonsReady: { da: "Lektioner klar", en: "Lessons ready", id: "Pelajaran siap" },
+  themesReady: { da: "Temaer med indhold", en: "Themes with content", id: "Tema dengan isi" },
+  unitsReady: { da: "Units med indhold", en: "Units with content", id: "Unit dengan isi" },
+  totalDuration: { da: "Samlet varighed", en: "Total duration", id: "Durasi total" },
+  stillMissing: { da: "Mangler endnu", en: "Still missing", id: "Masih belum ada" },
+  readyBody: {
+    da: "Indhold der allerede kan åbnes og bruges.",
+    en: "Content that is already ready to open and use.",
+    id: "Materi yang sudah bisa dibuka dan digunakan."
+  },
+  plannedBody: {
+    da: `Ud af ${bipa1Themes.length} planlagte temaer.`,
+    en: `Out of ${bipa1Themes.length} planned themes.`,
+    id: `Dari ${bipa1Themes.length} tema yang direncanakan.`
+  },
+  unitsBody: {
+    da: "Organiseret til næste læringstrin.",
+    en: "Organized for the next learning step.",
+    id: "Disusun untuk langkah belajar berikutnya."
+  },
+  durationBody: {
+    da: "Godt til at planlægge dit tempo uge for uge.",
+    en: "Useful for planning your pace week by week.",
+    id: "Berguna untuk merencanakan tempo belajar Anda dari minggu ke minggu."
+  },
+  missingBody: {
+    da: "Temaer som stadig er markeret som planlagte.",
+    en: "Themes that are still marked as planned.",
+    id: "Tema yang masih ditandai sebagai rencana."
+  },
+  redThread: { da: "Den Røde Tråd", en: "Learning Path", id: "Alur belajar" },
+  units: { da: "Units", en: "Units", id: "Unit" },
+  foundationThemes: { da: "Fundament + 12 Temaer", en: "Foundation + 12 Themes", id: "Fondasi + 12 Tema" },
+  courseContent: { da: "Kursusindhold", en: "Course content", id: "Isi kursus" },
+  structureBody: {
+    da: "Følg rejsen kronologisk for at få den bedste indlæring.",
+    en: "Follow the journey chronologically for the best learning flow.",
+    id: "Ikuti perjalanan ini secara berurutan untuk mendapatkan alur belajar terbaik."
+  },
+  lessonsCount: { da: "lektioner", en: "lessons", id: "pelajaran" },
+  plannedSoon: { da: "Planlagt indhold kommer snart", en: "Planned content is coming soon", id: "Materi yang direncanakan akan segera hadir" },
+  emptyTitle: { da: "Blueprint undervejs", en: "Blueprint in progress", id: "Struktur sedang disusun" },
+  emptyBody: {
+    da: "Dette niveau er ved at blive struktureret. Kom snart tilbage for de første lektioner.",
+    en: "This level is being structured. Check back soon for the first lessons.",
+    id: "Level ini sedang disusun. Kembali lagi segera untuk pelajaran-pelajaran pertamanya."
+  },
+  themeLabel: { da: "Tema", en: "Theme", id: "Tema" },
+  minutes: { da: "min", en: "min", id: "menit" }
+} as const;
+---
+
+<BaseLayout
+  title={`${t(course.data.title, locale)} | BahasaBroen`}
+  description={t(course.data.summary, locale)}
+  locale={locale}
+  pair={pair}
+>
+  <div class="animated-bg">
+    <div class="blob"></div>
+    <div class="blob"></div>
+  </div>
+
+  <section class="shell landing-hero-compact">
+    <div class="hero-content">
+      <nav class="breadcrumb animated" aria-label={t(uiCopy.breadcrumb, locale)}>
+        <a href={`/${locale}/${pair}/`} class="bc-link">{getDirectionLabel(pair, locale)}</a>
+        <span class="sep" aria-hidden="true">/</span>
+        <span class="active">{t(course.data.title, locale)}</span>
+      </nav>
+      <div class="hero-meta animated">
+        <span class="level-pill" style={`background: ${course.data.palette.accent}`}>{course.data.cefr}</span>
+        <span class="eyebrow">{t(course.data.stage, locale)}</span>
+      </div>
+      <h1 class="animated delay-1">{t(course.data.title, locale)}</h1>
+      <p class="hero-text animated delay-2">{t(course.data.summary, locale)}</p>
+
+      <div class="chip-row animated delay-3">
+        {course.data.focus.map((item) => <span class="info-chip">{t(item, locale)}</span>)}
+      </div>
+
+      <div class="hero-actions animated delay-4">
+        {startLesson ? (
+          <a
+            class="primary-link"
+            href={`/${locale}/${pair}/${startLesson.data.courseSlug}/${startLesson.data.unit.slug}/${startLesson.data.slug}/`}
+          >
+            {pageCopy.startCourse[locale]}
+          </a>
+        ) : (
+          <a class="primary-link" href="#structure">{pageCopy.seeStructure[locale]}</a>
+        )}
+        <a class="secondary-link" href="#progress">{pageCopy.seeProgress[locale]}</a>
+      </div>
+    </div>
+    
+    <div class="hero-visual-mini animated delay-4">
+      <div class="course-illustration" style={`background: linear-gradient(135deg, ${course.data.palette.accent}, ${course.data.palette.glow})`}>
+        <span class="symbol">📖</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="shell stats-band animated delay-5" id="progress">
+    <article class="stat-card">
+      <span class="stat-label">{pageCopy.lessonsReady[locale]}</span>
+      <strong>{lessons.length}</strong>
+      <p>{pageCopy.readyBody[locale]}</p>
+    </article>
+    <article class="stat-card">
+      <span class="stat-label">{isBipa1 ? pageCopy.themesReady[locale] : pageCopy.unitsReady[locale]}</span>
+      <strong>{availableThemes}</strong>
+      <p>{isBipa1 ? pageCopy.plannedBody[locale] : pageCopy.unitsBody[locale]}</p>
+    </article>
+    <article class="stat-card">
+      <span class="stat-label">{pageCopy.totalDuration[locale]}</span>
+      <strong>{totalMinutes} {pageCopy.minutes[locale]}</strong>
+      <p>{pageCopy.durationBody[locale]}</p>
+    </article>
+    {isBipa1 && (
+      <article class="stat-card">
+        <span class="stat-label">{pageCopy.stillMissing[locale]}</span>
+        <strong>{plannedThemes}</strong>
+        <p>{pageCopy.missingBody[locale]}</p>
+      </article>
+    )}
+  </section>
+
+  <section class="shell section-shell animated delay-5" id="structure">
+    <div class="section-header">
+      <span class="eyebrow">{isBipa1 ? pageCopy.redThread[locale] : pageCopy.units[locale]}</span>
+      <h2>{isBipa1 ? pageCopy.foundationThemes[locale] : pageCopy.courseContent[locale]}</h2>
+      <p>{pageCopy.structureBody[locale]}</p>
+    </div>
+
+    <div class="journey-stack">
+      {isBipa1 ? (
+        bipa1Themes.map((theme) => {
+          const themeLessons = units.find(u => u.slug === theme.slug)?.lessons || [];
+          const hasLessons = themeLessons.length > 0;
+          
+          return (
+            <div class={`theme-module ${hasLessons ? 'has-content' : 'is-empty'}`}>
+              <div class="theme-accent-line"></div>
+              <div class="theme-header-row">
+                <div class="theme-badge-v2">
+                  <span class="label">{pageCopy.themeLabel[locale]}</span>
+                  <span class="number">{theme.id}</span>
+                </div>
+                <div class="theme-title-block">
+                  <div class="title-row">
+                    <h3>{locale === "id" ? theme.idn : (locale === "en" ? theme.en : theme.da)}</h3>
+                    <span class="idn-alt">{locale === "id" ? (pair === "id-en" ? theme.en : theme.da) : theme.idn}</span>
+                  </div>                  {hasLessons ? (
+                    <div class="theme-meta-info">
+                      <span class="meta-item">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+                        <span>{themeLessons.length} {pageCopy.lessonsCount[locale]}</span>
+                      </span>
+                    </div>
+                  ) : (
+                    <div class="theme-status-box">
+                      <span class="status-dot"></span>
+                      <span class="status-text">{pageCopy.plannedSoon[locale]}</span>
+                    </div>
+                  )}
+                </div>
+              </div>
+              
+              {hasLessons && (
+                <div class="theme-content-area">
+                  <div class="lesson-grid">
+                    {themeLessons.map((lesson) => <LessonCard lesson={lesson} locale={locale} pair={pair} />)}
+                  </div>
+                </div>
+              )}
+            </div>
+          );
+        })
+      ) : (
+        units.length === 0 ? (
+          <article class="empty-card">
+            <h3>{pageCopy.emptyTitle[locale]}</h3>
+            <p>{pageCopy.emptyBody[locale]}</p>
+          </article>
+        ) : (
+          units.map((unit) => (
+            <div class="theme-group">
+              <div class="theme-info">
+                <div class="theme-number">
+                  <span class="num">{unit.lessons[0].data.unit.order}</span>
+                  <div class="line"></div>
+                </div>
+                <div class="theme-text">
+                  <h3>{t(unit.title, locale)}</h3>
+                  <p>{t(unit.summary, locale)}</p>
+                </div>
+              </div>
+              <div class="lesson-grid">
+                {unit.lessons.map((lesson) => <LessonCard lesson={lesson} locale={locale} pair={pair} />)}
+              </div>
+            </div>
+          ))
+        )
+      )}
+    </div>
+  </section>
+
+  <style>
+    .landing-hero-compact {
+      display: grid;
+      grid-template-columns: 1.4fr 0.6fr;
+      gap: 3rem;
+      padding: 4rem 0 4rem;
+      align-items: center;
+    }
+
+    .breadcrumb {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--muted);
+      margin-bottom: 1.5rem;
+    }
+    .bc-link {
+      color: var(--muted);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    .bc-link:hover { color: var(--teal); }
+    .breadcrumb .sep { color: var(--accent); opacity: 0.4; }
+    .breadcrumb .active { color: var(--teal); font-weight: 800; }
+
+    .chip-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.6rem;
+      margin-top: 2rem;
+    }
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-top: 2rem;
+    }
+    .info-chip {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.45rem 1rem;
+      background: rgba(28, 77, 79, 0.07);
+      color: var(--teal);
+      border-radius: 999px;
+      font-size: 0.85rem;
+      font-weight: 700;
+      border: 1px solid rgba(28, 77, 79, 0.12);
+    }
+    .secondary-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1.15rem 1.6rem;
+      border-radius: 999px;
+      border: 1px solid rgba(28, 77, 79, 0.15);
+      color: var(--teal);
+      text-decoration: none;
+      font-weight: 800;
+      background: rgba(255, 255, 255, 0.75);
+    }
+
+    .hero-meta {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1.5rem;
+    }
+    .level-pill {
+      color: white;
+      padding: 0.3rem 0.8rem;
+      border-radius: 8px;
+      font-weight: 900;
+      font-size: 0.9rem;
+    }
+    .hero-text {
+      font-size: 1.3rem;
+      color: var(--muted);
+      margin: 1.5rem 0 2rem;
+      max-width: 65ch;
+    }
+    .course-illustration {
+      width: 160px;
+      height: 160px;
+      border-radius: 45px;
+      display: grid;
+      place-items: center;
+      font-size: 5rem;
+      box-shadow: var(--shadow);
+      animation: float 6s ease-in-out infinite;
+    }
+    .stats-band {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    .stat-card {
+      background: rgba(255, 255, 255, 0.78);
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      padding: 1.4rem 1.5rem;
+      box-shadow: 0 14px 30px rgba(13, 26, 28, 0.05);
+    }
+    .stat-label {
+      display: block;
+      font-size: 0.78rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+      font-weight: 800;
+      margin-bottom: 0.65rem;
+    }
+    .stat-card strong {
+      display: block;
+      font-size: 2.4rem;
+      line-height: 1;
+      color: var(--teal);
+      margin-bottom: 0.6rem;
+    }
+    .stat-card p {
+      margin: 0;
+      font-size: 0.95rem;
+      line-height: 1.5;
+    }
+
+    /* Journey & Theme Module Styles */
+    .journey-stack {
+      display: flex;
+      flex-direction: column;
+      gap: 3rem;
+      margin-top: 4rem;
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .theme-module {
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      padding: 3rem;
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      gap: 2.5rem;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.03);
+      transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    }
+    .theme-module.has-content {
+      border-left: 8px solid var(--teal);
+    }
+    .theme-module.is-empty {
+      background: rgba(255, 255, 255, 0.5);
+      border-style: dashed;
+      opacity: 0.8;
+    }
+    .theme-module:hover {
+      transform: translateY(-5px);
+      box-shadow: var(--shadow);
+    }
+    .theme-header-row {
+      display: flex;
+      align-items: center;
+      gap: 2.5rem;
+    }
+    .theme-badge-v2 {
+      width: 90px;
+      height: 90px;
+      background: var(--teal);
+      color: white;
+      border-radius: 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      box-shadow: 0 12px 24px rgba(28, 77, 79, 0.15);
+    }
+    .theme-badge-v2 .label {
+      font-size: 0.7rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      opacity: 0.8;
+      margin-bottom: -0.2rem;
+    }
+    .theme-badge-v2 .number {
+      font-size: 2.8rem;
+      font-weight: 900;
+      line-height: 1;
+    }
+    .theme-title-block {
+      flex-grow: 1;
+    }
+    .title-row {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.6rem;
+    }
+    .title-row h3 {
+      font-size: 2.4rem;
+      color: var(--teal);
+      margin: 0;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+    }
+    .idn-alt {
+      font-size: 1.1rem;
+      color: var(--muted);
+      font-weight: 700;
+      background: var(--bg-deep);
+      padding: 0.4rem 1rem;
+      border-radius: 10px;
+      letter-spacing: 0.02em;
+    }
+    .theme-meta-info {
+      display: flex;
+      gap: 1.5rem;
+      margin-top: 0.4rem;
+    }
+    .meta-item {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--muted);
+    }
+    .theme-status-box {
+      display: flex;
+      align-items: center;
+      gap: 0.8rem;
+      padding: 0.7rem 1.4rem;
+      background: rgba(13, 26, 28, 0.04);
+      border-radius: 14px;
+      width: fit-content;
+    }
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      background: var(--muted);
+      border-radius: 50%;
+      opacity: 0.3;
+    }
+    .status-text {
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--muted);
+      letter-spacing: 0.02em;
+    }
+    .theme-content-area {
+      padding-top: 2rem;
+      border-top: 1px solid var(--line);
+    }
+    .lesson-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 2rem;
+    }
+
+    @media (max-width: 768px) {
+      .theme-header-row { flex-direction: column; align-items: flex-start; gap: 1.5rem; }
+      .theme-module { padding: 2rem; }
+      .title-row h3 { font-size: 1.8rem; }
+      .journey-stack { gap: 2rem; }
+      .stats-band { grid-template-columns: 1fr; }
+    }
+
+    /* Non-BIPA1 Theme Group Styles */
+    .theme-group {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 3rem;
+      margin-bottom: 4rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--line);
+    }
+    .theme-info {
+      display: flex;
+      gap: 1.5rem;
+    }
+    .theme-number {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .theme-number .num {
+      width: 45px;
+      height: 45px;
+      background: var(--teal);
+      color: white;
+      border-radius: 12px;
+      display: grid;
+      place-items: center;
+      font-weight: 900;
+      font-size: 1.2rem;
+      flex-shrink: 0;
+    }
+    .theme-number .line {
+      width: 2px;
+      flex-grow: 1;
+      background: linear-gradient(180deg, var(--teal) 0%, transparent 100%);
+      margin-top: 1rem;
+      opacity: 0.2;
+    }
+    .theme-text h3 {
+      font-size: 1.6rem;
+      margin-bottom: 0.8rem;
+    }
+    .theme-text p {
+      font-size: 1rem;
+      line-height: 1.5;
+    }
+
+    /* Animation Classes */
+    .animated { opacity: 0; animation: fadeInUp 0.8s cubic-bezier(0.22, 1, 0.36, 1) forwards; }
+    .delay-1 { animation-delay: 0.1s; }
+    .delay-2 { animation-delay: 0.2s; }
+    .delay-3 { animation-delay: 0.3s; }
+    .delay-4 { animation-delay: 0.4s; }
+    .delay-5 { animation-delay: 0.5s; }
+
+    .animated-bg { position: fixed; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; }
+    .blob {
+      position: absolute;
+      width: 500px;
+      height: 500px;
+      background: radial-gradient(circle, rgba(255,138,61,0.08) 0%, transparent 70%);
+      filter: blur(60px);
+    }
+    .blob:nth-child(1) { top: -100px; right: -50px; }
+    .blob:nth-child(2) { bottom: -100px; left: -50px; }
+
+    @media (max-width: 1024px) {
+      .theme-group { grid-template-columns: 1fr; gap: 1.5rem; }
+      .theme-number .line { display: none; }
+      .landing-hero-compact { grid-template-columns: 1fr; text-align: center; }
+      .hero-meta, .hero-actions { justify-content: center; }
+      .hero-visual-mini { display: none; }
+    }
+  </style>
+</BaseLayout>

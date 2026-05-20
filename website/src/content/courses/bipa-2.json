@@ -1,0 +1,52 @@
+{
+  "slug": "bipa-2",
+  "order": 2,
+  "cefr": "A2",
+  "stage": {
+    "da": "Elementær",
+    "en": "Elementary",
+    "id": "Dasar"
+  },
+  "title": {
+    "da": "BIPA 2 · Hverdag i bevægelse",
+    "en": "BIPA 2 · Everyday movement",
+    "id": "BIPA 2 · Keseharian yang bergerak"
+  },
+  "summary": {
+    "da": "Indkøb, transport, steder, krop, behov og mere sammenhængende hverdagssprog.",
+    "en": "Shopping, transport, places, body, needs, and more connected everyday language.",
+    "id": "Belanja, transportasi, tempat, tubuh, kebutuhan, dan bahasa keseharian yang lebih terhubung."
+  },
+  "focus": [
+    {
+      "da": "Marked og priser",
+      "en": "Market and prices",
+      "id": "Pasar dan harga"
+    },
+    {
+      "da": "Transport og retning",
+      "en": "Transport and direction",
+      "id": "Transportasi dan arah"
+    },
+    {
+      "da": "Sundhed og rejse",
+      "en": "Health and travel",
+      "id": "Kesehatan dan perjalanan"
+    }
+  ],
+  "teacherPositioning": {
+    "da": "Velegnet til rollespil, parøvelser og visuel tavleundervisning.",
+    "en": "Well suited for role-play, pair work, and visual board teaching.",
+    "id": "Cocok untuk role-play, kerja pasangan, dan pengajaran visual."
+  },
+  "selfStudyPositioning": {
+    "da": "Selvstudie får flere dialoger, valgmuligheder og situationsbaseret træning.",
+    "en": "Self-study adds more dialogues, choices, and scenario-based practice.",
+    "id": "Belajar mandiri menambahkan lebih banyak dialog, pilihan, dan latihan berbasis situasi."
+  },
+  "supportedPairs": ["da-id", "id-da", "en-id", "id-en"],
+  "palette": {
+    "accent": "#e25f52",
+    "glow": "#ffbaa8"
+  }
+}

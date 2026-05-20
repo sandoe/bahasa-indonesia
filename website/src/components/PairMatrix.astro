@@ -1,0 +1,181 @@
+---
+import { getLessons } from "@lib/content";
+import { learningPairs, pairMeta, type LearningPair, type UiLocale } from "@data/site";
+import { t } from "@lib/i18n";
+
+interface Props {
+  locale: UiLocale;
+}
+
+const { locale } = Astro.props;
+const lessons = await getLessons();
+const activePairs = new Set(lessons.map((lesson) => lesson.data.pair));
+const availableNowLabel = {
+  da: "Tilgængeligt nu",
+  en: "Available now",
+  id: "Tersedia sekarang"
+} as const;
+const comingSoonLabel = {
+  da: "Kommer snart",
+  en: "Coming soon",
+  id: "Segera hadir"
+} as const;
+---
+
+<div class="pair-grid">
+  {
+    learningPairs.map((pair) => {
+      const meta = pairMeta[pair as LearningPair];
+      const sourceFlag = meta.source === 'da' ? '🇩🇰' : meta.source === 'id' ? '🇮🇩' : '🇬🇧';
+      const targetFlag = meta.target === 'da' ? '🇩🇰' : meta.target === 'id' ? '🇮🇩' : '🇬🇧';
+      const isActive = activePairs.has(pair);
+
+      return isActive ? (
+        <a class="pair-card-v2" href={`/${meta.source}/${pair}/`}>
+          <div class="card-flags">
+            <span class="flag">{sourceFlag}</span>
+            <div class="flag-divider">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+            </div>
+            <span class="flag">{targetFlag}</span>
+          </div>
+          <div class="card-content">
+            <h3>{t(meta.label, locale)}</h3>
+            <p>{t(meta.deck, locale)}</p>
+          </div>
+          <div class="card-footer">
+            <span class="available-badge">
+              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+              {availableNowLabel[locale]}
+            </span>
+            <svg class="arrow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+          </div>
+        </a>
+      ) : (
+        <div class="pair-card-v2 is-locked" aria-disabled="true">
+          <div class="card-flags">
+            <span class="flag">{sourceFlag}</span>
+            <div class="flag-divider">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+            </div>
+            <span class="flag">{targetFlag}</span>
+          </div>
+          <div class="card-content">
+            <h3>{t(meta.label, locale)}</h3>
+            <p>{t(meta.deck, locale)}</p>
+          </div>
+          <div class="card-footer">
+            <span class="coming-badge">
+              <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+              {comingSoonLabel[locale]}
+            </span>
+          </div>
+        </div>
+      );
+    })
+  }
+</div>
+
+<style>
+  .pair-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 3rem;
+  }
+  .pair-card-v2 {
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-lg);
+    padding: 2.5rem;
+    text-decoration: none;
+    color: var(--ink);
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.02);
+    position: relative;
+    overflow: hidden;
+  }
+  .pair-card-v2:not(.is-locked):hover {
+    transform: translateY(-10px);
+    border-color: var(--accent);
+    box-shadow: var(--shadow);
+  }
+  .pair-card-v2.is-locked {
+    opacity: 0.55;
+    background: rgba(255,255,255,0.6);
+    border-style: dashed;
+    cursor: default;
+  }
+  .card-flags {
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+  }
+  .flag {
+    font-size: 2.8rem;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.1));
+  }
+  .is-locked .flag { filter: grayscale(0.4); }
+  .flag-divider {
+    color: var(--accent);
+    width: 24px;
+    height: 24px;
+    opacity: 0.6;
+  }
+  .card-content h3 {
+    font-size: 1.6rem;
+    margin-bottom: 0.8rem;
+    color: var(--teal);
+  }
+  .card-content p {
+    color: var(--muted);
+    font-size: 1.05rem;
+    line-height: 1.5;
+  }
+  .card-footer {
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.8rem;
+  }
+  .available-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.8rem;
+    font-weight: 800;
+    color: var(--teal-light);
+    background: rgba(44, 182, 139, 0.1);
+    padding: 0.35rem 0.8rem;
+    border-radius: 999px;
+  }
+  .coming-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.8rem;
+    font-weight: 800;
+    color: var(--muted);
+    background: rgba(13, 26, 28, 0.05);
+    padding: 0.35rem 0.8rem;
+    border-radius: 999px;
+  }
+  .arrow {
+    width: 18px;
+    height: 18px;
+    color: var(--accent);
+    transition: transform 0.3s;
+  }
+  .pair-card-v2:not(.is-locked):hover .arrow {
+    transform: translateX(6px);
+  }
+
+  @media (max-width: 480px) {
+    .pair-grid { grid-template-columns: 1fr; }
+    .pair-card-v2 { padding: 1.5rem; }
+  }
+</style>

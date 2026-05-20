@@ -1,0 +1,287 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 5,
+  "slug": "lesson-05",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Tanggal Berapa? — Hvilken dato?",
+    "en": "Tanggal Berapa? — What Is the Date?",
+    "id": "Tanggal Berapa?"
+  },
+  "summary": {
+    "da": "Lær at spørge om og opgive datoer på indonesisk. Indonesisk datoformat er dag-måned-år, og datoer udtrykkes med 'tanggal [N]'.",
+    "en": "Learn to ask and state dates in Indonesian. Indonesian date format is day-month-year, and dates are expressed with 'tanggal [N]'.",
+    "id": "Belajar menanyakan dan menyebutkan tanggal dalam bahasa Indonesia. Format tanggal Indonesia adalah hari-bulan-tahun."
+  },
+  "objectives": [
+    {
+      "da": "Spørge om datoen med 'Hari ini tanggal berapa?'",
+      "en": "Ask for the date with 'Hari ini tanggal berapa?'",
+      "id": "Menanyakan tanggal dengan 'Hari ini tanggal berapa?'"
+    },
+    {
+      "da": "Opgive en fuld dato i dag-måned-år-format",
+      "en": "State a full date in day-month-year format",
+      "id": "Menyebutkan tanggal lengkap dalam format hari-bulan-tahun"
+    },
+    {
+      "da": "Planlægge en begivenhed ved hjælp af en dato i en kort samtale",
+      "en": "Plan an event using a date in a short conversation",
+      "id": "Merencanakan suatu acara menggunakan tanggal dalam percakapan singkat"
+    }
+  ],
+  "unit": {
+    "slug": "theme-06",
+    "order": 6,
+    "title": {
+      "da": "Tema 6: Tid & Dato",
+      "en": "Theme 6: Time & Date",
+      "id": "Tema 6: Waktu & Tanggal"
+    },
+    "summary": {
+      "da": "Klokkeslæt, ugedage, måneder og datoer.",
+      "en": "Clock time, days, months, and dates.",
+      "id": "Waktu, hari, bulan, dan tanggal."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skriv dagens dato på tavlen i tre formater: dansk (19/5/2026), engelsk (19 May 2026), indonesisk (19 Mei 2026). Vis, at rækkefølgen er den samme som i dansk.",
+        "en": "Write today's date on the board in three formats: Danish (19/5/2026), English (19 May 2026), Indonesian (19 Mei 2026). Show that the order is the same as in Danish.",
+        "id": "Tuliskan tanggal hari ini di papan dalam tiga format: Denmark (19/5/2026), Inggris (19 May 2026), Indonesia (19 Mei 2026). Tunjukkan bahwa urutannya sama dengan bahasa Denmark."
+      },
+      "flow": [
+        {
+          "da": "Introducer 'tanggal' som datotal-markør. Øv 'tanggal satu' til 'tanggal tiga puluh satu' med fokus på de tal, eleverne allerede kender.",
+          "en": "Introduce 'tanggal' as the date-number marker. Practise 'tanggal satu' to 'tanggal tiga puluh satu' focusing on numbers students already know.",
+          "id": "Perkenalkan 'tanggal' sebagai penanda angka tanggal. Latih 'tanggal satu' hingga 'tanggal tiga puluh satu' dengan fokus pada angka yang sudah diketahui siswa."
+        },
+        {
+          "da": "Sæt fuld dato-struktur sammen: 'tanggal [N] [bulan] [tahun]'. Eleverne udtaler dagens dato.",
+          "en": "Assemble the full date structure: 'tanggal [N] [month] [year]'. Students say today's full date.",
+          "id": "Susun struktur tanggal lengkap: 'tanggal [N] [bulan] [tahun]'. Siswa menyebutkan tanggal hari ini secara lengkap."
+        },
+        {
+          "da": "Par-rollespil: planlæg en tur eller begivenhed — spørg 'Kapan kita berangkat?' og svar med en fuld dato.",
+          "en": "Pair role-play: plan a trip or event — ask 'Kapan kita berangkat?' and answer with a full date.",
+          "id": "Bermain peran berpasangan: rencanakan perjalanan atau acara — tanya 'Kapan kita berangkat?' dan jawab dengan tanggal lengkap."
+        }
+      ],
+      "notes": [
+        {
+          "da": "I indonesisk skrives datoer normalt med ordenstallet: '19 Mei 2026', ikke '19. maj'. 'Tanggal' bærer ordenstalsfunktionen.",
+          "en": "In Indonesian, dates are typically written with cardinal numbers: '19 Mei 2026', not '19th May'. 'Tanggal' carries the ordinal function.",
+          "id": "Dalam bahasa Indonesia, tanggal biasanya ditulis dengan angka biasa: '19 Mei 2026'. 'Tanggal' berfungsi sebagai penanda urutan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær at sige hele datoen: 'Hari ini tanggal [N] [bulan] [tahun].' Øv med din faktiske fødselsdato.",
+          "en": "Learn to say the full date: 'Hari ini tanggal [N] [month] [year].' Practise with your actual birthday.",
+          "id": "Belajar mengucapkan tanggal lengkap: 'Hari ini tanggal [N] [bulan] [tahun].' Latih dengan tanggal lahirmu."
+        },
+        {
+          "da": "Lyt til dialogen og notér: hvilken dato planlægger de at tage afsted?",
+          "en": "Listen to the dialogue and note: what date do they plan to depart?",
+          "id": "Dengarkan dialog dan catat: tanggal berapa mereka merencanakan keberangkatan?"
+        },
+        {
+          "da": "Skriv tre vigtige datoer i dit liv på indonesisk (fx fødselsdag, ferie, mærkedag).",
+          "en": "Write three important dates in your life in Indonesian (e.g. birthday, holiday, anniversary).",
+          "id": "Tuliskan tiga tanggal penting dalam hidupmu dalam bahasa Indonesia (mis. ulang tahun, liburan, hari jadi)."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Sig dagens fulde dato på indonesisk uden hjælp.",
+          "en": "Say today's full date in Indonesian without help.",
+          "id": "Sebutkan tanggal hari ini secara lengkap dalam bahasa Indonesia tanpa bantuan."
+        },
+        {
+          "da": "Hvad er formatet for en indonesisk dato? Hvordan adskiller det sig fra det engelske format?",
+          "en": "What is the format of an Indonesian date? How does it differ from the English format?",
+          "id": "Apa format tanggal dalam bahasa Indonesia? Bagaimana perbedaannya dengan format bahasa Inggris?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Fina",
+      "source": "Kita mau liburan ke Bali. Kamu bisa kapan?",
+      "target": "Vi skal på ferie til Bali. Hvornår kan du?"
+    },
+    {
+      "speaker": "Aryo",
+      "source": "Saya bisa mulai tanggal lima belas Juli.",
+      "target": "Jeg kan begynde fra den femtende juli."
+    },
+    {
+      "speaker": "Fina",
+      "source": "Bagus! Kita berangkat tanggal lima belas Juli dan pulang tanggal dua puluh dua Juli?",
+      "target": "Godt! Vi tager afsted den 15. juli og vender tilbage den 22. juli?"
+    },
+    {
+      "speaker": "Aryo",
+      "source": "Boleh. Hari ini tanggal berapa?",
+      "target": "Det er OK. Hvilken dato er det i dag?"
+    },
+    {
+      "speaker": "Fina",
+      "source": "Hari ini tanggal sembilan belas Mei. Masih dua bulan lagi.",
+      "target": "I dag er det den 19. maj. Der er stadig to måneder."
+    },
+    {
+      "speaker": "Aryo",
+      "source": "Oke, saya catat: berangkat tanggal lima belas Juli.",
+      "target": "OK, jeg noterer: afrejse den 15. juli."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "tanggal",
+      "target": "dato / date",
+      "note": {
+        "da": "Bruges foran dagtallet: 'tanggal tujuh belas' = den syttende",
+        "en": "Used before the day number: 'tanggal tujuh belas' = the seventeenth",
+        "id": "Digunakan sebelum angka hari: 'tanggal tujuh belas' = tanggal tujuh belas"
+      }
+    },
+    {
+      "source": "hari ini tanggal berapa?",
+      "target": "hvilken dato er det i dag? / what is today's date?",
+      "note": {
+        "da": "Standardudtrykket for at spørge om datoen",
+        "en": "The standard expression for asking the date",
+        "id": "Ungkapan standar untuk menanyakan tanggal"
+      }
+    },
+    {
+      "source": "berangkat",
+      "target": "at tage afsted / to depart",
+      "note": {
+        "da": "Bruges om at forlade et sted; modsat: 'tiba' (ankomme)",
+        "en": "Used for leaving a place; opposite: 'tiba' (arrive)",
+        "id": "Digunakan untuk meninggalkan suatu tempat; lawan kata: 'tiba' (tiba)"
+      }
+    },
+    {
+      "source": "pulang",
+      "target": "at vende hjem / to return home",
+      "note": {
+        "da": "'Pulang' indebærer altid en tilbagevenden til hjemstedet",
+        "en": "'Pulang' always implies returning to one's home base",
+        "id": "'Pulang' selalu mengandung makna kembali ke tempat asal"
+      }
+    },
+    {
+      "source": "masih ... lagi",
+      "target": "der er stadig ... / there is still ...",
+      "note": {
+        "da": "'Masih dua bulan lagi' = der er stadig to måneder tilbage",
+        "en": "'Masih dua bulan lagi' = there are still two months left",
+        "id": "'Masih dua bulan lagi' = masih dua bulan lagi"
+      }
+    },
+    {
+      "source": "saya catat",
+      "target": "jeg noterer det / I'll note that down",
+      "note": {
+        "da": "Fra 'catat' (notere/nedskrive); nyttigt i planlægningsdialog",
+        "en": "From 'catat' (to note/write down); useful in planning dialogue",
+        "id": "Dari kata 'catat' (mencatat); berguna dalam dialog perencanaan"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "tanggal [dag] [bulan] [tahun] — datoformat",
+      "explanation": {
+        "da": "Den indonesiske datostruktur er: tanggal + dagtal + måned + år. Rækkefølgen er den samme som på dansk, men 'tanggal' erstatter ordenstalsformen.",
+        "en": "The Indonesian date structure is: tanggal + day number + month + year. The order is the same as in Danish, but 'tanggal' replaces the ordinal form.",
+        "id": "Struktur tanggal Indonesia: tanggal + angka hari + bulan + tahun. Urutannya sama seperti bahasa Denmark, tetapi 'tanggal' menggantikan bentuk ordinal."
+      },
+      "examples": [
+        {
+          "source": "Hari ini tanggal tiga belas Agustus.",
+          "target": "I dag er det den 13. august. / Today is the 13th of August."
+        },
+        {
+          "source": "Ulang tahun saya tanggal dua puluh satu Februari.",
+          "target": "Min fødselsdag er den 21. februar. / My birthday is the 21st of February."
+        },
+        {
+          "source": "Rapat pada tanggal satu Oktober dua ribu dua puluh enam.",
+          "target": "Mødet er den 1. oktober 2026. / The meeting is on the 1st of October 2026."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig din fødselsdato på indonesisk med fuld dato: tanggal, bulan og tahun.",
+        "en": "Say your birthday in Indonesian as a full date: tanggal, bulan, and tahun.",
+        "id": "Sebutkan tanggal lahirmu dalam bahasa Indonesia secara lengkap: tanggal, bulan, dan tahun."
+      },
+      "answerShape": {
+        "da": "Saya lahir tanggal [N] [bulan] [tahun].",
+        "en": "Saya lahir tanggal [N] [month] [year].",
+        "id": "Saya lahir tanggal [N] [bulan] [tahun]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Planlæg en begivenhed: vælg en destination og skriv en afrejse- og en hjemkomstdato på indonesisk.",
+        "en": "Plan an event: choose a destination and write a departure and return date in Indonesian.",
+        "id": "Rencanakan suatu acara: pilih tujuan dan tuliskan tanggal keberangkatan dan kepulangan dalam bahasa Indonesia."
+      },
+      "answerShape": {
+        "da": "Kita berangkat tanggal [N] [bulan] dan pulang tanggal [N] [bulan].",
+        "en": "Kita berangkat tanggal [N] [month] dan pulang tanggal [N] [month].",
+        "id": "Kita berangkat tanggal [N] [bulan] dan pulang tanggal [N] [bulan]."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen og skriv afrejsedatoen og hjemkomstdatoen med cifre (format: DD/MM).",
+        "en": "Listen to the dialogue and write the departure and return date in digits (format: DD/MM).",
+        "id": "Dengarkan dialog dan tuliskan tanggal keberangkatan dan kepulangan dalam angka (format: DD/MM)."
+      },
+      "answerShape": {
+        "da": "Berangkat: 15/7. Pulang: 22/7.",
+        "en": "Berangkat: 15/7. Pulang: 22/7.",
+        "id": "Berangkat: 15/7. Pulang: 22/7."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme06-lesson05-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Indonesiske datoer — Tanggal Berapa?",
+        "en": "Indonesian Dates — Tanggal Berapa?",
+        "id": "Tanggal Berapa? — Cara Menyebutkan Tanggal dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

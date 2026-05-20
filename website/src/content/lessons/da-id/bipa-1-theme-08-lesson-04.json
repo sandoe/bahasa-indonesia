@@ -1,0 +1,300 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 4,
+  "slug": "lesson-04",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Film og Bøger",
+    "en": "Films and Books",
+    "id": "Film dan Buku"
+  },
+  "summary": {
+    "da": "Lær at tale om film og bøger på indonesisk, herunder genrer og anbefalinger.",
+    "en": "Learn to talk about films and books in Indonesian, including genres and recommendations.",
+    "id": "Belajar berbicara tentang film dan buku dalam bahasa Indonesia, termasuk genre dan rekomendasi."
+  },
+  "objectives": [
+    {
+      "da": "Nævne mindst fem filmgenrer og tre bogtyper på indonesisk.",
+      "en": "Name at least five film genres and three book types in Indonesian.",
+      "id": "Menyebutkan minimal lima genre film dan tiga jenis buku dalam bahasa Indonesia."
+    },
+    {
+      "da": "Anbefale en film eller bog til en ven med enkle sætninger.",
+      "en": "Recommend a film or book to a friend using simple sentences.",
+      "id": "Merekomendasikan sebuah film atau buku kepada teman dengan kalimat sederhana."
+    },
+    {
+      "da": "Spørge om og beskrive filmindhold med grundlæggende indonesisk.",
+      "en": "Ask about and describe film content using basic Indonesian.",
+      "id": "Menanyakan dan menggambarkan konten film menggunakan bahasa Indonesia dasar."
+    }
+  ],
+  "unit": {
+    "slug": "theme-08",
+    "order": 8,
+    "title": {
+      "da": "Tema 8: Fritid & Interesser",
+      "en": "Theme 8: Hobbies & Interests",
+      "id": "Tema 8: Hobi & Minat"
+    },
+    "summary": {
+      "da": "Fritidsaktiviteter, sport, kultur og personlige interesser.",
+      "en": "Leisure activities, sports, culture, and personal interests.",
+      "id": "Aktivitas waktu luang, olahraga, budaya, dan minat pribadi."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis plakater for kendte film og spørg: 'Hvad slags film er det?' Introducer genreordene på indonesisk.",
+        "en": "Show posters of well-known films and ask: 'What kind of film is this?' Introduce genre words in Indonesian.",
+        "id": "Tunjukkan poster film terkenal dan tanya: 'Ini film apa?' Perkenalkan kata-kata genre dalam bahasa Indonesia."
+      },
+      "flow": [
+        {
+          "da": "Gennemgå film- og bogordforrådet. Lad eleverne matche genrenavne med billedbeskrivelser.",
+          "en": "Go through film and book vocabulary. Have students match genre names with picture descriptions.",
+          "id": "Pelajari kosakata film dan buku. Minta siswa mencocokkan nama genre dengan deskripsi gambar."
+        },
+        {
+          "da": "Introducer anbefalingssætninger: 'Film ini sangat bagus!', 'Kamu harus nonton!', 'Ceritanya menarik.' Øv i kor og derefter individuelt.",
+          "en": "Introduce recommendation sentences: 'Film ini sangat bagus!', 'Kamu harus nonton!', 'Ceritanya menarik.' Practice in chorus, then individually.",
+          "id": "Perkenalkan kalimat rekomendasi: 'Film ini sangat bagus!', 'Kamu harus nonton!', 'Ceritanya menarik.' Latih bersama-sama, kemudian individual."
+        },
+        {
+          "da": "Par-rollespil: anbefalingssamtale. Én anbefaler en film, én stiller spørgsmål. Skift roller.",
+          "en": "Pair role-play: recommendation conversation. One recommends a film, one asks questions. Switch roles.",
+          "id": "Role-play berpasangan: percakapan rekomendasi. Satu merekomendasikan film, satu mengajukan pertanyaan. Bergantian peran."
+        }
+      ],
+      "notes": [
+        {
+          "da": "'Nonton' er et hverdagsord for 'at se' (film/TV). Det formelle ord er 'menonton'. Begge er meget brugte.",
+          "en": "'Nonton' is a colloquial word for 'to watch' (film/TV). The formal word is 'menonton'. Both are widely used.",
+          "id": "'Nonton' adalah kata sehari-hari untuk 'menonton' (film/TV). Kata formal adalah 'menonton'. Keduanya banyak digunakan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær genre- og bogordforrådet. Skriv hvert ord to gange og lav en eksempelsætning.",
+          "en": "Learn the genre and book vocabulary. Write each word twice and make an example sentence.",
+          "id": "Pelajari kosakata genre dan buku. Tulis setiap kata dua kali dan buat kalimat contoh."
+        },
+        {
+          "da": "Vælg din yndlingsfilm. Forbered en anbefaling på to til tre sætninger på indonesisk.",
+          "en": "Choose your favourite film. Prepare a two to three sentence recommendation in Indonesian.",
+          "id": "Pilih film favorit kamu. Siapkan rekomendasi dua hingga tiga kalimat dalam bahasa Indonesia."
+        },
+        {
+          "da": "Øv dialogen ved at læse begge roller højt.",
+          "en": "Practice the dialogue by reading both roles aloud.",
+          "id": "Latih dialog dengan membaca kedua peran dengan keras."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du anbefale en film på indonesisk i to sætninger og nævne genren?",
+          "en": "Can you recommend a film in Indonesian in two sentences and mention the genre?",
+          "id": "Bisakah kamu merekomendasikan sebuah film dalam bahasa Indonesia dalam dua kalimat dan menyebutkan genre-nya?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Sari",
+      "source": "Hej Eko! Hvad lavede du i weekenden?",
+      "target": "Hei Eko! Kamu ngapain akhir pekan kemarin?"
+    },
+    {
+      "speaker": "Eko",
+      "source": "Jeg så en rigtig god film i biografen! Den hed 'Laskar Pelangi'.",
+      "target": "Saya nonton film bagus di bioskop! Judulnya 'Laskar Pelangi'."
+    },
+    {
+      "speaker": "Sari",
+      "source": "Hvad slags film er det? Er det action?",
+      "target": "Film apa itu? Apakah itu film aksi?"
+    },
+    {
+      "speaker": "Eko",
+      "source": "Nej, det er en drama. Historien er meget rørende og inspirerende.",
+      "target": "Bukan, itu film drama. Ceritanya sangat menyentuh dan menginspirasi."
+    },
+    {
+      "speaker": "Sari",
+      "source": "Lyder godt! Jeg kan godt lide drama og komedie. Jeg kan ikke lide horrorfilm.",
+      "target": "Kedengarannya bagus! Saya suka drama dan komedi. Saya tidak suka film horor."
+    },
+    {
+      "speaker": "Eko",
+      "source": "Du bør se den! Den er meget bedre end romanen.",
+      "target": "Kamu harus nonton! Film ini lebih bagus daripada novelnya."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "nonton film / menonton film",
+      "target": "at se film / watching a film",
+      "note": {
+        "da": "'Nonton' er hverdagsform. 'Menonton' er formelt. Begge korrekte.",
+        "en": "'Nonton' is colloquial. 'Menonton' is formal. Both correct.",
+        "id": "'Nonton' adalah bentuk sehari-hari. 'Menonton' adalah formal. Keduanya benar."
+      }
+    },
+    {
+      "source": "bioskop",
+      "target": "biograf / cinema",
+      "note": {
+        "da": "Låneord fra hollandsk 'bioscoop'. Meget brugt i dagligsproget.",
+        "en": "Loanword from Dutch 'bioscoop'. Very common in everyday speech.",
+        "id": "Kata serapan dari bahasa Belanda 'bioscoop'. Sangat umum digunakan sehari-hari."
+      }
+    },
+    {
+      "source": "horor / komedi / drama / aksi / animasi",
+      "target": "horror / komedie / drama / action / animation",
+      "note": {
+        "da": "Disse genreord er internationale låneord og udtales næsten som på dansk/engelsk.",
+        "en": "These genre words are international loanwords and pronounced almost like in English.",
+        "id": "Kata-kata genre ini adalah kata serapan internasional dan diucapkan hampir seperti dalam bahasa Inggris."
+      }
+    },
+    {
+      "source": "membaca buku",
+      "target": "at læse en bog / reading a book",
+      "note": {
+        "da": "'Membaca' = at læse, 'buku' = bog.",
+        "en": "'Membaca' = to read, 'buku' = book.",
+        "id": "'Membaca' = membaca, 'buku' = buku."
+      }
+    },
+    {
+      "source": "novel",
+      "target": "roman / novel",
+      "note": {
+        "da": "Internationalt låneord. Udtales 'no-vel'.",
+        "en": "International loanword. Pronounced 'no-vel'.",
+        "id": "Kata serapan internasional. Diucapkan 'no-vel'."
+      }
+    },
+    {
+      "source": "majalah",
+      "target": "blad / magazine",
+      "note": {
+        "da": "Udtales 'ma-ja-lah'. Fra arabisk 'majalla'.",
+        "en": "Pronounced 'ma-ja-lah'. From Arabic 'majalla'.",
+        "id": "Diucapkan 'ma-ja-lah'. Dari bahasa Arab 'majalla'."
+      }
+    },
+    {
+      "source": "cerita",
+      "target": "historie / story",
+      "note": {
+        "da": "'Ceritanya menarik' = Historien er interessant. Meget brugt i hverdagssamtale.",
+        "en": "'Ceritanya menarik' = The story is interesting. Very common in everyday conversation.",
+        "id": "'Ceritanya menarik' = Ceritanya menarik. Sangat umum dalam percakapan sehari-hari."
+      }
+    },
+    {
+      "source": "komik",
+      "target": "tegneserie / comic",
+      "note": {
+        "da": "Internationalt låneord. Populært i Indonesien, bl.a. manga.",
+        "en": "International loanword. Popular in Indonesia, including manga.",
+        "id": "Kata serapan internasional. Populer di Indonesia, termasuk manga."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Film ini + [adjektiv] / Ceritanya + [adjektiv]",
+      "explanation": {
+        "da": "For at beskrive en film eller bog bruges 'ini' (denne) til at pege på det. 'Ceritanya' betyder 'dens historie' (-nya er possessivt suffiks). Adjektivet kommer efter substantivet.",
+        "en": "To describe a film or book, 'ini' (this) points to it. 'Ceritanya' means 'its story' (-nya is a possessive suffix). The adjective comes after the noun.",
+        "id": "Untuk mendeskripsikan film atau buku, 'ini' (ini) menunjuk padanya. 'Ceritanya' berarti 'ceritanya' (-nya adalah sufiks posesif). Kata sifat datang setelah kata benda."
+      },
+      "examples": [
+        {
+          "source": "Denne film er meget god.",
+          "target": "Film ini sangat bagus."
+        },
+        {
+          "source": "Historien er rørende.",
+          "target": "Ceritanya menyentuh."
+        },
+        {
+          "source": "Romanen er interessant.",
+          "target": "Novel ini menarik."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Anbefal din yndlingsfilm til en ven. Nævn titlen, genren og to grunde til at se den.",
+        "en": "Recommend your favourite film to a friend. Mention the title, the genre, and two reasons to watch it.",
+        "id": "Rekomendasikan film favorit kamu kepada teman. Sebutkan judul, genre, dan dua alasan untuk menontonnya."
+      },
+      "answerShape": {
+        "da": "Film favorit saya adalah [titel]. Ini film [genre]. [Alasan 1]. [Alasan 2]. Kamu harus nonton!",
+        "en": "Film favorit saya adalah [title]. Ini film [genre]. [Reason 1]. [Reason 2]. Kamu harus nonton!",
+        "id": "Film favorit saya adalah [judul]. Ini film [genre]. [Alasan 1]. [Alasan 2]. Kamu harus nonton!"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Forbind genren med et adjektiv: horor – ?, komedi – ?, drama – ?, aksi – ?",
+        "en": "Connect the genre with an adjective: horor – ?, komedi – ?, drama – ?, aksi – ?",
+        "id": "Hubungkan genre dengan kata sifat: horor – ?, komedi – ?, drama – ?, aksi – ?"
+      },
+      "answerShape": {
+        "da": "Eksempler: horor – menakutkan (skræmmende), komedi – lucu (sjov), drama – menyentuh (rørende), aksi – seru (spændende).",
+        "en": "Examples: horor – menakutkan (scary), komedi – lucu (funny), drama – menyentuh (touching), aksi – seru (exciting).",
+        "id": "Contoh: horor – menakutkan, komedi – lucu, drama – menyentuh, aksi – seru."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogscenen igen. Hvilken genre er filmen Eko anbefaler? Hvad synes Sari om horrorfilm?",
+        "en": "Listen to the dialogue scene again. What genre is the film Eko recommends? What does Sari think about horror films?",
+        "id": "Dengarkan dialog sekali lagi. Genre apa film yang direkomendasikan Eko? Apa pendapat Sari tentang film horor?"
+      },
+      "answerShape": {
+        "da": "Film Eko anbefaler er drama. Sari kan ikke lide horrorfilm (Sari tidak suka film horor).",
+        "en": "The film Eko recommends is drama. Sari does not like horror films (Sari tidak suka film horor).",
+        "id": "Film yang Eko rekomendasikan adalah drama. Sari tidak suka film horor."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme08-lesson04-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Film og Bøger: At anbefale på indonesisk",
+        "en": "Films and Books: Recommending in Indonesian",
+        "id": "Film dan Buku: Merekomendasikan dalam bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

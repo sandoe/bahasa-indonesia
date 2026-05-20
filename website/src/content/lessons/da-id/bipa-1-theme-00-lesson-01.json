@@ -1,0 +1,240 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 0,
+  "slug": "lesson-00",
+  "durationMinutes": 30,
+  "title": {
+    "da": "Alfabetet & Lyden: Din Første Nøgle",
+    "en": "The Alphabet & The Sound: Your First Key",
+    "id": "Abjad & Bunyi: Kunci Pertama Anda"
+  },
+  "summary": {
+    "da": "Indonesisk er et fonetisk sprog – man siger det, man skriver. Her lærer du fundamentet, så du kan læse ethvert ord korrekt fra dag ét.",
+    "en": "Indonesian is a phonetic language – you say what you write. Here you learn the foundation so you can read any word correctly from day one.",
+    "id": "Bahasa Indonesia adalah bahasa fonetik – Anda mengucapkan apa yang Anda tulis. Di sini Anda mempelajari fondasi sehingga Anda dapat membaca setiap kata dengan benar sejak hari pertama."
+  },
+  "objectives": [
+    {
+      "da": "Mestre udtalen af de 5 rene vokaler (a, e, i, o, u).",
+      "en": "Master the pronunciation of the 5 pure vowels (a, e, i, o, u).",
+      "id": "Menguasai pelafalan 5 huruf vokal murni (a, e, i, o, u)."
+    },
+    {
+      "da": "Genkende og udtale 'farlige' konsonanter som C, J, G og R.",
+      "en": "Recognize and pronounce 'dangerous' consonants like C, J, G, and R.",
+      "id": "Mengenali dan melafalkan konsonan 'berbahaya' seperti C, J, G, dan R."
+    },
+    {
+      "da": "Forstå den fonetiske 'røde tråd' i det indonesiske sprog.",
+      "en": "Understand the phonetic 'red thread' in the Indonesian language.",
+      "id": "Memahami 'benang merah' fonetik dalam bahasa Indonesia."
+    }
+  ],
+  "unit": {
+    "slug": "theme-00",
+    "order": 0,
+    "title": {
+      "da": "Tema 0: Fundamentet",
+      "en": "Theme 0: The Foundation",
+      "id": "Tema 0: Dasar"
+    },
+    "summary": {
+      "da": "Sprogets byggesten: Bogstaver, lyde og de første regler.",
+      "en": "The building blocks of the language: Letters, sounds, and the first rules.",
+      "id": "Fondasi bahasa: Huruf, bunyi, dan aturan pertama."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Start med at skrive ordet 'COKELAT' på tavlen. Lad eleverne gætte udtalen før du afslører 'tj'-lyden.",
+        "en": "Start by writing the word 'COKELAT' on the board. Let students guess the pronunciation before revealing the 'ch' sound.",
+        "id": "Mulailah dengan menulis kata 'COKELAT' di papan tulis. Biarkan siswa menebak pelafalannya sebelum mengungkapkan bunyi 'tj'."
+      },
+      "flow": [
+        {
+          "da": "Gennemgå vokaltrappen (A-E-I-O-U) og vis hvordan de aldrig ændrer lyd ligesom på dansk.",
+          "en": "Go through the vowel ladder (A-E-I-O-U) and show how they never change sound like in some other languages.",
+          "id": "Lalui tangga vokal (A-E-I-O-U) dan tunjukkan bagaimana bunyinya tidak pernah berubah."
+        },
+        {
+          "da": "Fokuser på 'R' – den skal rulle på tungespidsen (som i spansk eller italiensk).",
+          "en": "Focus on 'R' – it must roll on the tip of the tongue (like in Spanish or Italian).",
+          "id": "Fokus pada 'R' – harus bergetar di ujung lidah (seperti dalam bahasa Spanyol atau Italia)."
+        },
+        {
+          "da": "Demonstrer 'NG' lyden i slutningen af ord – det er én samlet lyd.",
+          "en": "Demonstrate the 'NG' sound at the end of words – it is one single sound.",
+          "id": "Demonstrasikan bunyi 'NG' di akhir kata – itu adalah satu bunyi tunggal."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Husk at rose eleverne for deres udtale – indonesisk udtale er meget logisk for danskere.",
+          "en": "Remember to praise the students for their pronunciation – Indonesian pronunciation is very logical for many learners.",
+          "id": "Ingatlah untuk memuji siswa atas pelafalan mereka – pelafalan bahasa Indonesia sangat logis bagi banyak pelajar."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Sig alfabetet højt for dig selv. Læg mærke til at 'E' kan have to lyde (som i 'be' eller 'bø').",
+          "en": "Say the alphabet aloud to yourself. Notice that 'E' can have two sounds (like in 'bet' or 'her').",
+          "id": "Ucapkan abjad dengan keras untuk diri sendiri. Perhatikan bahwa 'E' dapat memiliki dua bunyi."
+        },
+        {
+          "da": "Træn bogstavet 'C' ved at sige 'Tj-tj-tj' før du siger ordet 'Cermin'.",
+          "en": "Practice the letter 'C' by saying 'Ch-ch-ch' before saying the word 'Cermin'.",
+          "id": "Latih huruf 'C' dengan mengucapkan 'Tj-tj-tj' sebelum mengucapkan kata 'Cermin'."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du stave dit eget navn med indonesiske bogstav-lyde?",
+          "en": "Can you spell your own name using Indonesian letter sounds?",
+          "id": "Bisakah Anda mengeja nama Anda sendiri menggunakan bunyi huruf Indonesia?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Bu Sari (Lærer)",
+      "source": "Selamat pagi! Lad os starte med alfabetet. Mads, hvordan udtaler man 'C'?",
+      "target": "Selamat pagi! Mari kita mulai dengan abjad. Mads, bagaimana melafalkan 'C'?"
+    },
+    {
+      "speaker": "Mads (Elev)",
+      "source": "Det er ligesom 'S' eller 'K', ikke?",
+      "target": "Itu seperti 'S' atau 'K', kan?"
+    },
+    {
+      "speaker": "Bu Sari (Lærer)",
+      "source": "Nej, i Indonesien er 'C' altid 'Tj' – ligesom i 'Tjekkiet'. Prøv at sige 'Cokelat'.",
+      "target": "Bukan, di Indonesia 'C' selalu 'Tj' – seperti dalam 'Tjekkiet'. Coba katakan 'Cokelat'."
+    },
+    {
+      "speaker": "Mads (Elev)",
+      "source": "Tj-okelat! Det lyder lækkert.",
+      "target": "Tj-okelat! Kedengarannya enak."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Chokolade",
+      "target": "Cokelat",
+      "note": {
+        "da": "C er altid en 'tj'-lyd. Aldrig 's' eller 'k'.",
+        "en": "C is always a 'ch' sound. Never 's' or 'k'.",
+        "id": "C selalu bunyi 'tj'. Tidak pernah 's' atau 'k'."
+      }
+    },
+    {
+      "source": "Vej / Gade",
+      "target": "Jalan",
+      "note": {
+        "da": "J udtales som på engelsk 'Jam' eller 'Junior'.",
+        "en": "J is pronounced like in English 'Jam' or 'Junior'.",
+        "id": "J dilafalkan seperti dalam bahasa Inggris 'Jam' atau 'Junior'."
+      }
+    },
+    {
+      "source": "Lærer",
+      "target": "Guru",
+      "note": {
+        "da": "G er altid hårdt (som i 'Gave'), aldrig blødt.",
+        "en": "G is always hard (like in 'Go'), never soft.",
+        "id": "G selalu keras (seperti dalam 'Gave'), tidak pernah lembut."
+      }
+    },
+    {
+      "source": "Tak",
+      "target": "Terima kasih",
+      "note": {
+        "da": "Læg mærke til det rullende 'R' i Terima.",
+        "en": "Notice the rolling 'R' in Terima.",
+        "id": "Perhatikan huruf 'R' yang bergetar dalam Terima."
+      }
+    },
+    {
+      "source": "Vand",
+      "target": "Air",
+      "note": {
+        "da": "Udtal begge vokaler tydeligt: A-ir.",
+        "en": "Pronounce both vowels clearly: A-ir.",
+        "id": "Lafalkan kedua vokal dengan jelas: A-ir."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "De 5 Rene Vokaler",
+      "explanation": {
+        "da": "Indonesiske vokaler er korte og præcise. A (ah), E (eh/uh), I (ee), O (oh), U (oo). De ændrer sig aldrig baseret på nabobogstaver.",
+        "en": "Indonesian vowels are short and precise. A (ah), E (eh/uh), I (ee), O (oh), U (oo). They never change based on neighboring letters.",
+        "id": "Vokal bahasa Indonesia pendek dan tepat. A (ah), E (eh/uh), I (ee), O (oh), U (oo). Mereka tidak pernah berubah berdasarkan huruf tetangga."
+      },
+      "examples": [
+        { "source": "Awan (Sky)", "target": "Ah-wan" },
+        { "source": "Ikan (Fisk)", "target": "Ee-kan" },
+        { "source": "Ular (Slange)", "target": "Oo-lar" }
+      ]
+    },
+    {
+      "pattern": "Det Rullende R",
+      "explanation": {
+        "da": "I Indonesien 'sover' tungen ikke bagerst i munden. R skal rulle aktivt mod fortænderne.",
+        "en": "In Indonesia, the tongue doesn't 'sleep' in the back of the mouth. R must roll actively against the front teeth.",
+        "id": "Di Indonesia, lidah tidak 'tidur' di bagian belakang mulut. R harus bergetar aktif di gigi depan."
+      },
+      "examples": [
+        { "source": "Raja (Konge)", "target": "Rrr-aja" },
+        { "source": "Roti (Brød)", "target": "Rrr-oti" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig ordet 'Cermin' (Spejl) 5 gange hurtigt. Husk 'tj'-lyden!",
+        "en": "Say the word 'Cermin' (Mirror) 5 times fast. Remember the 'ch' sound!",
+        "id": "Ucapkan kata 'Cermin' 5 kali dengan cepat. Ingat bunyi 'tj'!"
+      },
+      "answerShape": {
+        "da": "Udtaleøvelse",
+        "en": "Pronunciation exercise",
+        "id": "Latihan pelafalan"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Stav ordet 'J-A-K-A-R-T-A' med indonesiske lyde.",
+        "en": "Spell the word 'J-A-K-A-R-T-A' using Indonesian sounds.",
+        "id": "Eja kata 'J-A-K-A-R-T-A' dengan bunyi Indonesia."
+      },
+      "answerShape": {
+        "da": "Staveøvelse",
+        "en": "Spelling exercise",
+        "id": "Latihan mengeja"
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilket bogstav synes du er sværest at udtale? Hvorfor?",
+        "en": "Which letter do you find hardest to pronounce? Why?",
+        "id": "Huruf mana yang menurut Anda paling sulit dilafalkan? Mengapa?"
+      },
+      "answerShape": {
+        "da": "Refleksion",
+        "en": "Reflection",
+        "id": "Refleksi"
+      }
+    }
+  ],
+  "media": []
+}

@@ -1,0 +1,301 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 7,
+  "slug": "lesson-07",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Kemarin, Hari Ini, Besok — I går, i dag, i morgen",
+    "en": "Kemarin, Hari Ini, Besok — Yesterday, Today, Tomorrow",
+    "id": "Kemarin, Hari Ini, Besok"
+  },
+  "summary": {
+    "da": "Lær tidsord for fortid, nutid og fremtid på indonesisk. Indonesisk bruger ikke verbumsbøjning — tidsord erstatter tempusmarkørerne.",
+    "en": "Learn time words for past, present, and future in Indonesian. Indonesian does not conjugate verbs — time words replace tense markers.",
+    "id": "Pelajari kata waktu untuk masa lalu, kini, dan depan dalam bahasa Indonesia. Bahasa Indonesia tidak menggunakan konjugasi kata kerja — kata waktu menggantikan penanda kala."
+  },
+  "objectives": [
+    {
+      "da": "Bruge kemarin, hari ini og besok korrekt i sætninger",
+      "en": "Use kemarin, hari ini, and besok correctly in sentences",
+      "id": "Menggunakan kemarin, hari ini, dan besok dengan benar dalam kalimat"
+    },
+    {
+      "da": "Anvende minggu lalu/depan og tahun lalu/depan til at beskrive en bredere tidsramme",
+      "en": "Use minggu lalu/depan and tahun lalu/depan to describe a broader time frame",
+      "id": "Menggunakan minggu lalu/depan dan tahun lalu/depan untuk menggambarkan rentang waktu lebih luas"
+    },
+    {
+      "da": "Forklare, at indonesisk ikke bøjer verber i tid — tidsord klarer det",
+      "en": "Explain that Indonesian does not conjugate verbs for tense — time words handle it",
+      "id": "Menjelaskan bahwa bahasa Indonesia tidak mengonjugasikan kata kerja untuk kala — kata waktu yang bertugas"
+    }
+  ],
+  "unit": {
+    "slug": "theme-06",
+    "order": 6,
+    "title": {
+      "da": "Tema 6: Tid & Dato",
+      "en": "Theme 6: Time & Date",
+      "id": "Tema 6: Waktu & Tanggal"
+    },
+    "summary": {
+      "da": "Klokkeslæt, ugedage, måneder og datoer.",
+      "en": "Clock time, days, months, and dates.",
+      "id": "Waktu, hari, bulan, dan tanggal."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skriv på tavlen: 'Jeg spiser / Jeg spiste / Jeg vil spise' — vis tempusbøjning på dansk. Spørg derefter: 'Hvad nu, hvis verbet aldrig ændrer sig?' Introducer det indonesiske system.",
+        "en": "Write on the board: 'Jeg spiser / Jeg spiste / Jeg vil spise' — show tense conjugation in Danish. Then ask: 'What if the verb never changes?' Introduce the Indonesian system.",
+        "id": "Tulis di papan: 'Jeg spiser / Jeg spiste / Jeg vil spise' — tunjukkan konjugasi kala dalam bahasa Denmark. Lalu tanya: 'Bagaimana jika kata kerja tidak pernah berubah?' Perkenalkan sistem bahasa Indonesia."
+      },
+      "flow": [
+        {
+          "da": "Præsenter tidsord-tabellen: kemarin, hari ini, besok, minggu lalu, minggu depan, tahun lalu, tahun depan. Øv udtalen.",
+          "en": "Present the time-word table: kemarin, hari ini, besok, minggu lalu, minggu depan, tahun lalu, tahun depan. Practise pronunciation.",
+          "id": "Sajikan tabel kata waktu: kemarin, hari ini, besok, minggu lalu, minggu depan, tahun lalu, tahun depan. Latih pengucapan."
+        },
+        {
+          "da": "Vis med eksempler, at verbet 'pergi' (at gå) forbliver uændret: Kemarin saya pergi. / Hari ini saya pergi. / Besok saya pergi.",
+          "en": "Show with examples that the verb 'pergi' (to go) stays unchanged: Kemarin saya pergi. / Hari ini saya pergi. / Besok saya pergi.",
+          "id": "Tunjukkan dengan contoh bahwa kata kerja 'pergi' tidak berubah: Kemarin saya pergi. / Hari ini saya pergi. / Besok saya pergi."
+        },
+        {
+          "da": "Rollespil: fortæl en studiekammerat om din weekend — hvad skete der i går, hvad sker der i dag, hvad sker der i morgen?",
+          "en": "Role-play: tell a study partner about your weekend — what happened yesterday, what is happening today, what is happening tomorrow?",
+          "id": "Bermain peran: ceritakan tentang akhir pekanmu kepada teman — apa yang terjadi kemarin, hari ini, dan besok?"
+        }
+      ],
+      "notes": [
+        {
+          "da": "Det kan frigøre elever at vide, at de ikke behøver bekymre sig om verbumsbøjning! Tidsordene gør alt arbejdet.",
+          "en": "Knowing they don't need to worry about verb conjugation can be liberating for students! The time words do all the work.",
+          "id": "Mengetahui bahwa mereka tidak perlu khawatir tentang konjugasi kata kerja bisa membebaskan siswa! Kata waktu yang bekerja."
+        },
+        {
+          "da": "Uformelt har indonesisk 'sudah' (allerede/perfektum) og 'akan' (vil/futurum) som aspektmarkører — men disse introduceres i BIPA 2.",
+          "en": "Informally, Indonesian has 'sudah' (already/perfective) and 'akan' (will/future) as aspect markers — but these are introduced in BIPA 2.",
+          "id": "Secara informal, bahasa Indonesia memiliki 'sudah' (aspek perfektif) dan 'akan' (aspek futur) — tetapi ini diperkenalkan di BIPA 2."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lav tre sætninger om dig selv: én med kemarin, én med hari ini, én med besok — med samme verbum.",
+          "en": "Make three sentences about yourself: one with kemarin, one with hari ini, one with besok — using the same verb.",
+          "id": "Buat tiga kalimat tentang dirimu: satu dengan kemarin, satu dengan hari ini, satu dengan besok — menggunakan kata kerja yang sama."
+        },
+        {
+          "da": "Lyt til dialogen og identificér alle tidsord. Hvad sker der i fortid, nutid og fremtid?",
+          "en": "Listen to the dialogue and identify all time words. What happens in the past, present, and future?",
+          "id": "Dengarkan dialog dan identifikasi semua kata waktu. Apa yang terjadi di masa lalu, kini, dan depan?"
+        },
+        {
+          "da": "Skriv en kort besked om din weekend ved hjælp af mindst fire tidsord.",
+          "en": "Write a short message about your weekend using at least four time words.",
+          "id": "Tulis pesan singkat tentang akhir pekanmu menggunakan setidaknya empat kata waktu."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Hvad er det indonesiske ord for 'i går', 'i dag' og 'i morgen'?",
+          "en": "What are the Indonesian words for 'yesterday', 'today', and 'tomorrow'?",
+          "id": "Apa kata dalam bahasa Indonesia untuk 'kemarin', 'hari ini', dan 'besok'?"
+        },
+        {
+          "da": "Lav en sætning om noget du gjorde 'minggu lalu' og noget du planlægger 'minggu depan'.",
+          "en": "Make a sentence about something you did 'minggu lalu' and something you plan for 'minggu depan'.",
+          "id": "Buat kalimat tentang sesuatu yang kamu lakukan 'minggu lalu' dan sesuatu yang kamu rencanakan 'minggu depan'."
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Wati",
+      "source": "Akhir pekan kemarin kamu ngapain aja?",
+      "target": "Hvad lavede du i sidste weekend?"
+    },
+    {
+      "speaker": "Bagus",
+      "source": "Kemarin saya pergi ke pantai bersama keluarga. Seru sekali!",
+      "target": "I går tog jeg til stranden med familien. Det var rigtig sjovt!"
+    },
+    {
+      "speaker": "Wati",
+      "source": "Asyik! Hari ini ada rencana?",
+      "target": "Fedt! Har du planer i dag?"
+    },
+    {
+      "speaker": "Bagus",
+      "source": "Hari ini saya belajar bahasa Denmark di rumah. Besok ada kelas.",
+      "target": "I dag studerer jeg dansk hjemme. I morgen er der undervisning."
+    },
+    {
+      "speaker": "Wati",
+      "source": "Minggu depan kamu mau ke mana?",
+      "target": "Hvor skal du hen næste uge?"
+    },
+    {
+      "speaker": "Bagus",
+      "source": "Minggu depan saya mau kunjungi teman di Bandung. Tidak bisa minggu ini.",
+      "target": "Næste uge vil jeg besøge en ven i Bandung. Det kan jeg ikke denne uge."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "kemarin",
+      "target": "i går / yesterday",
+      "note": {
+        "da": "Tidsord der placeres i starten af sætningen eller efter subjektet",
+        "en": "Time word placed at the start of the sentence or after the subject",
+        "id": "Kata waktu yang ditempatkan di awal kalimat atau setelah subjek"
+      }
+    },
+    {
+      "source": "hari ini",
+      "target": "i dag / today",
+      "note": {
+        "da": "Ordret: 'denne dag'. Kan placeres i begyndelsen eller slutningen af sætningen.",
+        "en": "Literally: 'this day'. Can be placed at the beginning or end of the sentence.",
+        "id": "Harfiah: 'hari ini'. Bisa ditempatkan di awal atau akhir kalimat."
+      }
+    },
+    {
+      "source": "besok",
+      "target": "i morgen / tomorrow",
+      "note": {
+        "da": "Overmorgen: 'besok lusa' eller 'lusa'",
+        "en": "The day after tomorrow: 'besok lusa' or 'lusa'",
+        "id": "Lusa berarti besok lusa (dua hari dari sekarang)"
+      }
+    },
+    {
+      "source": "minggu lalu",
+      "target": "i sidste uge / last week",
+      "note": {
+        "da": "'Lalu' = forbi/passeret; bruges med uge, måned og år",
+        "en": "'Lalu' = past; used with week, month, and year",
+        "id": "'Lalu' = lampau; digunakan dengan minggu, bulan, dan tahun"
+      }
+    },
+    {
+      "source": "minggu depan",
+      "target": "næste uge / next week",
+      "note": {
+        "da": "'Depan' = foran/næste; bruges med uge, måned og år",
+        "en": "'Depan' = front/next; used with week, month, and year",
+        "id": "'Depan' = depan/berikutnya; digunakan dengan minggu, bulan, dan tahun"
+      }
+    },
+    {
+      "source": "tahun lalu / tahun depan",
+      "target": "i fjor / næste år — last year / next year",
+      "note": {
+        "da": "Samme mønster som minggu lalu/depan",
+        "en": "Same pattern as minggu lalu/depan",
+        "id": "Pola yang sama dengan minggu lalu/depan"
+      }
+    },
+    {
+      "source": "akhir pekan",
+      "target": "weekend / weekend",
+      "note": {
+        "da": "Synonym: 'akhir minggu'. Ordret: 'ugens afslutning'",
+        "en": "Synonym: 'akhir minggu'. Literally: 'end of the week'",
+        "id": "Sinonim: 'akhir minggu'. Harfiah: 'akhir minggu'"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Tidsord erstatter tempus — verbet bøjes ikke",
+      "explanation": {
+        "da": "I indonesisk ændres verbet ikke afhængigt af tid. I stedet angiver et tidsord (kemarin, hari ini, besok osv.) hvornår handlingen sker. Verbet forbliver altid i grundform.",
+        "en": "In Indonesian, the verb does not change depending on tense. Instead, a time word (kemarin, hari ini, besok, etc.) indicates when the action happens. The verb always stays in its base form.",
+        "id": "Dalam bahasa Indonesia, kata kerja tidak berubah sesuai kala. Sebaliknya, kata waktu (kemarin, hari ini, besok, dll.) menunjukkan kapan tindakan terjadi. Kata kerja selalu dalam bentuk dasar."
+      },
+      "examples": [
+        {
+          "source": "Kemarin saya makan nasi goreng.",
+          "target": "I går spiste jeg nasi goreng. / Yesterday I ate nasi goreng."
+        },
+        {
+          "source": "Hari ini saya makan nasi goreng.",
+          "target": "I dag spiser jeg nasi goreng. / Today I eat nasi goreng."
+        },
+        {
+          "source": "Besok saya makan nasi goreng.",
+          "target": "I morgen spiser jeg nasi goreng. / Tomorrow I will eat nasi goreng."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Fortæl to til tre ting, du lavede i går (kemarin), og én ting du planlægger at gøre i morgen (besok).",
+        "en": "Tell two to three things you did yesterday (kemarin) and one thing you plan to do tomorrow (besok).",
+        "id": "Ceritakan dua hingga tiga hal yang kamu lakukan kemarin dan satu hal yang kamu rencanakan untuk besok."
+      },
+      "answerShape": {
+        "da": "Kemarin saya [aktivitet]. Besok saya [aktivitet].",
+        "en": "Kemarin saya [activity]. Besok saya [activity].",
+        "id": "Kemarin saya [aktivitas]. Besok saya [aktivitas]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en kort besked til en ven på indonesisk: fortæl hvad du lavede i går, hvad du laver i dag, og hvad du planlægger næste uge.",
+        "en": "Write a short message to a friend in Indonesian: say what you did yesterday, what you are doing today, and what you plan for next week.",
+        "id": "Tulis pesan singkat untuk teman dalam bahasa Indonesia: ceritakan apa yang kamu lakukan kemarin, hari ini, dan minggu depan."
+      },
+      "answerShape": {
+        "da": "Kemarin saya... Hari ini saya... Minggu depan saya mau...",
+        "en": "Kemarin saya... Hari ini saya... Minggu depan saya mau...",
+        "id": "Kemarin saya... Hari ini saya... Minggu depan saya mau..."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad er den vigtigste grammatiske forskel mellem dansk og indonesisk, hvad angår tid? Skriv én sætning.",
+        "en": "What is the most important grammatical difference between Danish and Indonesian regarding time? Write one sentence.",
+        "id": "Apa perbedaan tata bahasa terpenting antara bahasa Denmark dan Indonesia dalam hal kala? Tulis satu kalimat."
+      },
+      "answerShape": {
+        "da": "Dansk bøjer verber i tid; indonesisk bruger tidsord og bøjer ikke verbet.",
+        "en": "Danish conjugates verbs for tense; Indonesian uses time words and does not conjugate the verb.",
+        "id": "Bahasa Denmark mengonjugasikan kata kerja untuk kala; bahasa Indonesia menggunakan kata waktu dan tidak mengonjugasikan kata kerja."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme06-lesson07-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "I går, i dag, i morgen på indonesisk — Kemarin, Hari Ini, Besok",
+        "en": "Yesterday, Today, Tomorrow in Indonesian — Kemarin, Hari Ini, Besok",
+        "id": "Kemarin, Hari Ini, Besok — Kata Waktu dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

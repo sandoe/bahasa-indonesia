@@ -1,0 +1,52 @@
+{
+  "slug": "bipa-5",
+  "order": 5,
+  "cefr": "B2",
+  "stage": {
+    "da": "Øvre intermediate",
+    "en": "Upper intermediate",
+    "id": "Menengah atas"
+  },
+  "title": {
+    "da": "BIPA 5 · Analyse og argument",
+    "en": "BIPA 5 · Analysis and argument",
+    "id": "BIPA 5 · Analisis dan argumen"
+  },
+  "summary": {
+    "da": "Længere tekster, positioner, kulturperspektiver og struktureret argumentation.",
+    "en": "Longer texts, positions, cultural perspectives, and structured argumentation.",
+    "id": "Teks yang lebih panjang, posisi, perspektif budaya, dan argumentasi yang terstruktur."
+  },
+  "focus": [
+    {
+      "da": "Synspunkter",
+      "en": "Viewpoints",
+      "id": "Sudut pandang"
+    },
+    {
+      "da": "Sammenligning",
+      "en": "Comparison",
+      "id": "Perbandingan"
+    },
+    {
+      "da": "Løsningsforslag",
+      "en": "Proposals",
+      "id": "Usulan solusi"
+    }
+  ],
+  "teacherPositioning": {
+    "da": "Niveauet er egnet til workshop, debat og peer-feedback.",
+    "en": "This level suits workshops, debate, and peer feedback.",
+    "id": "Level ini cocok untuk lokakarya, debat, dan umpan balik teman sejawat."
+  },
+  "selfStudyPositioning": {
+    "da": "Selvstudie skal ledsages af tydelige kriterier og modelbesvarelser.",
+    "en": "Self-study should be supported by clear criteria and model answers.",
+    "id": "Belajar mandiri sebaiknya didukung kriteria yang jelas dan jawaban model."
+  },
+  "supportedPairs": ["da-id", "id-da", "en-id", "id-en"],
+  "palette": {
+    "accent": "#7f63ff",
+    "glow": "#d6cbff"
+  }
+}

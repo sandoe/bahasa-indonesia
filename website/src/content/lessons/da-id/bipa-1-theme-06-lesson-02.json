@@ -1,0 +1,310 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Setengah og Seperempat — Halv og kvarter",
+    "en": "Setengah and Seperempat — Half Past and Quarter",
+    "id": "Setengah dan Seperempat"
+  },
+  "summary": {
+    "da": "Forstå den indonesiske halvtimestruktur, der er modsat den danske: 'jam setengah dua' betyder 1:30, ikke 2:30. Lær også 'seperempat' (kvarter over).",
+    "en": "Understand the Indonesian half-hour structure, which is opposite to Danish: 'jam setengah dua' means 1:30, not 2:30. Also learn 'seperempat' (quarter past).",
+    "id": "Pahami struktur setengah jam dalam bahasa Indonesia: 'jam setengah dua' berarti 1:30, bukan 2:30. Pelajari juga 'seperempat'."
+  },
+  "objectives": [
+    {
+      "da": "Forklare, hvorfor 'jam setengah dua' betyder 1:30 og ikke 2:30",
+      "en": "Explain why 'jam setengah dua' means 1:30 and not 2:30",
+      "id": "Menjelaskan mengapa 'jam setengah dua' berarti 1:30 bukan 2:30"
+    },
+    {
+      "da": "Bruge 'seperempat' og 'tiga perempat' korrekt",
+      "en": "Use 'seperempat' and 'tiga perempat' correctly",
+      "id": "Menggunakan 'seperempat' dan 'tiga perempat' dengan benar"
+    },
+    {
+      "da": "Undgå den typiske fejl i halvtimesudtryk",
+      "en": "Avoid the typical mistake with half-hour expressions",
+      "id": "Menghindari kesalahan umum dalam ekspresi setengah jam"
+    }
+  ],
+  "unit": {
+    "slug": "theme-06",
+    "order": 6,
+    "title": {
+      "da": "Tema 6: Tid & Dato",
+      "en": "Theme 6: Time & Date",
+      "id": "Tema 6: Waktu & Tanggal"
+    },
+    "summary": {
+      "da": "Klokkeslæt, ugedage, måneder og datoer.",
+      "en": "Clock time, days, months, and dates.",
+      "id": "Waktu, hari, bulan, dan tanggal."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis et ur med viserne på halv to. Spørg klassen: 'Hvad viser uret?' Afslør derefter den indonesiske forvirring: begyndere siger ofte 'jam setengah dua' og tror, det er 2:30.",
+        "en": "Show a clock with the hands at 1:30. Ask the class: 'What does the clock show?' Then reveal the Indonesian confusion: beginners often say 'jam setengah dua' and think it means 2:30.",
+        "id": "Tunjukkan jam dengan jarum di posisi 1:30. Tanya kelas: 'Jam berapa ini?' Lalu ungkap kebingungan umum: pemula sering mengira 'jam setengah dua' berarti 2:30."
+      },
+      "flow": [
+        {
+          "da": "Forklar logikken bag 'setengah': det betyder 'halvvejs til det næste time'. Jam setengah dua = halvvejs til klokken to = 1:30. Brug et urkors som visual.",
+          "en": "Explain the logic behind 'setengah': it means 'halfway to the next hour'. Jam setengah dua = halfway to two o'clock = 1:30. Use a clock diagram as a visual.",
+          "id": "Jelaskan logika 'setengah': artinya 'setengah jalan menuju jam berikutnya'. Jam setengah dua = setengah jalan menuju jam dua = 1:30. Gunakan diagram jam."
+        },
+        {
+          "da": "Introducer 'seperempat' (kvarter over) og 'tiga perempat' (kvart i). Øv med eksempler: jam tiga seperempat (3:15), jam lima tiga perempat (5:45).",
+          "en": "Introduce 'seperempat' (quarter past) and 'tiga perempat' (quarter to). Practise with examples: jam tiga seperempat (3:15), jam lima tiga perempat (5:45).",
+          "id": "Perkenalkan 'seperempat' (seperempat lewat) dan 'tiga perempat'. Latih dengan contoh: jam tiga seperempat (3:15), jam lima tiga perempat (5:45)."
+        },
+        {
+          "da": "Rollespil dialogen: én elev fortæller et forkert tidspunkt på grund af setengah-forvirring; den anden korrigerer det.",
+          "en": "Role-play the dialogue: one student states the wrong time due to setengah confusion; the other corrects it.",
+          "id": "Mainkan peran dialog: satu siswa menyatakan waktu yang salah karena kebingungan setengah; yang lain mengoreksinya."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Logikken ligner nederlandsk 'half twee' (halv to = 1:30). Det kan hjælpe elever, der kender nederlandsk.",
+          "en": "The logic resembles Dutch 'half twee' (half two = 1:30). This can help students who know Dutch.",
+          "id": "Logikanya mirip dengan bahasa Belanda 'half twee' (setengah dua = 1:30). Ini bisa membantu siswa yang mengenal bahasa Belanda."
+        },
+        {
+          "da": "Fremhæv dialogen som en realistisk situation: folk er kommet for sent til møder på grund af denne fejl!",
+          "en": "Highlight the dialogue as a realistic situation: people have actually been late for meetings because of this mistake!",
+          "id": "Soroti dialog sebagai situasi nyata: orang pernah terlambat ke pertemuan karena kesalahan ini!"
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Tegn en urvisning for hvert af disse: jam setengah empat, jam setengah sebelas, jam delapan seperempat.",
+          "en": "Draw a clock face for each of these: jam setengah empat, jam setengah sebelas, jam delapan seperempat.",
+          "id": "Gambar tampilan jam untuk masing-masing: jam setengah empat, jam setengah sebelas, jam delapan seperempat."
+        },
+        {
+          "da": "Lyt til dialogen og find det øjeblik, hvor forvirringen opstår. Hvad var den korrekte tid?",
+          "en": "Listen to the dialogue and find the moment where the confusion occurs. What was the correct time?",
+          "id": "Dengarkan dialog dan temukan momen kebingungan terjadi. Apa waktu yang benar?"
+        },
+        {
+          "da": "Skriv tre klokkeslæt med setengah og to med seperempat.",
+          "en": "Write three times using setengah and two using seperempat.",
+          "id": "Tuliskan tiga waktu menggunakan setengah dan dua menggunakan seperempat."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Forklar med dine egne ord: hvorfor betyder 'jam setengah tiga' 2:30 og ikke 3:30?",
+          "en": "Explain in your own words: why does 'jam setengah tiga' mean 2:30 and not 3:30?",
+          "id": "Jelaskan dengan kata-katamu sendiri: mengapa 'jam setengah tiga' berarti 2:30 bukan 3:30?"
+        },
+        {
+          "da": "Hvad er 'jam setengah delapan' og 'jam sembilan seperempat' på dansk?",
+          "en": "What are 'jam setengah delapan' and 'jam sembilan seperempat' in Danish?",
+          "id": "Apa arti 'jam setengah delapan' dan 'jam sembilan seperempat' dalam bahasa Denmark?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Rina",
+      "source": "Maaf, kamu terlambat! Kita janjian jam berapa?",
+      "target": "Undskyld, du er forsinket! Hvad aftalte vi klokken?"
+    },
+    {
+      "speaker": "Doni",
+      "source": "Kita janjian jam setengah tiga, kan? Sekarang baru jam dua lebih.",
+      "target": "Vi aftalte klokken halv tre, ikke? Nu er det kun lidt over to."
+    },
+    {
+      "speaker": "Rina",
+      "source": "Tidak! Jam setengah tiga itu jam dua tiga puluh, bukan jam tiga tiga puluh!",
+      "target": "Nej! Jam setengah tiga er 2:30, ikke 3:30!"
+    },
+    {
+      "speaker": "Doni",
+      "source": "Oh! Saya kira jam setengah tiga itu tiga puluh menit setelah jam tiga.",
+      "target": "Åh! Jeg troede, jam setengah tiga betød tredive minutter efter klokken tre."
+    },
+    {
+      "speaker": "Rina",
+      "source": "Tidak. Setengah tiga artinya setengah jalan menuju jam tiga.",
+      "target": "Nej. Setengah tiga betyder halvvejs til klokken tre."
+    },
+    {
+      "speaker": "Doni",
+      "source": "Saya mengerti sekarang. Maaf sekali, Rina!",
+      "target": "Jeg forstår nu. Undskyld meget, Rina!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "setengah",
+      "target": "halv / half",
+      "note": {
+        "da": "'Setengah' foran et tal betyder halvvejs TIL det tal: setengah empat = 3:30",
+        "en": "'Setengah' before a number means halfway TO that number: setengah empat = 3:30",
+        "id": "'Setengah' sebelum angka berarti setengah jalan MENUJU angka itu: setengah empat = 3:30"
+      }
+    },
+    {
+      "source": "seperempat",
+      "target": "kvarter over / quarter past",
+      "note": {
+        "da": "'Seperempat' bruges efter timetallet: jam tujuh seperempat = 7:15",
+        "en": "'Seperempat' comes after the hour number: jam tujuh seperempat = 7:15",
+        "id": "'Seperempat' diletakkan setelah angka jam: jam tujuh seperempat = 7:15"
+      }
+    },
+    {
+      "source": "tiga perempat",
+      "target": "tre kvarter over / three-quarters past",
+      "note": {
+        "da": "Kan også udtrykkes som 'kurang seperempat': jam delapan kurang seperempat = 7:45",
+        "en": "Can also be expressed as 'kurang seperempat': jam delapan kurang seperempat = 7:45",
+        "id": "Bisa juga dinyatakan sebagai 'kurang seperempat': jam delapan kurang seperempat = 7:45"
+      }
+    },
+    {
+      "source": "janjian",
+      "target": "aftale / appointment / to have arranged",
+      "note": {
+        "da": "Fra 'janji' (løfte/aftale); janjian = gensidigt aftalt møde",
+        "en": "From 'janji' (promise/appointment); janjian = mutually arranged meeting",
+        "id": "Dari kata 'janji'; janjian = pertemuan yang sudah disepakati bersama"
+      }
+    },
+    {
+      "source": "terlambat",
+      "target": "forsinket / late",
+      "note": {
+        "da": "Modsat: 'tepat waktu' (til tiden)",
+        "en": "Opposite: 'tepat waktu' (on time)",
+        "id": "Lawan kata: 'tepat waktu' (tepat waktu)"
+      }
+    },
+    {
+      "source": "saya kira",
+      "target": "jeg troede / I thought",
+      "note": {
+        "da": "Udtryk for en forkert antagelse; nyttigt i korrektionssamtaler",
+        "en": "Expression for a mistaken assumption; useful in correction conversations",
+        "id": "Ekspresi untuk asumsi yang salah; berguna dalam percakapan koreksi"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Jam setengah [N] = [N-1]:30",
+      "explanation": {
+        "da": "I indonesisk peger 'setengah' (halvt) frem mod den næste time, ikke tilbage. 'Jam setengah lima' betyder altså 4:30 — halvvejs til klokken fem.",
+        "en": "In Indonesian, 'setengah' (half) points forward to the next hour, not backward. So 'jam setengah lima' means 4:30 — halfway to five o'clock.",
+        "id": "Dalam bahasa Indonesia, 'setengah' menunjuk ke jam berikutnya. Jadi 'jam setengah lima' berarti 4:30 — setengah jalan menuju jam lima."
+      },
+      "examples": [
+        {
+          "source": "Jam setengah dua.",
+          "target": "Klokken halv to (1:30). / Half past one (1:30)."
+        },
+        {
+          "source": "Jam setengah sepuluh.",
+          "target": "Klokken halv ti (9:30). / Half past nine (9:30)."
+        },
+        {
+          "source": "Jam setengah tujuh.",
+          "target": "Klokken halv syv (6:30). / Half past six (6:30)."
+        }
+      ]
+    },
+    {
+      "pattern": "Jam [N] seperempat = [N]:15",
+      "explanation": {
+        "da": "'Seperempat' (én fjerdedel) tilføjes efter timetallet og angiver et kvarter over. For kvart i bruges 'kurang seperempat'.",
+        "en": "'Seperempat' (one quarter) is added after the hour number and means quarter past. For quarter to, use 'kurang seperempat'.",
+        "id": "'Seperempat' (satu per empat) ditambahkan setelah angka jam dan berarti seperempat lewat. Untuk kurang seperempat, gunakan 'kurang seperempat'."
+      },
+      "examples": [
+        {
+          "source": "Jam empat seperempat.",
+          "target": "Kvart over fire (4:15). / Quarter past four (4:15)."
+        },
+        {
+          "source": "Jam enam kurang seperempat.",
+          "target": "Kvart i seks (5:45). / Quarter to six (5:45)."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Din ven siger 'Kita ketemu jam setengah enam.' Hvad præcis betyder det? Skriv svaret som cifre.",
+        "en": "Your friend says 'Kita ketemu jam setengah enam.' What exactly does that mean? Write the answer as digits.",
+        "id": "Temanmu berkata 'Kita ketemu jam setengah enam.' Apa artinya? Tuliskan jawabannya dalam angka."
+      },
+      "answerShape": {
+        "da": "5:30 — halvvejs til klokken seks.",
+        "en": "5:30 — halfway to six o'clock.",
+        "id": "5:30 — setengah jalan menuju jam enam."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig disse klokkeslæt højt på indonesisk: 2:30, 7:30, 10:15, 8:45.",
+        "en": "Say these times aloud in Indonesian: 2:30, 7:30, 10:15, 8:45.",
+        "id": "Ucapkan waktu-waktu ini dalam bahasa Indonesia: 2:30, 7:30, 10:15, 8:45."
+      },
+      "answerShape": {
+        "da": "Jam setengah tiga / jam setengah delapan / jam sepuluh seperempat / jam sembilan kurang seperempat.",
+        "en": "Jam setengah tiga / jam setengah delapan / jam sepuluh seperempat / jam sembilan kurang seperempat.",
+        "id": "Jam setengah tiga / jam setengah delapan / jam sepuluh seperempat / jam sembilan kurang seperempat."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad er den største forskel mellem dansk og indonesisk, når man siger 'halvt' om klokkeslættet? Skriv én sætning.",
+        "en": "What is the biggest difference between Danish and Indonesian when saying 'half' for clock times? Write one sentence.",
+        "id": "Apa perbedaan terbesar antara bahasa Denmark dan Indonesia saat mengatakan 'setengah' untuk waktu? Tulis satu kalimat."
+      },
+      "answerShape": {
+        "da": "På dansk peger 'halv' bagud (halv tre = 2:30); på indonesisk peger 'setengah' fremad (setengah tiga = 2:30).",
+        "en": "In Danish 'halv' points backward (halv tre = 2:30); in Indonesian 'setengah' points forward (setengah tiga = 2:30).",
+        "id": "Dalam bahasa Denmark 'halv' menunjuk ke belakang; dalam bahasa Indonesia 'setengah' menunjuk ke depan (setengah tiga = 2:30)."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme06-lesson02-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Setengah og Seperempat — Indonesisk halvtimes- og kvartersudtryk",
+        "en": "Setengah and Seperempat — Indonesian Half and Quarter Hours",
+        "id": "Setengah dan Seperempat — Cara Menyebut Waktu dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "bipa-6",
+  "order": 6,
+  "cefr": "C1",
+  "stage": {
+    "da": "Præ-avanceret",
+    "en": "Pre-advanced",
+    "id": "Pra-mahir"
+  },
+  "title": {
+    "da": "BIPA 6 · Nuance og forhandling",
+    "en": "BIPA 6 · Nuance and negotiation",
+    "id": "BIPA 6 · Nuansa dan negosiasi"
+  },
+  "summary": {
+    "da": "Implicit mening, høflig professionel tone og præcis forhandling.",
+    "en": "Implicit meaning, polite professional tone, and precise negotiation.",
+    "id": "Makna implisit, nada profesional yang santun, dan negosiasi yang tepat."
+  },
+  "focus": [
+    {
+      "da": "Akademiske diskussioner",
+      "en": "Academic discussions",
+      "id": "Diskusi akademik"
+    },
+    {
+      "da": "Registerskifte",
+      "en": "Register shifts",
+      "id": "Peralihan register"
+    },
+    {
+      "da": "Forhandling",
+      "en": "Negotiation",
+      "id": "Negosiasi"
+    }
+  ],
+  "teacherPositioning": {
+    "da": "Undervisningen kan få seminarform med tungere cases og mere elevstyring.",
+    "en": "Teaching can move toward seminar format with heavier cases and more learner control.",
+    "id": "Pembelajaran dapat bergerak ke format seminar dengan kasus yang lebih berat dan kontrol siswa yang lebih besar."
+  },
+  "selfStudyPositioning": {
+    "da": "Selvstudie bør senere kobles til AI-feedback og lydoptagelser.",
+    "en": "Self-study should later connect to AI feedback and audio recordings.",
+    "id": "Belajar mandiri nantinya perlu terhubung dengan umpan balik AI dan rekaman audio."
+  },
+  "supportedPairs": ["da-id", "id-da", "en-id", "id-en"],
+  "palette": {
+    "accent": "#1fa177",
+    "glow": "#b8f0d7"
+  }
+}

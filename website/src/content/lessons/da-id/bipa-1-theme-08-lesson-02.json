@@ -1,0 +1,301 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Sport",
+    "en": "Sports",
+    "id": "Olahraga"
+  },
+  "summary": {
+    "da": "Lær at tale om sport og fysiske aktiviteter på indonesisk, og meld dig ind i en sportsklub.",
+    "en": "Learn to talk about sports and physical activities in Indonesian, and join a sports club.",
+    "id": "Belajar berbicara tentang olahraga dan aktivitas fisik dalam bahasa Indonesia, dan bergabung dengan klub olahraga."
+  },
+  "objectives": [
+    {
+      "da": "Nævne mindst seks sportsgrene på indonesisk.",
+      "en": "Name at least six sports in Indonesian.",
+      "id": "Menyebutkan minimal enam cabang olahraga dalam bahasa Indonesia."
+    },
+    {
+      "da": "Skelne mellem 'saya suka + verbum' og 'saya suka + navneord' i en sætning.",
+      "en": "Distinguish between 'saya suka + verb' and 'saya suka + noun' in a sentence.",
+      "id": "Membedakan penggunaan 'saya suka + kata kerja' dan 'saya suka + kata benda' dalam kalimat."
+    },
+    {
+      "da": "Gennemføre en kort samtale om at melde sig ind i en sportsklub.",
+      "en": "Carry out a short conversation about joining a sports club.",
+      "id": "Melakukan percakapan singkat tentang bergabung dengan klub olahraga."
+    }
+  ],
+  "unit": {
+    "slug": "theme-08",
+    "order": 8,
+    "title": {
+      "da": "Tema 8: Fritid & Interesser",
+      "en": "Theme 8: Hobbies & Interests",
+      "id": "Tema 8: Hobi & Minat"
+    },
+    "summary": {
+      "da": "Fritidsaktiviteter, sport, kultur og personlige interesser.",
+      "en": "Leisure activities, sports, culture, and personal interests.",
+      "id": "Aktivitas waktu luang, olahraga, budaya, dan minat pribadi."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis billeder af kendte indonesiske sportsudøvere (f.eks. badmintonspillere). Spørg: 'Hvad er dette?' og introducer indonesiske sportsnavne.",
+        "en": "Show pictures of famous Indonesian athletes (e.g. badminton players). Ask: 'What is this?' and introduce Indonesian sports names.",
+        "id": "Tunjukkan gambar atlet Indonesia terkenal (misalnya pemain bulu tangkis). Tanya: 'Ini apa?' dan perkenalkan nama-nama olahraga dalam bahasa Indonesia."
+      },
+      "flow": [
+        {
+          "da": "Introducer sportsordforrådet med bevægelse: sig ordet og vis bevægelsen (svøm, løb, cykl). Eleverne imiterer.",
+          "en": "Introduce sports vocabulary with movement: say the word and mime the action (swim, run, cycle). Students imitate.",
+          "id": "Perkenalkan kosakata olahraga dengan gerakan: ucapkan kata dan peragakan gerakannya (renang, lari, bersepeda). Siswa meniru."
+        },
+        {
+          "da": "Forklar grammatikpunktet: 'saya suka main bola' (verbum) vs. 'saya suka sepak bola' (navneord). Skriv eksempler på tavlen.",
+          "en": "Explain the grammar point: 'saya suka main bola' (verb) vs. 'saya suka sepak bola' (noun). Write examples on the board.",
+          "id": "Jelaskan poin tata bahasa: 'saya suka main bola' (kata kerja) vs. 'saya suka sepak bola' (kata benda). Tulis contoh di papan."
+        },
+        {
+          "da": "Rollespil i par: én er ny member, én er klub-koordinator. Øv dialogen, skift roller.",
+          "en": "Role-play in pairs: one is a new member, one is the club coordinator. Practice the dialogue, then swap roles.",
+          "id": "Role-play berpasangan: satu orang sebagai anggota baru, satu sebagai koordinator klub. Latih dialog, lalu bergantian peran."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Badminton er ekstremt populært i Indonesien – landet har vundet mange olympiske guldmedaljer. Brug dette til at skabe engagement!",
+          "en": "Badminton is extremely popular in Indonesia – the country has won many Olympic gold medals. Use this to create engagement!",
+          "id": "Bulu tangkis sangat populer di Indonesia – negara ini telah memenangkan banyak medali emas olimpiade. Gunakan ini untuk menciptakan keterlibatan!"
+        },
+        {
+          "da": "'Main' bruges foran sportsspil: 'main bola', 'main badminton'. 'Bermain' er den formelle form.",
+          "en": "'Main' is used before sports games: 'main bola', 'main badminton'. 'Bermain' is the formal form.",
+          "id": "'Main' digunakan sebelum olahraga permainan: 'main bola', 'main badminton'. 'Bermain' adalah bentuk formal."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær sportsordforrådet og øv udtalen ved at sige hvert ord højt.",
+          "en": "Learn the sports vocabulary and practice pronunciation by saying each word aloud.",
+          "id": "Pelajari kosakata olahraga dan latih pengucapan dengan mengucapkan setiap kata dengan keras."
+        },
+        {
+          "da": "Læs grammatikforklaringen to gange. Skriv tre sætninger med 'suka + verbum' og tre med 'suka + navneord'.",
+          "en": "Read the grammar explanation twice. Write three sentences with 'suka + verb' and three with 'suka + noun'.",
+          "id": "Baca penjelasan tata bahasa dua kali. Tulis tiga kalimat dengan 'suka + kata kerja' dan tiga dengan 'suka + kata benda'."
+        },
+        {
+          "da": "Øv dialogen højt. Forestil dig, at du melder dig ind i en sportsklub.",
+          "en": "Practice the dialogue aloud. Imagine you are joining a sports club.",
+          "id": "Latih dialog dengan keras. Bayangkan kamu sedang bergabung dengan klub olahraga."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du nævne seks sportsgrene uden hjælp og bruge dem i korrekte sætninger?",
+          "en": "Can you name six sports without help and use them in correct sentences?",
+          "id": "Bisakah kamu menyebutkan enam cabang olahraga tanpa bantuan dan menggunakannya dalam kalimat yang benar?"
+        },
+        {
+          "da": "Kan du forklare, hvornår du bruger 'main' foran en sport?",
+          "en": "Can you explain when to use 'main' before a sport?",
+          "id": "Bisakah kamu menjelaskan kapan menggunakan 'main' sebelum nama olahraga?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Dani",
+      "source": "Undskyld, er dette sportsklubben? Jeg vil gerne melde mig ind.",
+      "target": "Permisi, apakah ini klub olahraga? Saya ingin bergabung."
+    },
+    {
+      "speaker": "Koordinator",
+      "source": "Ja, rigtigt! Velkommen. Hvad slags sport kan du lide?",
+      "target": "Ya, betul! Selamat datang. Kamu suka olahraga apa?"
+    },
+    {
+      "speaker": "Dani",
+      "source": "Jeg kan godt lide at spille badminton og svømme. Du?",
+      "target": "Saya suka main badminton dan berenang. Kalau kamu?"
+    },
+    {
+      "speaker": "Koordinator",
+      "source": "Jeg kan godt lide at løbe og cykle. Vi har badmintontræning hver tirsdag.",
+      "target": "Saya suka berlari dan bersepeda. Kami ada latihan badminton setiap hari Selasa."
+    },
+    {
+      "speaker": "Dani",
+      "source": "Godt! Spiller I også fodbold?",
+      "target": "Bagus! Apa kalian juga main bola?"
+    },
+    {
+      "speaker": "Koordinator",
+      "source": "Ja! Fodbold er om lørdagen. Vi har også yoga og fitness.",
+      "target": "Ya! Main bola hari Sabtu. Kami juga ada yoga dan fitness."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "olahraga",
+      "target": "sport / motion",
+      "note": {
+        "da": "Generelt ord for sport og fysisk aktivitet.",
+        "en": "General word for sport and physical activity.",
+        "id": "Kata umum untuk olahraga dan aktivitas fisik."
+      }
+    },
+    {
+      "source": "main bola / sepak bola",
+      "target": "spille fodbold / fodbold",
+      "note": {
+        "da": "'Main bola' = at spille fodbold. 'Sepak bola' = fodbold (substantiv). 'Sepak' betyder at sparke.",
+        "en": "'Main bola' = to play football. 'Sepak bola' = football (noun). 'Sepak' means to kick.",
+        "id": "'Main bola' = bermain sepak bola. 'Sepak bola' = sepak bola (kata benda). 'Sepak' berarti menendang."
+      }
+    },
+    {
+      "source": "berenang",
+      "target": "at svømme / swimming",
+      "note": {
+        "da": "Fra roden 'renang'. 'Be-' er verbalpræfiks.",
+        "en": "From root 'renang'. 'Be-' is a verb prefix.",
+        "id": "Dari kata dasar 'renang'. Awalan 'be-' membentuk kata kerja."
+      }
+    },
+    {
+      "source": "berlari",
+      "target": "at løbe / running",
+      "note": {
+        "da": "Fra roden 'lari' (løb). 'Ber-' + 'lari' = at løbe.",
+        "en": "From root 'lari' (run). 'Ber-' + 'lari' = to run.",
+        "id": "Dari kata dasar 'lari'. 'Ber-' + 'lari' = berlari."
+      }
+    },
+    {
+      "source": "bersepeda",
+      "target": "at cykle / cycling",
+      "note": {
+        "da": "Fra 'sepeda' (cykel). 'Ber-' + 'sepeda' = at cykle.",
+        "en": "From 'sepeda' (bicycle). 'Ber-' + 'sepeda' = to cycle.",
+        "id": "Dari kata 'sepeda'. 'Ber-' + 'sepeda' = bersepeda."
+      }
+    },
+    {
+      "source": "main badminton / bulu tangkis",
+      "target": "spille badminton / badminton",
+      "note": {
+        "da": "'Bulu tangkis' er det officielle indonesiske ord. 'Badminton' er hverdagsbrug. Indonesien er verdensklasse i denne sport!",
+        "en": "'Bulu tangkis' is the official Indonesian term. 'Badminton' is everyday usage. Indonesia is world-class in this sport!",
+        "id": "'Bulu tangkis' adalah istilah resmi Indonesia. 'Badminton' adalah penggunaan sehari-hari. Indonesia terkenal dengan olahraga ini!"
+      }
+    },
+    {
+      "source": "bela diri",
+      "target": "kampsport / martial arts",
+      "note": {
+        "da": "Bogstaveligt 'at forsvare sig selv'. Pencak silat er en traditionel indonesisk kampsport.",
+        "en": "Literally 'self-defence'. Pencak silat is a traditional Indonesian martial art.",
+        "id": "Secara harfiah 'membela diri'. Pencak silat adalah seni bela diri tradisional Indonesia."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya suka + [verbum] vs. Saya suka + [navneord]",
+      "explanation": {
+        "da": "Når du bruger et verbum efter 'suka', beskriver du en aktivitet. Når du bruger et navneord, beskriver du en ting eller sport generelt. Begge er grammatisk korrekte.",
+        "en": "When you use a verb after 'suka', you describe an activity. When you use a noun, you describe a thing or sport in general. Both are grammatically correct.",
+        "id": "Ketika menggunakan kata kerja setelah 'suka', kamu menggambarkan sebuah aktivitas. Ketika menggunakan kata benda, kamu menggambarkan sesuatu atau olahraga secara umum. Keduanya benar secara tata bahasa."
+      },
+      "examples": [
+        {
+          "source": "Jeg kan godt lide at svømme. (aktivitet)",
+          "target": "Saya suka berenang. (aktivitas)"
+        },
+        {
+          "source": "Jeg kan godt lide svømning. (sport generelt)",
+          "target": "Saya suka renang. (olahraga secara umum)"
+        },
+        {
+          "source": "Jeg kan godt lide at spille badminton.",
+          "target": "Saya suka main badminton."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Fortæl hvilke tre sportsgrene du kan lide, og en du ikke kan lide. Brug 'Saya suka...' og 'Saya tidak suka...'.",
+        "en": "Tell which three sports you like, and one you don't like. Use 'Saya suka...' and 'Saya tidak suka...'.",
+        "id": "Ceritakan tiga olahraga yang kamu sukai, dan satu yang tidak kamu sukai. Gunakan 'Saya suka...' dan 'Saya tidak suka...'."
+      },
+      "answerShape": {
+        "da": "Saya suka [sport 1], [sport 2], dan [sport 3]. Saya tidak suka [sport 4].",
+        "en": "Saya suka [sport 1], [sport 2], dan [sport 3]. Saya tidak suka [sport 4].",
+        "id": "Saya suka [olahraga 1], [olahraga 2], dan [olahraga 3]. Saya tidak suka [olahraga 4]."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til sætningerne og afgør: er det 'suka + verbum' eller 'suka + navneord'?",
+        "en": "Listen to the sentences and decide: is it 'suka + verb' or 'suka + noun'?",
+        "id": "Dengarkan kalimat-kalimat dan tentukan: apakah itu 'suka + kata kerja' atau 'suka + kata benda'?"
+      },
+      "answerShape": {
+        "da": "Saya suka berenang = verbum. Saya suka renang = navneord.",
+        "en": "Saya suka berenang = verb. Saya suka renang = noun.",
+        "id": "Saya suka berenang = kata kerja. Saya suka renang = kata benda."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Dan tre sætninger om sport: én med 'bermain', én med 'ber-' verbum og én med sportens navneord.",
+        "en": "Create three sentences about sports: one with 'bermain', one with a 'ber-' verb, and one with the sport's noun.",
+        "id": "Buat tiga kalimat tentang olahraga: satu dengan 'bermain', satu dengan kata kerja 'ber-', dan satu dengan kata benda olahraga."
+      },
+      "answerShape": {
+        "da": "Contoh: Saya suka bermain bola. / Saya suka bersepeda. / Saya suka badminton.",
+        "en": "Example: Saya suka bermain bola. / Saya suka bersepeda. / Saya suka badminton.",
+        "id": "Contoh: Saya suka bermain bola. / Saya suka bersepeda. / Saya suka badminton."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme08-lesson02-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Olahraga: Sport på indonesisk",
+        "en": "Olahraga: Sports in Indonesian",
+        "id": "Olahraga: Olahraga dalam bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

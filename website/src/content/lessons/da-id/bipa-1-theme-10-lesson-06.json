@@ -1,0 +1,282 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 6,
+  "slug": "lesson-06",
+  "durationMinutes": 35,
+  "title": {
+    "da": "At Købe Billetter",
+    "en": "Buying Tickets",
+    "id": "Membeli Tiket"
+  },
+  "summary": {
+    "da": "Lær at købe togbilletter på indonesisk: spørg om priser og tider, vælg enkelt- eller returbillet og forstå køreplaner.",
+    "en": "Learn to buy train tickets in Indonesian: ask about prices and times, choose single or return tickets, and understand timetables.",
+    "id": "Belajar membeli tiket kereta dalam bahasa Indonesia: tanya tentang harga dan waktu, pilih tiket satu arah atau pulang-pergi, dan pahami jadwal."
+  },
+  "objectives": [
+    {
+      "da": "Bestille en togbillet ved at angive destination, billettype og antal.",
+      "en": "Order a train ticket by stating destination, ticket type, and quantity.",
+      "id": "Memesan tiket kereta dengan menyebutkan tujuan, jenis tiket, dan jumlah."
+    },
+    {
+      "da": "Spørge om billetter, priser og afgangstider.",
+      "en": "Ask about tickets, prices, and departure times.",
+      "id": "Bertanya tentang tiket, harga, dan waktu keberangkatan."
+    },
+    {
+      "da": "Forstå og bruge ordene pergi, pergi-pulang og jadwal korrekt.",
+      "en": "Understand and use the words pergi, pergi-pulang, and jadwal correctly.",
+      "id": "Memahami dan menggunakan kata pergi, pergi-pulang, dan jadwal dengan benar."
+    }
+  ],
+  "unit": {
+    "slug": "theme-10",
+    "order": 10,
+    "title": {
+      "da": "Tema 10: Byen & Transport",
+      "en": "Theme 10: City & Transport",
+      "id": "Tema 10: Kota & Transportasi"
+    },
+    "summary": {
+      "da": "At navigere i en indonesisk by og bruge offentlig transport.",
+      "en": "Navigating an Indonesian city and using public transport.",
+      "id": "Menavigasi kota Indonesia dan menggunakan transportasi umum."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis et billede af en togbillet eller billetsalgskiosk. Spørg: Hvad siger man normalt, når man køber en billet? Hvad slags information skal man give?",
+        "en": "Show a picture of a train ticket or ticket counter. Ask: What do you normally say when buying a ticket? What kind of information must you give?",
+        "id": "Tampilkan gambar tiket kereta atau loket tiket. Tanya: Apa yang biasanya kamu katakan saat membeli tiket? Informasi apa yang harus kamu berikan?"
+      },
+      "flow": [
+        {
+          "da": "Introducer billetordforrådet: tiket, pergi (enkelt), pergi-pulang (retur), jadwal (køreplan), harga tiket (billetpris). Forklar enkelt/retur med en animation eller tegning.",
+          "en": "Introduce ticket vocabulary: tiket, pergi (one-way), pergi-pulang (return), jadwal (timetable), harga tiket (ticket price). Explain single/return with an animation or drawing.",
+          "id": "Perkenalkan kosakata tiket: tiket, pergi (satu arah), pergi-pulang (pulang-pergi), jadwal (jadwal perjalanan), harga tiket (harga tiket). Jelaskan tiket satu arah/pulang-pergi dengan animasi atau gambar."
+        },
+        {
+          "da": "Øv at købe-billetter-dialogen som rollespil: én elev er billetsælger, én er passager. Skift roller.",
+          "en": "Practise the ticket-buying dialogue as a role play: one student is the ticket seller, one is the passenger. Swap roles.",
+          "id": "Latih dialog pembelian tiket sebagai bermain peran: satu siswa adalah penjual tiket, satu lagi adalah penumpang. Ganti peran."
+        },
+        {
+          "da": "Vis et eksempel på et indonesisk togkøreplan (f.eks. KAI-format) og øv at aflæse det: mana kereta pertama? Berapa harganya?",
+          "en": "Show an example Indonesian train timetable (e.g. KAI format) and practise reading it: mana kereta pertama? Berapa harganya?",
+          "id": "Tampilkan contoh jadwal kereta Indonesia (misalnya format KAI) dan latih membacanya: mana kereta pertama? Berapa harganya?"
+        }
+      ],
+      "notes": [
+        {
+          "da": "KAI (Kereta Api Indonesia) er det statslige jernbaneselskab. Billetter kan købes online på kai.id eller via app. Det er god forberedelse til virkelighed at vise eleverne dette.",
+          "en": "KAI (Kereta Api Indonesia) is the state railway company. Tickets can be bought online at kai.id or via app. Showing students this is good preparation for reality.",
+          "id": "KAI (Kereta Api Indonesia) adalah perusahaan kereta api negara. Tiket dapat dibeli online di kai.id atau melalui aplikasi. Menunjukkan ini kepada siswa adalah persiapan yang baik untuk kenyataan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Forestil dig, at du skal købe en togbillet fra Jakarta til Bandung. Skriv den fulde dialog: fra ankomst til billetsalg til afslutning.",
+          "en": "Imagine you need to buy a train ticket from Jakarta to Bandung. Write the full dialogue: from arriving at the counter to completing the purchase.",
+          "id": "Bayangkan kamu perlu membeli tiket kereta dari Jakarta ke Bandung. Tulis dialog lengkapnya: dari tiba di loket hingga menyelesaikan pembelian."
+        },
+        {
+          "da": "Øv ordene pergi og pergi-pulang ved at lave sætninger: Saya mau beli tiket pergi ke... / tiket pergi-pulang ke...",
+          "en": "Practise the words pergi and pergi-pulang by making sentences: Saya mau beli tiket pergi ke... / tiket pergi-pulang ke...",
+          "id": "Latih kata pergi dan pergi-pulang dengan membuat kalimat: Saya mau beli tiket pergi ke... / tiket pergi-pulang ke..."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du købe en togbillet fra Jakarta til Yogyakarta (enkeltbillet, morgentog) på indonesisk?",
+          "en": "Can you buy a train ticket from Jakarta to Yogyakarta (single, morning train) in Indonesian?",
+          "id": "Bisakah kamu membeli tiket kereta dari Jakarta ke Yogyakarta (satu arah, kereta pagi) dalam bahasa Indonesia?"
+        },
+        {
+          "da": "Kender du forskellen på pergi og pergi-pulang?",
+          "en": "Do you know the difference between pergi and pergi-pulang?",
+          "id": "Apakah kamu tahu perbedaan antara pergi dan pergi-pulang?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Kasir (Billetsælger)",
+      "source": "Selamat siang, mau ke mana?",
+      "target": "God middag, hvad kan jeg hjælpe med?"
+    },
+    {
+      "speaker": "Turis (Mia)",
+      "source": "Saya mau beli tiket ke Bandung. Ada kereta jam berapa?",
+      "target": "Jeg vil gerne købe en billet til Bandung. Hvornår er der tog?"
+    },
+    {
+      "speaker": "Kasir (Billetsælger)",
+      "source": "Ada kereta jam delapan pagi dan jam dua belas siang. Mau yang mana?",
+      "target": "Der er et tog klokken otte om morgenen og klokken tolv om middagen. Hvilket vil du have?"
+    },
+    {
+      "speaker": "Turis (Mia)",
+      "source": "Jam delapan pagi, satu tiket pergi-pulang. Berapa harganya?",
+      "target": "Klokken otte om morgenen, én returbillet. Hvad koster det?"
+    },
+    {
+      "speaker": "Kasir (Billetsælger)",
+      "source": "Tiket pergi-pulang Rp 180.000. Mau pesan sekarang?",
+      "target": "Returbilletten koster 180.000 rupiah. Vil du bestille nu?"
+    },
+    {
+      "speaker": "Turis (Mia)",
+      "source": "Ya, saya pesan sekarang. Ini kartu saya.",
+      "target": "Ja, jeg bestiller nu. Her er mit kort."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Billet",
+      "target": "Tiket",
+      "note": {
+        "da": "Direkte låneord fra engelsk 'ticket'.",
+        "en": "Direct loanword from English 'ticket'.",
+        "id": "Kata serapan langsung dari bahasa Inggris 'ticket'."
+      }
+    },
+    {
+      "source": "Enkeltbillet (én vej)",
+      "target": "Tiket pergi",
+      "note": {
+        "da": "Pergi = at gå/rejse. Tiket pergi = billet til én vej.",
+        "en": "Pergi = to go/travel. Tiket pergi = one-way ticket.",
+        "id": "Pergi = pergi. Tiket pergi = tiket satu arah."
+      }
+    },
+    {
+      "source": "Returbillet (frem og tilbage)",
+      "target": "Tiket pergi-pulang",
+      "note": {
+        "da": "Pulang = at komme hjem. Pergi-pulang = frem og tilbage.",
+        "en": "Pulang = to return home. Pergi-pulang = there and back.",
+        "id": "Pulang = pulang ke rumah. Pergi-pulang = pergi dan kembali."
+      }
+    },
+    {
+      "source": "At bestille billet",
+      "target": "Pesan tiket",
+      "note": {
+        "da": "Pesan = at bestille. Bruges om både mad og billetter.",
+        "en": "Pesan = to order/book. Used for both food and tickets.",
+        "id": "Pesan = memesan. Digunakan untuk makanan dan tiket."
+      }
+    },
+    {
+      "source": "Billetpris",
+      "target": "Harga tiket",
+      "note": {
+        "da": "Harga = pris. Berapa harga tiketnya? = Hvad koster billetten?",
+        "en": "Harga = price. Berapa harga tiketnya? = How much is the ticket?",
+        "id": "Harga = harga. Berapa harga tiketnya? = Berapa harga tiketnya?"
+      }
+    },
+    {
+      "source": "Køreplan / Tidtabel",
+      "target": "Jadwal",
+      "note": {
+        "da": "Jadwal bruges om køreplaner, tidsplaner og programmer generelt.",
+        "en": "Jadwal is used for timetables, schedules, and programmes in general.",
+        "id": "Jadwal digunakan untuk jadwal perjalanan, jadwal waktu, dan program secara umum."
+      }
+    },
+    {
+      "source": "Afgang / Afgangstid",
+      "target": "Keberangkatan",
+      "note": {
+        "da": "Fra 'berangkat' (at afgå). Jam keberangkatan = afgangstid.",
+        "en": "From 'berangkat' (to depart). Jam keberangkatan = departure time.",
+        "id": "Dari 'berangkat' (berangkat). Jam keberangkatan = waktu keberangkatan."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya mau beli ... (Jeg vil gerne købe ...)",
+      "explanation": {
+        "da": "'Mau' = 'at ville/ønske'. 'Beli' = 'at købe'. Sætningen Saya mau beli [vare/billet] bruges i mange handelssituationer. Man kan tilføje antal og type: satu tiket pergi ke Bandung.",
+        "en": "'Mau' = 'to want'. 'Beli' = 'to buy'. The sentence Saya mau beli [item/ticket] is used in many commercial situations. One can add quantity and type: satu tiket pergi ke Bandung.",
+        "id": "'Mau' = 'ingin/mau'. 'Beli' = 'membeli'. Kalimat Saya mau beli [barang/tiket] digunakan dalam banyak situasi perdagangan. Dapat ditambahkan jumlah dan jenis: satu tiket pergi ke Bandung."
+      },
+      "examples": [
+        { "source": "Jeg vil gerne købe en enkeltbillet.", "target": "Saya mau beli satu tiket pergi." },
+        { "source": "Jeg vil gerne købe to returbilletter til Surabaya.", "target": "Saya mau beli dua tiket pergi-pulang ke Surabaya." },
+        { "source": "Hvad koster billetten?", "target": "Berapa harga tiketnya?" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Rollespil: Du er ved billetsalget på Jakarta Kota station. Køb to returbilletter til Yogyakarta med morgentog. Spørg om pris og bekræft bestillingen.",
+        "en": "Role play: You are at the ticket counter at Jakarta Kota station. Buy two return tickets to Yogyakarta on the morning train. Ask about the price and confirm the booking.",
+        "id": "Bermain peran: Kamu berada di loket tiket di Stasiun Jakarta Kota. Beli dua tiket pulang-pergi ke Yogyakarta dengan kereta pagi. Tanya harga dan konfirmasi pemesanan."
+      },
+      "answerShape": {
+        "da": "Saya mau beli dua tiket pergi-pulang ke Yogyakarta. Ada kereta jam berapa? Berapa harganya?",
+        "en": "Saya mau beli dua tiket pergi-pulang ke Yogyakarta. Ada kereta jam berapa? Berapa harganya?",
+        "id": "Saya mau beli dua tiket pergi-pulang ke Yogyakarta. Ada kereta jam berapa? Berapa harganya?"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Oversæt disse sætninger: (1) 'Jeg vil købe én enkeltbillet til Bandung.' (2) 'Hvornår afgår det første tog?' (3) 'Returbilletten koster 200.000 rupiah.'",
+        "en": "Translate these sentences: (1) 'I want to buy one single ticket to Bandung.' (2) 'When does the first train depart?' (3) 'The return ticket costs 200,000 rupiah.'",
+        "id": "Terjemahkan kalimat-kalimat ini: (1) 'Saya mau beli satu tiket pergi ke Bandung.' (2) 'Kereta pertama berangkat jam berapa?' (3) 'Tiket pergi-pulang harganya 200.000 rupiah.'"
+      },
+      "answerShape": {
+        "da": "Saya mau beli satu tiket pergi ke Bandung. / Kereta pertama berangkat jam berapa? / Tiket pergi-pulang harganya dua ratus ribu rupiah.",
+        "en": "Saya mau beli satu tiket pergi ke Bandung. / Kereta pertama berangkat jam berapa? / Tiket pergi-pulang harganya dua ratus ribu rupiah.",
+        "id": "Saya mau beli satu tiket pergi ke Bandung. / Kereta pertama berangkat jam berapa? / Tiket pergi-pulang harganya dua ratus ribu rupiah."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen og noter: Hvad er destinationen? Hvilken billettype? Hvilken tog? Hvad koster det?",
+        "en": "Listen to the dialogue and note: What is the destination? Which ticket type? Which train? How much does it cost?",
+        "id": "Dengarkan dialog dan catat: Apa destinasinya? Jenis tiket apa? Kereta mana? Berapa biayanya?"
+      },
+      "answerShape": {
+        "da": "Destination: Bandung. Billetstype: pergi-pulang. Tog: kl. 8. Pris: 180.000 Rp.",
+        "en": "Destination: Bandung. Ticket type: pergi-pulang. Train: 8am. Price: 180,000 Rp.",
+        "id": "Tujuan: Bandung. Jenis tiket: pergi-pulang. Kereta: jam 8. Harga: 180.000 Rp."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme10-lesson06-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "At Købe Togbillet i Indonesien",
+        "en": "Buying a Train Ticket in Indonesia",
+        "id": "Membeli Tiket Kereta di Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

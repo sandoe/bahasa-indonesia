@@ -1,0 +1,328 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-2",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 45,
+  "title": {
+    "da": "Forhandl med Selvtillid",
+    "en": "Bargaining with Confidence",
+    "id": "Menawar dengan Percaya Diri"
+  },
+  "summary": {
+    "da": "Lær at forhandle priser på markedet: sig at noget er for dyrt, giv et modtilbud og afslut handlen.",
+    "en": "Learn to negotiate prices at the market: say something is too expensive, make a counteroffer, and close the deal.",
+    "id": "Belajar menawar harga di pasar: ungkapkan bahwa sesuatu terlalu mahal, ajukan penawaran balik, dan tutup kesepakatan."
+  },
+  "objectives": [
+    {
+      "da": "Udtrykke at en pris er for høj ved hjælp af 'mahal sekali' og lignende vendinger.",
+      "en": "Express that a price is too high using 'mahal sekali' and similar phrases.",
+      "id": "Mengungkapkan bahwa harga terlalu tinggi menggunakan 'mahal sekali' dan ungkapan serupa."
+    },
+    {
+      "da": "Fremsætte et modtilbud med strukturen 'bagaimana kalau ... ribu?'",
+      "en": "Make a counteroffer using the structure 'bagaimana kalau ... ribu?'",
+      "id": "Mengajukan penawaran balik menggunakan struktur 'bagaimana kalau ... ribu?'"
+    },
+    {
+      "da": "Forstå hvornår en pris er fast, og afslutte en handel høfligt.",
+      "en": "Understand when a price is fixed and close a transaction politely.",
+      "id": "Memahami kapan harga bersifat tetap dan menutup transaksi dengan sopan."
+    }
+  ],
+  "unit": {
+    "slug": "unit-01",
+    "order": 1,
+    "title": {
+      "da": "Hverdag ude i Byen",
+      "en": "Everyday Life in Town",
+      "id": "Keseharian di Kota"
+    },
+    "summary": {
+      "da": "Sproget i brug: marked, butik, bank, posthus og transport.",
+      "en": "Language in use: market, shop, bank, post office, and transport.",
+      "id": "Bahasa dalam praktik: pasar, toko, bank, kantor pos, dan transportasi."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg eleverne: 'Har du nogensinde forsøgt at prutte om prisen? Hvad skete der?' Lad to elever rollespille en simpel handel, inden I begynder på lektionen.",
+        "en": "Ask students: 'Have you ever tried to bargain? What happened?' Let two students role-play a simple transaction before starting the lesson.",
+        "id": "Tanya siswa: 'Pernahkah kamu mencoba menawar harga? Apa yang terjadi?' Minta dua siswa bermain peran transaksi sederhana sebelum memulai pelajaran."
+      },
+      "flow": [
+        {
+          "da": "Introducer nøgleord (mahal, murah, harga, tawar) med billeder af markedsstader. Øv udtalen af 'sekali' som forstærker.",
+          "en": "Introduce key words (mahal, murah, harga, tawar) with images of market stalls. Practise pronunciation of 'sekali' as an intensifier.",
+          "id": "Perkenalkan kata kunci (mahal, murah, harga, tawar) dengan gambar kios pasar. Latih pengucapan 'sekali' sebagai penguat."
+        },
+        {
+          "da": "Gennemgå dialogen i par. Fokuser på forhandlingsturene: det første tilbud, modtilbuddet og den endelige aftale.",
+          "en": "Work through the dialogue in pairs. Focus on the negotiation turns: first offer, counteroffer, final agreement.",
+          "id": "Kerjakan dialog secara berpasangan. Fokus pada giliran negosiasi: penawaran pertama, penawaran balik, dan kesepakatan akhir."
+        },
+        {
+          "da": "Rollespil på klassen: sælger vs. køber. Brug rekvisitter (prismærker, legetøjspenge) for at gøre situationen autentisk.",
+          "en": "Class role-play: seller vs. buyer. Use props (price tags, play money) to make the situation authentic.",
+          "id": "Permainan peran di kelas: penjual vs. pembeli. Gunakan alat peraga (label harga, uang mainan) agar situasinya terasa nyata."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Minder eleverne om, at pruter er normalt på traditionelle markeder, men ikke i supermarkeder og storcentre — kulturel bevidsthed er vigtig.",
+          "en": "Remind students that bargaining is normal at traditional markets but not in supermarkets and malls — cultural awareness is key.",
+          "id": "Ingatkan siswa bahwa menawar adalah hal biasa di pasar tradisional, tetapi tidak di supermarket dan mal — kesadaran budaya sangat penting."
+        },
+        {
+          "da": "Indonesiere bruger 'ribu' (tusind) i stedet for at sige det fulde tal — f.eks. 'lima puluh ribu' for Rp 50.000. Øv denne forkortelse.",
+          "en": "Indonesians use 'ribu' (thousand) rather than saying the full number — e.g. 'lima puluh ribu' for Rp 50,000. Practise this shorthand.",
+          "id": "Orang Indonesia menggunakan 'ribu' (seribu) daripada menyebut angka lengkap — misalnya 'lima puluh ribu' untuk Rp 50.000. Latih singkatan ini."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs dialogen højt og lyt til dig selv. Bemærk den stigende og faldende intonation, når du forhandler.",
+          "en": "Read the dialogue aloud and listen to yourself. Notice the rising and falling intonation when bargaining.",
+          "id": "Baca dialog dengan lantang dan dengarkan dirimu sendiri. Perhatikan intonasi naik-turun saat menawar."
+        },
+        {
+          "da": "Øv ordforrådet ved at skrive fem egne sætninger: tre med 'sekali' og to med 'bagaimana kalau'.",
+          "en": "Practise the vocabulary by writing five sentences of your own: three using 'sekali' and two using 'bagaimana kalau'.",
+          "id": "Latih kosakata dengan menulis lima kalimat sendiri: tiga menggunakan 'sekali' dan dua menggunakan 'bagaimana kalau'."
+        },
+        {
+          "da": "Se en video af forhandlinger på et indonesisk marked. Skriv tre vendinger, du hører, og slå dem op.",
+          "en": "Watch a video of bargaining at an Indonesian market. Write down three phrases you hear and look them up.",
+          "id": "Tonton video tawar-menawar di pasar Indonesia. Catat tiga ungkapan yang kamu dengar dan cari artinya."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du gennemføre en komplet forhandling (åbne tilbud → modtilbud → accept/afvisning) uden at se på noter?",
+          "en": "Can you carry out a complete negotiation (opening offer → counteroffer → accept/reject) without looking at your notes?",
+          "id": "Bisakah kamu melakukan negosiasi lengkap (penawaran awal → penawaran balik → terima/tolak) tanpa melihat catatan?"
+        },
+        {
+          "da": "Kan du forklare på dansk, hvornår det er passende at prutte i Indonesien?",
+          "en": "Can you explain in your own words when it is appropriate to bargain in Indonesia?",
+          "id": "Bisakah kamu menjelaskan dengan kata-katamu sendiri kapan menawar itu pantas dilakukan di Indonesia?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Pembeli",
+      "source": "Hej, hvad koster det her tørklæde?",
+      "target": "Halo, Kak, ini selendang harganya berapa?"
+    },
+    {
+      "speaker": "Penjual",
+      "source": "Det koster hundrede og halvtreds tusind rupiah, søde.",
+      "target": "Seratus lima puluh ribu, Mbak."
+    },
+    {
+      "speaker": "Pembeli",
+      "source": "Av, det er virkelig dyrt! Hvad med hundrede tusind?",
+      "target": "Wah, mahal sekali! Bagaimana kalau seratus ribu?"
+    },
+    {
+      "speaker": "Penjual",
+      "source": "Hundrede og tyve tusind — det er min laveste pris. Kvaliteten er virkelig god.",
+      "target": "Seratus dua puluh ribu saja — itu sudah harga paling murah. Kualitasnya bagus sekali."
+    },
+    {
+      "speaker": "Pembeli",
+      "source": "Okay, men kan du give mig to for to hundrede og tredive tusind?",
+      "target": "Oke, tapi bisa dua sekaligus dua ratus tiga puluh ribu?"
+    },
+    {
+      "speaker": "Penjual",
+      "source": "Hmm, okay, deal! Vil du have en pose?",
+      "target": "Hmm, oke, deal! Mau dibungkus?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Hvad koster det? / harganya berapa?",
+      "target": "Harganya berapa?",
+      "note": {
+        "da": "Den standardiserede måde at spørge om prisen på.",
+        "en": "The standard way to ask for a price.",
+        "id": "Cara baku untuk menanyakan harga."
+      }
+    },
+    {
+      "source": "dyrt",
+      "target": "mahal",
+      "note": {
+        "da": "Modsat: murah (billig).",
+        "en": "Opposite: murah (cheap).",
+        "id": "Antonim: murah."
+      }
+    },
+    {
+      "source": "virkelig / meget (forstærker)",
+      "target": "sekali",
+      "note": {
+        "da": "Placeres efter adjektivet: 'mahal sekali' = virkelig dyrt.",
+        "en": "Placed after the adjective: 'mahal sekali' = really expensive.",
+        "id": "Diletakkan setelah kata sifat: 'mahal sekali' = sangat mahal."
+      }
+    },
+    {
+      "source": "hvad hvis / hvad med",
+      "target": "bagaimana kalau",
+      "note": {
+        "da": "Bruges til at fremsætte et forslag eller et modtilbud.",
+        "en": "Used to make a suggestion or counteroffer.",
+        "id": "Digunakan untuk mengajukan saran atau penawaran balik."
+      }
+    },
+    {
+      "source": "at prutte / forhandle",
+      "target": "menawar",
+      "note": {
+        "da": "Selve handlingen at forhandle om prisen.",
+        "en": "The act of negotiating a price.",
+        "id": "Tindakan bernegosiasi tentang harga."
+      }
+    },
+    {
+      "source": "fast pris",
+      "target": "harga pas / harga mati",
+      "note": {
+        "da": "'Harga pas' eller 'harga mati' betyder, at prisen ikke kan forhandles.",
+        "en": "'Harga pas' or 'harga mati' means the price is non-negotiable.",
+        "id": "'Harga pas' atau 'harga mati' berarti harga tidak bisa ditawar."
+      }
+    },
+    {
+      "source": "aftale / okay",
+      "target": "deal / oke, deal",
+      "note": {
+        "da": "Uformelt engelsk lånord, meget brugt i indonesisk handel.",
+        "en": "Informal English loanword, widely used in Indonesian trade.",
+        "id": "Kata pinjaman bahasa Inggris yang tidak formal, banyak digunakan dalam perdagangan Indonesia."
+      }
+    },
+    {
+      "source": "indpakket / poset",
+      "target": "dibungkus",
+      "note": {
+        "da": "Fra roden 'bungkus' (pakke/indpakke). 'Mau dibungkus?' = vil du have det pakket ind?",
+        "en": "From root 'bungkus' (to wrap). 'Mau dibungkus?' = would you like it wrapped?",
+        "id": "Dari kata dasar 'bungkus'. 'Mau dibungkus?' = mau dibungkus?"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Adjektiv + sekali",
+      "explanation": {
+        "da": "'Sekali' placeret efter et adjektiv fungerer som en stærk forstærker og svarer til 'virkelig' eller 'ekstremt'. Det er mere udtryksfuldt end 'sangat' (meget) og bruges hyppigt i hverdagssproget.",
+        "en": "'Sekali' placed after an adjective acts as a strong intensifier equivalent to 'really' or 'extremely'. It is more expressive than 'sangat' (very) and is used frequently in everyday speech.",
+        "id": "'Sekali' yang diletakkan setelah kata sifat berfungsi sebagai penguat yang kuat, setara dengan 'sangat' atau 'amat'. Lebih ekspresif daripada 'sangat' dan sering digunakan dalam percakapan sehari-hari."
+      },
+      "examples": [
+        {
+          "source": "Det er virkelig dyrt!",
+          "target": "Mahal sekali!"
+        },
+        {
+          "source": "Det er virkelig lækkert!",
+          "target": "Enak sekali!"
+        },
+        {
+          "source": "Det er virkelig smukt!",
+          "target": "Cantik sekali!"
+        }
+      ]
+    },
+    {
+      "pattern": "Bagaimana kalau + forslag",
+      "explanation": {
+        "da": "'Bagaimana kalau' (hvad hvis / hvad med) indleder et forslag eller et modtilbud. Det er en høflig og blød måde at præsentere en alternativ mulighed på uden at virke konfronterende.",
+        "en": "'Bagaimana kalau' (what if / how about) introduces a suggestion or counteroffer. It is a polite and soft way to present an alternative without seeming confrontational.",
+        "id": "'Bagaimana kalau' memperkenalkan saran atau penawaran balik. Ini adalah cara yang sopan dan lembut untuk menawarkan alternatif tanpa terkesan konfrontatif."
+      },
+      "examples": [
+        {
+          "source": "Hvad med hundrede tusind?",
+          "target": "Bagaimana kalau seratus ribu?"
+        },
+        {
+          "source": "Hvad med to for prisen?",
+          "target": "Bagaimana kalau dua sekaligus?"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Du er på markedet. En skjorte koster Rp 120.000. Du vil betale højst Rp 80.000. Gennemfør forhandlingen fra start til slut.",
+        "en": "You are at the market. A shirt costs Rp 120,000. You want to pay at most Rp 80,000. Carry out the negotiation from start to finish.",
+        "id": "Kamu sedang di pasar. Sebuah kemeja harganya Rp 120.000. Kamu ingin membayar maksimal Rp 80.000. Lakukan negosiasi dari awal sampai selesai."
+      },
+      "answerShape": {
+        "da": "Åbn med 'Harganya berapa?', udtryk at det er dyrt med 'sekali', giv et modtilbud med 'bagaimana kalau', og afslut med 'oke, deal' eller 'tidak jadi'.",
+        "en": "Open with 'Harganya berapa?', express it is expensive using 'sekali', make a counteroffer with 'bagaimana kalau', close with 'oke, deal' or 'tidak jadi'.",
+        "id": "Buka dengan 'Harganya berapa?', ungkapkan mahal menggunakan 'sekali', ajukan penawaran balik dengan 'bagaimana kalau', tutup dengan 'oke, deal' atau 'tidak jadi'."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Byg tre sætninger ved hjælp af 'sekali': beskriv noget dyrt, noget billigt og noget velsmagende, du har fundet på et marked.",
+        "en": "Build three sentences using 'sekali': describe something expensive, something cheap, and something delicious you found at a market.",
+        "id": "Buat tiga kalimat menggunakan 'sekali': gambarkan sesuatu yang mahal, sesuatu yang murah, dan sesuatu yang enak yang kamu temukan di pasar."
+      },
+      "answerShape": {
+        "da": "F.eks. 'Tas ini mahal sekali.' / 'Mangga ini murah sekali.' / 'Sate ini enak sekali.'",
+        "en": "E.g. 'Tas ini mahal sekali.' / 'Mangga ini murah sekali.' / 'Sate ini enak sekali.'",
+        "id": "Mis. 'Tas ini mahal sekali.' / 'Mangga ini murah sekali.' / 'Sate ini enak sekali.'"
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvornår er det ikke passende at prutte i Indonesien? Nævn to situationer, og forklar hvorfor.",
+        "en": "When is it not appropriate to bargain in Indonesia? Name two situations and explain why.",
+        "id": "Kapan menawar tidak pantas dilakukan di Indonesia? Sebutkan dua situasi dan jelaskan alasannya."
+      },
+      "answerShape": {
+        "da": "F.eks. i supermarkeder (harga pas) og i restauranter (menupriser er faste). Nøgleord: 'harga pas', 'harga mati', 'tidak boleh ditawar'.",
+        "en": "E.g. in supermarkets (harga pas) and in restaurants (menu prices are fixed). Key words: 'harga pas', 'harga mati', 'tidak boleh ditawar'.",
+        "id": "Mis. di supermarket (harga pas) dan di restoran (harga menu sudah tetap). Kata kunci: 'harga pas', 'harga mati', 'tidak boleh ditawar'."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-unit01-lesson02-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Forhandling på Pasar Tradisional",
+        "en": "Bargaining at a Traditional Market",
+        "id": "Menawar di Pasar Tradisional"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

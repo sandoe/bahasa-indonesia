@@ -1,0 +1,296 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 7,
+  "slug": "lesson-07",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Hvad kan du lide?",
+    "en": "What Do You Like?",
+    "id": "Kamu Suka Apa?"
+  },
+  "summary": {
+    "da": "Lær at udtrykke præferencer, sammenligne aktiviteter og sige hvad du ikke bryder dig om på indonesisk.",
+    "en": "Learn to express preferences, compare activities, and say what you do not like in Indonesian.",
+    "id": "Belajar mengungkapkan preferensi, membandingkan aktivitas, dan mengatakan apa yang tidak kamu sukai dalam bahasa Indonesia."
+  },
+  "objectives": [
+    {
+      "da": "Udtrykke præferencer med 'lebih suka' og 'daripada'.",
+      "en": "Express preferences using 'lebih suka' and 'daripada'.",
+      "id": "Mengungkapkan preferensi menggunakan 'lebih suka' dan 'daripada'."
+    },
+    {
+      "da": "Sige hvad du ikke kan lide med 'tidak suka' og 'tidak terlalu suka'.",
+      "en": "Say what you do not like using 'tidak suka' and 'tidak terlalu suka'.",
+      "id": "Mengatakan apa yang tidak kamu sukai menggunakan 'tidak suka' dan 'tidak terlalu suka'."
+    },
+    {
+      "da": "Vælge mellem to aktiviteter og forklare sit valg.",
+      "en": "Choose between two activities and explain your choice.",
+      "id": "Memilih antara dua aktivitas dan menjelaskan pilihan kamu."
+    }
+  ],
+  "unit": {
+    "slug": "theme-08",
+    "order": 8,
+    "title": {
+      "da": "Tema 8: Fritid & Interesser",
+      "en": "Theme 8: Hobbies & Interests",
+      "id": "Tema 8: Hobi & Minat"
+    },
+    "summary": {
+      "da": "Fritidsaktiviteter, sport, kultur og personlige interesser.",
+      "en": "Leisure activities, sports, culture, and personal interests.",
+      "id": "Aktivitas waktu luang, olahraga, budaya, dan minat pribadi."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis to billeder side om side (f.eks. svømning vs. badminton). Spørg: 'Hvad foretrækker du?' og introducer 'lebih suka ... daripada ...'.",
+        "en": "Show two pictures side by side (e.g. swimming vs. badminton). Ask: 'Which do you prefer?' and introduce 'lebih suka ... daripada ...'.",
+        "id": "Tunjukkan dua gambar berdampingan (misalnya renang vs. bulu tangkis). Tanya: 'Mana yang lebih kamu sukai?' dan perkenalkan 'lebih suka ... daripada ...'."
+      },
+      "flow": [
+        {
+          "da": "Forklar præferencestrukturen: 'lebih suka' (foretrækker), 'tidak suka' (kan ikke lide), 'tidak terlalu suka' (bryder mig ikke særlig meget om). Sammenlign med dansk.",
+          "en": "Explain the preference structure: 'lebih suka' (prefer), 'tidak suka' (don't like), 'tidak terlalu suka' (don't really like). Compare with Danish.",
+          "id": "Jelaskan struktur preferensi: 'lebih suka' (lebih menyukai), 'tidak suka' (tidak suka), 'tidak terlalu suka' (tidak terlalu suka). Bandingkan dengan bahasa Denmark."
+        },
+        {
+          "da": "Introducer 'daripada' (end/frem for). Øv sammenlignede sætninger med par af aktiviteter fra Tema 8.",
+          "en": "Introduce 'daripada' (than/rather than). Practice comparative sentences using pairs of activities from Theme 8.",
+          "id": "Perkenalkan 'daripada' (daripada). Latih kalimat perbandingan menggunakan pasangan aktivitas dari Tema 8."
+        },
+        {
+          "da": "Rollespil: to venner vælger aktivitet. De er uenige og forhandler sig frem til en kompromis.",
+          "en": "Role-play: two friends are choosing an activity. They disagree and negotiate a compromise.",
+          "id": "Role-play: dua teman sedang memilih aktivitas. Mereka tidak setuju dan bernegosiasi untuk kompromi."
+        }
+      ],
+      "notes": [
+        {
+          "da": "'Tidak terlalu suka' er mere høflig end 'tidak suka' og bruges ofte i social sammenhæng for at undgå direkte afvisning.",
+          "en": "'Tidak terlalu suka' is more polite than 'tidak suka' and is often used in social contexts to avoid direct rejection.",
+          "id": "'Tidak terlalu suka' lebih sopan daripada 'tidak suka' dan sering digunakan dalam konteks sosial untuk menghindari penolakan langsung."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær præferencefraserne. Skriv fem sammenlignende sætninger med 'lebih suka ... daripada ...'.",
+          "en": "Learn the preference phrases. Write five comparative sentences with 'lebih suka ... daripada ...'.",
+          "id": "Pelajari frasa preferensi. Tulis lima kalimat perbandingan dengan 'lebih suka ... daripada ...'."
+        },
+        {
+          "da": "Forbered en liste over tre ting du kan lide og to ting du ikke kan lide (fra alle Tema 8-aktiviteter).",
+          "en": "Prepare a list of three things you like and two things you do not like (from all Theme 8 activities).",
+          "id": "Siapkan daftar tiga hal yang kamu sukai dan dua hal yang tidak kamu sukai (dari semua aktivitas Tema 8)."
+        },
+        {
+          "da": "Øv dialogen og fokuser på præference-udvekslingen.",
+          "en": "Practice the dialogue and focus on the preference exchange.",
+          "id": "Latih dialog dan fokus pada pertukaran preferensi."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sammenligne to aktiviteter med 'lebih suka ... daripada ...' på en naturlig måde?",
+          "en": "Can you compare two activities using 'lebih suka ... daripada ...' in a natural way?",
+          "id": "Bisakah kamu membandingkan dua aktivitas menggunakan 'lebih suka ... daripada ...' dengan cara yang alami?"
+        },
+        {
+          "da": "Kan du bruge 'tidak terlalu suka' i en kontekst og forklare hvad det betyder?",
+          "en": "Can you use 'tidak terlalu suka' in a context and explain what it means?",
+          "id": "Bisakah kamu menggunakan 'tidak terlalu suka' dalam konteks dan menjelaskan artinya?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Clara",
+      "source": "Vi har fri i eftermiddag. Hvad vil du helst – svømme eller spille badminton?",
+      "target": "Kita bebas sore ini. Kamu lebih suka berenang atau main badminton?"
+    },
+    {
+      "speaker": "Hari",
+      "source": "Jeg foretrækker badminton frem for svømning. Badminton er sjovere!",
+      "target": "Saya lebih suka badminton daripada berenang. Badminton lebih seru!"
+    },
+    {
+      "speaker": "Clara",
+      "source": "Hmm, jeg er ikke så vild med badminton. Jeg foretrækker svømning.",
+      "target": "Hmm, saya tidak terlalu suka badminton. Saya lebih suka berenang."
+    },
+    {
+      "speaker": "Hari",
+      "source": "Hvad med at gå en tur i stedet? Ingen af os er uenige om det.",
+      "target": "Bagaimana kalau jalan-jalan saja? Kita tidak berbeda pendapat soal itu."
+    },
+    {
+      "speaker": "Clara",
+      "source": "Ja, god idé! Jeg kan godt lide at gå tur, bedre end at træne indendørs.",
+      "target": "Ya, ide bagus! Saya suka jalan-jalan, lebih dari olahraga dalam ruangan."
+    },
+    {
+      "speaker": "Hari",
+      "source": "Enig! Lad os gå til parken. Jeg kan ikke lide at sidde hjemme.",
+      "target": "Setuju! Kita ke taman saja. Saya tidak suka di rumah saja."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "lebih suka",
+      "target": "foretrække / to prefer",
+      "note": {
+        "da": "'Lebih' = mere. 'Lebih suka' = foretrække/synes bedre om.",
+        "en": "'Lebih' = more. 'Lebih suka' = prefer/like more.",
+        "id": "'Lebih' = lebih. 'Lebih suka' = lebih menyukai."
+      }
+    },
+    {
+      "source": "daripada",
+      "target": "end / frem for / than / rather than",
+      "note": {
+        "da": "Bruges til sammenligning: 'Saya lebih suka A daripada B' = Jeg foretrækker A frem for B.",
+        "en": "Used for comparison: 'Saya lebih suka A daripada B' = I prefer A over B.",
+        "id": "Digunakan untuk perbandingan: 'Saya lebih suka A daripada B' = Saya lebih suka A daripada B."
+      }
+    },
+    {
+      "source": "tidak suka",
+      "target": "kan ikke lide / don't like",
+      "note": {
+        "da": "Direkte negation af 'suka'. 'Tidak' er negationsord.",
+        "en": "Direct negation of 'suka'. 'Tidak' is the negation word.",
+        "id": "Negasi langsung dari 'suka'. 'Tidak' adalah kata negasi."
+      }
+    },
+    {
+      "source": "tidak terlalu suka",
+      "target": "bryder mig ikke særlig meget om / don't really like",
+      "note": {
+        "da": "'Terlalu' = for meget/alt for. 'Tidak terlalu suka' er blødere og mere høflig end 'tidak suka'.",
+        "en": "'Terlalu' = too much/too. 'Tidak terlalu suka' is softer and more polite than 'tidak suka'.",
+        "id": "'Terlalu' = terlalu. 'Tidak terlalu suka' lebih lembut dan lebih sopan dari 'tidak suka'."
+      }
+    },
+    {
+      "source": "lebih ... dari / lebih ... daripada",
+      "target": "mere ... end / more ... than",
+      "note": {
+        "da": "Komparativstruktur: 'Badminton lebih seru daripada renang' = Badminton er sjovere end svømning.",
+        "en": "Comparative structure: 'Badminton lebih seru daripada renang' = Badminton is more exciting than swimming.",
+        "id": "Struktur komparatif: 'Badminton lebih seru daripada renang' = Bulu tangkis lebih seru daripada renang."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya lebih suka [A] daripada [B]",
+      "explanation": {
+        "da": "For at sammenligne og udtrykke præference bruges 'lebih suka ... daripada ...'. 'Lebih' = mere, 'daripada' = end. Strukturen er: subjekt + lebih suka + [A] + daripada + [B].",
+        "en": "To compare and express preference, use 'lebih suka ... daripada ...'. 'Lebih' = more, 'daripada' = than. Structure: subject + lebih suka + [A] + daripada + [B].",
+        "id": "Untuk membandingkan dan mengungkapkan preferensi, gunakan 'lebih suka ... daripada ...'. 'Lebih' = lebih, 'daripada' = daripada. Struktur: subjek + lebih suka + [A] + daripada + [B]."
+      },
+      "examples": [
+        {
+          "source": "Jeg foretrækker at læse frem for at se fjernsyn.",
+          "target": "Saya lebih suka membaca daripada menonton TV."
+        },
+        {
+          "source": "Han foretrækker svømning frem for løb.",
+          "target": "Dia lebih suka berenang daripada berlari."
+        },
+        {
+          "source": "Vi foretrækker at gå til stranden frem for at gå til bjerget.",
+          "target": "Kami lebih suka ke pantai daripada ke gunung."
+        }
+      ]
+    },
+    {
+      "pattern": "Tidak suka / Tidak terlalu suka + [verbum/navneord]",
+      "explanation": {
+        "da": "For at udtrykke at du ikke kan lide noget: 'tidak suka' (kan slet ikke lide) vs. 'tidak terlalu suka' (bryder mig ikke særlig meget om – blødere, mere høflig).",
+        "en": "To express not liking something: 'tidak suka' (don't like at all) vs. 'tidak terlalu suka' (don't really like – softer, more polite).",
+        "id": "Untuk mengungkapkan tidak menyukai sesuatu: 'tidak suka' (tidak suka sama sekali) vs. 'tidak terlalu suka' (tidak terlalu suka – lebih lembut, lebih sopan)."
+      },
+      "examples": [
+        {
+          "source": "Jeg kan slet ikke lide horrorfilm.",
+          "target": "Saya tidak suka film horor."
+        },
+        {
+          "source": "Jeg bryder mig ikke særlig meget om camping.",
+          "target": "Saya tidak terlalu suka berkemah."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sammenlign tre par af aktiviteter med 'lebih suka ... daripada ...'. Forklar årsagen med én sætning.",
+        "en": "Compare three pairs of activities using 'lebih suka ... daripada ...'. Explain the reason with one sentence.",
+        "id": "Bandingkan tiga pasang aktivitas menggunakan 'lebih suka ... daripada ...'. Jelaskan alasannya dengan satu kalimat."
+      },
+      "answerShape": {
+        "da": "Saya lebih suka [A] daripada [B] karena [årsag].",
+        "en": "Saya lebih suka [A] daripada [B] karena [reason].",
+        "id": "Saya lebih suka [A] daripada [B] karena [alasan]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Omdan disse sætninger til det modsatte: 1) Saya suka berenang. 2) Dia suka badminton. 3) Kami suka mendaki.",
+        "en": "Transform these sentences into the opposite: 1) Saya suka berenang. 2) Dia suka badminton. 3) Kami suka mendaki.",
+        "id": "Ubah kalimat-kalimat ini menjadi kebalikannya: 1) Saya suka berenang. 2) Dia suka badminton. 3) Kami suka mendaki."
+      },
+      "answerShape": {
+        "da": "1) Saya tidak suka berenang. 2) Dia tidak suka badminton. 3) Kami tidak suka mendaki.",
+        "en": "1) Saya tidak suka berenang. 2) Dia tidak suka badminton. 3) Kami tidak suka mendaki.",
+        "id": "1) Saya tidak suka berenang. 2) Dia tidak suka badminton. 3) Kami tidak suka mendaki."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen og noter: hvad foretrækker Hari, hvad foretrækker Clara, og hvad ender de med at vælge?",
+        "en": "Listen to the dialogue and note: what does Hari prefer, what does Clara prefer, and what do they end up choosing?",
+        "id": "Dengarkan dialog dan catat: apa yang Hari sukai, apa yang Clara sukai, dan apa yang akhirnya mereka pilih?"
+      },
+      "answerShape": {
+        "da": "Hari: lebih suka badminton. Clara: lebih suka berenang. Pilihan: jalan-jalan ke taman.",
+        "en": "Hari: lebih suka badminton. Clara: lebih suka berenang. Choice: jalan-jalan ke taman.",
+        "id": "Hari: lebih suka badminton. Clara: lebih suka berenang. Pilihan: jalan-jalan ke taman."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme08-lesson07-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Præferencer: Hvad foretrækker du?",
+        "en": "Preferences: What do you prefer?",
+        "id": "Preferensi: Kamu lebih suka apa?"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

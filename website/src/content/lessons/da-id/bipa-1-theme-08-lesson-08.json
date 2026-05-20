@@ -1,0 +1,296 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 8,
+  "slug": "lesson-08",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Repetition: Hobbyer og Interesser",
+    "en": "Consolidation: Hobbies and Interests",
+    "id": "Repetisi: Hobi dan Minat"
+  },
+  "summary": {
+    "da": "Konsolidér alt fra Tema 8: beskriv dit fritidsliv, brug frekvensord og giv et komplet hobbyprofil-interview.",
+    "en": "Consolidate everything from Theme 8: describe your leisure life, use frequency words, and give a complete hobby profile interview.",
+    "id": "Konsolidasi semua dari Tema 8: deskripsikan kehidupan waktu luangmu, gunakan kata frekuensi, dan berikan wawancara profil hobi lengkap."
+  },
+  "objectives": [
+    {
+      "da": "Bruge frekvensord (selalu, sering, kadang-kadang, jarang, tidak pernah) korrekt i sætninger.",
+      "en": "Use frequency words (selalu, sering, kadang-kadang, jarang, tidak pernah) correctly in sentences.",
+      "id": "Menggunakan kata frekuensi (selalu, sering, kadang-kadang, jarang, tidak pernah) dengan benar dalam kalimat."
+    },
+    {
+      "da": "Beskrive et komplet fritidsprofil: hvad, hvor tit og med hvem.",
+      "en": "Describe a complete leisure profile: what, how often, and with whom.",
+      "id": "Menggambarkan profil waktu luang lengkap: apa, seberapa sering, dan dengan siapa."
+    },
+    {
+      "da": "Gennemføre et livsstilsinterview på indonesisk.",
+      "en": "Conduct a lifestyle interview in Indonesian.",
+      "id": "Melakukan wawancara gaya hidup dalam bahasa Indonesia."
+    }
+  ],
+  "unit": {
+    "slug": "theme-08",
+    "order": 8,
+    "title": {
+      "da": "Tema 8: Fritid & Interesser",
+      "en": "Theme 8: Hobbies & Interests",
+      "id": "Tema 8: Hobi & Minat"
+    },
+    "summary": {
+      "da": "Fritidsaktiviteter, sport, kultur og personlige interesser.",
+      "en": "Leisure activities, sports, culture, and personal interests.",
+      "id": "Aktivitas waktu luang, olahraga, budaya, dan minat pribadi."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skriv en 'Hvem er jeg?'-gåde på tavlen med hobbyer og frekvensord. Eleverne gætter personen. Forklar derefter frekvensadverbierne systematisk.",
+        "en": "Write a 'Who am I?' riddle on the board using hobbies and frequency words. Students guess the person. Then explain the frequency adverbs systematically.",
+        "id": "Tulis teka-teki 'Siapakah saya?' di papan menggunakan hobi dan kata frekuensi. Siswa menebak orangnya. Kemudian jelaskan kata keterangan frekuensi secara sistematis."
+      },
+      "flow": [
+        {
+          "da": "Introducer frekvensordforrådets skala fra 'selalu' til 'tidak pernah'. Lav en visuel linje på tavlen og placer ordene på den.",
+          "en": "Introduce the frequency word scale from 'selalu' to 'tidak pernah'. Draw a visual line on the board and place the words on it.",
+          "id": "Perkenalkan skala kata frekuensi dari 'selalu' hingga 'tidak pernah'. Buat garis visual di papan dan tempatkan kata-kata di atasnya."
+        },
+        {
+          "da": "Øv interviewspørgsmål og -svar som klasse: 'Seberapa sering kamu [aktivitet]?' – 'Saya [frekvens] [aktivitet].'",
+          "en": "Practice interview questions and answers as a class: 'Seberapa sering kamu [aktivitet]?' – 'Saya [frekuens] [aktivitet].'",
+          "id": "Latih pertanyaan dan jawaban wawancara sebagai kelas: 'Seberapa sering kamu [aktivitas]?' – 'Saya [frekuensi] [aktivitas].'"
+        },
+        {
+          "da": "Afsluttende aktivitet: livsstilsinterview i par. Intervieweren stiller fem spørgsmål om den andens hobbyer, frekvens og partnere.",
+          "en": "Final activity: lifestyle interview in pairs. The interviewer asks five questions about the other person's hobbies, frequency, and partners.",
+          "id": "Aktivitas penutup: wawancara gaya hidup berpasangan. Pewawancara mengajukan lima pertanyaan tentang hobi, frekuensi, dan mitra orang lain."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Frekvensadverbierne placeres normalt efter subjektet: 'Saya sering berolahraga.' – 'Dia jarang membaca.'",
+          "en": "Frequency adverbs are usually placed after the subject: 'Saya sering berolahraga.' – 'Dia jarang membaca.'",
+          "id": "Kata keterangan frekuensi biasanya ditempatkan setelah subjek: 'Saya sering berolahraga.' – 'Dia jarang membaca.'"
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær frekvensordene og lav en personlig skema: skriv dine tre vigtigste hobbyer og hvor tit du laver dem.",
+          "en": "Learn the frequency words and make a personal chart: write your three most important hobbies and how often you do them.",
+          "id": "Pelajari kata-kata frekuensi dan buat bagan personal: tulis tiga hobi terpentingmu dan seberapa sering kamu melakukannya."
+        },
+        {
+          "da": "Forbered fem spørgsmål til et hobbyinterview og skriv dine egne svar.",
+          "en": "Prepare five questions for a hobby interview and write your own answers.",
+          "id": "Siapkan lima pertanyaan untuk wawancara hobi dan tulis jawaban kamu sendiri."
+        },
+        {
+          "da": "Skriv et afsnit (4-5 sætninger) om din fritid. Brug mindst tre frekvensord og tre aktiviteter.",
+          "en": "Write a paragraph (4-5 sentences) about your free time. Use at least three frequency words and three activities.",
+          "id": "Tulis sebuah paragraf (4-5 kalimat) tentang waktu luangmu. Gunakan minimal tiga kata frekuensi dan tiga aktivitas."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du liste alle fem frekvensord i den rigtige rækkefølge fra 'altid' til 'aldrig'?",
+          "en": "Can you list all five frequency words in the correct order from 'always' to 'never'?",
+          "id": "Bisakah kamu mendaftar semua lima kata frekuensi dalam urutan yang benar dari 'selalu' hingga 'tidak pernah'?"
+        },
+        {
+          "da": "Kan du beskrive din fritid i fem sætninger og bruge frekvensord korrekt?",
+          "en": "Can you describe your free time in five sentences and use frequency words correctly?",
+          "id": "Bisakah kamu menggambarkan waktu luangmu dalam lima kalimat dan menggunakan kata frekuensi dengan benar?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Wartawan",
+      "source": "Hej! Jeg laver en artikel om fritidsliv. Må jeg stille dig nogle spørgsmål?",
+      "target": "Halo! Saya sedang membuat artikel tentang gaya hidup. Boleh saya tanya beberapa hal?"
+    },
+    {
+      "speaker": "Nisa",
+      "source": "Selvfølgelig! Hvad vil du gerne vide?",
+      "target": "Tentu saja! Apa yang ingin kamu ketahui?"
+    },
+    {
+      "speaker": "Wartawan",
+      "source": "Hvad er dine hobbyer, og hvor tit laver du dem?",
+      "target": "Apa hobi kamu, dan seberapa sering kamu melakukannya?"
+    },
+    {
+      "speaker": "Nisa",
+      "source": "Jeg løber altid om morgenen, og jeg svømmer tit i weekenderne. Jeg maler sommetider.",
+      "target": "Saya selalu berlari di pagi hari, dan saya sering berenang di akhir pekan. Saya kadang-kadang melukis."
+    },
+    {
+      "speaker": "Wartawan",
+      "source": "Er der noget, du sjældent eller aldrig laver?",
+      "target": "Ada aktivitas yang jarang atau tidak pernah kamu lakukan?"
+    },
+    {
+      "speaker": "Nisa",
+      "source": "Jeg dyrker sjældent yoga, og jeg spiller aldrig computerspil. Det er ikke rigtig noget for mig!",
+      "target": "Saya jarang yoga, dan saya tidak pernah main game. Itu bukan untuk saya!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "selalu",
+      "target": "altid / always",
+      "note": {
+        "da": "Den højeste frekvens. 'Saya selalu membaca sebelum tidur.' = Jeg læser altid før jeg sover.",
+        "en": "The highest frequency. 'Saya selalu membaca sebelum tidur.' = I always read before sleeping.",
+        "id": "Frekuensi tertinggi. 'Saya selalu membaca sebelum tidur.'"
+      }
+    },
+    {
+      "source": "sering",
+      "target": "tit / ofte / often",
+      "note": {
+        "da": "Høj frekvens men ikke altid. 'Saya sering berolahraga.' = Jeg træner tit.",
+        "en": "High frequency but not always. 'Saya sering berolahraga.' = I often exercise.",
+        "id": "Frekuensi tinggi tapi tidak selalu. 'Saya sering berolahraga.'"
+      }
+    },
+    {
+      "source": "kadang-kadang",
+      "target": "sommetider / sometimes",
+      "note": {
+        "da": "Middel frekvens. Gentagelsesform af 'kadang'. 'Saya kadang-kadang memasak.' = Jeg laver sommetider mad.",
+        "en": "Medium frequency. Reduplication of 'kadang'. 'Saya kadang-kadang memasak.' = I sometimes cook.",
+        "id": "Frekuensi sedang. Pengulangan dari 'kadang'. 'Saya kadang-kadang memasak.'"
+      }
+    },
+    {
+      "source": "jarang",
+      "target": "sjældent / rarely",
+      "note": {
+        "da": "Lav frekvens. 'Saya jarang berkebun.' = Jeg har sjældent have.",
+        "en": "Low frequency. 'Saya jarang berkebun.' = I rarely garden.",
+        "id": "Frekuensi rendah. 'Saya jarang berkebun.'"
+      }
+    },
+    {
+      "source": "tidak pernah",
+      "target": "aldrig / never",
+      "note": {
+        "da": "Nul frekvens. 'Tidak' = ikke, 'pernah' = nogensinde. 'Saya tidak pernah bela diri.' = Jeg dyrker aldrig kampsport.",
+        "en": "Zero frequency. 'Tidak' = not, 'pernah' = ever. 'Saya tidak pernah bela diri.' = I never do martial arts.",
+        "id": "'Tidak' = tidak, 'pernah' = pernah. 'Saya tidak pernah bela diri.' = Saya tidak pernah bela diri."
+      }
+    },
+    {
+      "source": "seberapa sering",
+      "target": "hvor tit / how often",
+      "note": {
+        "da": "Spørgefrase om frekvens. 'Seberapa sering kamu berolahraga?' = Hvor tit træner du?",
+        "en": "Question phrase for frequency. 'Seberapa sering kamu berolahraga?' = How often do you exercise?",
+        "id": "Frasa pertanyaan untuk frekuensi. 'Seberapa sering kamu berolahraga?'"
+      }
+    },
+    {
+      "source": "bersama siapa",
+      "target": "med hvem / with whom",
+      "note": {
+        "da": "'Bersama' = med/sammen med. 'Siapa' = hvem. Bruges til at spørge om hvem man dyrker aktiviteter med.",
+        "en": "'Bersama' = with/together with. 'Siapa' = who. Used to ask about who one does activities with.",
+        "id": "'Bersama' = bersama. 'Siapa' = siapa. Digunakan untuk menanyakan dengan siapa seseorang melakukan aktivitas."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Frekvensadverbier: selalu → sering → kadang-kadang → jarang → tidak pernah",
+      "explanation": {
+        "da": "Frekvensadverbierne placeres normalt direkte efter subjektet og foran verbalet. De angiver, hvor tit en handling sker. Skala: selalu (100%) → sering (~70%) → kadang-kadang (~50%) → jarang (~20%) → tidak pernah (0%).",
+        "en": "Frequency adverbs are normally placed directly after the subject and before the verb. They indicate how often an action occurs. Scale: selalu (100%) → sering (~70%) → kadang-kadang (~50%) → jarang (~20%) → tidak pernah (0%).",
+        "id": "Kata keterangan frekuensi biasanya ditempatkan langsung setelah subjek dan sebelum kata kerja. Mereka menunjukkan seberapa sering suatu tindakan terjadi. Skala: selalu (100%) → sering (~70%) → kadang-kadang (~50%) → jarang (~20%) → tidak pernah (0%)."
+      },
+      "examples": [
+        {
+          "source": "Jeg løber altid om morgenen.",
+          "target": "Saya selalu berlari di pagi hari."
+        },
+        {
+          "source": "Han svømmer sjældent.",
+          "target": "Dia jarang berenang."
+        },
+        {
+          "source": "Vi spiller aldrig tennis.",
+          "target": "Kami tidak pernah main tenis."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Beskriv dit fritidsliv med mindst fem sætninger. Brug alle fem frekvensord og nævn hvem du laver aktiviteterne med.",
+        "en": "Describe your leisure life in at least five sentences. Use all five frequency words and mention who you do the activities with.",
+        "id": "Deskripsikan kehidupan waktu luangmu dalam minimal lima kalimat. Gunakan semua lima kata frekuensi dan sebutkan dengan siapa kamu melakukan aktivitas tersebut."
+      },
+      "answerShape": {
+        "da": "Saya selalu [aktivitet] dengan [person]. Saya sering [aktivitet]. Saya kadang-kadang [aktivitet] bersama [person]. Saya jarang [aktivitet]. Saya tidak pernah [aktivitet].",
+        "en": "Saya selalu [activity] dengan [person]. Saya sering [activity]. Saya kadang-kadang [activity] bersama [person]. Saya jarang [activity]. Saya tidak pernah [activity].",
+        "id": "Saya selalu [aktivitas] dengan [orang]. Saya sering [aktivitas]. Saya kadang-kadang [aktivitas] bersama [orang]. Saya jarang [aktivitas]. Saya tidak pernah [aktivitas]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Indsæt det rigtige frekvensord: 1) Saya ___ (altid) berlari. 2) Dia ___ (sjældent) memasak. 3) Kami ___ (aldrig) bela diri.",
+        "en": "Insert the correct frequency word: 1) Saya ___ (always) berlari. 2) Dia ___ (rarely) memasak. 3) Kami ___ (never) bela diri.",
+        "id": "Masukkan kata frekuensi yang tepat: 1) Saya ___ (selalu) berlari. 2) Dia ___ (jarang) memasak. 3) Kami ___ (tidak pernah) bela diri."
+      },
+      "answerShape": {
+        "da": "1) Saya selalu berlari. 2) Dia jarang memasak. 3) Kami tidak pernah bela diri.",
+        "en": "1) Saya selalu berlari. 2) Dia jarang memasak. 3) Kami tidak pernah bela diri.",
+        "id": "1) Saya selalu berlari. 2) Dia jarang memasak. 3) Kami tidak pernah bela diri."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Kig tilbage på Tema 8. Hvad var det vigtigste, du lærte? Skriv tre sætninger på indonesisk om dine hobbyer.",
+        "en": "Look back at Theme 8. What was the most important thing you learned? Write three sentences in Indonesian about your hobbies.",
+        "id": "Lihat kembali Tema 8. Apa hal terpenting yang kamu pelajari? Tulis tiga kalimat dalam bahasa Indonesia tentang hobi kamu."
+      },
+      "answerShape": {
+        "da": "Saya belajar tentang [emne]. Hobi saya adalah [hobby]. Saya [frekvens] melakukan [aktivitet].",
+        "en": "Saya belajar tentang [topic]. Hobi saya adalah [hobby]. Saya [frequency] melakukan [activity].",
+        "id": "Saya belajar tentang [topik]. Hobi saya adalah [hobi]. Saya [frekuensi] melakukan [aktivitas]."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme08-lesson08-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Repetition Tema 8: Fritid og interesser – livsstilsinterview",
+        "en": "Consolidation Theme 8: Leisure and interests – lifestyle interview",
+        "id": "Repetisi Tema 8: Hobi dan minat – wawancara gaya hidup"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

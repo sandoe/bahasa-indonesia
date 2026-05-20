@@ -1,0 +1,296 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 30,
+  "title": {
+    "da": "Konsonanter der Skiller Sig Ud",
+    "en": "Consonants That Stand Out",
+    "id": "Konsonan yang Berbeda"
+  },
+  "summary": {
+    "da": "Fokus på de indonesiske konsonanter der adskiller sig mest fra dansk: C, G, J, NG, NY og R. Undgå de klassiske udtallefejl fra begyndelsen.",
+    "en": "Focus on the Indonesian consonants that differ most from Danish: C, G, J, NG, NY, and R. Avoid the classic pronunciation mistakes from the start.",
+    "id": "Fokus pada konsonan bahasa Indonesia yang paling berbeda dari bahasa Denmark: C, G, J, NG, NY, dan R. Hindari kesalahan pengucapan klasik sejak awal."
+  },
+  "objectives": [
+    {
+      "da": "Udtale C som 'tj' (aldrig som K eller S)",
+      "en": "Pronounce C as 'tj' (never as K or S)",
+      "id": "Mengucapkan C sebagai 'tj' (tidak pernah sebagai K atau S)"
+    },
+    {
+      "da": "Udtale G, J, NG, NY og R korrekt i enkle ord",
+      "en": "Pronounce G, J, NG, NY, and R correctly in simple words",
+      "id": "Mengucapkan G, J, NG, NY, dan R dengan benar dalam kata-kata sederhana"
+    },
+    {
+      "da": "Genkende og rette de mest almindelige konsonantfejl lavet af dansktalende",
+      "en": "Recognise and correct the most common consonant mistakes made by Danish speakers",
+      "id": "Mengenali dan mengoreksi kesalahan konsonan paling umum yang dilakukan penutur bahasa Denmark"
+    }
+  ],
+  "unit": {
+    "slug": "theme-00",
+    "order": 0,
+    "title": {
+      "da": "Tema 0: Fundamentet",
+      "en": "Theme 0: The Foundation",
+      "id": "Tema 0: Dasar"
+    },
+    "summary": {
+      "da": "Sprogets byggesten: Bogstaver, lyde og de første regler.",
+      "en": "Building blocks: Letters, sounds, first rules.",
+      "id": "Fondasi bahasa: huruf, bunyi, aturan pertama."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skriv på tavlen: C – G – J – NG – NY – R. Spørg: 'Hvad forventer I at disse lyde som?' Saml svarene og vis derefter de faktiske indonesiske udtaler. Skab nysgerrighed ved at afsløre at C aldrig udtales som i 'Copenhagen'.",
+        "en": "Write on the board: C – G – J – NG – NY – R. Ask: 'What do you expect these to sound like?' Collect answers, then reveal the actual Indonesian pronunciations. Create curiosity by revealing that C is never pronounced as in 'Copenhagen'.",
+        "id": "Tulis di papan: C – G – J – NG – NY – R. Tanya: 'Menurut kalian, bunyi apa yang kalian harapkan?' Kumpulkan jawaban, lalu ungkapkan pengucapan bahasa Indonesia yang sebenarnya. Ciptakan rasa ingin tahu dengan mengungkapkan bahwa C tidak pernah diucapkan seperti dalam 'Copenhagen'."
+      },
+      "flow": [
+        {
+          "da": "Præsentation: Gå gennem hvert bogstav ét ad gangen med et klar eksempel. For C: brug 'coba' (prøv). For G: brug 'gula' (sukker). For J: brug 'jalan' (vej/gå). For NG: brug 'dengan' (med). For NY: brug 'nyaman' (behagelig). For R: brug 'rumah' (hus) – rul R'et.",
+          "en": "Presentation: Go through each letter one at a time with a clear example. For C: use 'coba' (try). For G: use 'gula' (sugar). For J: use 'jalan' (road/walk). For NG: use 'dengan' (with). For NY: use 'nyaman' (comfortable). For R: use 'rumah' (house) – roll the R.",
+          "id": "Presentasi: Bahas setiap huruf satu per satu dengan contoh yang jelas. Untuk C: gunakan 'coba' (try). Untuk G: gunakan 'gula' (sugar). Untuk J: gunakan 'jalan' (road/walk). Untuk NG: gunakan 'dengan' (with). Untuk NY: gunakan 'nyaman' (comfortable). Untuk R: gunakan 'rumah' (house) – gulir R."
+        },
+        {
+          "da": "Fejlfindingsrunde: Udtale med vilje de forkerte varianter ('soba' i stedet for 'coba', blødt G i stedet for hårdt G). Eleverne skal korrigere dig. Dette giver dem ejerskab over reglerne.",
+          "en": "Error detection round: Deliberately mispronounce words ('soba' instead of 'coba', soft G instead of hard G). Students must correct you. This gives them ownership of the rules.",
+          "id": "Putaran deteksi kesalahan: Sengaja salah mengucapkan kata-kata ('soba' bukan 'coba', G lunak bukan G keras). Siswa harus mengoreksi Anda. Ini memberi mereka rasa memiliki atas aturan."
+        },
+        {
+          "da": "Minirollespil: Brug dialogeksemplet om fejl og korrektioner. Eleverne øver i par, skifter mellem rollen som 'den der fejler' og 'den der retter'.",
+          "en": "Mini role play: Use the dialogue example about mistakes and corrections. Students practise in pairs, switching between the role of 'the one who makes mistakes' and 'the one who corrects'.",
+          "id": "Bermain peran mini: Gunakan contoh dialog tentang kesalahan dan koreksi. Siswa berlatih berpasangan, bergantian antara peran 'yang membuat kesalahan' dan 'yang mengoreksi'."
+        }
+      ],
+      "notes": [
+        {
+          "da": "NG og NY er ægte enkeltlyde i indonesisk – ikke to lyde sat sammen. Sammenlign NG med 'sang' på engelsk, og NY med det spanske ñ i 'España'. Disse er de oftest fejlede lyde af dansktalende.",
+          "en": "NG and NY are genuine single sounds in Indonesian – not two sounds joined together. Compare NG with English 'sing', and NY with the Spanish ñ in 'España'. These are the most frequently mispronounced sounds by Danish speakers.",
+          "id": "NG dan NY adalah bunyi tunggal sejati dalam bahasa Indonesia – bukan dua bunyi yang digabungkan. Bandingkan NG dengan 'sing' dalam bahasa Inggris, dan NY dengan ñ bahasa Spanyol dalam 'España'. Ini adalah bunyi yang paling sering salah diucapkan oleh penutur bahasa Denmark."
+        },
+        {
+          "da": "Det rullede R kan give dansktalende besvær. Tip: start med 'dr' som i 'drøm' – det fremtvinger et naturligt rullet R på mange sprog.",
+          "en": "The rolled R can be difficult for Danish speakers. Tip: start with 'dr' as in the Danish word 'drøm' – this naturally produces a rolled R sound in many languages.",
+          "id": "R yang digulung bisa sulit bagi penutur bahasa Denmark. Tips: mulai dengan 'dr' seperti dalam kata Denmark 'drøm' – ini secara alami menghasilkan bunyi R yang digulung dalam banyak bahasa."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv de seks konsonantregler ned på et kort (C='tj', G=hård, J=dansk-J, NG=enkeltlyd, NY=ñ, R=rullet). Hold det ved siden af dig mens du øver.",
+          "en": "Write down the six consonant rules on a card (C='tj', G=hard, J=Y-sound, NG=single sound, NY=ñ, R=rolled). Keep it next to you while practising.",
+          "id": "Tuliskan enam aturan konsonan pada sebuah kartu (C='tj', G=keras, J=bunyi-Y, NG=bunyi tunggal, NY=ñ, R=digulung). Simpan di samping Anda saat berlatih."
+        },
+        {
+          "da": "Øv hvert eksempel ord 5 gange langsomt, derefter 5 gange i normalt tempo. Brug en spejl for at se mundstillingen.",
+          "en": "Practise each example word 5 times slowly, then 5 times at normal speed. Use a mirror to observe your mouth position.",
+          "id": "Latih setiap kata contoh 5 kali dengan lambat, kemudian 5 kali dengan kecepatan normal. Gunakan cermin untuk mengamati posisi mulut Anda."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du udtale 'coba, gula, jalan, dengan, nyaman, rumah' uden at falde tilbage på danske udtaler?",
+          "en": "Can you pronounce 'coba, gula, jalan, dengan, nyaman, rumah' without falling back on Danish pronunciations?",
+          "id": "Dapatkah Anda mengucapkan 'coba, gula, jalan, dengan, nyaman, rumah' tanpa kembali ke pengucapan bahasa Denmark?"
+        },
+        {
+          "da": "Kan du forklare med egne ord hvad der er specielt ved hvert af de seks konsonanter?",
+          "en": "Can you explain in your own words what is special about each of the six consonants?",
+          "id": "Dapatkah Anda menjelaskan dengan kata-kata Anda sendiri apa yang istimewa tentang masing-masing dari enam konsonan tersebut?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Murid",
+      "source": "Undskyld – er det rigtigt at sige 'soba' for 'prøv'?",
+      "target": "Maaf – apakah benar mengucapkan 'soba' untuk 'coba'?"
+    },
+    {
+      "speaker": "Guru",
+      "source": "Nej, C i indonesisk udtales altid som 'tj'. Så det er 'tjoba', ikke 'soba' eller 'koba'.",
+      "target": "Tidak, C dalam bahasa Indonesia selalu diucapkan seperti 'c' dalam 'cari'. Jadi 'coba', bukan 'soba' atau 'koba'."
+    },
+    {
+      "speaker": "Murid",
+      "source": "Og G – er det blødt som i dansk, eller hårdt som i 'go'?",
+      "target": "Dan G – apakah lunak seperti dalam bahasa Denmark, atau keras seperti dalam 'go'?"
+    },
+    {
+      "speaker": "Guru",
+      "source": "Altid hårdt! 'Gula' – sukker – udtales med hårdt G som i engelsk 'go', aldrig blødt.",
+      "target": "Selalu keras! 'Gula' diucapkan dengan G keras seperti dalam bahasa Inggris 'go', tidak pernah lunak."
+    },
+    {
+      "speaker": "Murid",
+      "source": "Hvad med NG – er det to lyde eller én?",
+      "target": "Bagaimana dengan NG – apakah dua bunyi atau satu?"
+    },
+    {
+      "speaker": "Guru",
+      "source": "Én lyd – som i engelsk 'sing'. Prøv: 'dengan' – det betyder 'med'. NG er ét enkelt nasalt lyd bagest i munden.",
+      "target": "Satu bunyi – seperti dalam bahasa Inggris 'sing'. Coba: 'dengan' – artinya 'dengan'. NG adalah satu bunyi nasal di bagian belakang mulut."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "at prøve / forsøge",
+      "target": "coba",
+      "note": {
+        "da": "C udtales 'tj'. Bruges også som 'hej, prøv lige' – uformel opfordring.",
+        "en": "C is pronounced 'tj'. Also used as 'hey, just try' – informal encouragement.",
+        "id": "C diucapkan seperti 'c' dalam 'cari'. Juga digunakan sebagai undangan tidak resmi 'coba deh'."
+      }
+    },
+    {
+      "source": "sukker",
+      "target": "gula",
+      "note": {
+        "da": "G udtales altid hårdt – som engelsk 'go'. Aldrig blødt dansk G.",
+        "en": "G is always pronounced hard – like English 'go'. Never soft Danish G.",
+        "id": "G selalu diucapkan keras – seperti 'g' dalam 'gajah'. Tidak pernah lunak."
+      }
+    },
+    {
+      "source": "vej / at gå",
+      "target": "jalan",
+      "note": {
+        "da": "J udtales som dansk J eller engelsk Y – aldrig som fransk/engelsk 'J' i 'journal'.",
+        "en": "J is pronounced like Danish J or English Y – never like French/English 'J' in 'journal'.",
+        "id": "J diucapkan seperti 'y' dalam bahasa Inggris 'yes' atau 'j' dalam 'jari'. Tidak pernah seperti 'j' dalam 'journal' bahasa Inggris."
+      }
+    },
+    {
+      "source": "med (præposition)",
+      "target": "dengan",
+      "note": {
+        "da": "NG er én lyd – nasalt, bagest i munden. Som engelsk 'sing'. Udtales 'deng-an'.",
+        "en": "NG is one sound – nasal, at the back of the mouth. Like English 'sing'. Pronounced 'deng-an'.",
+        "id": "NG adalah satu bunyi – nasal, di bagian belakang mulut. Seperti 'ng' dalam 'panjang'. Diucapkan 'deng-an'."
+      }
+    },
+    {
+      "source": "behagelig / komfortabel",
+      "target": "nyaman",
+      "note": {
+        "da": "NY er én lyd – som spansk ñ i 'España' eller 'ny' i dansk 'nys'. Udtales 'nya-man'.",
+        "en": "NY is one sound – like Spanish ñ in 'España' or 'ny' in English 'canyon'. Pronounced 'nya-man'.",
+        "id": "NY adalah satu bunyi – seperti 'ny' dalam 'nyata'. Diucapkan 'nya-man'."
+      }
+    },
+    {
+      "source": "hus",
+      "target": "rumah",
+      "note": {
+        "da": "R udtales rullet/vibrerende – som spansk R, ikke det bløde danske R.",
+        "en": "R is pronounced rolled/trilled – like Spanish R, not the soft Danish R.",
+        "id": "R diucapkan dengan getar – seperti R dalam 'rapi'. Tidak seperti R dalam bahasa Denmark."
+      }
+    },
+    {
+      "source": "sang / kæreste (kvinde)",
+      "target": "nyanyian / pacar",
+      "note": {
+        "da": "'Nyanyian' = sang – øv NY to gange i samme ord. 'Pacar' = kæreste – hårdt R til sidst.",
+        "en": "'Nyanyian' = song – practise NY twice in the same word. 'Pacar' = partner/sweetheart – hard rolled R at the end.",
+        "id": "'Nyanyian' = lagu – latih NY dua kali dalam kata yang sama. 'Pacar' = kekasih – R yang digulung di akhir."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Konsonantregler: én regel pr. bogstav",
+      "explanation": {
+        "da": "Indonesisk er bemærkelsesværdigt konsistent: C = altid 'tj', G = altid hårdt, J = altid Y-lyd, NG = altid nasalt bagtunge-lyd, NY = altid palatalt nasalt lyd, R = altid rullet. Ingen undtagelser, ingen kontekstafhængige regler.",
+        "en": "Indonesian is remarkably consistent: C = always 'tj', G = always hard, J = always Y-sound, NG = always nasal back-tongue sound, NY = always palatal nasal sound, R = always rolled. No exceptions, no context-dependent rules.",
+        "id": "Bahasa Indonesia sangat konsisten: C = selalu 'c', G = selalu keras, J = selalu bunyi-Y, NG = selalu bunyi nasal belakang, NY = selalu bunyi nasal palatal, R = selalu digulung. Tidak ada pengecualian, tidak ada aturan yang bergantung pada konteks."
+      },
+      "examples": [
+        {
+          "source": "C = 'tj'-lyd: tjoba (coba), tjakap (cakap)",
+          "target": "C = bunyi 'c': coba, cakap, cara"
+        },
+        {
+          "source": "NG = bagtunge-nasallyd: de-ng-an, ba-ng-sa",
+          "target": "NG = bunyi nasal belakang: dengan, bangsa, panjang"
+        },
+        {
+          "source": "NY = palatalt nasallyd: nya-man, nya-nyi",
+          "target": "NY = bunyi nasal palatal: nyaman, nyanyi, nyata"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til parene og identificer: hvilket ord udtales korrekt på indonesisk? (a) 'soba' eller 'coba'? (b) 'jalan' med Y-lyd eller med hårdt J? (c) 'dengan' med to lyde N-G eller med ét NG-lyd?",
+        "en": "Listen to the pairs and identify: which word is pronounced correctly in Indonesian? (a) 'soba' or 'coba'? (b) 'jalan' with Y-sound or with hard J? (c) 'dengan' with two sounds N-G or with one NG-sound?",
+        "id": "Dengarkan pasangan-pasangan dan identifikasi: kata mana yang diucapkan dengan benar dalam bahasa Indonesia? (a) 'soba' atau 'coba'? (b) 'jalan' dengan bunyi-Y atau dengan J keras? (c) 'dengan' dengan dua bunyi N-G atau dengan satu bunyi NG?"
+      },
+      "answerShape": {
+        "da": "(a) coba – C er altid 'tj'. (b) jalan med Y-lyd. (c) dengan med ét NG-lyd.",
+        "en": "(a) coba – C is always 'tj'. (b) jalan with Y-sound. (c) dengan with one NG-sound.",
+        "id": "(a) coba – C selalu diucapkan seperti 'c'. (b) jalan dengan bunyi-Y. (c) dengan dengan satu bunyi NG."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Udtale disse sætningspar tydeligt. Fokuser på de fremhævede konsonanter: 'Coba gula ini.' / 'Jalan dengan nyaman.' / 'Rumah saya di sana.'",
+        "en": "Pronounce these sentence pairs clearly. Focus on the highlighted consonants: 'Coba gula ini.' / 'Jalan dengan nyaman.' / 'Rumah saya di sana.'",
+        "id": "Ucapkan pasangan kalimat ini dengan jelas. Fokus pada konsonan yang disorot: 'Coba gula ini.' / 'Jalan dengan nyaman.' / 'Rumah saya di sana.'"
+      },
+      "answerShape": {
+        "da": "C='tj', G=hårdt, J=Y, NG=enkeltlyd, NY=ñ, R=rullet. Ingen danske bløde konsonanter.",
+        "en": "C='tj', G=hard, J=Y, NG=single sound, NY=ñ, R=rolled. No Danish soft consonants.",
+        "id": "C='c', G=keras, J=Y, NG=bunyi tunggal, NY=ñ, R=digulung. Tidak ada konsonan lunak bahasa Denmark."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilke af de seks konsonanter er sværest for dig som dansktaler? Skriv en kort begrundelse og beskriv hvad der gør den svær.",
+        "en": "Which of the six consonants is hardest for you as a Danish speaker? Write a short explanation describing what makes it difficult.",
+        "id": "Dari enam konsonan tersebut, mana yang paling sulit bagi Anda sebagai penutur bahasa Denmark? Tulis penjelasan singkat tentang apa yang membuatnya sulit."
+      },
+      "answerShape": {
+        "da": "Individuelle svar. Typisk: R (rullet) og NY (palatalt nasalt) er de sværeste for dansktalende.",
+        "en": "Individual answers. Typically: R (rolled) and NY (palatal nasal) are the hardest for Danish speakers.",
+        "id": "Jawaban individual. Biasanya: R (digulung) dan NY (nasal palatal) adalah yang paling sulit bagi penutur bahasa Denmark."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme00-lesson03-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Svære konsonanter: C, G, J, NG, NY, R",
+        "en": "Tricky consonants: C, G, J, NG, NY, R",
+        "id": "Konsonan yang menantang: C, G, J, NG, NY, R"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

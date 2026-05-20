@@ -1,0 +1,52 @@
+{
+  "slug": "bipa-4",
+  "order": 4,
+  "cefr": "B1+",
+  "stage": {
+    "da": "Intermediate",
+    "en": "Intermediate",
+    "id": "Menengah"
+  },
+  "title": {
+    "da": "BIPA 4 · Rapport og struktur",
+    "en": "BIPA 4 · Reporting and structure",
+    "id": "BIPA 4 · Laporan dan struktur"
+  },
+  "summary": {
+    "da": "Observation, korte rapporter, faglige beskeder og mere formel sprogbrug.",
+    "en": "Observation, short reports, professional messages, and more formal language use.",
+    "id": "Pengamatan, laporan singkat, pesan profesional, dan penggunaan bahasa yang lebih formal."
+  },
+  "focus": [
+    {
+      "da": "Opsummering",
+      "en": "Summarizing",
+      "id": "Merangkum"
+    },
+    {
+      "da": "Formel tone",
+      "en": "Formal tone",
+      "id": "Nada formal"
+    },
+    {
+      "da": "Faglige forklaringer",
+      "en": "Professional explanations",
+      "id": "Penjelasan profesional"
+    }
+  ],
+  "teacherPositioning": {
+    "da": "Underviseren kan bruge modulerne som mini-seminarer med output på tavle og skærm.",
+    "en": "Teachers can use the modules as mini seminars with board and screen output.",
+    "id": "Pengajar dapat memakai modul sebagai mini seminar dengan output di papan dan layar."
+  },
+  "selfStudyPositioning": {
+    "da": "Selvstudie kræver mere feedbackstøtte og tydelige eksempler på registerskifte.",
+    "en": "Self-study needs stronger feedback support and clear examples of register switching.",
+    "id": "Belajar mandiri memerlukan dukungan umpan balik yang lebih kuat dan contoh perubahan register yang jelas."
+  },
+  "supportedPairs": ["da-id", "id-da", "en-id", "id-en"],
+  "palette": {
+    "accent": "#4581ff",
+    "glow": "#b3c9ff"
+  }
+}

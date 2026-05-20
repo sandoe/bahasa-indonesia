@@ -1,0 +1,259 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Dia dan Mereka – Han, Hun og De",
+    "en": "Dia dan Mereka – He, She and They",
+    "id": "Dia dan Mereka – Dia dan Mereka"
+  },
+  "summary": {
+    "da": "Lær at tale om fraværende personer med det kønsneutrale pronomen 'dia/ia' (han/hun) og 'mereka' (de). Indonesisk skelner ikke mellem han og hun!",
+    "en": "Learn to talk about absent people using the gender-neutral pronoun 'dia/ia' (he/she) and 'mereka' (they). Indonesian does not distinguish between he and she!",
+    "id": "Pelajari cara berbicara tentang orang yang tidak hadir menggunakan kata ganti netral gender 'dia/ia' dan 'mereka'. Bahasa Indonesia tidak membedakan laki-laki dan perempuan dalam kata ganti!"
+  },
+  "objectives": [
+    {
+      "da": "Bruge 'dia' og 'ia' korrekt om en fraværende person uanset køn.",
+      "en": "Use 'dia' and 'ia' correctly for an absent person regardless of gender.",
+      "id": "Menggunakan 'dia' dan 'ia' dengan benar untuk orang yang tidak hadir tanpa memandang jenis kelamin."
+    },
+    {
+      "da": "Bruge 'mereka' om flere fraværende personer.",
+      "en": "Use 'mereka' for multiple absent persons.",
+      "id": "Menggunakan 'mereka' untuk beberapa orang yang tidak hadir."
+    },
+    {
+      "da": "Forklare den kulturelle pointe: indonesisk har ét pronomen for han og hun.",
+      "en": "Explain the cultural point: Indonesian has one pronoun for he and she.",
+      "id": "Menjelaskan poin budaya: bahasa Indonesia memiliki satu kata ganti untuk dia laki-laki dan dia perempuan."
+    }
+  ],
+  "unit": {
+    "slug": "theme-05",
+    "order": 5,
+    "title": {
+      "da": "Tema 5: Andre Mennesker",
+      "en": "Theme 5: Other People",
+      "id": "Tema 5: Orang Lain"
+    },
+    "summary": {
+      "da": "At beskrive og tale om andre mennesker.",
+      "en": "Describing and talking about other people.",
+      "id": "Mendeskripsikan dan berbicara tentang orang lain."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skriv på tavlen: 'Dia baik.' Spørg klassen: 'Er 'dia' en han eller hun?' Lad diskussionen opstå – og afslør derefter svaret: begge dele!",
+        "en": "Write on the board: 'Dia baik.' Ask the class: 'Is 'dia' a he or a she?' Let the discussion arise – then reveal the answer: both!",
+        "id": "Tulis di papan tulis: 'Dia baik.' Tanyakan kelas: 'Apakah 'dia' laki-laki atau perempuan?' Biarkan diskusi muncul – lalu ungkapkan jawabannya: keduanya!"
+      },
+      "flow": [
+        {
+          "da": "Introducer 'dia' og 'ia' som synonymer for han/hun/det. Giv eksempler: 'Dia guru saya.' (Han/Hun er min lærer.) Fremhæv at konteksten afgør køn.",
+          "en": "Introduce 'dia' and 'ia' as synonyms for he/she/it. Give examples: 'Dia guru saya.' (He/She is my teacher.) Emphasize that context determines gender.",
+          "id": "Perkenalkan 'dia' dan 'ia' sebagai sinonim untuk dia laki-laki/perempuan/itu. Berikan contoh: 'Dia guru saya.' Tekankan bahwa konteks menentukan jenis kelamin."
+        },
+        {
+          "da": "Tilføj 'mereka' (de). Sammenlign pronomentabellen: saya, kamu/Anda, dia/ia, kami/kita, kalian, mereka.",
+          "en": "Add 'mereka' (they). Compare the pronoun table: saya, kamu/Anda, dia/ia, kami/kita, kalian, mereka.",
+          "id": "Tambahkan 'mereka' (mereka). Bandingkan tabel kata ganti: saya, kamu/Anda, dia/ia, kami/kita, kalian, mereka."
+        },
+        {
+          "da": "Dialogøvelse: eleverne taler om en fraværende ven og bruger 'dia' konsekvent. Makkeren lytter og tilføjer information.",
+          "en": "Dialogue exercise: students talk about an absent friend and consistently use 'dia'. The partner listens and adds information.",
+          "id": "Latihan dialog: siswa berbicara tentang teman yang tidak hadir dan secara konsisten menggunakan 'dia'. Pasangan mendengarkan dan menambahkan informasi."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Bemærk at 'ini dia' (her er han/hun) er et fast udtryk og ikke skal analyseres for meget. Lær det som en idiomatisk frase.",
+          "en": "Note that 'ini dia' (here he/she is) is a fixed expression and should not be over-analysed. Learn it as an idiomatic phrase.",
+          "id": "Perhatikan bahwa 'ini dia' adalah ungkapan tetap dan tidak perlu dianalisis berlebihan. Pelajari sebagai frasa idiomatis."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Memorér det fulde pronomenparadigme. Skriv det ud og læg mærke til hvilke der har formelle og uformelle varianter.",
+          "en": "Memorize the full pronoun paradigm. Write it out and notice which ones have formal and informal variants.",
+          "id": "Hafal paradigma kata ganti lengkap. Tuliskan dan perhatikan mana yang memiliki varian formal dan informal."
+        },
+        {
+          "da": "Skriv tre sætninger om en ven (fraværende) og brug 'dia' i alle tre.",
+          "en": "Write three sentences about a (absent) friend and use 'dia' in all three.",
+          "id": "Tulislah tiga kalimat tentang teman (yang tidak hadir) dan gunakan 'dia' di ketiganya."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige 'hun er dansker' på indonesisk uden at bruge et kønsspecifikt pronomen?",
+          "en": "Can you say 'she is Danish' in Indonesian without using a gender-specific pronoun?",
+          "id": "Bisakah Anda mengatakan 'dia orang Denmark' dalam bahasa Indonesia tanpa menggunakan kata ganti yang spesifik gender?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Nina",
+      "source": "Hei, kamu kenal Budi? Dia tidak datang hari ini.",
+      "target": "Hej, kender du Budi? Han/hun kom ikke i dag."
+    },
+    {
+      "speaker": "Toni",
+      "source": "Budi? Dia teman lama saya! Dia tinggal di mana sekarang?",
+      "target": "Budi? Det er en gammel ven af mig! Hvor bor han/hun nu?"
+    },
+    {
+      "speaker": "Nina",
+      "source": "Dia tinggal di Surabaya. Dia sudah menikah dan punya dua anak.",
+      "target": "Han/hun bor i Surabaya. Er gift og har to børn."
+    },
+    {
+      "speaker": "Toni",
+      "source": "Wah, bagus! Dan teman-teman kita yang lain – mereka bagaimana?",
+      "target": "Hold da op! Og de andre venner – hvordan har de det?"
+    },
+    {
+      "speaker": "Nina",
+      "source": "Mereka masih di Jakarta. Mereka kerja di perusahaan besar.",
+      "target": "De er stadig i Jakarta. De arbejder i en stor virksomhed."
+    },
+    {
+      "speaker": "Toni",
+      "source": "Ini dia orangnya – ada foto Budi di ponselku!",
+      "target": "Her er han/hun – jeg har et billede af Budi på min telefon!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Han / Hun (3. person ental)",
+      "target": "Dia / Ia",
+      "note": {
+        "da": "'Dia' er mest brugt i tale; 'ia' er lidt mere formelt og skriftsprogligt. Begge er kønsneutrale.",
+        "en": "'Dia' is most used in speech; 'ia' is slightly more formal and literary. Both are gender-neutral.",
+        "id": "'Dia' paling sering digunakan dalam percakapan; 'ia' sedikit lebih formal dan sastrawi. Keduanya netral gender."
+      }
+    },
+    {
+      "source": "De (3. person flertal)",
+      "target": "Mereka",
+      "note": {
+        "da": "Bruges om en gruppe af mennesker. Kan bruges om mænd, kvinder eller blandet gruppe.",
+        "en": "Used for a group of people. Can be used for men, women, or a mixed group.",
+        "id": "Digunakan untuk sekelompok orang. Dapat digunakan untuk pria, wanita, atau kelompok campuran."
+      }
+    },
+    {
+      "source": "Her er han/hun (fast udtryk)",
+      "target": "Ini dia",
+      "note": {
+        "da": "Et fast udtryk der bruges til at præsentere nogen eller noget med en vis fanfare.",
+        "en": "A fixed expression used to present someone or something with a certain flourish.",
+        "id": "Ungkapan tetap yang digunakan untuk mempersembahkan seseorang atau sesuatu dengan semangat."
+      }
+    },
+    {
+      "source": "Gammel ven (fra lang tid siden)",
+      "target": "Teman lama",
+      "note": {
+        "da": "'Lama' = gammel (om tid), ikke om alder på en person. 'Teman lama' = ven fra lang tid siden.",
+        "en": "'Lama' = old (about time), not about a person's age. 'Teman lama' = friend from a long time ago.",
+        "id": "'Lama' = lama (tentang waktu), bukan tentang usia seseorang. 'Teman lama' = teman dari lama."
+      }
+    },
+    {
+      "source": "Virksomhed / Firma",
+      "target": "Perusahaan",
+      "note": {
+        "da": "Fra 'usaha' (bestræbelse/indsats). Kan bruges om alt fra lille butik til stor corporation.",
+        "en": "From 'usaha' (effort/endeavor). Can be used for everything from a small shop to a large corporation.",
+        "id": "Dari 'usaha' (usaha/upaya). Dapat digunakan untuk segalanya mulai dari toko kecil hingga perusahaan besar."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Pronomenparadigme: saya, kamu, dia, kami, kita, kalian, mereka",
+      "explanation": {
+        "da": "Indonesisk har et relativt simpelt pronomenparadigme, men vigtigt: 'kami' = vi (eksklusivt – du er ikke inkluderet), 'kita' = vi (inklusivt – alle inkluderet). 'Dia' dækker han og hun.",
+        "en": "Indonesian has a relatively simple pronoun paradigm, but important: 'kami' = we (exclusive – you are not included), 'kita' = we (inclusive – everyone included). 'Dia' covers he and she.",
+        "id": "Bahasa Indonesia memiliki paradigma kata ganti yang relatif sederhana, tetapi penting: 'kami' = kami (eksklusif – kamu tidak termasuk), 'kita' = kita (inklusif – semua termasuk). 'Dia' mencakup dia laki-laki dan perempuan."
+      },
+      "examples": [
+        { "source": "Hun er dansker.", "target": "Dia orang Denmark." },
+        { "source": "Han bor i Jakarta.", "target": "Dia tinggal di Jakarta." },
+        { "source": "De er venner.", "target": "Mereka adalah teman." }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Beskriv en ven (eller berømt person) du kender med 3-4 sætninger. Brug 'dia' konsekvent og sig navn, bopæl og én ting om personen.",
+        "en": "Describe a friend (or famous person) you know with 3-4 sentences. Use 'dia' consistently and say name, place of residence, and one thing about the person.",
+        "id": "Deskripsikan seorang teman (atau orang terkenal) yang Anda kenal dengan 3-4 kalimat. Gunakan 'dia' secara konsisten dan sebutkan nama, tempat tinggal, dan satu hal tentang orang tersebut."
+      },
+      "answerShape": {
+        "da": "Tre til fire sætninger med 'dia' som subjekt.",
+        "en": "Three to four sentences with 'dia' as subject.",
+        "id": "Tiga hingga empat kalimat dengan 'dia' sebagai subjek."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Oversæt: 1) Han er lærer.  2) Hun bor i Bali.  3) De arbejder her.  4) Han og hun er venner.",
+        "en": "Translate: 1) He is a teacher.  2) She lives in Bali.  3) They work here.  4) He and she are friends.",
+        "id": "Terjemahkan: 1) Dia (laki-laki) adalah guru.  2) Dia (perempuan) tinggal di Bali.  3) Mereka bekerja di sini.  4) Dia laki-laki dan dia perempuan adalah teman."
+      },
+      "answerShape": {
+        "da": "1) Dia guru.  2) Dia tinggal di Bali.  3) Mereka bekerja di sini.  4) Mereka adalah teman.",
+        "en": "1) Dia guru.  2) Dia tinggal di Bali.  3) Mereka bekerja di sini.  4) Mereka adalah teman.",
+        "id": "1) Dia guru.  2) Dia tinggal di Bali.  3) Mereka bekerja di sini.  4) Mereka adalah teman."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad synes du er fordelen ved et kønsneutralt pronomen som 'dia'? Er der situationer hvor det kunne skabe forvirring? Sammenlign med dansk.",
+        "en": "What do you see as the advantage of a gender-neutral pronoun like 'dia'? Are there situations where it could cause confusion? Compare with Danish.",
+        "id": "Apa menurut Anda keuntungan dari kata ganti netral gender seperti 'dia'? Apakah ada situasi di mana ini bisa menimbulkan kebingungan? Bandingkan dengan bahasa Denmark."
+      },
+      "answerShape": {
+        "da": "To til tre sætninger.",
+        "en": "Two to three sentences.",
+        "id": "Dua hingga tiga kalimat."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme05-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Kønsneutrale pronomer i indonesisk",
+        "en": "Gender-neutral pronouns in Indonesian",
+        "id": "Kata ganti netral gender dalam bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

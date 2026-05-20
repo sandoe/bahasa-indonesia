@@ -1,0 +1,190 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-2",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 45,
+  "title": {
+    "da": "På markedet",
+    "en": "At the market",
+    "id": "Di pasar"
+  },
+  "summary": {
+    "da": "Fra ordforråd til funktion: køb, pris og enkle valg.",
+    "en": "From vocabulary to function: buying, price, and simple choices.",
+    "id": "Dari kosakata ke fungsi: membeli, harga, dan pilihan sederhana."
+  },
+  "objectives": [
+    {
+      "da": "Spørge om pris.",
+      "en": "Ask for a price.",
+      "id": "Menanyakan harga."
+    },
+    {
+      "da": "Bestille en enkel vare.",
+      "en": "Order a simple item.",
+      "id": "Memesan barang sederhana."
+    }
+  ],
+  "unit": {
+    "slug": "unit-01",
+    "order": 1,
+    "title": {
+      "da": "Hverdag ude i byen",
+      "en": "Everyday life in town",
+      "id": "Keseharian di kota"
+    },
+    "summary": {
+      "da": "Hvordan sproget bruges i marked, butik og transport.",
+      "en": "How the language works in markets, shops, and transport.",
+      "id": "Bagaimana bahasa digunakan di pasar, toko, dan transportasi."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skab en lille markedsscene med prisetiketter og varer.",
+        "en": "Create a small market scene with price tags and items.",
+        "id": "Buat adegan pasar kecil dengan label harga dan barang."
+      },
+      "flow": [
+        {
+          "da": "Læreren modellerer kunde og sælger.",
+          "en": "The teacher models customer and seller.",
+          "id": "Pengajar memodelkan pembeli dan penjual."
+        },
+        {
+          "da": "Eleverne roterer mellem køb og salg.",
+          "en": "Learners rotate between buying and selling.",
+          "id": "Siswa bergantian antara membeli dan menjual."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Hold sætningerne korte og rytmiske.",
+          "en": "Keep the sentences short and rhythmic.",
+          "id": "Jaga kalimat tetap pendek dan ritmis."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs prisdialogen og gentag højt.",
+          "en": "Read the price dialogue and repeat aloud.",
+          "id": "Baca dialog harga dan ulangi dengan suara keras."
+        },
+        {
+          "da": "Vælg tre varer og lav dine egne mini-køb.",
+          "en": "Choose three items and create your own mini purchases.",
+          "id": "Pilih tiga barang dan buat transaksi mini Anda sendiri."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige både pris og antal?",
+          "en": "Can you say both price and quantity?",
+          "id": "Bisakah Anda menyebut harga dan jumlah?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Kunde",
+      "source": "Hvor meget koster den?",
+      "target": "Berapa harganya?"
+    },
+    {
+      "speaker": "Sælger",
+      "source": "Den koster tyve tusind.",
+      "target": "Harganya dua puluh ribu."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Hvor meget koster den?",
+      "target": "Berapa harganya?",
+      "note": {
+        "da": "Den centrale markedssætning",
+        "en": "The key market sentence",
+        "id": "Kalimat inti di pasar"
+      }
+    },
+    {
+      "source": "Jeg vil gerne købe ...",
+      "target": "Saya mau membeli ...",
+      "note": {
+        "da": "Sikker købssætning",
+        "en": "Safe purchase frame",
+        "id": "Pola aman untuk membeli"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Berapa harganya? / Saya mau membeli ...",
+      "explanation": {
+        "da": "Et simpelt par af spørgsmål + intention som kan bruges næsten med det samme.",
+        "en": "A simple pair of question + intention that can be used almost immediately.",
+        "id": "Pasangan sederhana pertanyaan + niat yang bisa dipakai hampir segera."
+      },
+      "examples": [
+        {
+          "source": "Jeg vil gerne købe to mangoer.",
+          "target": "Saya mau membeli dua mangga."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Spil køber og sælger med tre varer.",
+        "en": "Role-play buyer and seller with three items.",
+        "id": "Bermain peran pembeli dan penjual dengan tiga barang."
+      },
+      "answerShape": {
+        "da": "Kort dialog",
+        "en": "Short dialogue",
+        "id": "Dialog singkat"
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilke fraser bør ligge fast, så eleven føler sig tryg?",
+        "en": "Which phrases should stay fixed so the learner feels safe?",
+        "id": "Frasa apa yang perlu tetap agar pembelajar merasa aman?"
+      },
+      "answerShape": {
+        "da": "Kort note til lærer eller selvstudie",
+        "en": "Short note for teacher or self-study",
+        "id": "Catatan singkat untuk pengajar atau belajar mandiri"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-market-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Placeholder for markedsscene",
+        "en": "Placeholder for market scene",
+        "id": "Placeholder untuk adegan pasar"
+      },
+      "note": {
+        "da": "Her kan du senere indsætte din egen genererede video med varer, priser og undertekster.",
+        "en": "Later you can place your own generated video here with items, prices, and subtitles.",
+        "id": "Nanti Anda bisa meletakkan video buatan Anda sendiri di sini dengan barang, harga, dan subtitle."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

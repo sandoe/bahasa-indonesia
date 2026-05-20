@@ -1,0 +1,313 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Personlige Pronomener",
+    "en": "Personal Pronouns",
+    "id": "Kata Ganti Orang"
+  },
+  "summary": {
+    "da": "Lær de indonesiske personlige pronomener og forstå forskellen på formel og uformel tiltale.",
+    "en": "Learn Indonesian personal pronouns and understand the difference between formal and informal address.",
+    "id": "Pelajari kata ganti orang dalam bahasa Indonesia dan pahami perbedaan antara sapaan formal dan informal."
+  },
+  "objectives": [
+    {
+      "da": "Kende og bruge saya, aku, kamu og Anda korrekt i kontekst.",
+      "en": "Know and use saya, aku, kamu, and Anda correctly in context.",
+      "id": "Mengetahui dan menggunakan saya, aku, kamu, dan Anda dengan benar dalam konteks."
+    },
+    {
+      "da": "Skelne mellem kami (vi ekskl.) og kita (vi inkl.).",
+      "en": "Distinguish between kami (we excl.) and kita (we incl.).",
+      "id": "Membedakan antara kami (kami eksklusif) dan kita (kita inklusif)."
+    },
+    {
+      "da": "Nævne alle syv grundlæggende pronomener på indonesisk.",
+      "en": "Name all seven basic pronouns in Indonesian.",
+      "id": "Menyebutkan semua tujuh kata ganti dasar dalam bahasa Indonesia."
+    }
+  ],
+  "unit": {
+    "slug": "theme-02",
+    "order": 2,
+    "title": {
+      "da": "Tema 2: Identitet",
+      "en": "Theme 2: Identity",
+      "id": "Tema 2: Identitas"
+    },
+    "summary": {
+      "da": "Hvem er du? Personlige oplysninger og selvbeskrivelse.",
+      "en": "Who are you? Personal details and self-description.",
+      "id": "Siapa kamu? Informasi pribadi dan deskripsi diri."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skriv 'saya' og 'aku' på tavlen og spørg klassen: Hvornår bruger du det ene, og hvornår bruger du det andet?",
+        "en": "Write 'saya' and 'aku' on the board and ask the class: When do you use one, and when do you use the other?",
+        "id": "Tuliskan 'saya' dan 'aku' di papan tulis dan tanyakan kepada kelas: Kapan Anda menggunakan yang satu, dan kapan yang lain?"
+      },
+      "flow": [
+        {
+          "da": "Introducer alle pronomener med eksempler: saya/aku (jeg), kamu/kau/Anda (du), dia/ia (han/hun), kami/kita (vi), kalian (I), mereka (de).",
+          "en": "Introduce all pronouns with examples: saya/aku (I), kamu/kau/Anda (you), dia/ia (he/she), kami/kita (we), kalian (you all), mereka (they).",
+          "id": "Perkenalkan semua kata ganti dengan contoh: saya/aku (saya), kamu/kau/Anda (kamu), dia/ia (dia), kami/kita (kami/kita), kalian (kalian), mereka (mereka)."
+        },
+        {
+          "da": "Forklar kami vs. kita: Kami = vi (men ikke dig). Kita = vi alle inkl. dig. Brug et klasseromseksempel.",
+          "en": "Explain kami vs. kita: Kami = we (but not you). Kita = we all including you. Use a classroom example.",
+          "id": "Jelaskan kami vs. kita: Kami = kami (tidak termasuk kamu). Kita = kita semua termasuk kamu. Gunakan contoh di kelas."
+        },
+        {
+          "da": "Lad eleverne øve par-samtaler: skift mellem formel (saya/Anda) og uformel (aku/kamu) stil.",
+          "en": "Have students practice pair conversations: switch between formal (saya/Anda) and informal (aku/kamu) style.",
+          "id": "Minta siswa berlatih percakapan berpasangan: berganti antara gaya formal (saya/Anda) dan informal (aku/kamu)."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Indonesere bruger navn eller titel i stedet for 'du' i mange situationer – det er mere høfligt end Anda. Nævn dette som kulturel kontekst.",
+          "en": "Indonesians often use a name or title instead of 'you' in many situations – it is more polite than Anda. Mention this as cultural context.",
+          "id": "Orang Indonesia sering menggunakan nama atau gelar sebagai pengganti 'kamu' dalam banyak situasi – ini lebih sopan daripada Anda. Sebutkan ini sebagai konteks budaya."
+        },
+        {
+          "da": "Kau er en mere poetisk/litterær variant af kamu og høres i sange og digte.",
+          "en": "Kau is a more poetic/literary variant of kamu and is heard in songs and poetry.",
+          "id": "Kau adalah varian yang lebih puitis/sastra dari kamu dan sering terdengar dalam lagu dan puisi."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs listen over pronomener højt tre gange. Prøv at huske dem uden at se på papiret.",
+          "en": "Read the list of pronouns aloud three times. Try to recall them without looking at the paper.",
+          "id": "Baca daftar kata ganti dengan keras tiga kali. Coba ingat tanpa melihat kertas."
+        },
+        {
+          "da": "Skriv tre sætninger om dig selv: én med saya, én med aku, og én med kita.",
+          "en": "Write three sentences about yourself: one with saya, one with aku, and one with kita.",
+          "id": "Tuliskan tiga kalimat tentang diri Anda: satu dengan saya, satu dengan aku, dan satu dengan kita."
+        },
+        {
+          "da": "Tænk over hvornår du ville bruge Anda vs. kamu i en rigtig samtale. Hvad er konteksten?",
+          "en": "Think about when you would use Anda vs. kamu in a real conversation. What is the context?",
+          "id": "Pikirkan kapan Anda akan menggunakan Anda vs. kamu dalam percakapan nyata. Apa konteksnya?"
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du forklare forskellen på kami og kita uden at kigge i noter?",
+          "en": "Can you explain the difference between kami and kita without looking at your notes?",
+          "id": "Dapatkah Anda menjelaskan perbedaan antara kami dan kita tanpa melihat catatan?"
+        },
+        {
+          "da": "Kan du nævne to situationer, hvor saya er bedre end aku?",
+          "en": "Can you name two situations where saya is better than aku?",
+          "id": "Bisakah Anda menyebutkan dua situasi di mana saya lebih baik daripada aku?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Bu Sari (Lærer)",
+      "source": "Saya er det formelle ord for 'jeg'. Aku er det uformelle. Hvornår vil I bruge saya?",
+      "target": "Saya adalah kata formal untuk 'saya'. Aku adalah kata informal. Kapan kalian akan menggunakan saya?"
+    },
+    {
+      "speaker": "Mads (Elev)",
+      "source": "Saya bruger saya på arbejdet og aku med venner, ikke?",
+      "target": "Saya menggunakan saya di tempat kerja dan aku dengan teman-teman, kan?"
+    },
+    {
+      "speaker": "Bu Sari (Lærer)",
+      "source": "Præcis! Og hvad med 'vi'? Vi har to ord: kami og kita.",
+      "target": "Tepat! Dan bagaimana dengan 'kami'? Kita punya dua kata: kami dan kita."
+    },
+    {
+      "speaker": "Lena (Elev)",
+      "source": "Hvad er forskellen? Begge betyder 'vi'.",
+      "target": "Apa bedanya? Keduanya berarti 'kami' atau 'kita'."
+    },
+    {
+      "speaker": "Bu Sari (Lærer)",
+      "source": "Kami udelukker den, man taler med. Kita inkluderer alle – også dig.",
+      "target": "Kami tidak termasuk lawan bicara. Kita mencakup semua orang – termasuk kamu."
+    },
+    {
+      "speaker": "Mads (Elev)",
+      "source": "Så kita belajar betyder 'vi studerer alle sammen'?",
+      "target": "Jadi kita belajar artinya 'kita semua belajar bersama'?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Jeg (formel)",
+      "target": "Saya",
+      "note": {
+        "da": "Bruges i formelle situationer, på arbejdet og over for fremmede.",
+        "en": "Used in formal situations, at work, and with strangers.",
+        "id": "Digunakan dalam situasi formal, di tempat kerja, dan dengan orang asing."
+      }
+    },
+    {
+      "source": "Jeg (uformel)",
+      "target": "Aku",
+      "note": {
+        "da": "Bruges med venner og familie. Kan lyde for tæt i formelle sammenhænge.",
+        "en": "Used with friends and family. Can sound too intimate in formal contexts.",
+        "id": "Digunakan dengan teman dan keluarga. Bisa terdengar terlalu akrab dalam konteks formal."
+      }
+    },
+    {
+      "source": "Du (formel)",
+      "target": "Anda",
+      "note": {
+        "da": "Meget formel. Brugt i erhvervssammenhæng og officielle tekster.",
+        "en": "Very formal. Used in business contexts and official texts.",
+        "id": "Sangat formal. Digunakan dalam konteks bisnis dan teks resmi."
+      }
+    },
+    {
+      "source": "Du (uformel)",
+      "target": "Kamu",
+      "note": {
+        "da": "Den mest almindelige uformelle 'du'. Kau er en mere poetisk variant.",
+        "en": "The most common informal 'you'. Kau is a more poetic variant.",
+        "id": "Kata 'kamu' informal yang paling umum. Kau adalah varian yang lebih puitis."
+      }
+    },
+    {
+      "source": "Han / Hun",
+      "target": "Dia / Ia",
+      "note": {
+        "da": "Indonesisk skelner ikke mellem han og hun. Dia og ia er synonymer.",
+        "en": "Indonesian does not distinguish between he and she. Dia and ia are synonyms.",
+        "id": "Bahasa Indonesia tidak membedakan antara dia laki-laki dan perempuan. Dia dan ia adalah sinonim."
+      }
+    },
+    {
+      "source": "Vi (ekskl. dig)",
+      "target": "Kami",
+      "note": {
+        "da": "Kami inkluderer IKKE den person, man taler med.",
+        "en": "Kami does NOT include the person you are speaking to.",
+        "id": "Kami TIDAK termasuk orang yang Anda ajak bicara."
+      }
+    },
+    {
+      "source": "Vi (inkl. dig)",
+      "target": "Kita",
+      "note": {
+        "da": "Kita inkluderer alle i samtalen, inklusive den, man taler med.",
+        "en": "Kita includes everyone in the conversation, including the person you are speaking to.",
+        "id": "Kita mencakup semua orang dalam percakapan, termasuk lawan bicara."
+      }
+    },
+    {
+      "source": "I / Jer",
+      "target": "Kalian",
+      "note": {
+        "da": "Uformelt flertal af 'du'. Bruges til grupper af venner eller jævnaldrende.",
+        "en": "Informal plural of 'you'. Used for groups of friends or peers.",
+        "id": "Bentuk jamak informal dari 'kamu'. Digunakan untuk kelompok teman atau teman sebaya."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Pronomen + Verbum (ingen bøjning)",
+      "explanation": {
+        "da": "I indonesisk bøjes verber ikke efter person eller tal. Saya makan og mereka makan er identiske i form – kun pronomenet fortæller hvem.",
+        "en": "In Indonesian, verbs are not conjugated by person or number. Saya makan and mereka makan are identical in form – only the pronoun tells us who.",
+        "id": "Dalam bahasa Indonesia, kata kerja tidak dikonjugasikan berdasarkan orang atau jumlah. Saya makan dan mereka makan identik dalam bentuk – hanya kata ganti yang memberi tahu siapa."
+      },
+      "examples": [
+        { "source": "Jeg spiser (formel)", "target": "Saya makan" },
+        { "source": "De spiser", "target": "Mereka makan" },
+        { "source": "Vi studerer alle", "target": "Kita belajar" }
+      ]
+    },
+    {
+      "pattern": "Kami vs. Kita",
+      "explanation": {
+        "da": "Kami ekskluderer modtageren. Kita inkluderer modtageren. Forskellen er vigtig for høflighed og præcision.",
+        "en": "Kami excludes the listener. Kita includes the listener. The distinction matters for politeness and precision.",
+        "id": "Kami tidak termasuk pendengar. Kita termasuk pendengar. Perbedaan ini penting untuk kesopanan dan ketepatan."
+      },
+      "examples": [
+        { "source": "Vi (eleverne) lærte det i går – du var ikke med.", "target": "Kami belajar kemarin." },
+        { "source": "Lad os alle lære det nu.", "target": "Kita belajar sekarang." }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Præsenter dig selv formelt: Sig 'Saya [dit navn]' og tilføj en sætning om din nationalitet.",
+        "en": "Introduce yourself formally: Say 'Saya [your name]' and add a sentence about your nationality.",
+        "id": "Perkenalkan diri Anda secara formal: Katakan 'Saya [nama Anda]' dan tambahkan kalimat tentang kebangsaan Anda."
+      },
+      "answerShape": {
+        "da": "Saya [navn]. Saya orang [nationalitet].",
+        "en": "Saya [name]. Saya orang [nationality].",
+        "id": "Saya [nama]. Saya orang [kebangsaan]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Oversæt sætningerne: 'Han spiser', 'Vi studerer (inkl.)', 'De arbejder'.",
+        "en": "Translate the sentences: 'He eats', 'We study (incl.)', 'They work'.",
+        "id": "Terjemahkan kalimat: 'Dia makan', 'Kita belajar (inkl.)', 'Mereka bekerja'."
+      },
+      "answerShape": {
+        "da": "Dia makan. Kita belajar. Mereka bekerja.",
+        "en": "Dia makan. Kita belajar. Mereka bekerja.",
+        "id": "Dia makan. Kita belajar. Mereka bekerja."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Tænk på dit eget sprog: Har dansk noget tilsvarende inklusiv/eksklusiv 'vi'? Hvad synes du om den indonesiske distinktion?",
+        "en": "Think about your own language: Does Danish have anything like an inclusive/exclusive 'we'? What do you think about the Indonesian distinction?",
+        "id": "Pikirkan bahasa Anda sendiri: Apakah bahasa Denmark memiliki sesuatu seperti 'kami'/'kita' inklusif/eksklusif? Apa pendapat Anda tentang perbedaan dalam bahasa Indonesia?"
+      },
+      "answerShape": {
+        "da": "Fri refleksion",
+        "en": "Free reflection",
+        "id": "Refleksi bebas"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme02-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Personlige Pronomener i Brug",
+        "en": "Personal Pronouns in Use",
+        "id": "Kata Ganti Orang dalam Penggunaan"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

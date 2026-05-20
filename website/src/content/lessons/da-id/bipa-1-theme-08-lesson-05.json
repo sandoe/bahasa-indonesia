@@ -1,0 +1,296 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 5,
+  "slug": "lesson-05",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Sociale Aktiviteter",
+    "en": "Social Activities",
+    "id": "Kegiatan Sosial"
+  },
+  "summary": {
+    "da": "Lær at planlægge og tale om sociale aktiviteter med venner på indonesisk, herunder den unikke indonesiske arisan-tradition.",
+    "en": "Learn to plan and talk about social activities with friends in Indonesian, including the unique Indonesian arisan tradition.",
+    "id": "Belajar merencanakan dan berbicara tentang kegiatan sosial bersama teman dalam bahasa Indonesia, termasuk tradisi arisan Indonesia yang unik."
+  },
+  "objectives": [
+    {
+      "da": "Foreslå og acceptere sociale aktiviteter på indonesisk.",
+      "en": "Suggest and accept social activities in Indonesian.",
+      "id": "Menyarankan dan menerima kegiatan sosial dalam bahasa Indonesia."
+    },
+    {
+      "da": "Nævne mindst fire sociale aktiviteter og forklare hvad arisan er.",
+      "en": "Name at least four social activities and explain what arisan is.",
+      "id": "Menyebutkan minimal empat kegiatan sosial dan menjelaskan apa itu arisan."
+    },
+    {
+      "da": "Bruge 'ayo', 'yuk', 'boleh', og 'setuju' korrekt i sociale forslag.",
+      "en": "Use 'ayo', 'yuk', 'boleh', and 'setuju' correctly in social suggestions.",
+      "id": "Menggunakan 'ayo', 'yuk', 'boleh', dan 'setuju' dengan benar dalam usulan sosial."
+    }
+  ],
+  "unit": {
+    "slug": "theme-08",
+    "order": 8,
+    "title": {
+      "da": "Tema 8: Fritid & Interesser",
+      "en": "Theme 8: Hobbies & Interests",
+      "id": "Tema 8: Hobi & Minat"
+    },
+    "summary": {
+      "da": "Fritidsaktiviteter, sport, kultur og personlige interesser.",
+      "en": "Leisure activities, sports, culture, and personal interests.",
+      "id": "Aktivitas waktu luang, olahraga, budaya, dan minat pribadi."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg klassen: 'Hvad laver du med dine venner i weekenden?' Introducer derefter tilsvarende indonesiske udtryk.",
+        "en": "Ask the class: 'What do you do with your friends at weekends?' Then introduce equivalent Indonesian expressions.",
+        "id": "Tanya kelas: 'Kamu ngapain sama teman-teman saat akhir pekan?' Kemudian perkenalkan ekspresi Indonesia yang setara."
+      },
+      "flow": [
+        {
+          "da": "Introducer aktivitetsordforrådet med billeder. Forklar derefter arisan-konceptet: en social opsparing, der roterer. Diskuter, om der er noget lignende i Danmark.",
+          "en": "Introduce the activity vocabulary with pictures. Then explain the arisan concept: a social rotating savings gathering. Discuss if there is anything similar in Denmark.",
+          "id": "Perkenalkan kosakata aktivitas dengan gambar. Kemudian jelaskan konsep arisan: pertemuan tabungan bergilir sosial. Diskusikan apakah ada yang serupa di Denmark."
+        },
+        {
+          "da": "Øv forslag-fraser: 'Ayo...', 'Yuk...', 'Bagaimana kalau...'. Forklar at 'ayo' og 'yuk' er synonymer og meget uformelle/venlige.",
+          "en": "Practice suggestion phrases: 'Ayo...', 'Yuk...', 'Bagaimana kalau...'. Explain that 'ayo' and 'yuk' are synonyms and very informal/friendly.",
+          "id": "Latih frasa usulan: 'Ayo...', 'Yuk...', 'Bagaimana kalau...'. Jelaskan bahwa 'ayo' dan 'yuk' adalah sinonim dan sangat informal/ramah."
+        },
+        {
+          "da": "Gruppeaktivitet: planlæg en weekend-sammenkomst. Hvert gruppemedlem foreslår en aktivitet og gruppen forhandler.",
+          "en": "Group activity: plan a weekend gathering. Each group member suggests an activity and the group negotiates.",
+          "id": "Aktivitas kelompok: rencanakan pertemuan akhir pekan. Setiap anggota kelompok mengusulkan aktivitas dan kelompok bernegosiasi."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Arisan er en central del af indonesisk socialt liv, specielt blandt kvinder. Deltagere indbetaler penge og trækker lod om hvem der får beløbet. Det er social sammenkomst og opsparingsform i ét.",
+          "en": "Arisan is a central part of Indonesian social life, especially among women. Participants contribute money and draw lots for who receives the amount. It is both a social gathering and a savings mechanism.",
+          "id": "Arisan adalah bagian penting dari kehidupan sosial Indonesia, terutama di kalangan perempuan. Peserta menyetor uang dan mengundi siapa yang mendapatkan jumlahnya. Ini adalah pertemuan sosial sekaligus mekanisme tabungan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær aktivitetsordforrådet. Læs om arisan online og noter tre interessante fakta.",
+          "en": "Learn the activity vocabulary. Read about arisan online and note three interesting facts.",
+          "id": "Pelajari kosakata aktivitas. Baca tentang arisan secara online dan catat tiga fakta menarik."
+        },
+        {
+          "da": "Skriv en kort besked (3-4 sætninger) til en ven på indonesisk, hvor du foreslår en weekendaktivitet.",
+          "en": "Write a short message (3-4 sentences) to a friend in Indonesian suggesting a weekend activity.",
+          "id": "Tulis pesan singkat (3-4 kalimat) kepada teman dalam bahasa Indonesia yang menyarankan aktivitas akhir pekan."
+        },
+        {
+          "da": "Øv dialogscenen og vær opmærksom på forslags-fraserne.",
+          "en": "Practice the dialogue scene and pay attention to the suggestion phrases.",
+          "id": "Latih dialog dan perhatikan frasa-frasa usulan."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du foreslå tre aktiviteter på indonesisk ved hjælp af 'ayo', 'yuk' og 'bagaimana kalau'?",
+          "en": "Can you suggest three activities in Indonesian using 'ayo', 'yuk', and 'bagaimana kalau'?",
+          "id": "Bisakah kamu menyarankan tiga aktivitas dalam bahasa Indonesia menggunakan 'ayo', 'yuk', dan 'bagaimana kalau'?"
+        },
+        {
+          "da": "Kan du forklare hvad arisan er på to til tre sætninger?",
+          "en": "Can you explain what arisan is in two to three sentences?",
+          "id": "Bisakah kamu menjelaskan apa itu arisan dalam dua hingga tiga kalimat?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Dewi",
+      "source": "Hej alle! Hvad skal vi lave i weekenden?",
+      "target": "Hei semua! Kita mau ngapain akhir pekan ini?"
+    },
+    {
+      "speaker": "Rudi",
+      "source": "Hvordan med at gå i en café? Jeg kender et godt sted.",
+      "target": "Bagaimana kalau pergi ke kafe? Saya tahu tempat yang bagus."
+    },
+    {
+      "speaker": "Maya",
+      "source": "God idé! Vi kan spise frokost sammen bagefter.",
+      "target": "Ide bagus! Kita bisa makan bersama setelahnya."
+    },
+    {
+      "speaker": "Dewi",
+      "source": "Enig! Og hvad med lørdag aften? Skal vi holde en lille fest?",
+      "target": "Setuju! Terus Sabtu malam bagaimana? Kita adakan pesta kecil, yuk?"
+    },
+    {
+      "speaker": "Rudi",
+      "source": "Ja, lad os! Eller skal vi have en arisan? Så har vi også en grund til at spare op.",
+      "target": "Ayo! Atau kita adakan arisan? Sekalian menabung bersama."
+    },
+    {
+      "speaker": "Maya",
+      "source": "Fantastisk idé! Lad os have picnic søndag og arisan lørdag.",
+      "target": "Ide yang bagus sekali! Kita piknik hari Minggu dan arisan hari Sabtu."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "bertemu teman",
+      "target": "møde venner / meet friends",
+      "note": {
+        "da": "'Bertemu' = at møde/mødes. Fra 'temu' (møde/finde). 'Teman' = ven.",
+        "en": "'Bertemu' = to meet. From 'temu' (meet/find). 'Teman' = friend.",
+        "id": "'Bertemu' = bertemu. Dari kata dasar 'temu'. 'Teman' = teman."
+      }
+    },
+    {
+      "source": "pergi ke kafe",
+      "target": "gå i café / go to a cafe",
+      "note": {
+        "da": "'Pergi ke' = gå til / tage til. Bruges med steder.",
+        "en": "'Pergi ke' = go to. Used with places.",
+        "id": "'Pergi ke' = pergi ke. Digunakan dengan tempat."
+      }
+    },
+    {
+      "source": "makan bersama",
+      "target": "spise sammen / eat together",
+      "note": {
+        "da": "'Bersama' = sammen. 'Makan bersama' er en vigtig social aktivitet i Indonesien.",
+        "en": "'Bersama' = together. 'Makan bersama' is an important social activity in Indonesia.",
+        "id": "'Bersama' = bersama-sama. 'Makan bersama' adalah aktivitas sosial penting di Indonesia."
+      }
+    },
+    {
+      "source": "pesta",
+      "target": "fest / party",
+      "note": {
+        "da": "Internationalt låneord. Udtales 'pes-ta'.",
+        "en": "International loanword. Pronounced 'pes-ta'.",
+        "id": "Kata serapan internasional. Diucapkan 'pes-ta'."
+      }
+    },
+    {
+      "source": "arisan",
+      "target": "arisan (social roterende opsparingsgruppe)",
+      "note": {
+        "da": "En typisk indonesisk sammenkomst: deltagerne indbetaler et fast beløb og trækker lod om hvem der modtager den samlede sum. Kombinerer social samvær med opsparing.",
+        "en": "A typical Indonesian gathering: participants contribute a fixed amount and draw lots for who receives the total sum. Combines socialising with saving.",
+        "id": "Pertemuan khas Indonesia: peserta menyetor jumlah tetap dan mengundi siapa yang menerima total jumlah. Menggabungkan sosialisasi dengan menabung."
+      }
+    },
+    {
+      "source": "piknik",
+      "target": "picnic / picnic",
+      "note": {
+        "da": "Internationalt låneord. Populær aktivitet i Indonesien, særlig ved havet eller på stranden.",
+        "en": "International loanword. Popular activity in Indonesia, especially by the sea or beach.",
+        "id": "Kata serapan internasional. Aktivitas populer di Indonesia, terutama di tepi laut atau pantai."
+      }
+    },
+    {
+      "source": "ayo / yuk",
+      "target": "lad os / kom så / let's / come on",
+      "note": {
+        "da": "'Ayo' og 'yuk' er synonymer og meget uformelle invitationsord. 'Yuk' er lidt mere afslappet.",
+        "en": "'Ayo' and 'yuk' are synonyms and very informal invitation words. 'Yuk' is slightly more casual.",
+        "id": "'Ayo' dan 'yuk' adalah sinonim dan kata undangan yang sangat informal. 'Yuk' sedikit lebih santai."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Ayo / Yuk + [verbum] — at foreslå aktiviteter",
+      "explanation": {
+        "da": "'Ayo' og 'yuk' sættes foran et verbum for at foreslå en aktivitet til gruppen. De svarer til 'lad os...' på dansk. 'Bagaimana kalau...' (hvad hvis...) er en lidt mere høflig form.",
+        "en": "'Ayo' and 'yuk' are placed before a verb to suggest an activity to the group. They correspond to 'let's...' in English. 'Bagaimana kalau...' (what if/how about...) is a slightly more polite form.",
+        "id": "'Ayo' dan 'yuk' ditempatkan sebelum kata kerja untuk menyarankan aktivitas kepada kelompok. Mereka sesuai dengan 'let's...' dalam bahasa Inggris. 'Bagaimana kalau...' adalah bentuk yang sedikit lebih sopan."
+      },
+      "examples": [
+        {
+          "source": "Lad os gå i café!",
+          "target": "Ayo pergi ke kafe!"
+        },
+        {
+          "source": "Kom så, vi spiser frokost!",
+          "target": "Yuk makan siang!"
+        },
+        {
+          "source": "Hvad med at holde picnic?",
+          "target": "Bagaimana kalau kita piknik?"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Foreslå tre weekendaktiviteter til din gruppe. Brug 'Ayo...', 'Yuk...' og 'Bagaimana kalau...'.",
+        "en": "Suggest three weekend activities to your group. Use 'Ayo...', 'Yuk...', and 'Bagaimana kalau...'.",
+        "id": "Sarankan tiga kegiatan akhir pekan kepada kelompokmu. Gunakan 'Ayo...', 'Yuk...', dan 'Bagaimana kalau...'."
+      },
+      "answerShape": {
+        "da": "Ayo [aktivitet 1]! Yuk [aktivitet 2]! Bagaimana kalau kita [aktivitet 3]?",
+        "en": "Ayo [activity 1]! Yuk [activity 2]! Bagaimana kalau kita [activity 3]?",
+        "id": "Ayo [aktivitas 1]! Yuk [aktivitas 2]! Bagaimana kalau kita [aktivitas 3]?"
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Forklar arisan-konceptet til en person, der ikke kender det. Brug to til tre sætninger på indonesisk.",
+        "en": "Explain the arisan concept to someone who does not know it. Use two to three sentences in Indonesian.",
+        "id": "Jelaskan konsep arisan kepada seseorang yang belum mengenalnya. Gunakan dua hingga tiga kalimat dalam bahasa Indonesia."
+      },
+      "answerShape": {
+        "da": "Arisan adalah kegiatan sosial di Indonesia. Peserta mengumpulkan uang bersama. Setiap pertemuan, satu orang mendapat semua uangnya.",
+        "en": "Arisan adalah kegiatan sosial di Indonesia. Peserta mengumpulkan uang bersama. Setiap pertemuan, satu orang mendapat semua uangnya.",
+        "id": "Arisan adalah kegiatan sosial di Indonesia. Peserta mengumpulkan uang bersama. Setiap pertemuan, satu orang mendapat semua uangnya."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en kort gruppebesked (chat): tre personer planlægger en aktivitet. Brug mindst to forslagsfraser.",
+        "en": "Write a short group message (chat): three people plan an activity. Use at least two suggestion phrases.",
+        "id": "Tulis pesan kelompok singkat (chat): tiga orang merencanakan aktivitas. Gunakan minimal dua frasa usulan."
+      },
+      "answerShape": {
+        "da": "A: Ayo pergi ke kafe! B: Setuju! C: Bagaimana kalau kita makan bersama juga?",
+        "en": "A: Ayo pergi ke kafe! B: Setuju! C: Bagaimana kalau kita makan bersama juga?",
+        "id": "A: Ayo pergi ke kafe! B: Setuju! C: Bagaimana kalau kita makan bersama juga?"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme08-lesson05-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Sociale Aktiviteter: Arisan og hverdagssocialt liv",
+        "en": "Social Activities: Arisan and everyday social life",
+        "id": "Kegiatan Sosial: Arisan dan kehidupan sosial sehari-hari"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

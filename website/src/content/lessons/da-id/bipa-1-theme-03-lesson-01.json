@@ -1,0 +1,286 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Angka 0–10 — Tallene 0 til 10",
+    "en": "Angka 0–10 — Numbers 0 to 10",
+    "id": "Angka 0–10"
+  },
+  "summary": {
+    "da": "Lær de grundlæggende tal fra 0 til 10 på indonesisk og forstå den vigtige regel: indonesisk bruger ikke flertalsform – tal + substantiv er alt, hvad der kræves.",
+    "en": "Learn the basic numbers from 0 to 10 in Indonesian and understand the key rule: Indonesian does not use plural forms – number + noun is all that is required.",
+    "id": "Pelajari angka dasar dari 0 hingga 10 dalam bahasa Indonesia dan pahami aturan penting: bahasa Indonesia tidak menggunakan bentuk jamak – angka + kata benda sudah cukup."
+  },
+  "objectives": [
+    {
+      "da": "Tælle fra 0 til 10 på indonesisk flydende.",
+      "en": "Count from 0 to 10 in Indonesian fluently.",
+      "id": "Menghitung dari 0 hingga 10 dalam bahasa Indonesia dengan lancar."
+    },
+    {
+      "da": "Forstå, at indonesisk ikke anvender flertalsform efter talord.",
+      "en": "Understand that Indonesian does not use plural forms after numerals.",
+      "id": "Memahami bahwa bahasa Indonesia tidak menggunakan bentuk jamak setelah kata bilangan."
+    },
+    {
+      "da": "Bruge tallene til at tælle synlige genstande i klassen.",
+      "en": "Use the numbers to count visible objects in the classroom.",
+      "id": "Menggunakan angka untuk menghitung benda-benda yang terlihat di kelas."
+    }
+  ],
+  "unit": {
+    "slug": "theme-03",
+    "order": 3,
+    "title": {
+      "da": "Tema 3: Tal & Farver",
+      "en": "Theme 3: Numbers & Colors",
+      "id": "Tema 3: Angka & Warna"
+    },
+    "summary": {
+      "da": "Tæl og beskriv verden med tal og farver.",
+      "en": "Count and describe the world with numbers and colors.",
+      "id": "Hitung dan deskripsikan dunia dengan angka dan warna."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Hold fingre op: nul, satu, dua... tæl til ti med klassen og lad dem gentage. Gøre det til en rytme.",
+        "en": "Hold up fingers: nol, satu, dua... count to ten with the class and have them repeat. Make it a rhythm.",
+        "id": "Angkat jari: nol, satu, dua... hitung sampai sepuluh bersama kelas dan minta mereka mengulangi. Jadikan seperti irama."
+      },
+      "flow": [
+        {
+          "da": "Skriv alle tal 0-10 på tavlen med dansk, indonesisk og (evt.) arabiske talcifre. Udtale-fokus: tujuh (tu-dsjuh), delapan (de-LA-pan), sembilan (sem-BI-lan).",
+          "en": "Write all numbers 0-10 on the board with Danish, Indonesian, and Arabic numerals. Pronunciation focus: tujuh (too-jooh), delapan (de-LA-pan), sembilan (sem-BI-lan).",
+          "id": "Tuliskan semua angka 0-10 di papan tulis dengan bahasa Denmark, Indonesia, dan angka Arab. Fokus pelafalan: tujuh, delapan, sembilan."
+        },
+        {
+          "da": "Demonstrer den centrale grammatik: dua buku = to bøger (ikke dua buku-buku). Ingen flertals-s, ingen bøjning.",
+          "en": "Demonstrate the central grammar: dua buku = two books (not dua buku-buku). No plural -s, no inflection.",
+          "id": "Demonstrasikan tata bahasa utama: dua buku = dua buku (bukan dua buku-buku). Tidak ada -s jamak, tidak ada konjugasi."
+        },
+        {
+          "da": "Tælle-øvelse: Peg på ting i klassen og spørg 'Ada berapa?' (Hvor mange er der?). Eleverne svarer.",
+          "en": "Counting exercise: Point to things in the classroom and ask 'Ada berapa?' (How many are there?). Students answer.",
+          "id": "Latihan menghitung: Tunjuk benda-benda di kelas dan tanyakan 'Ada berapa?' Siswa menjawab."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Nol udtales 'nol' (ikke 'zero'). Satu = ét/en. Lima = fem. Mnemonic: LIMA fingre på én hånd.",
+          "en": "Nol is pronounced 'nol' (not 'zero'). Satu = one. Lima = five. Mnemonic: LIMA fingers on one hand.",
+          "id": "Nol diucapkan 'nol' (bukan 'zero'). Satu = satu. Lima = lima. Mnemonik: LIMA jari di satu tangan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Sig tallene 0-10 seks gange i træk uden at kigge. Øg hastigheden gradvist.",
+          "en": "Say the numbers 0-10 six times in a row without looking. Gradually increase speed.",
+          "id": "Ucapkan angka 0-10 enam kali berturut-turut tanpa melihat. Tingkatkan kecepatan secara bertahap."
+        },
+        {
+          "da": "Skriv ti sætninger der tæller ting i dit hjem: 'Ada tiga kursi.' 'Ada satu meja.'",
+          "en": "Write ten sentences counting things in your home: 'Ada tiga kursi.' 'Ada satu meja.'",
+          "id": "Tuliskan sepuluh kalimat yang menghitung benda di rumah Anda: 'Ada tiga kursi.' 'Ada satu meja.'"
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du tælle fra 0 til 10 uden at holde pause og uden at se på noter?",
+          "en": "Can you count from 0 to 10 without pausing and without looking at notes?",
+          "id": "Dapatkah Anda menghitung dari 0 hingga 10 tanpa berhenti dan tanpa melihat catatan?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Bu Sari (Lærer)",
+      "source": "Lad os tælle bøgerne på bordet. Ada berapa buku?",
+      "target": "Mari kita hitung buku di meja. Ada berapa buku?"
+    },
+    {
+      "speaker": "Mads",
+      "source": "Satu... dua... tiga... empat... lima. Ada lima buku!",
+      "target": "Satu... dua... tiga... empat... lima. Ada lima buku!"
+    },
+    {
+      "speaker": "Bu Sari (Lærer)",
+      "source": "Rigtigt! Og bemærk: lima buku – vi siger ikke lima buku-buku.",
+      "target": "Benar! Dan perhatikan: lima buku – kita tidak mengatakan lima buku-buku."
+    },
+    {
+      "speaker": "Lena",
+      "source": "Ingen flertalsform? Det er meget lettere end på dansk!",
+      "target": "Tidak ada bentuk jamak? Itu jauh lebih mudah daripada bahasa Denmark!"
+    },
+    {
+      "speaker": "Bu Sari (Lærer)",
+      "source": "Ja! Ada berapa pena di tasmu, Lena?",
+      "target": "Ya! Ada berapa pena di tasmu, Lena?"
+    },
+    {
+      "speaker": "Lena",
+      "source": "Satu... dua... tiga. Ada tiga pena.",
+      "target": "Satu... dua... tiga. Ada tiga pena."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Nul",
+      "target": "Nol",
+      "note": {
+        "da": "Bruges i telefonnumre, postnumre og matematiske sammenhænge.",
+        "en": "Used in phone numbers, postal codes, and mathematical contexts.",
+        "id": "Digunakan dalam nomor telepon, kode pos, dan konteks matematika."
+      }
+    },
+    {
+      "source": "En / Et",
+      "target": "Satu",
+      "note": {
+        "da": "Satu er det fulde talord. Se- er et præfiks der bruges i satu-ord-konstruktioner: sebuah (ét stykke), seseorang (én person).",
+        "en": "Satu is the full numeral. Se- is a prefix used in unit-word constructions: sebuah (one piece), seseorang (one person).",
+        "id": "Satu adalah kata bilangan penuh. Se- adalah awalan yang digunakan dalam konstruksi kata satuan: sebuah (satu buah), seseorang (satu orang)."
+      }
+    },
+    {
+      "source": "To",
+      "target": "Dua",
+      "note": {
+        "da": "Dua bruges i mange sammensætninger: dua kali (to gange), dua belas (tolv), keduanya (begge).",
+        "en": "Dua is used in many compounds: dua kali (twice), dua belas (twelve), keduanya (both).",
+        "id": "Dua digunakan dalam banyak komposisi: dua kali (dua kali), dua belas (dua belas), keduanya (keduanya)."
+      }
+    },
+    {
+      "source": "Fem",
+      "target": "Lima",
+      "note": {
+        "da": "Lima = fem. Husk: LIMA fingre på én hånd. Ikke at forveksle med Lima (Perus hovedstad).",
+        "en": "Lima = five. Remember: LIMA fingers on one hand. Not to be confused with Lima (Peru's capital).",
+        "id": "Lima = lima. Ingat: LIMA jari di satu tangan. Jangan disamakan dengan Lima (ibu kota Peru)."
+      }
+    },
+    {
+      "source": "Syv",
+      "target": "Tujuh",
+      "note": {
+        "da": "Udtales tu-djuh. J som på engelsk 'jungle', aldrig som dansk 'j'.",
+        "en": "Pronounced too-jooh. J as in English 'jungle', never like Danish 'y'.",
+        "id": "Diucapkan tu-djuh. J seperti dalam 'jungle' bahasa Inggris."
+      }
+    },
+    {
+      "source": "Otte",
+      "target": "Delapan",
+      "note": {
+        "da": "Tryk på anden stavelse: de-LA-pan. Et af de lidt sværere tal at huske.",
+        "en": "Stress on second syllable: de-LA-pan. One of the slightly harder numbers to remember.",
+        "id": "Tekanan pada suku kata kedua: de-LA-pan. Salah satu angka yang agak sulit diingat."
+      }
+    },
+    {
+      "source": "Ni",
+      "target": "Sembilan",
+      "note": {
+        "da": "Tryk på anden stavelse: sem-BI-lan. Husk: sembilan ligner 'semblance' i slutningen.",
+        "en": "Stress on second syllable: sem-BI-lan. Note: sembilan ends in '-lan'.",
+        "id": "Tekanan pada suku kata kedua: sem-BI-lan."
+      }
+    },
+    {
+      "source": "Ti",
+      "target": "Sepuluh",
+      "note": {
+        "da": "Se-puluh: se = ét, puluh = ti (base for tiere). Danner grundlag for alle tiere.",
+        "en": "Se-puluh: se = one, puluh = ten (base for tens). Forms the basis for all tens.",
+        "id": "Se-puluh: se = satu, puluh = sepuluh (dasar untuk puluhan). Membentuk dasar semua puluhan."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "[Tal] + Substantiv (ingen flertalsform)",
+      "explanation": {
+        "da": "I indonesisk er substantiver aldrig bøjet i flertal. Kontekst og talord fortæller, om der er ét eller flere. Dua buku = to bøger, ti buku = ti bøger – formen er den samme.",
+        "en": "In Indonesian, nouns are never inflected for plural. Context and numerals tell us whether there is one or more. Dua buku = two books, ti buku = ten books – the form is the same.",
+        "id": "Dalam bahasa Indonesia, kata benda tidak pernah dikonjugasikan untuk bentuk jamak. Konteks dan kata bilangan memberi tahu kita apakah ada satu atau lebih. Dua buku = dua buku, sepuluh buku = sepuluh buku – bentuknya sama."
+      },
+      "examples": [
+        { "source": "To bøger", "target": "Dua buku" },
+        { "source": "Tre stole", "target": "Tiga kursi" },
+        { "source": "Syv studerende", "target": "Tujuh mahasiswa" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Kig dig rundt. Tæl fem ting i dit rum og sig dem på indonesisk: 'Ada [tal] [substantiv].'",
+        "en": "Look around. Count five things in your room and say them in Indonesian: 'Ada [number] [noun].'",
+        "id": "Lihat sekeliling. Hitung lima benda di ruangan Anda dan ucapkan dalam bahasa Indonesia: 'Ada [angka] [kata benda].'"
+      },
+      "answerShape": {
+        "da": "Ada [tal] [substantiv]. (5 gange)",
+        "en": "Ada [number] [noun]. (5 times)",
+        "id": "Ada [angka] [kata benda]. (5 kali)"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Oversæt: 'Der er fire studerende', 'To bøger' og 'Otte penne'.",
+        "en": "Translate: 'There are four students', 'Two books', and 'Eight pens'.",
+        "id": "Terjemahkan: 'Ada empat mahasiswa', 'Dua buku', dan 'Delapan pena'."
+      },
+      "answerShape": {
+        "da": "Ada empat mahasiswa. Dua buku. Delapan pena.",
+        "en": "Ada empat mahasiswa. Dua buku. Delapan pena.",
+        "id": "Ada empat mahasiswa. Dua buku. Delapan pena."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til læreren der siger tal fra 0-10 i tilfældig rækkefølge. Skriv tallene ned som cifre.",
+        "en": "Listen to the teacher saying numbers from 0-10 in random order. Write the numbers down as digits.",
+        "id": "Dengarkan guru yang menyebutkan angka dari 0-10 secara acak. Tuliskan angkanya sebagai digit."
+      },
+      "answerShape": {
+        "da": "Tal i rækkefølge som hørt.",
+        "en": "Numbers in order as heard.",
+        "id": "Angka berurutan seperti yang didengar."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme03-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Tallene 0-10 på Indonesisk",
+        "en": "Numbers 0-10 in Indonesian",
+        "id": "Angka 0-10 dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

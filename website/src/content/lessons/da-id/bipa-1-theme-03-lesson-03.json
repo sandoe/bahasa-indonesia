@@ -1,0 +1,268 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 3,
+  "slug": "lesson-03",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Angka 20–100 — Tallene 20 til 100",
+    "en": "Angka 20–100 — Numbers 20 to 100",
+    "id": "Angka 20–100"
+  },
+  "summary": {
+    "da": "Lær at danne alle tal fra 20 til 100 på indonesisk og øv dem i en markedssituation: køb varer og beregn priser i rupiah.",
+    "en": "Learn to form all numbers from 20 to 100 in Indonesian and practice them in a market situation: buy goods and calculate prices in rupiah.",
+    "id": "Pelajari cara membentuk semua angka dari 20 hingga 100 dalam bahasa Indonesia dan latihlah dalam situasi pasar: beli barang dan hitung harga dalam rupiah."
+  },
+  "objectives": [
+    {
+      "da": "Danne alle tiere fra dua puluh til seratus korrekt.",
+      "en": "Form all tens from dua puluh to seratus correctly.",
+      "id": "Membentuk semua puluhan dari dua puluh hingga seratus dengan benar."
+    },
+    {
+      "da": "Kombinere tiere og enere: fx tiga puluh lima = 35.",
+      "en": "Combine tens and ones: e.g. tiga puluh lima = 35.",
+      "id": "Menggabungkan puluhan dan satuan: misalnya tiga puluh lima = 35."
+    },
+    {
+      "da": "Anvende tallene i en butikskontekst med rupiah.",
+      "en": "Use the numbers in a shop context with rupiah.",
+      "id": "Menggunakan angka dalam konteks toko dengan rupiah."
+    }
+  ],
+  "unit": {
+    "slug": "theme-03",
+    "order": 3,
+    "title": {
+      "da": "Tema 3: Tal & Farver",
+      "en": "Theme 3: Numbers & Colors",
+      "id": "Tema 3: Angka & Warna"
+    },
+    "summary": {
+      "da": "Tæl og beskriv verden med tal og farver.",
+      "en": "Count and describe the world with numbers and colors.",
+      "id": "Hitung dan deskripsikan dunia dengan angka dan warna."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis en 'prisliste' med indonesiske varer i rupiah (fx 25.000 Rp for en drik). Spørg: 'Berapa harganya?' og lad klassen forsøge at svare.",
+        "en": "Show a 'price list' with Indonesian goods in rupiah (e.g. 25,000 Rp for a drink). Ask: 'Berapa harganya?' and let the class try to answer.",
+        "id": "Tunjukkan 'daftar harga' dengan barang-barang Indonesia dalam rupiah (misalnya 25.000 Rp untuk minuman). Tanyakan: 'Berapa harganya?' dan biarkan kelas mencoba menjawab."
+      },
+      "flow": [
+        {
+          "da": "Lær tierne: dua puluh (20), tiga puluh (30), empat puluh (40), lima puluh (50), enam puluh (60), tujuh puluh (70), delapan puluh (80), sembilan puluh (90), seratus (100).",
+          "en": "Teach the tens: dua puluh (20), tiga puluh (30), empat puluh (40), lima puluh (50), enam puluh (60), tujuh puluh (70), delapan puluh (80), sembilan puluh (90), seratus (100).",
+          "id": "Ajarkan puluhan: dua puluh (20), tiga puluh (30), empat puluh (40), lima puluh (50), enam puluh (60), tujuh puluh (70), delapan puluh (80), sembilan puluh (90), seratus (100)."
+        },
+        {
+          "da": "Forklar kombinationsreglen: [tier] + [ener] uden bindeord. Tiga puluh lima = 35. Enam puluh delapan = 68.",
+          "en": "Explain the combination rule: [tens] + [ones] with no connector word. Tiga puluh lima = 35. Enam puluh delapan = 68.",
+          "id": "Jelaskan aturan kombinasi: [puluhan] + [satuan] tanpa kata penghubung. Tiga puluh lima = 35. Enam puluh delapan = 68."
+        },
+        {
+          "da": "Rollespil: Markedskøb. Sælger nævner pris, køber gentager og betaler. Brug simple tal.",
+          "en": "Role play: Market purchase. Seller states price, buyer repeats and pays. Use simple numbers.",
+          "id": "Bermain peran: Pembelian di pasar. Penjual menyebutkan harga, pembeli mengulangi dan membayar. Gunakan angka sederhana."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Seratus (100) = se + ratus. Se- = ét (ikke satu-). Ligesom sebelas. Mønsteret er konsekvent.",
+          "en": "Seratus (100) = se + ratus. Se- = one (not satu-). Like sebelas. The pattern is consistent.",
+          "id": "Seratus (100) = se + ratus. Se- = satu (bukan satu-). Seperti sebelas. Polanya konsisten."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv 10 tilfældige tal mellem 20 og 100 som ciffer og stav dem ud på indonesisk.",
+          "en": "Write 10 random numbers between 20 and 100 as digits and spell them out in Indonesian.",
+          "id": "Tuliskan 10 angka acak antara 20 dan 100 sebagai digit dan ejakan dalam bahasa Indonesia."
+        },
+        {
+          "da": "Lav et fiktivt indkøb: Vælg tre varer med priserne på indonesisk og beregn totalen.",
+          "en": "Create a fictional purchase: Choose three items with prices in Indonesian and calculate the total.",
+          "id": "Buat pembelian fiktif: Pilih tiga barang dengan harga dalam bahasa Indonesia dan hitung totalnya."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du svare flydende, hvis nogen siger 'Berapa harganya?' om en vare til 75 rupiah?",
+          "en": "Can you answer fluently if someone says 'Berapa harganya?' about an item costing 75 rupiah?",
+          "id": "Dapatkah Anda menjawab dengan lancar jika seseorang mengatakan 'Berapa harganya?' tentang barang seharga 75 rupiah?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Penjual (Sælger)",
+      "source": "Selamat datang! Ada yang bisa saya bantu?",
+      "target": "Selamat datang! Ada yang bisa saya bantu?"
+    },
+    {
+      "speaker": "Mads",
+      "source": "Berapa harga air mineral ini?",
+      "target": "Berapa harga air mineral ini?"
+    },
+    {
+      "speaker": "Penjual (Sælger)",
+      "source": "Lima ribu rupiah satu botol.",
+      "target": "Lima ribu rupiah satu botol."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Dan berapa harga nasi goreng?",
+      "target": "Dan berapa harga nasi goreng?"
+    },
+    {
+      "speaker": "Penjual (Sælger)",
+      "source": "Dua puluh lima ribu rupiah.",
+      "target": "Dua puluh lima ribu rupiah."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Oke, saya mau keduanya. Total tiga puluh ribu rupiah, ya?",
+      "target": "Oke, saya mau keduanya. Total tiga puluh ribu rupiah, ya?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Halvtreds / Halvtreds",
+      "target": "Lima puluh",
+      "note": {
+        "da": "Lima (5) + puluh (tier). Dansk 'halvtreds' er komplekst – indonesisk er logisk og simpelt.",
+        "en": "Lima (5) + puluh (tens). Danish 'halvtreds' is complex – Indonesian is logical and simple.",
+        "id": "Lima (5) + puluh (puluhan). Bahasa Indonesia sangat logis dan sederhana."
+      }
+    },
+    {
+      "source": "Hundrede",
+      "target": "Seratus",
+      "note": {
+        "da": "Se- = ét (som i sebelas). Seratus = ét hundrede. To hundrede = dua ratus.",
+        "en": "Se- = one (as in sebelas). Seratus = one hundred. Two hundred = dua ratus.",
+        "id": "Se- = satu (seperti dalam sebelas). Seratus = seratus. Dua ratus = dua ratus."
+      }
+    },
+    {
+      "source": "Pris",
+      "target": "Harga",
+      "note": {
+        "da": "Berapa harganya? = Hvad er prisen? / Hvad koster det?",
+        "en": "Berapa harganya? = What is the price? / How much does it cost?",
+        "id": "Berapa harganya? = Berapa harganya?"
+      }
+    },
+    {
+      "source": "Rupiah",
+      "target": "Rupiah",
+      "note": {
+        "da": "Indonesiens valuta. Forkortelse: Rp. 1 DKK ≈ 2.100 Rp (ca.). Tal i Rp kan virke store for danskere.",
+        "en": "Indonesia's currency. Abbreviation: Rp. 1 DKK ≈ 2,100 Rp (approx.). Numbers in Rp can seem large to Danes.",
+        "id": "Mata uang Indonesia. Singkatan: Rp. 1 DKK ≈ 2.100 Rp (kira-kira). Angka dalam Rp bisa terasa besar bagi orang Denmark."
+      }
+    },
+    {
+      "source": "Flaske",
+      "target": "Botol",
+      "note": {
+        "da": "Botol = flaske/beholder. Satu botol = én flaske.",
+        "en": "Botol = bottle/container. Satu botol = one bottle.",
+        "id": "Botol = botol. Satu botol = satu botol."
+      }
+    },
+    {
+      "source": "I alt / Total",
+      "target": "Total",
+      "note": {
+        "da": "Internationalt lånord. Totalnya = totalen. Berapa totalnya? = Hvad er totalen?",
+        "en": "International loanword. Totalnya = the total. Berapa totalnya? = What is the total?",
+        "id": "Kata pinjaman internasional. Totalnya = totalnya. Berapa totalnya? = Berapa totalnya?"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "[Tier] + [Ener] = Sammensatte tal 21-99",
+      "explanation": {
+        "da": "Kombinationsreglen er enkel: [tier-navn] + [ener-navn]. Ingen bindeord, ingen ændringer. Dua puluh satu = 21. Tiga puluh lima = 35. Lima puluh sembilan = 59.",
+        "en": "The combination rule is simple: [tens name] + [ones name]. No connector word, no changes. Dua puluh satu = 21. Tiga puluh lima = 35. Lima puluh sembilan = 59.",
+        "id": "Aturan kombinasinya sederhana: [nama puluhan] + [nama satuan]. Tidak ada kata penghubung, tidak ada perubahan. Dua puluh satu = 21. Tiga puluh lima = 35. Lima puluh sembilan = 59."
+      },
+      "examples": [
+        { "source": "To og tredive (32)", "target": "Tiga puluh dua" },
+        { "source": "Syvoghalvfjerds (77)", "target": "Tujuh puluh tujuh" },
+        { "source": "Niogfirs (89)", "target": "Delapan puluh sembilan" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Du er på et indonesisk marked. Bed om prisen på to varer og gentag prisen højt: 'Berapa harganya?' og svar med 'Harganya ... rupiah.'",
+        "en": "You are at an Indonesian market. Ask the price of two items and repeat the price aloud: 'Berapa harganya?' and answer with 'Harganya ... rupiah.'",
+        "id": "Anda berada di pasar Indonesia. Tanyakan harga dua barang dan ulangi harganya dengan keras: 'Berapa harganya?' dan jawab dengan 'Harganya ... rupiah.'"
+      },
+      "answerShape": {
+        "da": "Berapa harganya? — Harganya [tal] rupiah.",
+        "en": "Berapa harganya? — Harganya [number] rupiah.",
+        "id": "Berapa harganya? — Harganya [angka] rupiah."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv disse tal med ord: 23, 47, 65, 88, 100.",
+        "en": "Write these numbers in words: 23, 47, 65, 88, 100.",
+        "id": "Tuliskan angka-angka berikut dengan kata-kata: 23, 47, 65, 88, 100."
+      },
+      "answerShape": {
+        "da": "Dua puluh tiga, empat puluh tujuh, enam puluh lima, delapan puluh delapan, seratus.",
+        "en": "Dua puluh tiga, empat puluh tujuh, enam puluh lima, delapan puluh delapan, seratus.",
+        "id": "Dua puluh tiga, empat puluh tujuh, enam puluh lima, delapan puluh delapan, seratus."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Sammenlign indonesisk og dansk talordssystem. Hvad er lettere i indonesisk? Hvad er udfordrende?",
+        "en": "Compare Indonesian and Danish number systems. What is easier in Indonesian? What is challenging?",
+        "id": "Bandingkan sistem bilangan Indonesia dan Denmark. Apa yang lebih mudah dalam bahasa Indonesia? Apa yang menantang?"
+      },
+      "answerShape": {
+        "da": "Fri sammenligning og refleksion.",
+        "en": "Free comparison and reflection.",
+        "id": "Perbandingan dan refleksi bebas."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme03-lesson03-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Tal 20-100 og Markedspriser",
+        "en": "Numbers 20-100 and Market Prices",
+        "id": "Angka 20-100 dan Harga di Pasar"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-2",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 45,
+  "title": {
+    "da": "Beskrivelse af Familien i Detaljer",
+    "en": "Describing Family in More Detail",
+    "id": "Menggambarkan Keluarga Lebih Detail"
+  },
+  "summary": {
+    "da": "Gå ud over navne og slægtskab: beskriv personligheder, roller i familien og vaner.",
+    "en": "Go beyond names and relations: describe personalities, family roles, and daily habits.",
+    "id": "Lebih dari sekadar nama dan hubungan: menggambarkan kepribadian, peran, dan kebiasaan anggota keluarga."
+  },
+  "objectives": [
+    {
+      "da": "Beskrive familiemedlemmer ved hjælp af relativsætninger med 'yang'",
+      "en": "Describe family members using relative clauses with 'yang'",
+      "id": "Menggambarkan anggota keluarga menggunakan klausa relatif dengan 'yang'"
+    },
+    {
+      "da": "Udtrykke familiemedlemmers personligheder og daglige roller",
+      "en": "Express family members' personalities and daily roles",
+      "id": "Mengungkapkan kepribadian dan peran sehari-hari anggota keluarga"
+    },
+    {
+      "da": "Fortælle om familiemedlemmers vaner og aktiviteter",
+      "en": "Talk about family members' habits and activities",
+      "id": "Menceritakan kebiasaan dan aktivitas anggota keluarga"
+    }
+  ],
+  "unit": {
+    "slug": "unit-03",
+    "order": 3,
+    "title": {
+      "da": "Familie og Sociale Relationer",
+      "en": "Family and Social Relations",
+      "id": "Keluarga dan Relasi Sosial"
+    },
+    "summary": {
+      "da": "Dybere familiesprog, sociale roller og relationer i indonesisk kontekst.",
+      "en": "Deeper family language, social roles, and relationships in Indonesian context.",
+      "id": "Bahasa keluarga yang lebih dalam, peran sosial, dan hubungan dalam konteks Indonesia."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg eleverne: 'Hvad gør din mor eller far til hverdag?' Notér svarene på tavlen og brug dem til at introducere 'yang'-konstruktionen.",
+        "en": "Ask students: 'What does your mother or father do every day?' Note answers on the board and use them to introduce the 'yang' construction.",
+        "id": "Tanya siswa: 'Apa yang ibu atau ayahmu lakukan setiap hari?' Catat jawaban di papan tulis dan gunakan untuk memperkenalkan konstruksi 'yang'."
+      },
+      "flow": [
+        {
+          "da": "Introduktion (5 min): Præsenter lektionens emne med billeder af en familie. Spørg: 'Hvad ved du om dem?'",
+          "en": "Introduction (5 min): Present the lesson topic with pictures of a family. Ask: 'What do you know about them?'",
+          "id": "Pembukaan (5 menit): Perkenalkan topik pelajaran dengan gambar keluarga. Tanya: 'Apa yang kamu ketahui tentang mereka?'"
+        },
+        {
+          "da": "Ordforråd (10 min): Gennemgå vokabular om personlighed og daglige roller. Elever gentager og danner sætninger.",
+          "en": "Vocabulary (10 min): Review vocabulary on personality and daily roles. Students repeat and form sentences.",
+          "id": "Kosakata (10 menit): Tinjau kosakata tentang kepribadian dan peran sehari-hari. Siswa mengulang dan membuat kalimat."
+        },
+        {
+          "da": "Grammatik (15 min): Forklar 'yang' som relativmarkør. Brug eksempler: 'Ibu saya yang memasak setiap hari.' Elever øver i par.",
+          "en": "Grammar (15 min): Explain 'yang' as a relative clause marker. Use examples: 'Ibu saya yang memasak setiap hari.' Students practice in pairs.",
+          "id": "Tata bahasa (15 menit): Jelaskan 'yang' sebagai penanda klausa relatif. Gunakan contoh: 'Ibu saya yang memasak setiap hari.' Siswa berlatih berpasangan."
+        },
+        {
+          "da": "Dialog (10 min): Læs og rollespil dialogen. Fokusér på naturlig udtale og intonation.",
+          "en": "Dialogue (10 min): Read and role-play the dialogue. Focus on natural pronunciation and intonation.",
+          "id": "Dialog (10 menit): Baca dan mainkan peran dalam dialog. Fokus pada pengucapan dan intonasi yang alami."
+        },
+        {
+          "da": "Aktivitet (5 min): Elever beskriver tre familiemedlemmer mundtligt for klassen.",
+          "en": "Activity (5 min): Students describe three family members orally to the class.",
+          "id": "Aktivitas (5 menit): Siswa mendeskripsikan tiga anggota keluarga secara lisan kepada kelas."
+        }
+      ],
+      "notes": [
+        {
+          "da": "'Yang' bruges som 'som/der' på dansk, men det er uforanderligt — det bøjes ikke i indonesisk.",
+          "en": "'Yang' functions like 'who/that/which' in English, but it is invariable — it does not inflect in Indonesian.",
+          "id": "'Yang' berfungsi seperti 'yang' dalam bahasa Indonesia, tidak berubah bentuk sesuai subjek."
+        },
+        {
+          "da": "I indonesisk familiekultur er roller ofte mere definerede end i Danmark. Diskutér eventuelle forskelle åbent.",
+          "en": "In Indonesian family culture, roles are often more defined than in Denmark. Discuss any differences openly.",
+          "id": "Dalam budaya keluarga Indonesia, peran sering lebih jelas dibandingkan di Denmark. Diskusikan perbedaannya secara terbuka."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær ordforrådet om personlighedstræk og daglige roller. Lav flashkort til hvert ord.",
+          "en": "Learn the vocabulary about personality traits and daily roles. Make flashcards for each word.",
+          "id": "Pelajari kosakata tentang sifat kepribadian dan peran sehari-hari. Buat kartu hafalan untuk setiap kata."
+        },
+        {
+          "da": "Studer grammatikafsnittet om 'yang'-konstruktionen. Lav tre egne sætninger om din familie.",
+          "en": "Study the grammar section on the 'yang' construction. Write three sentences about your own family.",
+          "id": "Pelajari bagian tata bahasa tentang konstruksi 'yang'. Buat tiga kalimat tentang keluargamu sendiri."
+        },
+        {
+          "da": "Lyt til dialogen og gentag linje for linje. Forsøg at huske den.",
+          "en": "Listen to the dialogue and repeat line by line. Try to memorize it.",
+          "id": "Dengarkan dialog dan ulangi baris per baris. Coba hafalkan."
+        },
+        {
+          "da": "Gennemfør alle tre aktiviteter. Skriv en kort tekst om din familie på indonesisk.",
+          "en": "Complete all three activities. Write a short paragraph about your family in Indonesian.",
+          "id": "Selesaikan semua tiga aktivitas. Tulis paragraf singkat tentang keluargamu dalam bahasa Indonesia."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du beskrive mindst to familiemedlemmer med 'yang'-sætninger?",
+          "en": "Can you describe at least two family members using 'yang' sentences?",
+          "id": "Bisakah kamu mendeskripsikan setidaknya dua anggota keluarga dengan kalimat 'yang'?"
+        },
+        {
+          "da": "Kender du ordene for mindst fem personlighedstræk på indonesisk?",
+          "en": "Do you know the words for at least five personality traits in Indonesian?",
+          "id": "Apakah kamu tahu kata-kata untuk setidaknya lima sifat kepribadian dalam bahasa Indonesia?"
+        },
+        {
+          "da": "Kan du rollespille dialogen flydende uden at kigge på manuskriptet?",
+          "en": "Can you role-play the dialogue fluently without looking at the script?",
+          "id": "Bisakah kamu memainkan peran dalam dialog dengan lancar tanpa melihat naskah?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Rina",
+      "source": "Ceritakan tentang keluargamu!",
+      "target": "Fortæl mig om din familie!"
+    },
+    {
+      "speaker": "Erik",
+      "source": "Keluarga saya cukup besar. Ayah saya yang bekerja sebagai insinyur. Beliau sangat disiplin.",
+      "target": "Min familie er ret stor. Det er min far, der arbejder som ingeniør. Han er meget disciplineret."
+    },
+    {
+      "speaker": "Rina",
+      "source": "Bagaimana dengan ibumu?",
+      "target": "Hvad med din mor?"
+    },
+    {
+      "speaker": "Erik",
+      "source": "Ibu saya yang memasak setiap hari dan juga bekerja sebagai guru. Beliau sangat sabar dan perhatian.",
+      "target": "Det er min mor, der laver mad hver dag, og hun arbejder også som lærer. Hun er meget tålmodig og omsorgsfuld."
+    },
+    {
+      "speaker": "Rina",
+      "source": "Kamu punya saudara?",
+      "target": "Har du søskende?"
+    },
+    {
+      "speaker": "Erik",
+      "source": "Ya, saya punya satu adik laki-laki yang suka bermain sepak bola. Dia selalu bersemangat dan aktif.",
+      "target": "Ja, jeg har en lillebror, der kan lide at spille fodbold. Han er altid energisk og aktiv."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "disiplin",
+      "target": "disciplineret",
+      "note": {
+        "da": "Bruges om folk med stærk selvkontrol og struktur",
+        "en": "Used for people with strong self-control and structure",
+        "id": "Digunakan untuk orang dengan pengendalian diri dan keteraturan yang kuat"
+      }
+    },
+    {
+      "source": "sabar",
+      "target": "tålmodig",
+      "note": {
+        "da": "En meget værdsat egenskab i indonesisk kultur",
+        "en": "A highly valued trait in Indonesian culture",
+        "id": "Sifat yang sangat dihargai dalam budaya Indonesia"
+      }
+    },
+    {
+      "source": "perhatian",
+      "target": "omsorgsfuld / opmærksom",
+      "note": {
+        "da": "Kan bruges som adjektiv om en person eller som substantiv (opmærksomhed)",
+        "en": "Can be used as an adjective about a person or as a noun (attention/care)",
+        "id": "Bisa digunakan sebagai kata sifat tentang seseorang atau sebagai kata benda (perhatian)"
+      }
+    },
+    {
+      "source": "bersemangat",
+      "target": "entusiastisk / energisk",
+      "note": {
+        "da": "Bogstaveligt: 'at have ånd/energi'. Præfikset ber- angiver tilstand.",
+        "en": "Literally: 'to have spirit/energy'. The ber- prefix indicates a state.",
+        "id": "Harfiah: 'memiliki semangat'. Awalan ber- menunjukkan keadaan."
+      }
+    },
+    {
+      "source": "aktif",
+      "target": "aktiv",
+      "note": {
+        "da": "Internationalisme — udtales 'ak-tif' på indonesisk",
+        "en": "International word — pronounced 'ak-tif' in Indonesian",
+        "id": "Kata internasional — diucapkan 'ak-tif' dalam bahasa Indonesia"
+      }
+    },
+    {
+      "source": "keras kepala",
+      "target": "stædig",
+      "note": {
+        "da": "Bogstaveligt: 'hårdt hoved'. Et idiom for stædighed.",
+        "en": "Literally: 'hard head'. An idiom for stubbornness.",
+        "id": "Harfiah: 'kepala keras'. Idiom untuk keras kepala."
+      }
+    },
+    {
+      "source": "ramah",
+      "target": "venlig / imødekommende",
+      "note": {
+        "da": "Meget brugt til at beskrive folk med et varmt temperament",
+        "en": "Very commonly used to describe people with a warm temperament",
+        "id": "Sangat umum digunakan untuk menggambarkan orang dengan temperamen yang hangat"
+      }
+    },
+    {
+      "source": "peran",
+      "target": "rolle",
+      "note": {
+        "da": "Bruges om sociale og familiemæssige roller",
+        "en": "Used for social and family roles",
+        "id": "Digunakan untuk peran sosial dan peran dalam keluarga"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Subjek + yang + kata kerja/kata sifat",
+      "explanation": {
+        "da": "'Yang' bruges som relativmarkør i indonesisk, svarende til 'som', 'der', 'hvem' eller 'hvilket' på dansk. Det er uforanderligt og kan beskrive både mennesker og ting.",
+        "en": "'Yang' is used as a relative clause marker in Indonesian, equivalent to 'who', 'that', or 'which' in English. It is invariable and can describe both people and things.",
+        "id": "'Yang' digunakan sebagai penanda klausa relatif dalam bahasa Indonesia. Tidak berubah bentuk dan bisa mendeskripsikan orang maupun benda."
+      },
+      "examples": [
+        {
+          "source": "Ibu saya yang memasak setiap hari.",
+          "target": "Det er min mor, der laver mad hver dag."
+        },
+        {
+          "source": "Adik saya yang suka bermain sepak bola.",
+          "target": "Det er min lillebror, der kan lide fodbold."
+        },
+        {
+          "source": "Ini buku yang saya beli kemarin.",
+          "target": "Det er den bog, jeg købte i går."
+        }
+      ]
+    },
+    {
+      "pattern": "Beliau (høflig tredjeperson)",
+      "explanation": {
+        "da": "'Beliau' bruges som høflig tredjepersonsform for 'han/hun', specielt om ældre eller respekterede personer. I hverdagssprog bruges 'dia', men 'beliau' viser respekt.",
+        "en": "'Beliau' is used as a polite third-person form for 'he/she', especially for older or respected people. In everyday speech 'dia' is used, but 'beliau' shows respect.",
+        "id": "'Beliau' digunakan sebagai bentuk orang ketiga yang sopan untuk 'dia', terutama untuk orang yang lebih tua atau dihormati. Dalam percakapan sehari-hari 'dia' digunakan, tetapi 'beliau' menunjukkan rasa hormat."
+      },
+      "examples": [
+        {
+          "source": "Ayah saya sangat disiplin. Beliau bekerja keras setiap hari.",
+          "target": "Min far er meget disciplineret. Han arbejder hårdt hver dag."
+        },
+        {
+          "source": "Guru kami sangat baik. Beliau selalu sabar.",
+          "target": "Vores lærer er meget god. Han/hun er altid tålmodig."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Beskriv to af dine familiemedlemmer. Brug 'yang' til at fortælle, hvad de gør eller er kendt for.",
+        "en": "Describe two of your family members. Use 'yang' to say what they do or what they are known for.",
+        "id": "Deskripsikan dua anggota keluargamu. Gunakan 'yang' untuk mengatakan apa yang mereka lakukan atau apa yang mereka dikenal."
+      },
+      "answerShape": {
+        "da": "... saya yang ... Beliau/Dia sangat ...",
+        "en": "... saya yang ... Beliau/Dia sangat ...",
+        "id": "... saya yang ... Beliau/Dia sangat ..."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Sæt ordene i den rigtige rækkefølge: [memasak / yang / ibu / setiap / hari / saya]",
+        "en": "Put the words in the correct order: [memasak / yang / ibu / setiap / hari / saya]",
+        "id": "Susun kata-kata berikut menjadi kalimat yang benar: [memasak / yang / ibu / setiap / hari / saya]"
+      },
+      "answerShape": {
+        "da": "Ibu saya yang memasak setiap hari.",
+        "en": "Ibu saya yang memasak setiap hari.",
+        "id": "Ibu saya yang memasak setiap hari."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad er den vigtigste rolle i din familie, og hvem udfylder den? Forklar på indonesisk.",
+        "en": "What is the most important role in your family, and who fills it? Explain in Indonesian.",
+        "id": "Apa peran terpenting dalam keluargamu, dan siapa yang menjalankannya? Jelaskan dalam bahasa Indonesia."
+      },
+      "answerShape": {
+        "da": "Peran paling penting dalam keluarga saya adalah ... karena ...",
+        "en": "Peran paling penting dalam keluarga saya adalah ... karena ...",
+        "id": "Peran paling penting dalam keluarga saya adalah ... karena ..."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-unit03-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Beskrivelse af familien med 'yang'",
+        "en": "Describing family with 'yang'",
+        "id": "Menggambarkan keluarga dengan 'yang'"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Jam Berapa Sekarang? — Hvad er klokken?",
+    "en": "Jam Berapa Sekarang? — What Time Is It?",
+    "id": "Jam Berapa Sekarang?"
+  },
+  "summary": {
+    "da": "Lær at spørge om og svare på, hvad klokken er på indonesisk. Forstå de grundlæggende talsord for klokkeslæt.",
+    "en": "Learn to ask and answer what time it is in Indonesian. Understand the basic number words used for telling time.",
+    "id": "Belajar menanyakan dan menjawab pukul berapa sekarang dalam bahasa Indonesia."
+  },
+  "objectives": [
+    {
+      "da": "Spørge om klokkeslættet med 'Jam berapa sekarang?'",
+      "en": "Ask for the time using 'Jam berapa sekarang?'",
+      "id": "Menanyakan waktu dengan 'Jam berapa sekarang?'"
+    },
+    {
+      "da": "Svare med 'Sekarang jam [N]' og tilføje tepat, kurang eller lebih",
+      "en": "Answer with 'Sekarang jam [N]' and add tepat, kurang, or lebih",
+      "id": "Menjawab dengan 'Sekarang jam [N]' serta menambahkan tepat, kurang, atau lebih"
+    },
+    {
+      "da": "Bruge klokkeslæt i en simpel aftalesamtale",
+      "en": "Use time expressions in a simple appointment conversation",
+      "id": "Menggunakan ekspresi waktu dalam percakapan membuat janji"
+    }
+  ],
+  "unit": {
+    "slug": "theme-06",
+    "order": 6,
+    "title": {
+      "da": "Tema 6: Tid & Dato",
+      "en": "Theme 6: Time & Date",
+      "id": "Tema 6: Waktu & Tanggal"
+    },
+    "summary": {
+      "da": "Klokkeslæt, ugedage, måneder og datoer.",
+      "en": "Clock time, days, months, and dates.",
+      "id": "Waktu, hari, bulan, dan tanggal."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Tegn et urbillede på tavlen og spørg klassen på dansk: 'Hvad er klokken?' Gå derefter over til indonesisk og introducer 'Jam berapa sekarang?'",
+        "en": "Draw a clock face on the board and ask the class in Danish: 'What time is it?' Then transition to Indonesian and introduce 'Jam berapa sekarang?'",
+        "id": "Gambar jam di papan tulis dan tanya kelas dalam bahasa Denmark: 'Jam berapa?' Lalu beralih ke bahasa Indonesia dan perkenalkan 'Jam berapa sekarang?'"
+      },
+      "flow": [
+        {
+          "da": "Introducer ordforrådet: jam, sekarang, tepat, kurang, lebih. Øv udtalen som klasse, par og individuelt.",
+          "en": "Introduce the vocabulary: jam, sekarang, tepat, kurang, lebih. Drill pronunciation as a class, in pairs, and individually.",
+          "id": "Perkenalkan kosakata: jam, sekarang, tepat, kurang, lebih. Latih pengucapan bersama, berpasangan, dan sendiri."
+        },
+        {
+          "da": "Gennemgå grammatikmønsteret. Lav urøvelse: læreren viser et ur, eleverne siger klokkeslættet på indonesisk.",
+          "en": "Explain the grammar pattern. Clock drill: teacher shows a clock, students say the time in Indonesian.",
+          "id": "Jelaskan pola tata bahasa. Latihan jam: guru menunjukkan jam, siswa menyebutkan waktunya dalam bahasa Indonesia."
+        },
+        {
+          "da": "Spil dialogscenarier i par: aftale et møde ved hjælp af de tidsudtryk, der er lært i lektionen.",
+          "en": "Role-play the dialogue in pairs: making an appointment using the time expressions learned in the lesson.",
+          "id": "Mainkan peran dialog berpasangan: membuat janji menggunakan ekspresi waktu yang dipelajari."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Vær opmærksom på, at indonesisk bruger 'jam' (ordret: time) foran tallet, ikke efter som på dansk. 'Jam tiga' = klokken tre.",
+          "en": "Note that Indonesian places 'jam' (lit. hour) before the number, unlike Danish. 'Jam tiga' = three o'clock.",
+          "id": "Perhatikan bahwa bahasa Indonesia menempatkan 'jam' sebelum angka. 'Jam tiga' = pukul tiga."
+        },
+        {
+          "da": "Kurang og lebih kan forvirre begyndere; sæt dem i kontekst med en urvisual.",
+          "en": "Kurang and lebih can confuse beginners; contextualise them with a clock visual.",
+          "id": "Kurang dan lebih bisa membingungkan pemula; gunakan visual jam untuk konteks."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lyt til dialoglydfilen og noter hvert klokkeslæt, der nævnes.",
+          "en": "Listen to the dialogue audio and note each time mentioned.",
+          "id": "Dengarkan audio dialog dan catat setiap waktu yang disebutkan."
+        },
+        {
+          "da": "Øv talsordene for 1–12 med ur-flashkort, og sig klokkeslættet højt.",
+          "en": "Practise the number words for 1–12 with clock flashcards, saying the time aloud.",
+          "id": "Latih kata bilangan 1–12 dengan kartu flash jam, ucapkan waktunya dengan keras."
+        },
+        {
+          "da": "Skriv fem klokkeslæt ned på indonesisk og oversæt dem til dansk.",
+          "en": "Write five clock times in Indonesian and translate them to Danish.",
+          "id": "Tuliskan lima waktu dalam bahasa Indonesia dan terjemahkan ke bahasa Denmark."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige 'Sekarang jam tujuh tepat' og forklare, hvad det betyder?",
+          "en": "Can you say 'Sekarang jam tujuh tepat' and explain what it means?",
+          "id": "Bisakah kamu mengucapkan 'Sekarang jam tujuh tepat' dan menjelaskan artinya?"
+        },
+        {
+          "da": "Prøv at lave en aftale med en studiekammerat udelukkende ved brug af indonesiske tidsudtryk.",
+          "en": "Try to make an appointment with a study partner using only Indonesian time expressions.",
+          "id": "Coba buat janji dengan teman belajar menggunakan ekspresi waktu bahasa Indonesia saja."
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Andi",
+      "source": "Hej Budi! Jam berapa sekarang?",
+      "target": "Hej Budi! Jam berapa sekarang?"
+    },
+    {
+      "speaker": "Budi",
+      "source": "Sekarang jam dua tepat. Kenapa?",
+      "target": "Sekarang jam dua tepat. Kenapa?"
+    },
+    {
+      "speaker": "Andi",
+      "source": "Kita ada pertemuan jam berapa?",
+      "target": "Kita ada pertemuan jam berapa?"
+    },
+    {
+      "speaker": "Budi",
+      "source": "Pertemuan jam tiga lebih lima belas menit.",
+      "target": "Pertemuan jam tiga lebih lima belas menit."
+    },
+    {
+      "speaker": "Andi",
+      "source": "Baik. Masih ada waktu satu jam.",
+      "target": "Baik. Masih ada waktu satu jam."
+    },
+    {
+      "speaker": "Budi",
+      "source": "Ya, kita ketemu di kantor jam tiga, ya?",
+      "target": "Ya, kita ketemu di kantor jam tiga, ya?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "jam",
+      "target": "time / o'clock / hour",
+      "note": {
+        "da": "Bruges foran tallet for at angive klokkeslættet: 'jam lima' = klokken fem",
+        "en": "Used before the number to state the time: 'jam lima' = five o'clock",
+        "id": "Digunakan sebelum angka untuk menyatakan waktu: 'jam lima' = pukul lima"
+      }
+    },
+    {
+      "source": "sekarang",
+      "target": "nu / now",
+      "note": {
+        "da": "Tidsord for nutiden; behøver ikke verbum",
+        "en": "Time word for the present; no verb needed",
+        "id": "Kata waktu untuk saat ini; tidak memerlukan kata kerja"
+      }
+    },
+    {
+      "source": "tepat",
+      "target": "præcis / exactly",
+      "note": {
+        "da": "'Jam delapan tepat' = præcis klokken otte",
+        "en": "'Jam delapan tepat' = exactly eight o'clock",
+        "id": "'Jam delapan tepat' = tepat pukul delapan"
+      }
+    },
+    {
+      "source": "lebih",
+      "target": "over / past",
+      "note": {
+        "da": "'Jam empat lebih sepuluh' = ti minutter over fire",
+        "en": "'Jam empat lebih sepuluh' = ten past four",
+        "id": "'Jam empat lebih sepuluh' = pukul empat lebih sepuluh menit"
+      }
+    },
+    {
+      "source": "kurang",
+      "target": "i / to (minutes to the hour)",
+      "note": {
+        "da": "'Jam enam kurang sepuluh' = ti minutter i seks",
+        "en": "'Jam enam kurang sepuluh' = ten to six",
+        "id": "'Jam enam kurang sepuluh' = pukul enam kurang sepuluh menit"
+      }
+    },
+    {
+      "source": "pertemuan",
+      "target": "møde / meeting",
+      "note": {
+        "da": "Formelt møde; brugt i professionelle sammenhænge",
+        "en": "Formal meeting; used in professional contexts",
+        "id": "Pertemuan formal; digunakan dalam konteks profesional"
+      }
+    },
+    {
+      "source": "masih ada waktu",
+      "target": "der er stadig tid / there is still time",
+      "note": {
+        "da": "Nyttig sætningsdel i planlægningssamtaler",
+        "en": "Useful phrase in planning conversations",
+        "id": "Frasa yang berguna dalam percakapan perencanaan"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Sekarang jam [number] + tepat / lebih [minutes] / kurang [minutes]",
+      "explanation": {
+        "da": "For at sige, hvad klokken er, brug 'jam' efterfulgt af et tal. Tilføj 'tepat' (præcis), 'lebih [minutter]' (over) eller 'kurang [minutter]' (i) for at præcisere.",
+        "en": "To say what time it is, use 'jam' followed by a number. Add 'tepat' (exactly), 'lebih [minutes]' (past), or 'kurang [minutes]' (to) to be precise.",
+        "id": "Untuk mengatakan jam berapa, gunakan 'jam' diikuti angka. Tambahkan 'tepat', 'lebih [menit]', atau 'kurang [menit]' untuk lebih spesifik."
+      },
+      "examples": [
+        {
+          "source": "Sekarang jam sembilan tepat.",
+          "target": "Det er præcis klokken ni. / It is exactly nine o'clock."
+        },
+        {
+          "source": "Sekarang jam sebelas lebih dua puluh.",
+          "target": "Det er tyve minutter over elleve. / It is twenty past eleven."
+        },
+        {
+          "source": "Sekarang jam dua belas kurang lima.",
+          "target": "Det er fem minutter i tolv. / It is five to twelve."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Se på et ur og sig klokkeslættet på indonesisk. Brug alle tre former: tepat, lebih og kurang.",
+        "en": "Look at a clock and say the time in Indonesian. Use all three forms: tepat, lebih, and kurang.",
+        "id": "Lihat jam dan sebutkan waktunya dalam bahasa Indonesia. Gunakan ketiga bentuk: tepat, lebih, dan kurang."
+      },
+      "answerShape": {
+        "da": "Sekarang jam [tal] + tepat / lebih [minutter] / kurang [minutter].",
+        "en": "Sekarang jam [number] + tepat / lebih [minutes] / kurang [minutes].",
+        "id": "Sekarang jam [angka] + tepat / lebih [menit] / kurang [menit]."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til fem klokkeslæt og skriv dem ned som cifre (f.eks. 3:15).",
+        "en": "Listen to five time expressions and write them as digits (e.g. 3:15).",
+        "id": "Dengarkan lima ekspresi waktu dan tuliskan dalam angka (mis. 3:15)."
+      },
+      "answerShape": {
+        "da": "Fem klokkeslæt skrevet som tal.",
+        "en": "Five times written as digits.",
+        "id": "Lima waktu yang ditulis dalam angka."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Lav en dialog på to-fire linjer, hvor du aftaler et møde. Brug mindst to klokkeslæt.",
+        "en": "Create a two-to-four line dialogue where you make an appointment. Use at least two times.",
+        "id": "Buat dialog dua hingga empat baris untuk membuat janji. Gunakan setidaknya dua waktu."
+      },
+      "answerShape": {
+        "da": "En kort dialog med 'Jam berapa...?' og 'Kita ketemu jam...'.",
+        "en": "A short dialogue with 'Jam berapa...?' and 'Kita ketemu jam...'.",
+        "id": "Dialog singkat dengan 'Jam berapa...?' dan 'Kita ketemu jam...'."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme06-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Hvad er klokken? — Indonesiske klokkeslæt",
+        "en": "What Time Is It? — Indonesian Clock Times",
+        "id": "Jam Berapa Sekarang? — Waktu dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

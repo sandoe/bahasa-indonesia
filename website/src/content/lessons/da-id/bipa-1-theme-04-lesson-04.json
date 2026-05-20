@@ -1,0 +1,289 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 4,
+  "slug": "lesson-04",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Mendeskripsikan Keluarga – At Beskrive Sin Familie",
+    "en": "Mendeskripsikan Keluarga – Describing Your Family",
+    "id": "Mendeskripsikan Keluarga – Menceritakan Keluarga Anda"
+  },
+  "summary": {
+    "da": "Lær at beskrive din familie med sætninger som 'Saya punya...' og 'Keluarga saya terdiri dari...', og tal om civilstand og børn.",
+    "en": "Learn to describe your family using sentences like 'Saya punya...' and 'Keluarga saya terdiri dari...', and talk about marital status and children.",
+    "id": "Pelajari cara mendeskripsikan keluarga Anda dengan kalimat seperti 'Saya punya...' dan 'Keluarga saya terdiri dari...', serta berbicara tentang status pernikahan dan anak-anak."
+  },
+  "objectives": [
+    {
+      "da": "Beskrive sin families sammensætning med sætningen 'Keluarga saya terdiri dari...'",
+      "en": "Describe one's family composition using the sentence 'Keluarga saya terdiri dari...'",
+      "id": "Mendeskripsikan susunan keluarga dengan kalimat 'Keluarga saya terdiri dari...'"
+    },
+    {
+      "da": "Sige om man er gift, ugift, og om man har børn.",
+      "en": "State whether one is married, unmarried, and whether one has children.",
+      "id": "Menyatakan apakah seseorang sudah menikah, belum menikah, dan apakah memiliki anak."
+    },
+    {
+      "da": "Sammenligne familiers størrelse i en uformel samtale.",
+      "en": "Compare family sizes in an informal conversation.",
+      "id": "Membandingkan ukuran keluarga dalam percakapan informal."
+    }
+  ],
+  "unit": {
+    "slug": "theme-04",
+    "order": 4,
+    "title": {
+      "da": "Tema 4: Min Familie",
+      "en": "Theme 4: My Family",
+      "id": "Tema 4: Keluarga Saya"
+    },
+    "summary": {
+      "da": "Familiebetegnelser og at tale om sin familie.",
+      "en": "Family terms and talking about your family.",
+      "id": "Istilah keluarga dan berbicara tentang keluarga."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg klassen: 'Berapa orang dalam keluarga Anda?' og skriv tallene op. Diskuter hvad 'mange' og 'få' er i en dansk og indonesisk kontekst.",
+        "en": "Ask the class: 'Berapa orang dalam keluarga Anda?' and write the numbers up. Discuss what 'many' and 'few' means in a Danish and Indonesian context.",
+        "id": "Tanyakan kelas: 'Berapa orang dalam keluarga Anda?' dan tuliskan angkanya. Diskusikan apa artinya 'banyak' dan 'sedikit' dalam konteks Denmark dan Indonesia."
+      },
+      "flow": [
+        {
+          "da": "Introducer nøglesætningerne: 'Saya punya satu kakak' og 'Keluarga saya terdiri dari empat orang'. Øv med konkrete tal.",
+          "en": "Introduce the key sentences: 'Saya punya satu kakak' and 'Keluarga saya terdiri dari empat orang'. Practice with concrete numbers.",
+          "id": "Perkenalkan kalimat kunci: 'Saya punya satu kakak' dan 'Keluarga saya terdiri dari empat orang'. Latih dengan angka konkret."
+        },
+        {
+          "da": "Introducer civilstand: sudah menikah (gift), belum menikah (ugift), janda/duda (enke/enkemand). Øv: 'Saya sudah menikah dan punya dua anak.'",
+          "en": "Introduce marital status: sudah menikah (married), belum menikah (unmarried), janda/duda (widow/widower). Practice: 'Saya sudah menikah dan punya dua anak.'",
+          "id": "Perkenalkan status pernikahan: sudah menikah, belum menikah, janda/duda. Latih: 'Saya sudah menikah dan punya dua anak.'"
+        },
+        {
+          "da": "Pardialog: de to venner i dialogen sammenligner familier. Eleverne laver derefter deres egne versioner.",
+          "en": "Pair dialogue: the two friends in the dialogue compare families. Students then create their own versions.",
+          "id": "Dialog berpasangan: dua teman dalam dialog membandingkan keluarga. Siswa kemudian membuat versi mereka sendiri."
+        }
+      ],
+      "notes": [
+        {
+          "da": "'Sudah' (allerede/allerede sket) og 'belum' (endnu ikke) er vigtige aspektmarkører på indonesisk. De er ikke verber, men de ændrer sætningens tidsperspektiv.",
+          "en": "'Sudah' (already/has happened) and 'belum' (not yet) are important aspect markers in Indonesian. They are not verbs, but they change the temporal perspective of the sentence.",
+          "id": "'Sudah' (sudah terjadi) dan 'belum' (belum terjadi) adalah penanda aspek penting dalam bahasa Indonesia. Mereka bukan kata kerja, tetapi mengubah perspektif temporal kalimat."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv fem sætninger om din familie med de nye mønstre. Brug 'Saya punya', 'Keluarga saya terdiri dari', og tilstanden 'sudah/belum menikah'.",
+          "en": "Write five sentences about your family using the new patterns. Use 'Saya punya', 'Keluarga saya terdiri dari', and the states 'sudah/belum menikah'.",
+          "id": "Tulislah lima kalimat tentang keluarga Anda menggunakan pola baru. Gunakan 'Saya punya', 'Keluarga saya terdiri dari', dan keadaan 'sudah/belum menikah'."
+        },
+        {
+          "da": "Øv at stille spørgsmål: 'Anda sudah menikah?' og 'Punya anak?'",
+          "en": "Practice asking questions: 'Anda sudah menikah?' and 'Punya anak?'",
+          "id": "Latih mengajukan pertanyaan: 'Anda sudah menikah?' dan 'Punya anak?'"
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du lave en komplet familiebeskrivelsse (3-4 sætninger) uden hjælp?",
+          "en": "Can you produce a complete family description (3-4 sentences) without help?",
+          "id": "Bisakah Anda membuat deskripsi keluarga yang lengkap (3-4 kalimat) tanpa bantuan?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Dika",
+      "source": "Hei, Lisa! Keluarga kamu besar?",
+      "target": "Hej, Lisa! Er din familie stor?"
+    },
+    {
+      "speaker": "Lisa",
+      "source": "Lumayan. Keluarga saya terdiri dari empat orang: ayah, ibu, saya, dan satu adik.",
+      "target": "Det er okay. Min familie består af fire: far, mor, mig og en lillesøster/-bror."
+    },
+    {
+      "speaker": "Dika",
+      "source": "Oh, kecil ya. Keluarga saya ada tujuh orang!",
+      "target": "Åh, den er lille. Min familie er syv personer!"
+    },
+    {
+      "speaker": "Lisa",
+      "source": "Wah, banyak sekali! Kamu sudah menikah?",
+      "target": "Nej, hvor mange! Er du gift?"
+    },
+    {
+      "speaker": "Dika",
+      "source": "Belum. Saya masih punya orang tua, tiga kakak, dan satu adik.",
+      "target": "Ikke endnu. Jeg har stadig mine forældre, tre storesøskende og en lillesøster/-bror."
+    },
+    {
+      "speaker": "Lisa",
+      "source": "Pasti ramai di rumah!",
+      "target": "Det må være livligt derhjemme!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Jeg har ...",
+      "target": "Saya punya ...",
+      "note": {
+        "da": "'Punya' betyder 'at have/eje'. Bruges til at sige hvad man besidder – herunder familiemedlemmer.",
+        "en": "'Punya' means 'to have/own'. Used to say what one possesses – including family members.",
+        "id": "'Punya' berarti 'memiliki'. Digunakan untuk menyatakan apa yang dimiliki – termasuk anggota keluarga."
+      }
+    },
+    {
+      "source": "Min familie består af ...",
+      "target": "Keluarga saya terdiri dari ...",
+      "note": {
+        "da": "'Terdiri dari' = består af. Et nyttigt formelt udtryk til familiebeskrivelsse.",
+        "en": "'Terdiri dari' = consists of. A useful formal expression for family descriptions.",
+        "id": "'Terdiri dari' = terdiri dari. Ungkapan formal yang berguna untuk deskripsi keluarga."
+      }
+    },
+    {
+      "source": "Gift",
+      "target": "Sudah menikah",
+      "note": {
+        "da": "'Sudah' (allerede) + 'menikah' (at gifte sig/gift). Bogstaveligt: 'allerede gift'.",
+        "en": "'Sudah' (already) + 'menikah' (to marry/married). Literally: 'already married'.",
+        "id": "'Sudah' + 'menikah'. Secara harfiah: 'sudah menikah'."
+      }
+    },
+    {
+      "source": "Ugift",
+      "target": "Belum menikah",
+      "note": {
+        "da": "'Belum' (endnu ikke) + 'menikah'. Bogstaveligt: 'endnu ikke gift'. 'Belum' antyder at det måske kommer.",
+        "en": "'Belum' (not yet) + 'menikah'. Literally: 'not yet married'. 'Belum' implies it may happen.",
+        "id": "'Belum' + 'menikah'. Secara harfiah: 'belum menikah'. 'Belum' menyiratkan mungkin akan terjadi."
+      }
+    },
+    {
+      "source": "At have børn",
+      "target": "Punya anak",
+      "note": {
+        "da": "En kort, naturlig måde at sige at man har børn. Kan udvides: 'punya dua anak' = to børn.",
+        "en": "A short, natural way to say one has children. Can be expanded: 'punya dua anak' = two children.",
+        "id": "Cara singkat dan alami untuk menyatakan memiliki anak. Dapat diperluas: 'punya dua anak'."
+      }
+    },
+    {
+      "source": "Forældre",
+      "target": "Orang tua",
+      "note": {
+        "da": "Bogstaveligt 'ældre mennesker'. Det faste ord for forældre (begge eller en af dem).",
+        "en": "Literally 'older people'. The fixed term for parents (both or one of them).",
+        "id": "Secara harfiah 'orang tua'. Istilah tetap untuk orang tua (keduanya atau salah satunya)."
+      }
+    },
+    {
+      "source": "Lille (om størrelse)",
+      "target": "Kecil",
+      "note": {
+        "da": "'Keluarga kecil' = lille familie. Modsætning: 'keluarga besar' = stor familie.",
+        "en": "'Keluarga kecil' = small family. Opposite: 'keluarga besar' = large family.",
+        "id": "'Keluarga kecil' = keluarga kecil. Lawan kata: 'keluarga besar'."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Sudah / Belum + [verbum/tilstand]",
+      "explanation": {
+        "da": "'Sudah' angiver at noget er sket eller er tilfældet. 'Belum' angiver at noget endnu ikke er sket. De sættes direkte foran verbet – intet hjælpeverbum.",
+        "en": "'Sudah' indicates that something has happened or is the case. 'Belum' indicates that something has not yet happened. They are placed directly before the verb – no auxiliary needed.",
+        "id": "'Sudah' menunjukkan bahwa sesuatu telah terjadi atau menjadi keadaan. 'Belum' menunjukkan bahwa sesuatu belum terjadi. Keduanya ditempatkan langsung sebelum kata kerja."
+      },
+      "examples": [
+        { "source": "Jeg er gift.", "target": "Saya sudah menikah." },
+        { "source": "Jeg er ikke gift endnu.", "target": "Saya belum menikah." },
+        { "source": "Har du spist? – Endnu ikke.", "target": "Sudah makan? – Belum." }
+      ]
+    },
+    {
+      "pattern": "Keluarga saya terdiri dari + tal + orang",
+      "explanation": {
+        "da": "Brug 'terdiri dari' (består af) efterfulgt af et tal og 'orang' (person). Dette er standardformlen for at beskrive familiens størrelse.",
+        "en": "Use 'terdiri dari' (consists of) followed by a number and 'orang' (person). This is the standard formula for describing family size.",
+        "id": "Gunakan 'terdiri dari' diikuti oleh angka dan 'orang'. Ini adalah rumus standar untuk mendeskripsikan ukuran keluarga."
+      },
+      "examples": [
+        { "source": "Min familie består af tre.", "target": "Keluarga saya terdiri dari tiga orang." },
+        { "source": "Min familie består af fem.", "target": "Keluarga saya terdiri dari lima orang." }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Beskriv din familie på 3-4 sætninger: brug 'Keluarga saya terdiri dari...', 'Saya punya...' og si om du er gift og har børn.",
+        "en": "Describe your family in 3-4 sentences: use 'Keluarga saya terdiri dari...', 'Saya punya...' and state whether you are married and have children.",
+        "id": "Deskripsikan keluarga Anda dalam 3-4 kalimat: gunakan 'Keluarga saya terdiri dari...', 'Saya punya...' dan nyatakan apakah Anda sudah menikah dan memiliki anak."
+      },
+      "answerShape": {
+        "da": "Tre til fire sammenhængende sætninger.",
+        "en": "Three to four connected sentences.",
+        "id": "Tiga hingga empat kalimat yang berkesinambungan."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogeksemplet. Hvem har den største familie? Hvor mange søskende har Dika? Er nogen af dem gift?",
+        "en": "Listen to the dialogue example. Who has the largest family? How many siblings does Dika have? Is either of them married?",
+        "id": "Dengarkan contoh dialog. Siapa yang memiliki keluarga terbesar? Berapa saudara kandung Dika? Apakah salah satu dari mereka sudah menikah?"
+      },
+      "answerShape": {
+        "da": "Dika har den største familie (7). Dika har 3 kakak og 1 adik. Ingen er gift endnu.",
+        "en": "Dika has the largest family (7). Dika has 3 kakak and 1 adik. Neither is married yet.",
+        "id": "Dika memiliki keluarga terbesar (7). Dika memiliki 3 kakak dan 1 adik. Tidak ada yang sudah menikah."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Sæt ordene i den rigtige rækkefølge: 1) [saya / punya / dua / anak]  2) [menikah / sudah / ibu / saya]  3) [dari / terdiri / orang / keluarga / lima / saya].",
+        "en": "Put the words in the correct order: 1) [saya / punya / dua / anak]  2) [menikah / sudah / ibu / saya]  3) [dari / terdiri / orang / keluarga / lima / saya].",
+        "id": "Susun kata-kata dalam urutan yang benar: 1) [saya / punya / dua / anak]  2) [menikah / sudah / ibu / saya]  3) [dari / terdiri / orang / keluarga / lima / saya]."
+      },
+      "answerShape": {
+        "da": "1) Saya punya dua anak.  2) Ibu saya sudah menikah.  3) Keluarga saya terdiri dari lima orang.",
+        "en": "1) Saya punya dua anak.  2) Ibu saya sudah menikah.  3) Keluarga saya terdiri dari lima orang.",
+        "id": "1) Saya punya dua anak.  2) Ibu saya sudah menikah.  3) Keluarga saya terdiri dari lima orang."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme04-lesson04-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "At beskrive sin familie på indonesisk",
+        "en": "Describing your family in Indonesian",
+        "id": "Mendeskripsikan keluarga Anda dalam bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

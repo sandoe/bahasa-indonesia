@@ -1,0 +1,296 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 3,
+  "slug": "lesson-03",
+  "durationMinutes": 35,
+  "title": {
+    "da": "At Spørge om Vej",
+    "en": "Asking for Directions",
+    "id": "Minta Petunjuk Arah"
+  },
+  "summary": {
+    "da": "Lær at spørge om og give vejbeskrivelser på indonesisk med retningsangivelser som lurus, belok kiri og belok kanan.",
+    "en": "Learn to ask for and give directions in Indonesian using directional words such as lurus, belok kiri, and belok kanan.",
+    "id": "Belajar bertanya dan memberikan petunjuk arah dalam bahasa Indonesia menggunakan kata arah seperti lurus, belok kiri, dan belok kanan."
+  },
+  "objectives": [
+    {
+      "da": "Spørge om vej med 'Di mana...?' og 'Bagaimana cara ke...?'",
+      "en": "Ask for directions using 'Di mana...?' and 'Bagaimana cara ke...?'",
+      "id": "Bertanya arah menggunakan 'Di mana...?' dan 'Bagaimana cara ke...?'"
+    },
+    {
+      "da": "Bruge de seks grundlæggende retningsord: lurus, belok kiri, belok kanan, putar balik, di depan, di belakang.",
+      "en": "Use the six basic directional words: lurus, belok kiri, belok kanan, putar balik, di depan, di belakang.",
+      "id": "Menggunakan enam kata arah dasar: lurus, belok kiri, belok kanan, putar balik, di depan, di belakang."
+    },
+    {
+      "da": "Følge og give en simpel vejbeskrivelse med to til tre trin.",
+      "en": "Follow and give a simple set of directions with two to three steps.",
+      "id": "Mengikuti dan memberikan petunjuk arah sederhana dengan dua hingga tiga langkah."
+    }
+  ],
+  "unit": {
+    "slug": "theme-10",
+    "order": 10,
+    "title": {
+      "da": "Tema 10: Byen & Transport",
+      "en": "Theme 10: City & Transport",
+      "id": "Tema 10: Kota & Transportasi"
+    },
+    "summary": {
+      "da": "At navigere i en indonesisk by og bruge offentlig transport.",
+      "en": "Navigating an Indonesian city and using public transport.",
+      "id": "Menavigasi kota Indonesia dan menggunakan transportasi umum."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Tegn et enkelt gadekort på tavlen med fire veje og et X som mål. Spørg: 'Bagaimana cara ke X?' og optag elevernes intuitive svar.",
+        "en": "Draw a simple street map on the board with four roads and an X as the destination. Ask 'Bagaimana cara ke X?' and capture students' intuitive answers.",
+        "id": "Gambar peta jalan sederhana di papan dengan empat jalan dan X sebagai tujuan. Tanya 'Bagaimana cara ke X?' dan tangkap jawaban intuitif siswa."
+      },
+      "flow": [
+        {
+          "da": "Introducer retningsordbeholdningen med fysiske bevægelser: sig 'lurus' mens du går ligeud, 'belok kiri/kanan' mens du drejer, 'putar balik' mens du vender om. Få eleverne til at imitere.",
+          "en": "Introduce directional vocabulary with physical actions: say 'lurus' while walking straight, 'belok kiri/kanan' while turning, 'putar balik' while turning around. Have students mimic.",
+          "id": "Perkenalkan kosakata arah dengan gerakan fisik: ucapkan 'lurus' sambil berjalan lurus, 'belok kiri/kanan' sambil berbelok, 'putar balik' sambil berbalik. Minta siswa meniru."
+        },
+        {
+          "da": "Øv 'Di mana...?' og 'Bagaimana cara ke...?' med bykortet. Vis forskellen: 'Di mana' = placering, 'Bagaimana cara ke' = rute.",
+          "en": "Practise 'Di mana...?' and 'Bagaimana cara ke...?' with the city map. Show the difference: 'Di mana' = location, 'Bagaimana cara ke' = route.",
+          "id": "Latih 'Di mana...?' dan 'Bagaimana cara ke...?' dengan peta kota. Tunjukkan perbedaannya: 'Di mana' = lokasi, 'Bagaimana cara ke' = rute."
+        },
+        {
+          "da": "Par-øvelse: Elev A er turist, elev B er lokal. Brug klassekortet til at øve 3-trins vejbeskrivelser.",
+          "en": "Pair activity: Student A is the tourist, student B is the local. Use the classroom map to practise 3-step directions.",
+          "id": "Latihan berpasangan: Siswa A adalah turis, siswa B adalah warga lokal. Gunakan peta kelas untuk berlatih petunjuk arah 3 langkah."
+        }
+      ],
+      "notes": [
+        {
+          "da": "I Indonesien bruges også 'ke kiri' og 'ke kanan' (mere bogstaveligt 'mod venstre/højre') som alternativer til 'belok kiri/kanan'. Begge former er korrekte.",
+          "en": "In Indonesia, 'ke kiri' and 'ke kanan' (more literally 'towards left/right') are also used as alternatives to 'belok kiri/kanan'. Both forms are correct.",
+          "id": "Di Indonesia, 'ke kiri' dan 'ke kanan' (lebih harfiah 'menuju kiri/kanan') juga digunakan sebagai alternatif dari 'belok kiri/kanan'. Kedua bentuk tersebut benar."
+        },
+        {
+          "da": "I store byer bruges ofte kardinalpunkter (utara/selatan/barat/timur) til adresser. Tag en hurtig gennemgang, hvis eleverne er klar til det.",
+          "en": "In large cities, cardinal directions (utara/selatan/barat/timur) are often used in addresses. Give a quick overview if students are ready for it.",
+          "id": "Di kota-kota besar, arah mata angin (utara/selatan/barat/timur) sering digunakan dalam alamat. Berikan gambaran singkat jika siswa sudah siap."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Tegn et gadekort og øv at give vejbeskrivelser til tre forskellige destinationer. Skriv trinnene ned på indonesisk.",
+          "en": "Draw a street map and practise giving directions to three different destinations. Write the steps down in Indonesian.",
+          "id": "Gambar peta jalan dan latih memberikan petunjuk arah ke tiga destinasi berbeda. Tuliskan langkah-langkahnya dalam bahasa Indonesia."
+        },
+        {
+          "da": "Lær retningsordbeholdningen udenad ved at øve dem med kroppen: rejs dig op og gå/drej, mens du siger ordene højt.",
+          "en": "Memorise the directional vocabulary by practising with your body: stand up and walk/turn while saying the words aloud.",
+          "id": "Hafalkan kosakata arah dengan mempraktikkannya menggunakan tubuh: berdiri dan berjalan/berbelok sambil mengucapkan kata-kata dengan keras."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du give en tre-trins vejbeskrivelse fra ét sted til et andet på indonesisk?",
+          "en": "Can you give a three-step set of directions from one place to another in Indonesian?",
+          "id": "Bisakah kamu memberikan petunjuk arah tiga langkah dari satu tempat ke tempat lain dalam bahasa Indonesia?"
+        },
+        {
+          "da": "Kender du forskellen på 'Di mana stasiun?' og 'Bagaimana cara ke stasiun?'",
+          "en": "Do you know the difference between 'Di mana stasiun?' and 'Bagaimana cara ke stasiun?'",
+          "id": "Apakah kamu tahu perbedaan antara 'Di mana stasiun?' dan 'Bagaimana cara ke stasiun?'"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Sophie (Tourist)",
+      "source": "Permisi, bagaimana cara ke stasiun kereta dari sini?",
+      "target": "Undskyld, hvordan kommer jeg til togstationen herfra?"
+    },
+    {
+      "speaker": "Pak Hasan (Lokal)",
+      "source": "Mudah! Jalan terus lurus sampai lampu merah.",
+      "target": "Nemt! Gå lige ud til det røde lys."
+    },
+    {
+      "speaker": "Sophie (Tourist)",
+      "source": "Oke, lurus dulu. Lalu?",
+      "target": "OK, ligeud først. Så?"
+    },
+    {
+      "speaker": "Pak Hasan (Lokal)",
+      "source": "Di lampu merah, belok kanan. Stasiun ada di depan Anda, tidak jauh.",
+      "target": "Ved det røde lys drejer du til højre. Stationen er foran dig, ikke langt."
+    },
+    {
+      "speaker": "Sophie (Tourist)",
+      "source": "Jadi: lurus, lalu belok kanan, dan stasiun ada di depan saya?",
+      "target": "Altså: ligeud, så drej til højre, og stationen er foran mig?"
+    },
+    {
+      "speaker": "Pak Hasan (Lokal)",
+      "source": "Tepat sekali! Kira-kira lima menit berjalan kaki.",
+      "target": "Præcis! Cirka fem minutters gang."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Ligeud / Lige frem",
+      "target": "Lurus",
+      "note": {
+        "da": "Bogstaveligt 'ret'. Bruges om at gå ligeud. Jalan terus = bliv ved med at gå.",
+        "en": "Literally 'straight'. Used for going straight ahead. Jalan terus = keep going.",
+        "id": "Secara harfiah 'lurus'. Digunakan untuk berjalan lurus. Jalan terus = terus jalan."
+      }
+    },
+    {
+      "source": "Drej til venstre",
+      "target": "Belok kiri",
+      "note": {
+        "da": "Belok = at dreje/svinge. Kiri = venstre.",
+        "en": "Belok = to turn. Kiri = left.",
+        "id": "Belok = berbelok. Kiri = kiri."
+      }
+    },
+    {
+      "source": "Drej til højre",
+      "target": "Belok kanan",
+      "note": {
+        "da": "Kanan = højre. Husk: kiri = venstre, kanan = højre.",
+        "en": "Kanan = right. Remember: kiri = left, kanan = right.",
+        "id": "Kanan = kanan. Ingat: kiri = kiri, kanan = kanan."
+      }
+    },
+    {
+      "source": "Vend om / U-sving",
+      "target": "Putar balik",
+      "note": {
+        "da": "Bogstaveligt: 'drej tilbage'. Bruges om at vende om og gå/køre den anden vej.",
+        "en": "Literally: 'turn back'. Used for turning around and going the other way.",
+        "id": "Secara harfiah: 'putar balik'. Digunakan untuk berbalik dan pergi ke arah yang berlawanan."
+      }
+    },
+    {
+      "source": "Foran / I front",
+      "target": "Di depan",
+      "note": {
+        "da": "Di depan + sted = foran [stedet]. F.eks.: di depan bank = foran banken.",
+        "en": "Di depan + place = in front of [the place]. E.g. di depan bank = in front of the bank.",
+        "id": "Di depan + tempat = di depan [tempat]. Contoh: di depan bank = di depan bank."
+      }
+    },
+    {
+      "source": "Bag ved / Bagved",
+      "target": "Di belakang",
+      "note": {
+        "da": "Modsat di depan. Di belakang sekolah = bag ved skolen.",
+        "en": "Opposite of di depan. Di belakang sekolah = behind the school.",
+        "id": "Kebalikan dari di depan. Di belakang sekolah = di belakang sekolah."
+      }
+    },
+    {
+      "source": "Til venstre for",
+      "target": "Di sebelah kiri",
+      "note": {
+        "da": "Kombinerer di sebelah (ved siden af) med kiri (venstre).",
+        "en": "Combines di sebelah (next to) with kiri (left).",
+        "id": "Menggabungkan di sebelah (di samping) dengan kiri (kiri)."
+      }
+    },
+    {
+      "source": "Til højre for",
+      "target": "Di sebelah kanan",
+      "note": {
+        "da": "Kombinerer di sebelah (ved siden af) med kanan (højre).",
+        "en": "Combines di sebelah (next to) with kanan (right).",
+        "id": "Menggabungkan di sebelah (di samping) dengan kanan (kanan)."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Bagaimana cara ke...?",
+      "explanation": {
+        "da": "'Bagaimana' = 'hvordan'. 'Cara' = 'måde/metode'. 'Ke' = 'til'. Samlet: 'Hvad er vejen til...?' eller 'Hvordan kommer jeg til...?' Dette er den standard måde at spørge om ruten – i modsætning til 'Di mana', der blot spørger om stedet.",
+        "en": "'Bagaimana' = 'how'. 'Cara' = 'way/method'. 'Ke' = 'to'. Together: 'What is the way to...?' or 'How do I get to...?' This is the standard way to ask for a route – unlike 'Di mana', which only asks about the location.",
+        "id": "'Bagaimana' = 'bagaimana'. 'Cara' = 'cara/metode'. 'Ke' = 'ke'. Bersama-sama: 'Bagaimana cara ke...?' Ini adalah cara standar untuk bertanya tentang rute – berbeda dengan 'Di mana' yang hanya menanyakan lokasi."
+      },
+      "examples": [
+        { "source": "Hvordan kommer jeg til stationen?", "target": "Bagaimana cara ke stasiun?" },
+        { "source": "Hvordan kommer jeg til hotellet?", "target": "Bagaimana cara ke hotel?" },
+        { "source": "Hvor er hospitalet?", "target": "Di mana rumah sakit?" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Din partner er en turist, der leder efter nærmeste bank. Giv en vejbeskrivelse med mindst tre trin ved hjælp af lurus, belok kiri/kanan og di depan.",
+        "en": "Your partner is a tourist looking for the nearest bank. Give directions using at least three steps, using lurus, belok kiri/kanan, and di depan.",
+        "id": "Pasanganmu adalah turis yang mencari bank terdekat. Berikan petunjuk arah dengan setidaknya tiga langkah menggunakan lurus, belok kiri/kanan, dan di depan."
+      },
+      "answerShape": {
+        "da": "Jalan lurus, lalu belok [kiri/kanan], dan [tempat] ada di depan Anda.",
+        "en": "Jalan lurus, lalu belok [kiri/kanan], dan [tempat] ada di depan Anda.",
+        "id": "Jalan lurus, lalu belok [kiri/kanan], dan [tempat] ada di depan Anda."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Sæt disse trin i den rigtige rækkefølge og skriv dem som en vejbeskrivelse: (a) belok kiri (b) lurus dua blok (c) di sebelah kiri ada bank.",
+        "en": "Put these steps in the right order and write them as a set of directions: (a) belok kiri (b) lurus dua blok (c) di sebelah kiri ada bank.",
+        "id": "Urutkan langkah-langkah ini dengan benar dan tuliskan sebagai petunjuk arah: (a) belok kiri (b) lurus dua blok (c) di sebelah kiri ada bank."
+      },
+      "answerShape": {
+        "da": "Lurus dua blok, lalu belok kiri. Di sebelah kiri ada bank.",
+        "en": "Lurus dua blok, lalu belok kiri. Di sebelah kiri ada bank.",
+        "id": "Lurus dua blok, lalu belok kiri. Di sebelah kiri ada bank."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen og notér den præcise vejbeskrivelse. Tegn ruten på et stykke papir.",
+        "en": "Listen to the dialogue and note the exact directions. Draw the route on a piece of paper.",
+        "id": "Dengarkan dialog dan catat petunjuk arah yang tepat. Gambar rute di selembar kertas."
+      },
+      "answerShape": {
+        "da": "Ligeud til rødt lys → drej til højre → stationen er foran dig.",
+        "en": "Straight to traffic light → turn right → station is in front of you.",
+        "id": "Lurus ke lampu merah → belok kanan → stasiun ada di depan Anda."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme10-lesson03-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "At Spørge om Vej i Jakarta",
+        "en": "Asking for Directions in Jakarta",
+        "id": "Meminta Petunjuk Arah di Jakarta"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

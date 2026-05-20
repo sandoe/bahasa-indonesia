@@ -1,0 +1,52 @@
+{
+  "slug": "bipa-3",
+  "order": 3,
+  "cefr": "B1",
+  "stage": {
+    "da": "Præ-intermediate",
+    "en": "Pre-intermediate",
+    "id": "Pra-menengah"
+  },
+  "title": {
+    "da": "BIPA 3 · Erfaring og planer",
+    "en": "BIPA 3 · Experiences and plans",
+    "id": "BIPA 3 · Pengalaman dan rencana"
+  },
+  "summary": {
+    "da": "Erfaringer, planer, vaner og små fortællinger med begyndende begrundelser.",
+    "en": "Experiences, plans, habits, and short narratives with emerging reasons.",
+    "id": "Pengalaman, rencana, kebiasaan, dan narasi singkat dengan alasan yang mulai berkembang."
+  },
+  "focus": [
+    {
+      "da": "Fortid og fremtid",
+      "en": "Past and future",
+      "id": "Masa lalu dan masa depan"
+    },
+    {
+      "da": "Invitationer",
+      "en": "Invitations",
+      "id": "Undangan"
+    },
+    {
+      "da": "Personlige meninger",
+      "en": "Personal opinions",
+      "id": "Pendapat pribadi"
+    }
+  ],
+  "teacherPositioning": {
+    "da": "Her begynder længere output, refleksion og dialogkæder.",
+    "en": "This is where longer output, reflection, and dialogue chains begin.",
+    "id": "Di tahap ini mulai muncul output yang lebih panjang, refleksi, dan rantai dialog."
+  },
+  "selfStudyPositioning": {
+    "da": "Selvstudie får mere skrivning, genfortælling og planlægningsopgaver.",
+    "en": "Self-study gets more writing, retelling, and planning tasks.",
+    "id": "Belajar mandiri mendapat lebih banyak tugas menulis, menceritakan ulang, dan perencanaan."
+  },
+  "supportedPairs": ["da-id", "id-da", "en-id", "id-en"],
+  "palette": {
+    "accent": "#3abf9b",
+    "glow": "#b8f1e1"
+  }
+}

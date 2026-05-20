@@ -1,0 +1,340 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import CourseCard from "@components/CourseCard.astro";
+import LessonCard from "@components/LessonCard.astro";
+import { getCoursesForPair, getLessons, getStaticRouteMatrix } from "@lib/content";
+import { getDirectionLabel, getLanguageLabel, t } from "@lib/i18n";
+import { uiCopy, type LearningPair, type UiLocale } from "@data/site";
+import { pairMeta } from "@data/site";
+
+export async function getStaticPaths() {
+  return getStaticRouteMatrix().map(({ locale, pair }) => ({
+    params: { locale, pair }
+  }));
+}
+
+const locale = Astro.params.locale as UiLocale;
+const pair = Astro.params.pair as LearningPair;
+const courses = await getCoursesForPair(pair);
+const allLessons = await getLessons();
+const pairLessons = allLessons.filter((lesson) => lesson.data.pair === pair);
+const bipa1Course = courses.find((course) => course.data.slug === "bipa-1");
+const bipa1Lessons = pairLessons.filter((lesson) => lesson.data.courseSlug === "bipa-1");
+const featuredLessons = (bipa1Lessons.length > 0 ? bipa1Lessons : pairLessons).slice(0, 3);
+const firstLesson = allLessons.find((lesson) => lesson.data.pair === pair);
+const bipa1Minutes = bipa1Lessons.reduce((total, lesson) => total + lesson.data.durationMinutes, 0);
+const targetLanguage = pairMeta[pair].target;
+const targetLanguageLabel = getLanguageLabel(targetLanguage, locale);
+const targetAudienceCopy =
+  targetLanguage === "da"
+    ? {
+        da: "Her finder du din vej gennem de otte BIPA-niveauer med dansk som målsprog. Start med BIPA 1, hvis du er ny, og byg derefter trygt videre.",
+        en: "Here you move through the eight BIPA levels with Danish as the target language. Start with BIPA 1 if you are new, then build steadily onward.",
+        id: "Di sini Anda menemukan jalur melalui delapan level BIPA dengan bahasa Denmark sebagai bahasa sasaran. Mulailah dari BIPA 1 jika Anda baru, lalu lanjutkan dengan tenang."
+      }
+    : {
+        da: "Her finder du din vej gennem de otte BIPA-niveauer. Start med BIPA 1, hvis du er ny, og følg derefter den røde tråd videre gennem niveauerne.",
+        en: "Here you move through the eight BIPA levels. Start with BIPA 1 if you are new, then follow the learning path through the levels.",
+        id: "Di sini Anda menemukan jalur melalui delapan level BIPA. Mulailah dari BIPA 1 jika Anda baru, lalu ikuti alur belajar ke level berikutnya."
+      };
+const levelBodyCopy =
+  targetLanguage === "da"
+    ? {
+        da: "Hvert niveau tager dig dybere ind i dansk sprogbrug, hverdag og kommunikation.",
+        en: "Each level takes you deeper into Danish usage, daily life, and communication.",
+        id: "Setiap level membawa Anda lebih jauh ke penggunaan bahasa Denmark, kehidupan sehari-hari, dan komunikasi."
+      }
+    : {
+        da: "Hvert niveau tager dig dybere ind i det indonesiske sprog og kultur.",
+        en: "Each level takes you deeper into Indonesian language and culture.",
+        id: "Setiap level membawa Anda lebih jauh ke bahasa dan budaya Indonesia."
+      };
+const pageCopy = {
+  startHere: { da: "Start her", en: "Start here", id: "Mulai di sini" },
+  firstLesson: { da: "Første lektion", en: "First lesson", id: "Pelajaran pertama" },
+  startPoint: { da: "Startpunkt", en: "Starting point", id: "Titik awal" },
+  bipa1Lead: { da: "BIPA 1 er dit naturlige næste skridt", en: "BIPA 1 is your natural next step", id: "BIPA 1 adalah langkah awal yang paling alami" },
+  openBipa1: { da: "Åbn BIPA 1", en: "Open BIPA 1", id: "Buka BIPA 1" },
+  goFirstLesson: { da: "Gå til første lektion", en: "Go to the first lesson", id: "Pergi ke pelajaran pertama" },
+  progression: { da: "Progression", en: "Progression", id: "Progres" },
+  levels: { da: "BIPA Niveauer 1-8", en: "BIPA Levels 1-8", id: "Level BIPA 1-8" },
+  getStarted: { da: "Kom i gang", en: "Get started", id: "Mulai belajar" },
+  referenceLessons: { da: "Referencelektioner", en: "Reference lessons", id: "Pelajaran acuan" },
+  referenceBody: {
+    da: "Her er de første lektioner, som viser hvordan vi arbejder med den røde tråd.",
+    en: "These first lessons show how the learning path is structured.",
+    id: "Berikut adalah pelajaran-pelajaran pertama yang menunjukkan bagaimana alur belajarnya dibangun."
+  },
+  minutes: { da: "min", en: "min", id: "menit" },
+  levelsCount: { da: "Niveauer", en: "Levels", id: "Level" },
+  bipa1ReadyMessage: {
+    da: `Du har allerede ${bipa1Lessons.length} lektioner klar i BIPA 1 med cirka ${bipa1Minutes} minutters indhold på vej mod ${targetLanguageLabel.toLowerCase()}.`,
+    en: `You already have ${bipa1Lessons.length} lessons ready in BIPA 1 with about ${bipa1Minutes} minutes of content aimed at ${targetLanguageLabel.toLowerCase()}.`,
+    id: `Anda sudah memiliki ${bipa1Lessons.length} pelajaran siap di BIPA 1 dengan sekitar ${bipa1Minutes} menit materi menuju ${targetLanguageLabel.toLowerCase()}.`
+  },
+  bipa1PlannedMessage: {
+    da: "BIPA 1 er fremhævet som det første niveau i progressionen.",
+    en: "BIPA 1 is highlighted as the first level in the progression.",
+    id: "BIPA 1 ditandai sebagai level pertama dalam progres pembelajaran."
+  }
+} as const;
+---
+
+<BaseLayout
+  title={`${getDirectionLabel(pair, locale)} | BahasaBroen`}
+  description={t(uiCopy.heroBody, locale)}
+  locale={locale}
+  pair={pair}
+>
+  <div class="animated-bg">
+    <div class="blob"></div>
+    <div class="blob"></div>
+  </div>
+
+  <section class="shell landing-hero-compact">
+    <div class="hero-content">
+      <nav class="breadcrumb animated" aria-label={t(uiCopy.breadcrumb, locale)}>
+        <a href="/" class="bc-link">BahasaBroen</a>
+        <span class="sep" aria-hidden="true">/</span>
+        <span class="active">{getDirectionLabel(pair, locale)}</span>
+      </nav>
+      <h1 class="animated delay-1">{getDirectionLabel(pair, locale)}</h1>
+      <p class="hero-text animated delay-2">
+        {targetAudienceCopy[locale]}
+      </p>
+      {firstLesson && (
+        <div class="hero-cta animated delay-3">
+          <a
+            class="primary-link"
+            href={`/${locale}/${pair}/${firstLesson.data.courseSlug}/${firstLesson.data.unit.slug}/${firstLesson.data.slug}/`}
+          >
+            {pageCopy.startHere[locale]}
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+          </a>
+          <span class="cta-hint">{pageCopy.firstLesson[locale]} · {firstLesson.data.durationMinutes} {pageCopy.minutes[locale]}</span>
+        </div>
+      )}
+    </div>
+    <div class="hero-visual-mini animated delay-3">
+      <div class="level-badge">
+        <span class="badge-number">8</span>
+        <span class="badge-label">{pageCopy.levelsCount[locale]}</span>
+      </div>
+    </div>
+  </section>
+
+  {bipa1Course && (
+    <section class="shell focus-strip animated delay-4">
+      <div class="focus-copy">
+        <span class="eyebrow">{pageCopy.startPoint[locale]}</span>
+        <h2>{pageCopy.bipa1Lead[locale]}</h2>
+        <p>
+          {bipa1Lessons.length > 0
+            ? pageCopy.bipa1ReadyMessage[locale]
+            : pageCopy.bipa1PlannedMessage[locale]}
+        </p>
+      </div>
+      <div class="focus-actions">
+        <a class="primary-link" href={`/${locale}/${pair}/bipa-1/`}>{pageCopy.openBipa1[locale]}</a>
+        {bipa1Lessons[0] && (
+          <a
+            class="secondary-link"
+            href={`/${locale}/${pair}/${bipa1Lessons[0].data.courseSlug}/${bipa1Lessons[0].data.unit.slug}/${bipa1Lessons[0].data.slug}/`}
+          >
+            {pageCopy.goFirstLesson[locale]}
+          </a>
+        )}
+      </div>
+    </section>
+  )}
+
+  <section class="shell section-shell animated delay-4" id="structure">
+    <div class="section-header">
+      <span class="eyebrow">{pageCopy.progression[locale]}</span>
+      <h2>{pageCopy.levels[locale]}</h2>
+      <p>{levelBodyCopy[locale]}</p>
+    </div>
+    <div class="course-grid">
+      {courses.map((course) => <CourseCard course={course} locale={locale} pair={pair} />)}
+    </div>
+  </section>
+
+  <section class="shell section-shell animated delay-5" id="sample">
+    <div class="section-header">
+      <span class="eyebrow">{pageCopy.getStarted[locale]}</span>
+      <h2>{pageCopy.referenceLessons[locale]}</h2>
+      <p>{pageCopy.referenceBody[locale]}</p>
+    </div>
+    <div class="lesson-grid">
+      {featuredLessons.map((lesson) => <LessonCard lesson={lesson} locale={locale} pair={pair} />)}
+    </div>
+  </section>
+
+  <style>
+    .landing-hero-compact {
+      display: grid;
+      grid-template-columns: 1.3fr 0.7fr;
+      gap: 3rem;
+      padding: 4rem 0 3rem;
+      align-items: center;
+    }
+
+    .breadcrumb {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--muted);
+      margin-bottom: 1.5rem;
+    }
+    .bc-link {
+      color: var(--muted);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    .bc-link:hover { color: var(--teal); }
+    .breadcrumb .sep { color: var(--accent); opacity: 0.4; }
+    .breadcrumb .active { color: var(--teal); font-weight: 800; }
+
+    .hero-cta {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      margin-top: 2.5rem;
+      flex-wrap: wrap;
+    }
+    .cta-hint {
+      font-size: 0.9rem;
+      font-weight: 700;
+      color: var(--muted);
+    }
+
+    .hero-text {
+      font-size: 1.25rem;
+      color: var(--muted);
+      margin-top: 1.5rem;
+      max-width: 60ch;
+    }
+    .focus-strip {
+      display: grid;
+      grid-template-columns: 1.2fr auto;
+      gap: 2rem;
+      align-items: center;
+      margin-top: 2rem;
+      padding: 2rem 2.2rem;
+      background: linear-gradient(135deg, rgba(28, 77, 79, 0.08), rgba(255, 138, 61, 0.14));
+      border: 1px solid rgba(28, 77, 79, 0.1);
+      border-radius: var(--radius-lg);
+      box-shadow: var(--shadow);
+    }
+    .focus-strip h2 {
+      margin: 0 0 0.5rem;
+      font-size: clamp(1.8rem, 4vw, 2.8rem);
+    }
+    .focus-strip p {
+      margin: 0;
+    }
+    .focus-actions {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      gap: 0.9rem;
+    }
+    .secondary-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 1.05rem 1.5rem;
+      border-radius: 999px;
+      border: 1px solid rgba(28, 77, 79, 0.15);
+      background: rgba(255, 255, 255, 0.8);
+      color: var(--teal);
+      text-decoration: none;
+      font-weight: 800;
+    }
+
+    .level-badge {
+      width: 140px;
+      height: 140px;
+      background: var(--teal);
+      color: white;
+      border-radius: 40px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      box-shadow: var(--shadow);
+      animation: float 6s ease-in-out infinite;
+    }
+
+    .badge-number {
+      font-size: 3.5rem;
+      font-weight: 900;
+      line-height: 1;
+    }
+
+    .badge-label {
+      font-size: 0.9rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    /* Animation classes */
+    .animated {
+      opacity: 0;
+      animation: fadeInUp 0.8s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+    }
+    .delay-1 { animation-delay: 0.2s; }
+    .delay-2 { animation-delay: 0.4s; }
+    .delay-3 { animation-delay: 0.6s; }
+    .delay-4 { animation-delay: 0.8s; }
+    .delay-5 { animation-delay: 1s; }
+
+    .animated-bg {
+      position: fixed;
+      inset: 0;
+      z-index: -1;
+      overflow: hidden;
+      pointer-events: none;
+    }
+
+    .blob {
+      position: absolute;
+      width: 500px;
+      height: 500px;
+      background: radial-gradient(circle, rgba(255,138,61,0.1) 0%, transparent 70%);
+      border-radius: 50%;
+      filter: blur(60px);
+    }
+    .blob:nth-child(1) { top: -100px; right: -50px; }
+    .blob:nth-child(2) { bottom: -100px; left: -50px; }
+
+    .course-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 1.5rem;
+      margin-top: 2rem;
+    }
+
+    .lesson-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.5rem;
+      margin-top: 2rem;
+    }
+
+    .section-header {
+      margin-bottom: 2.5rem;
+    }
+
+    @media (max-width: 900px) {
+      .landing-hero-compact { grid-template-columns: 1fr; text-align: center; }
+      .hero-content { margin: 0 auto; }
+      .hero-visual-mini { display: none; }
+      .focus-strip { grid-template-columns: 1fr; text-align: center; }
+      .focus-actions { justify-content: center; }
+    }
+  </style>
+</BaseLayout>

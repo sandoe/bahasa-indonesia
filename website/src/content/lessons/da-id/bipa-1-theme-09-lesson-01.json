@@ -1,0 +1,337 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Makanan Favorit — Livretter og Drikke",
+    "en": "Favourite Foods — Meals and Drinks",
+    "id": "Makanan Favorit"
+  },
+  "summary": {
+    "da": "Lær at fortælle hvad du kan lide at spise og drikke, spørge andre om deres favoritter og bestille enkelt på indonesisk.",
+    "en": "Learn to say what you like to eat and drink, ask others about their favourites, and order simply in Indonesian.",
+    "id": "Belajar mengatakan apa yang Anda suka makan dan minum, menanyakan favorit orang lain, dan memesan secara sederhana dalam bahasa Indonesia."
+  },
+  "objectives": [
+    {
+      "da": "Nævne mindst otte mad- og drikkevarer på indonesisk.",
+      "en": "Name at least eight foods and drinks in Indonesian.",
+      "id": "Menyebutkan setidaknya delapan makanan dan minuman dalam bahasa Indonesia."
+    },
+    {
+      "da": "Spørge 'Apa makanan favorit kamu?' og svare med en hel sætning.",
+      "en": "Ask 'Apa makanan favorit kamu?' and answer in a full sentence.",
+      "id": "Bertanya 'Apa makanan favorit kamu?' dan menjawab dengan satu kalimat penuh."
+    },
+    {
+      "da": "Skrive en kort bestilling eller besked om hvad du gerne vil spise og drikke.",
+      "en": "Write a short order or message about what you want to eat and drink.",
+      "id": "Menulis pesanan singkat atau pesan tentang apa yang ingin Anda makan dan minum."
+    }
+  ],
+  "unit": {
+    "slug": "theme-09",
+    "order": 9,
+    "title": {
+      "da": "Tema 9: Mad & Drikke",
+      "en": "Theme 9: Food & Drink",
+      "id": "Tema 9: Makanan & Minuman"
+    },
+    "summary": {
+      "da": "Madkultur, smag, enkle bestillinger og samtaler om favoritretter.",
+      "en": "Food culture, taste, simple ordering, and conversations about favourite dishes.",
+      "id": "Budaya makanan, rasa, pemesanan sederhana, dan percakapan tentang makanan favorit."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis billeder af indonesiske retter og drikke. Spørg: 'Hvad tror I det er?' og 'Hvad ville I gerne prøve?'",
+        "en": "Show pictures of Indonesian dishes and drinks. Ask: 'What do you think this is?' and 'What would you like to try?'",
+        "id": "Tunjukkan gambar makanan dan minuman Indonesia. Tanyakan: 'Menurut kalian ini apa?' dan 'Apa yang ingin kalian coba?'"
+      },
+      "flow": [
+        {
+          "da": "Introducer nøgleord for retter og drikke: nasi goreng, sate, mie, ayam, ikan, sayur, kopi, teh, air. Lad eleverne gentage og pege på billederne.",
+          "en": "Introduce key food and drink words: nasi goreng, sate, mie, ayam, ikan, sayur, kopi, teh, air. Let students repeat and point to the pictures.",
+          "id": "Perkenalkan kosakata kunci untuk makanan dan minuman: nasi goreng, sate, mie, ayam, ikan, sayur, kopi, teh, air. Minta siswa mengulangi dan menunjuk gambar."
+        },
+        {
+          "da": "Modelér spørgsmål og svar: 'Apa makanan favorit kamu?' - 'Makanan favorit saya adalah nasi goreng.' Tilføj 'Saya suka...' og 'Saya mau pesan...'.",
+          "en": "Model question and answer: 'Apa makanan favorit kamu?' - 'Makanan favorit saya adalah nasi goreng.' Add 'Saya suka...' and 'Saya mau pesan...'.",
+          "id": "Modelkan pertanyaan dan jawaban: 'Apa makanan favorit kamu?' - 'Makanan favorit saya adalah nasi goreng.' Tambahkan 'Saya suka...' dan 'Saya mau pesan...'."
+        },
+        {
+          "da": "Rollespil i par: én er gæst, én er ekspedient. Den ene bestiller mad og drikke, den anden gentager og svarer høfligt.",
+          "en": "Pair role-play: one is the customer, one is the server. One orders food and drink, the other repeats and responds politely.",
+          "id": "Role-play berpasangan: satu menjadi tamu, satu menjadi pelayan. Yang satu memesan makanan dan minuman, yang lain mengulangi dan menjawab dengan sopan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Mad er et godt kulturvindue i BIPA. Mange begyndere møder indonesisk første gang gennem retter som nasi goreng, sate og mie goreng.",
+          "en": "Food is a strong cultural window in BIPA. Many beginners first encounter Indonesian through dishes such as nasi goreng, sate, and mie goreng.",
+          "id": "Makanan adalah jendela budaya yang kuat dalam BIPA. Banyak pemula pertama kali mengenal bahasa Indonesia melalui hidangan seperti nasi goreng, sate, dan mie goreng."
+        },
+        {
+          "da": "'Air' betyder vand. Det er et vigtigt basisord som ofte forveksles af danske elever, fordi det ligner engelsk 'air'.",
+          "en": "'Air' means water. It is an important basic word often confused by Danish learners because it looks like English 'air'.",
+          "id": "'Air' berarti air minum. Ini adalah kata dasar penting yang sering membingungkan pembelajar Denmark karena mirip dengan kata Inggris 'air'."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs ordlisten højt og forbind hvert ord med en ret eller drik du kender.",
+          "en": "Read the vocabulary list aloud and connect each word with a dish or drink you know.",
+          "id": "Baca daftar kosakata dengan keras dan hubungkan setiap kata dengan makanan atau minuman yang Anda kenal."
+        },
+        {
+          "da": "Lyt til dialogen og markér hvem der bestiller hvad.",
+          "en": "Listen to the dialogue and note who orders what.",
+          "id": "Dengarkan dialog dan tandai siapa memesan apa."
+        },
+        {
+          "da": "Skriv tre sætninger om din yndlingsmad og én kort bestilling på indonesisk.",
+          "en": "Write three sentences about your favourite food and one short order in Indonesian.",
+          "id": "Tulis tiga kalimat tentang makanan favorit Anda dan satu pesanan singkat dalam bahasa Indonesia."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige hvad din yndlingsret og yndlingsdrik er på indonesisk?",
+          "en": "Can you say what your favourite dish and favourite drink are in Indonesian?",
+          "id": "Bisakah Anda mengatakan apa makanan dan minuman favorit Anda dalam bahasa Indonesia?"
+        },
+        {
+          "da": "Kan du skrive en enkel bestilling med både mad og drikke?",
+          "en": "Can you write a simple order with both food and drink?",
+          "id": "Bisakah Anda menulis pesanan sederhana dengan makanan dan minuman?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Sinta",
+      "source": "Hvad er din livret?",
+      "target": "Apa makanan favorit kamu?"
+    },
+    {
+      "speaker": "Erik",
+      "source": "Min livret er nasi goreng. Jeg kan også godt lide sate.",
+      "target": "Makanan favorit saya adalah nasi goreng. Saya juga suka sate."
+    },
+    {
+      "speaker": "Sinta",
+      "source": "Hvad vil du gerne drikke?",
+      "target": "Kamu mau minum apa?"
+    },
+    {
+      "speaker": "Erik",
+      "source": "Jeg vil gerne have iste og vand.",
+      "target": "Saya mau es teh dan air."
+    },
+    {
+      "speaker": "Sinta",
+      "source": "Godt, så bestiller vi det.",
+      "target": "Baik, kita pesan itu."
+    },
+    {
+      "speaker": "Ekspedient",
+      "source": "Velbekomme, jeres mad kommer snart.",
+      "target": "Silakan, makanannya datang sebentar lagi."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "stegt ris",
+      "target": "nasi goreng",
+      "note": {
+        "da": "En af Indonesiens mest kendte retter. 'Nasi' = ris, 'goreng' = stegt.",
+        "en": "One of Indonesia's best-known dishes. 'Nasi' = rice, 'goreng' = fried.",
+        "id": "Salah satu makanan Indonesia yang paling terkenal. 'Nasi' = beras/nasi, 'goreng' = digoreng."
+      }
+    },
+    {
+      "source": "satay / grillspyd",
+      "target": "sate",
+      "note": {
+        "da": "Serveres ofte med jordnøddesauce. Meget almindelig gademad.",
+        "en": "Often served with peanut sauce. Very common street food.",
+        "id": "Sering disajikan dengan saus kacang. Sangat umum sebagai makanan jalanan."
+      }
+    },
+    {
+      "source": "nudler",
+      "target": "mie",
+      "note": {
+        "da": "Bruges i mange retter, fx mie goreng og mie ayam.",
+        "en": "Used in many dishes, e.g. mie goreng and mie ayam.",
+        "id": "Digunakan dalam banyak hidangan, misalnya mie goreng dan mie ayam."
+      }
+    },
+    {
+      "source": "kylling",
+      "target": "ayam",
+      "note": {
+        "da": "Et meget almindeligt basisord i menuer og daglig tale.",
+        "en": "A very common basic word in menus and daily speech.",
+        "id": "Kata dasar yang sangat umum di menu dan percakapan sehari-hari."
+      }
+    },
+    {
+      "source": "grøntsager",
+      "target": "sayur",
+      "note": {
+        "da": "Kan både bruges om grøntsager generelt og grøntsagsretter.",
+        "en": "Can refer to vegetables in general and vegetable dishes.",
+        "id": "Dapat merujuk pada sayuran secara umum maupun hidangan sayur."
+      }
+    },
+    {
+      "source": "vand",
+      "target": "air",
+      "note": {
+        "da": "Udtales ikke som engelsk 'air', men som to vokaler: a-ir.",
+        "en": "Not pronounced like English 'air', but as two vowels: a-ir.",
+        "id": "Tidak diucapkan seperti bahasa Inggris 'air', tetapi sebagai dua vokal: a-ir."
+      }
+    },
+    {
+      "source": "te / iste",
+      "target": "teh / es teh",
+      "note": {
+        "da": "'Es' foran drikken betyder at den serveres med is.",
+        "en": "'Es' before the drink means it is served with ice.",
+        "id": "'Es' di depan minuman berarti disajikan dengan es."
+      }
+    },
+    {
+      "source": "at bestille",
+      "target": "pesan",
+      "note": {
+        "da": "Bruges i restaurantkontekst: 'Saya mau pesan...'",
+        "en": "Used in restaurant contexts: 'Saya mau pesan...'",
+        "id": "Digunakan dalam konteks restoran: 'Saya mau pesan...'"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Makanan favorit saya adalah...",
+      "explanation": {
+        "da": "Denne struktur bruges til at sige hvad din yndlingsret er. 'Adalah' kan udelades i uformel tale, men er nyttig for begyndere.",
+        "en": "This structure is used to say what your favourite dish is. 'Adalah' can be omitted in informal speech, but it is useful for beginners.",
+        "id": "Struktur ini digunakan untuk mengatakan apa makanan favorit Anda. 'Adalah' dapat dihilangkan dalam percakapan informal, tetapi berguna bagi pemula."
+      },
+      "examples": [
+        {
+          "source": "Min yndlingsret er nasi goreng.",
+          "target": "Makanan favorit saya adalah nasi goreng."
+        },
+        {
+          "source": "Min yndlingsdrik er iste.",
+          "target": "Minuman favorit saya adalah es teh."
+        }
+      ]
+    },
+    {
+      "pattern": "Saya mau pesan...",
+      "explanation": {
+        "da": "Bruges til en enkel, høflig bestilling. 'Mau' betyder at ville/ønske, og 'pesan' betyder at bestille.",
+        "en": "Used for a simple, polite order. 'Mau' means to want, and 'pesan' means to order.",
+        "id": "Digunakan untuk pemesanan sederhana dan sopan. 'Mau' berarti ingin, dan 'pesan' berarti memesan."
+      },
+      "examples": [
+        {
+          "source": "Jeg vil gerne bestille kylling og te.",
+          "target": "Saya mau pesan ayam dan teh."
+        },
+        {
+          "source": "Jeg vil gerne bestille vand.",
+          "target": "Saya mau pesan air."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen og skriv ned hvilke to ting Erik bestiller at drikke og spise.",
+        "en": "Listen to the dialogue and write down the two things Erik orders to drink and eat.",
+        "id": "Dengarkan dialog dan tuliskan dua hal yang dipesan Erik untuk diminum dan dimakan."
+      },
+      "answerShape": {
+        "da": "Han bestiller nasi goreng / sate og es teh / air.",
+        "en": "He orders nasi goreng / sate and es teh / air.",
+        "id": "Dia memesan nasi goreng / sate dan es teh / air."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Spørg en partner om deres livret og yndlingsdrik, og svar derefter selv med hele sætninger.",
+        "en": "Ask a partner about their favourite dish and drink, then answer yourself in full sentences.",
+        "id": "Tanyakan makanan dan minuman favorit pasangan, lalu jawab juga dengan kalimat lengkap."
+      },
+      "answerShape": {
+        "da": "Apa makanan favorit kamu? / Makanan favorit saya adalah ...",
+        "en": "Apa makanan favorit kamu? / Makanan favorit saya adalah ...",
+        "id": "Apa makanan favorit kamu? / Makanan favorit saya adalah ..."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en kort bestilling med én ret og én drik på indonesisk.",
+        "en": "Write a short order with one dish and one drink in Indonesian.",
+        "id": "Tulis pesanan singkat dengan satu makanan dan satu minuman dalam bahasa Indonesia."
+      },
+      "answerShape": {
+        "da": "Saya mau pesan [ret] dan [drik].",
+        "en": "Saya mau pesan [dish] dan [drink].",
+        "id": "Saya mau pesan [makanan] dan [minuman]."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Sammenlign et typisk dansk måltid med et indonesisk måltid. Hvad virker bekendt, og hvad er nyt?",
+        "en": "Compare a typical Danish meal with an Indonesian meal. What feels familiar, and what is new?",
+        "id": "Bandingkan makanan khas Denmark dengan makanan Indonesia. Apa yang terasa familiar, dan apa yang baru?"
+      },
+      "answerShape": {
+        "da": "To til tre sætninger med mindst ét madord på indonesisk.",
+        "en": "Two to three sentences with at least one food word in Indonesian.",
+        "id": "Dua sampai tiga kalimat dengan setidaknya satu kata makanan dalam bahasa Indonesia."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme09-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Mad og drikke på indonesisk",
+        "en": "Food and drink in Indonesian",
+        "id": "Makanan dan minuman dalam bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video eller lydfil til lytteøvelser.",
+        "en": "Replace with your own video or audio file for listening practice.",
+        "id": "Ganti dengan video atau audio sendiri untuk latihan menyimak."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

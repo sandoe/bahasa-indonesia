@@ -1,0 +1,247 @@
+{
+  "pair": "id-da",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Hvordan er han eller hun?",
+    "en": "What Is He or She Like?",
+    "id": "Seperti apa dia?"
+  },
+  "summary": {
+    "da": "Lær at beskrive andre mennesker på dansk med enkle tillægsord og korte sætninger.",
+    "en": "Learn to describe other people in Danish with simple adjectives and short sentences.",
+    "id": "Belajar mendeskripsikan orang lain dalam bahasa Denmark dengan kata sifat sederhana dan kalimat pendek."
+  },
+  "objectives": [
+    {
+      "da": "Bruge enkle tillægsord om andre mennesker.",
+      "en": "Use simple adjectives about other people.",
+      "id": "Menggunakan kata sifat sederhana tentang orang lain."
+    },
+    {
+      "da": "Stille spørgsmål om en anden person.",
+      "en": "Ask questions about another person.",
+      "id": "Mengajukan pertanyaan tentang orang lain."
+    },
+    {
+      "da": "Lave en kort personbeskrivelse på dansk.",
+      "en": "Make a short person description in Danish.",
+      "id": "Membuat deskripsi singkat seseorang dalam bahasa Denmark."
+    }
+  ],
+  "unit": {
+    "slug": "theme-05",
+    "order": 5,
+    "title": {
+      "da": "Tema 5: Andre Mennesker",
+      "en": "Theme 5: Other People",
+      "id": "Tema 5: Orang Lain"
+    },
+    "summary": {
+      "da": "Beskrivelser af andre mennesker, udseende og personlighed.",
+      "en": "Descriptions of other people, appearance, and personality.",
+      "id": "Deskripsi orang lain, penampilan, dan kepribadian."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis billeder af forskellige personer og bed eleverne sige ét ord om hver.",
+        "en": "Show pictures of different people and ask students to say one word about each.",
+        "id": "Tunjukkan gambar berbagai orang dan minta siswa menyebutkan satu kata tentang masing-masing."
+      },
+      "flow": [
+        {
+          "da": "Introducer ord som sød, venlig, høj, rolig og sjov.",
+          "en": "Introduce words like kind, friendly, tall, calm, and funny.",
+          "id": "Perkenalkan kata-kata seperti baik, ramah, tinggi, tenang, dan lucu."
+        },
+        {
+          "da": "Modelér “han er...” og “hun er...”.",
+          "en": "Model “he is...” and “she is...”.",
+          "id": "Tunjukkan “han er...” dan “hun er...”."
+        },
+        {
+          "da": "Lad eleverne beskrive en ven eller en kendt person.",
+          "en": "Let students describe a friend or a famous person.",
+          "id": "Minta siswa mendeskripsikan seorang teman atau orang terkenal."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Hold ordforrådet lille men anvendeligt. Repetition er vigtigere end mange ord her.",
+          "en": "Keep the vocabulary small but usable. Repetition matters more than many words here.",
+          "id": "Jagalah kosakata tetap sedikit tetapi dapat digunakan. Pengulangan lebih penting daripada banyak kata di sini."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs tillægsordene højt og brug dem i små sætninger.",
+          "en": "Read the adjectives aloud and use them in small sentences.",
+          "id": "Baca kata sifat dengan suara keras dan gunakan dalam kalimat kecil."
+        },
+        {
+          "da": "Skriv tre linjer om en person du kender.",
+          "en": "Write three lines about a person you know.",
+          "id": "Tulis tiga baris tentang seseorang yang Anda kenal."
+        },
+        {
+          "da": "Øv spørgsmål som “hvordan er hun?”.",
+          "en": "Practise questions like “what is she like?”.",
+          "id": "Latih pertanyaan seperti “seperti apa dia?”."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du beskrive én person med to ord?",
+          "en": "Can you describe one person with two words?",
+          "id": "Bisakah Anda mendeskripsikan satu orang dengan dua kata?"
+        },
+        {
+          "da": "Kan du bruge både han og hun i korte sætninger?",
+          "en": "Can you use both he and she in short sentences?",
+          "id": "Bisakah Anda menggunakan han dan hun dalam kalimat pendek?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Lina",
+      "source": "Bagaimana temanmu?",
+      "target": "Hvordan er din ven?"
+    },
+    {
+      "speaker": "Sofie",
+      "source": "Dia sangat ramah dan lucu.",
+      "target": "Han er meget venlig og sjov."
+    },
+    {
+      "speaker": "Lina",
+      "source": "Dan saudara perempuanmu?",
+      "target": "Og din søster?"
+    },
+    {
+      "speaker": "Sofie",
+      "source": "Dia tenang dan pintar.",
+      "target": "Hun er rolig og klog."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "ramah",
+      "target": "venlig",
+      "note": {
+        "da": "Et meget nyttigt ord i sociale situationer.",
+        "en": "A very useful word in social situations.",
+        "id": "Kata yang sangat berguna dalam situasi sosial."
+      }
+    },
+    {
+      "source": "lucu / menyenangkan",
+      "target": "sjov",
+      "note": {
+        "da": "Kan bruges om både person og situation.",
+        "en": "Can be used about both a person and a situation.",
+        "id": "Dapat digunakan untuk orang maupun situasi."
+      }
+    },
+    {
+      "source": "tinggi",
+      "target": "høj",
+      "note": {
+        "da": "Et godt ord til enkle udseendebeskrivelser.",
+        "en": "A good word for simple appearance descriptions.",
+        "id": "Kata yang baik untuk deskripsi penampilan sederhana."
+      }
+    },
+    {
+      "source": "pintar",
+      "target": "klog",
+      "note": {
+        "da": "Et nyttigt ord i personbeskrivelser.",
+        "en": "A useful word in person descriptions.",
+        "id": "Kata yang berguna dalam deskripsi orang."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Han er... / Hun er...",
+      "explanation": {
+        "da": "Dansk beskriver ofte personer med pronomen + er + tillægsord. Det giver en meget brugbar begyndermodel.",
+        "en": "Danish often describes people with pronoun + is + adjective. This gives a very useful beginner model.",
+        "id": "Bahasa Denmark sering mendeskripsikan orang dengan pola kata ganti + er + kata sifat. Ini memberi model pemula yang sangat berguna."
+      },
+      "examples": [
+        {
+          "source": "Dia ramah.",
+          "target": "Han er venlig."
+        },
+        {
+          "source": "Dia pintar.",
+          "target": "Hun er klog."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til en kort beskrivelse og gæt hvem der beskrives.",
+        "en": "Listen to a short description and guess who is being described.",
+        "id": "Dengarkan deskripsi singkat dan tebak siapa yang sedang dideskripsikan."
+      },
+      "answerShape": {
+        "da": "Et kort gæt.",
+        "en": "A short guess.",
+        "id": "Tebakan singkat."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Beskriv en ven eller en lærer med to eller tre ord.",
+        "en": "Describe a friend or a teacher with two or three words.",
+        "id": "Deskripsikan seorang teman atau guru dengan dua atau tiga kata."
+      },
+      "answerShape": {
+        "da": "To til tre sætninger.",
+        "en": "Two to three sentences.",
+        "id": "Dua hingga tiga kalimat."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en kort personprofil på dansk.",
+        "en": "Write a short person profile in Danish.",
+        "id": "Tulis profil orang singkat dalam bahasa Denmark."
+      },
+      "answerShape": {
+        "da": "Tre korte linjer.",
+        "en": "Three short lines.",
+        "id": "Tiga baris pendek."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilke tillægsord er mest nyttige i et første møde?",
+        "en": "Which adjectives are most useful in a first meeting?",
+        "id": "Kata sifat mana yang paling berguna dalam pertemuan pertama?"
+      },
+      "answerShape": {
+        "da": "En kort liste eller sætning.",
+        "en": "A short list or sentence.",
+        "id": "Daftar atau kalimat singkat."
+      }
+    }
+  ],
+  "media": []
+}

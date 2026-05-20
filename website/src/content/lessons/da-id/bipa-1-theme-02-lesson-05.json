@@ -1,0 +1,303 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 5,
+  "slug": "lesson-05",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Mendeskripsikan Diri — Selvbeskrivelse med Adjektiver",
+    "en": "Mendeskripsikan Diri — Describing Yourself with Adjectives",
+    "id": "Mendeskripsikan Diri"
+  },
+  "summary": {
+    "da": "Lær at beskrive dig selv og andre med adjektiver på indonesisk. Forstå den vigtige regel: indonesisk har ikke et verbum 'at være' – subjekt + adjektiv er nok.",
+    "en": "Learn to describe yourself and others using adjectives in Indonesian. Understand the key rule: Indonesian has no verb 'to be' – subject + adjective is enough.",
+    "id": "Belajar mendeskripsikan diri sendiri dan orang lain menggunakan kata sifat dalam bahasa Indonesia. Pahami aturan penting: bahasa Indonesia tidak memiliki kata kerja 'adalah' – subjek + kata sifat sudah cukup."
+  },
+  "objectives": [
+    {
+      "da": "Beskrive udseende og personlighed med mindst otte adjektiver.",
+      "en": "Describe appearance and personality using at least eight adjectives.",
+      "id": "Mendeskripsikan penampilan dan kepribadian menggunakan setidaknya delapan kata sifat."
+    },
+    {
+      "da": "Anvende strukturen 'Saya + adjektiv' uden verbum 'at være'.",
+      "en": "Apply the structure 'Saya + adjective' without a verb 'to be'.",
+      "id": "Menerapkan struktur 'Saya + kata sifat' tanpa kata kerja 'adalah'."
+    },
+    {
+      "da": "Bruge cukup og sangat til at graduere adjektiver.",
+      "en": "Use cukup and sangat to grade adjectives.",
+      "id": "Menggunakan cukup dan sangat untuk menambahkan derajat pada kata sifat."
+    }
+  ],
+  "unit": {
+    "slug": "theme-02",
+    "order": 2,
+    "title": {
+      "da": "Tema 2: Identitet",
+      "en": "Theme 2: Identity",
+      "id": "Tema 2: Identitas"
+    },
+    "summary": {
+      "da": "Hvem er du? Personlige oplysninger og selvbeskrivelse.",
+      "en": "Who are you? Personal details and self-description.",
+      "id": "Siapa kamu? Informasi pribadi dan deskripsi diri."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skriv 'Saya tinggi' på tavlen og spørg: Hvad mangler? Lad eleverne søge efter verbum 'at være'. Afslør: Det er korrekt – ingen 'er' på indonesisk!",
+        "en": "Write 'Saya tinggi' on the board and ask: What is missing? Let students look for the verb 'to be'. Reveal: It is correct – no 'is' in Indonesian!",
+        "id": "Tuliskan 'Saya tinggi' di papan tulis dan tanyakan: Apa yang kurang? Biarkan siswa mencari kata kerja 'adalah'. Ungkapkan: Ini benar – tidak ada 'adalah' dalam bahasa Indonesia!"
+      },
+      "flow": [
+        {
+          "da": "Gennemgå adjektiverne i par: tinggi/pendek, kurus/gemuk, muda/tua, ramah/pemalu, aktif/tenang.",
+          "en": "Go through the adjectives in pairs: tinggi/pendek, kurus/gemuk, muda/tua, ramah/pemalu, aktif/tenang.",
+          "id": "Bahas kata sifat secara berpasangan: tinggi/pendek, kurus/gemuk, muda/tua, ramah/pemalu, aktif/tenang."
+        },
+        {
+          "da": "Vis hvordan sangat (meget) og cukup (temmelig/rimelig) bruges foran adjektivet: Saya sangat ramah. Dia cukup tinggi.",
+          "en": "Show how sangat (very) and cukup (quite/fairly) are used before the adjective: Saya sangat ramah. Dia cukup tinggi.",
+          "id": "Tunjukkan bagaimana sangat (sangat) dan cukup (cukup) digunakan sebelum kata sifat: Saya sangat ramah. Dia cukup tinggi."
+        },
+        {
+          "da": "Selvbeskrivelsesøvelse: Eleverne skriver tre sætninger om sig selv og præsenterer dem for klassen.",
+          "en": "Self-description exercise: Students write three sentences about themselves and present them to the class.",
+          "id": "Latihan deskripsi diri: Siswa menulis tiga kalimat tentang diri mereka dan mempresentasikannya ke kelas."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Pas på: tidak digunakan til negation. 'Saya tidak tinggi' = Jeg er ikke høj. Lad dette ligge til næste niveau, men nævn det kort.",
+          "en": "Note: tidak is used for negation. 'Saya tidak tinggi' = I am not tall. Leave this for a later level, but mention it briefly.",
+          "id": "Perhatikan: tidak digunakan untuk negasi. 'Saya tidak tinggi' = Saya tidak tinggi. Simpan ini untuk level berikutnya, tapi sebutkan secara singkat."
+        },
+        {
+          "da": "Gemuk kan opfattes som neutralt i Indonesien og bruges jævnligt som en deskriptor uden negativ klang.",
+          "en": "Gemuk can be perceived as neutral in Indonesia and is commonly used as a descriptor without a negative connotation.",
+          "id": "Gemuk bisa dianggap netral di Indonesia dan sering digunakan sebagai deskriptor tanpa konotasi negatif."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv fem sætninger der beskriver dig selv – brug sangat i mindst én.",
+          "en": "Write five sentences describing yourself – use sangat in at least one.",
+          "id": "Tuliskan lima kalimat yang mendeskripsikan diri Anda – gunakan sangat dalam setidaknya satu kalimat."
+        },
+        {
+          "da": "Prøv at beskrive en ven eller et familiemedlem ved hjælp af adjektiverne fra lektionen.",
+          "en": "Try describing a friend or family member using the adjectives from the lesson.",
+          "id": "Coba deskripsikan teman atau anggota keluarga menggunakan kata sifat dari pelajaran ini."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du lave fem sætninger om dig selv uden at bruge 'er' eller 'adalah'?",
+          "en": "Can you make five sentences about yourself without using 'is/are' or 'adalah'?",
+          "id": "Dapatkah Anda membuat lima kalimat tentang diri Anda tanpa menggunakan 'adalah'?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Bu Sari (Lærer)",
+      "source": "Lad os beskrive os selv. Mads, kan du prøve?",
+      "target": "Mari kita deskripsikan diri kita. Mads, bisakah kamu mencoba?"
+    },
+    {
+      "speaker": "Mads",
+      "source": "Oke. Saya tinggi dan saya aktif. Jeg kan godt lide sport.",
+      "target": "Oke. Saya tinggi dan saya aktif. Saya suka olahraga."
+    },
+    {
+      "speaker": "Bu Sari (Lærer)",
+      "source": "Bagus! Og hvad med din personlighed?",
+      "target": "Bagus! Dan bagaimana dengan kepribadianmu?"
+    },
+    {
+      "speaker": "Mads",
+      "source": "Hmm... saya cukup ramah, tapi kadang-kadang saya pemalu.",
+      "target": "Hmm... saya cukup ramah, tapi kadang-kadang saya pemalu."
+    },
+    {
+      "speaker": "Lena",
+      "source": "Saya pendek dan saya sangat tenang. Saya tidak suka keributan.",
+      "target": "Saya pendek dan saya sangat tenang. Saya tidak suka keributan."
+    },
+    {
+      "speaker": "Bu Sari (Lærer)",
+      "source": "Fantastisk! I bruger allerede adjektiver som rigtige indonesiske talere.",
+      "target": "Fantastis! Kalian sudah menggunakan kata sifat seperti penutur bahasa Indonesia yang sesungguhnya."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Høj",
+      "target": "Tinggi",
+      "note": {
+        "da": "Bruges til højde for personer OG ting (fx et højt bjerg = gunung yang tinggi).",
+        "en": "Used for height of people AND things (e.g. a tall mountain = gunung yang tinggi).",
+        "id": "Digunakan untuk tinggi orang DAN benda (misalnya gunung yang tinggi)."
+      }
+    },
+    {
+      "source": "Lav / Kort",
+      "target": "Pendek",
+      "note": {
+        "da": "Pendek = kort (om højde og længde). Fx rambut pendek = kort hår.",
+        "en": "Pendek = short (for height and length). E.g. rambut pendek = short hair.",
+        "id": "Pendek = pendek (untuk tinggi dan panjang). Misalnya rambut pendek = rambut pendek."
+      }
+    },
+    {
+      "source": "Tynd / Slank",
+      "target": "Kurus",
+      "note": {
+        "da": "Kurus er neutralt og beskrivende i indonesisk.",
+        "en": "Kurus is neutral and descriptive in Indonesian.",
+        "id": "Kurus bersifat netral dan deskriptif dalam bahasa Indonesia."
+      }
+    },
+    {
+      "source": "Stor / Tyk",
+      "target": "Gemuk",
+      "note": {
+        "da": "Gemuk er normalt uden negativ klang. Besar = stor (om størrelse generelt).",
+        "en": "Gemuk is normally without negative connotation. Besar = big (about size in general).",
+        "id": "Gemuk biasanya tanpa konotasi negatif. Besar = besar (tentang ukuran secara umum)."
+      }
+    },
+    {
+      "source": "Venlig / Imødekommende",
+      "target": "Ramah",
+      "note": {
+        "da": "Et af de vigtigste adjektiver i indonesisk kultur. Orang Indonesia sangat ramah = indonesere er meget venlige.",
+        "en": "One of the most important adjectives in Indonesian culture. Orang Indonesia sangat ramah = Indonesians are very friendly.",
+        "id": "Salah satu kata sifat terpenting dalam budaya Indonesia. Orang Indonesia sangat ramah."
+      }
+    },
+    {
+      "source": "Genert / Tilbageholdende",
+      "target": "Pemalu",
+      "note": {
+        "da": "Fra malu = skam/skamme sig. Pemalu = en der er genert/let at skamme.",
+        "en": "From malu = shame/to feel shame. Pemalu = one who is shy/easily embarrassed.",
+        "id": "Dari malu = malu. Pemalu = orang yang mudah malu."
+      }
+    },
+    {
+      "source": "Aktiv",
+      "target": "Aktif",
+      "note": {
+        "da": "Genkendelig lånord. Udtales med tryk på anden stavelse: ak-TIF.",
+        "en": "Recognizable loanword. Pronounced with stress on the second syllable: ak-TIF.",
+        "id": "Kata pinjaman yang dapat dikenali. Diucapkan dengan tekanan pada suku kata kedua: ak-TIF."
+      }
+    },
+    {
+      "source": "Rolig / Stille",
+      "target": "Tenang",
+      "note": {
+        "da": "Tenang = rolig/stille/fredfyldt. Meget positivt ord i indonesisk kultur.",
+        "en": "Tenang = calm/quiet/peaceful. A very positive word in Indonesian culture.",
+        "id": "Tenang = tenang/damai. Kata yang sangat positif dalam budaya Indonesia."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya + adjektiv (uden 'er')",
+      "explanation": {
+        "da": "Indonesisk har intet verbum der svarer til 'at være' i prædikative konstruktioner. Subjektet følges direkte af adjektivet. Vil man negere bruger man 'tidak': Saya tidak tinggi.",
+        "en": "Indonesian has no verb equivalent to 'to be' in predicative constructions. The subject is directly followed by the adjective. To negate, use 'tidak': Saya tidak tinggi.",
+        "id": "Bahasa Indonesia tidak memiliki kata kerja yang setara dengan 'adalah' dalam konstruksi predikatif. Subjek langsung diikuti oleh kata sifat. Untuk menyangkal, gunakan 'tidak': Saya tidak tinggi."
+      },
+      "examples": [
+        { "source": "Jeg er venlig.", "target": "Saya ramah." },
+        { "source": "Han er meget høj.", "target": "Dia sangat tinggi." },
+        { "source": "Vi er aktive.", "target": "Kita aktif." }
+      ]
+    },
+    {
+      "pattern": "Sangat / Cukup + adjektiv",
+      "explanation": {
+        "da": "Sangat = meget/meget. Cukup = temmelig/rimelig nok. Begge placeres FORAN adjektivet. Sangat ramah = meget venlig. Cukup tinggi = temmelig høj.",
+        "en": "Sangat = very/really. Cukup = quite/fairly enough. Both are placed BEFORE the adjective. Sangat ramah = very friendly. Cukup tinggi = quite tall.",
+        "id": "Sangat = sangat. Cukup = cukup. Keduanya ditempatkan SEBELUM kata sifat. Sangat ramah = sangat ramah. Cukup tinggi = cukup tinggi."
+      },
+      "examples": [
+        { "source": "Jeg er meget rolig.", "target": "Saya sangat tenang." },
+        { "source": "Hun er temmelig slank.", "target": "Dia cukup kurus." }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Beskriv dig selv med tre adjektiver. Brug strukturen 'Saya ... dan saya ...'",
+        "en": "Describe yourself with three adjectives. Use the structure 'Saya ... dan saya ...'",
+        "id": "Deskripsikan diri Anda dengan tiga kata sifat. Gunakan struktur 'Saya ... dan saya ...'"
+      },
+      "answerShape": {
+        "da": "Saya [adj.] dan saya [adj.] Saya juga [adj.]",
+        "en": "Saya [adj.] dan saya [adj.] Saya juga [adj.]",
+        "id": "Saya [kata sifat] dan saya [kata sifat]. Saya juga [kata sifat]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Oversæt: 'Min mor er meget venlig og min far er temmelig stille.'",
+        "en": "Translate: 'My mother is very friendly and my father is quite calm.'",
+        "id": "Terjemahkan: 'Ibu saya sangat ramah dan ayah saya cukup tenang.'"
+      },
+      "answerShape": {
+        "da": "Ibu saya sangat ramah dan ayah saya cukup tenang.",
+        "en": "Ibu saya sangat ramah dan ayah saya cukup tenang.",
+        "id": "Ibu saya sangat ramah dan ayah saya cukup tenang."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilke adjektiver beskriver dig bedst? Er der adjektiver du mangler på indonesisk? Hvad ville du slå op?",
+        "en": "Which adjectives describe you best? Are there adjectives you are missing in Indonesian? What would you look up?",
+        "id": "Kata sifat mana yang paling mendeskripsikan Anda? Apakah ada kata sifat yang Anda butuhkan dalam bahasa Indonesia? Apa yang akan Anda cari?"
+      },
+      "answerShape": {
+        "da": "Fri refleksion.",
+        "en": "Free reflection.",
+        "id": "Refleksi bebas."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme02-lesson05-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Adjektiver og Selvbeskrivelse",
+        "en": "Adjectives and Self-Description",
+        "id": "Kata Sifat dan Deskripsi Diri"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 3,
+  "slug": "lesson-03",
+  "durationMinutes": 30,
+  "title": {
+    "da": "Diftonger og Dobbeltlyde",
+    "en": "Diphthongs and Double Sounds",
+    "id": "Diftong dan Bunyi Ganda"
+  },
+  "summary": {
+    "da": "Lær de tre indonesiske diftonger: ai (som i 'eye'), au (som i 'ow') og oi. Sammenlign med danske vokalsammensætninger og øv med eksempler som pandai, pulau og amboi.",
+    "en": "Learn the three Indonesian diphthongs: ai (like 'eye'), au (like 'ow'), and oi. Compare with Danish vowel combinations and practise with examples such as pandai, pulau, and amboi.",
+    "id": "Pelajari tiga diftong bahasa Indonesia: ai (seperti 'eye'), au (seperti 'ow'), dan oi. Bandingkan dengan kombinasi vokal bahasa Denmark dan berlatihlah dengan contoh seperti pandai, pulau, dan amboi."
+  },
+  "objectives": [
+    {
+      "da": "Udtale de tre indonesiske diftonger ai, au og oi korrekt",
+      "en": "Pronounce the three Indonesian diphthongs ai, au, and oi correctly",
+      "id": "Mengucapkan tiga diftong bahasa Indonesia ai, au, dan oi dengan benar"
+    },
+    {
+      "da": "Skelne indonesiske diftonger fra lignende danske vokalsammensætninger",
+      "en": "Distinguish Indonesian diphthongs from similar Danish vowel combinations",
+      "id": "Membedakan diftong bahasa Indonesia dari kombinasi vokal bahasa Denmark yang serupa"
+    },
+    {
+      "da": "Bruge ord som pandai, pulau og amboi i sætninger",
+      "en": "Use words such as pandai, pulau, and amboi in sentences",
+      "id": "Menggunakan kata-kata seperti pandai, pulau, dan amboi dalam kalimat"
+    }
+  ],
+  "unit": {
+    "slug": "theme-00",
+    "order": 0,
+    "title": {
+      "da": "Tema 0: Fundamentet",
+      "en": "Theme 0: The Foundation",
+      "id": "Tema 0: Dasar"
+    },
+    "summary": {
+      "da": "Sprogets byggesten: Bogstaver, lyde og de første regler.",
+      "en": "Building blocks: Letters, sounds, first rules.",
+      "id": "Fondasi bahasa: huruf, bunyi, aturan pertama."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skriv på tavlen: AI – AU – OI. Spørg eleverne: 'Hvad lyder disse kombinationer som på dansk?' Sammenlign med danske lyde: AI ligner 'aj' (som i 'ajle'), AU ligner 'av' (som i 'av!'). Fremhæv at på indonesisk er begge vokaler hørbare – ingen af dem er stum.",
+        "en": "Write on the board: AI – AU – OI. Ask students: 'What do these combinations sound like in Danish?' Compare with Danish sounds: AI resembles the 'aj' sound, AU resembles 'av'. Highlight that in Indonesian both vowels are audible – neither is silent.",
+        "id": "Tulis di papan: AI – AU – OI. Tanya siswa: 'Menurut kalian, bunyi apa yang ada pada kombinasi ini dalam bahasa Denmark?' Bandingkan dengan bunyi bahasa Denmark. Tekankan bahwa dalam bahasa Indonesia kedua vokal terdengar – tidak ada yang diam."
+      },
+      "flow": [
+        {
+          "da": "Diftong 1 – AI: Sig 'pandai' (klog/dygtig) langsomt: pan-dai. Eleverne gentager. Sammenlign med 'aj!' på dansk. AI glider fra A til I i ét enkelt stavelsesslut.",
+          "en": "Diphthong 1 – AI: Say 'pandai' (clever/smart) slowly: pan-dai. Students repeat. Compare with 'aj!' in Danish. AI glides from A to I in one single syllable ending.",
+          "id": "Diftong 1 – AI: Ucapkan 'pandai' (cerdas) dengan perlahan: pan-dai. Siswa mengulangi. Bandingkan dengan 'aj!' dalam bahasa Denmark. AI meluncur dari A ke I dalam satu akhiran suku kata."
+        },
+        {
+          "da": "Diftong 2 – AU: Sig 'pulau' (ø) langsomt: pu-lau. AU glider fra A til U – som dansk 'av!' eller engelsk 'ow!'. Eleverne øver i par: 'Pulau Bali, pulau Lombok.'",
+          "en": "Diphthong 2 – AU: Say 'pulau' (island) slowly: pu-lau. AU glides from A to U – like Danish 'av!' or English 'ow!'. Students practise in pairs: 'Pulau Bali, pulau Lombok.'",
+          "id": "Diftong 2 – AU: Ucapkan 'pulau' (pulau) dengan perlahan: pu-lau. AU meluncur dari A ke U – seperti 'aw' dalam bahasa Inggris 'cow'. Siswa berlatih berpasangan: 'Pulau Bali, Pulau Lombok.'"
+        },
+        {
+          "da": "Diftong 3 – OI + opsamling: Sig 'amboi' (wow/av!) som udtryk for forundring. Øv alle tre: pandai – pulau – amboi. Eleverne bruger dialogeksemplet til at sætte diftongerne i kontekst.",
+          "en": "Diphthong 3 – OI + wrap-up: Say 'amboi' (wow!) as an expression of wonder. Practise all three: pandai – pulau – amboi. Students use the dialogue example to place the diphthongs in context.",
+          "id": "Diftong 3 – OI + rangkuman: Ucapkan 'amboi' (wah!) sebagai ungkapan kekaguman. Latih ketiganya: pandai – pulau – amboi. Siswa menggunakan contoh dialog untuk menempatkan diftong dalam konteks."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Mange elever forsøger at udtale AI og AU som to separate stavelser. Understreg at de er én stavelse med to vokallyde der glider ind i hinanden – det er netop det der gør dem til diftonger.",
+          "en": "Many students try to pronounce AI and AU as two separate syllables. Emphasise that they are one syllable with two vowel sounds gliding into each other – that is precisely what makes them diphthongs.",
+          "id": "Banyak siswa mencoba mengucapkan AI dan AU sebagai dua suku kata terpisah. Tekankan bahwa keduanya adalah satu suku kata dengan dua bunyi vokal yang saling meluncur – itulah yang menjadikannya diftong."
+        },
+        {
+          "da": "OI er relativt sjælden i indonesisk. Brug 'amboi' som et sjovt udtryk at huske den med – det er et autentisk ord der stadig bruges, særlig i litterært eller poetisk sprog.",
+          "en": "OI is relatively rare in Indonesian. Use 'amboi' as a fun expression to remember it by – it is an authentic word still used, especially in literary or poetic language.",
+          "id": "OI relatif jarang dalam bahasa Indonesia. Gunakan 'amboi' sebagai ungkapan yang menyenangkan untuk mengingatnya – ini adalah kata autentik yang masih digunakan, terutama dalam bahasa sastra atau puitis."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lyt til eksempelordene og gentag tre gange for hvert ord: pandai, santai, pulau, harimau, amboi, sepoi. Mærk hvordan de to vokallyde i diftongen glider ind i hinanden.",
+          "en": "Listen to the example words and repeat three times for each: pandai, santai, pulau, harimau, amboi, sepoi. Feel how the two vowel sounds in the diphthong glide into each other.",
+          "id": "Dengarkan kata-kata contoh dan ulangi tiga kali untuk setiap kata: pandai, santai, pulau, harimau, amboi, sepoi. Rasakan bagaimana dua bunyi vokal dalam diftong saling meluncur."
+        },
+        {
+          "da": "Skriv to egne sætninger med diftongord fra lektionen. Eksempel: 'Pulau Bali sangat indah.' (Øen Bali er meget smuk.)",
+          "en": "Write two original sentences using diphthong words from the lesson. Example: 'Pulau Bali sangat indah.' (The island of Bali is very beautiful.)",
+          "id": "Tulis dua kalimat sendiri menggunakan kata-kata berdiftong dari pelajaran. Contoh: 'Pulau Bali sangat indah.'"
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du udtale AI, AU og OI som glidende vokalbevægelser (ikke to separate stavelser)?",
+          "en": "Can you pronounce AI, AU, and OI as gliding vowel movements (not two separate syllables)?",
+          "id": "Dapatkah Anda mengucapkan AI, AU, dan OI sebagai gerakan vokal yang meluncur (bukan dua suku kata terpisah)?"
+        },
+        {
+          "da": "Kan du bruge 'pandai', 'pulau' og 'amboi' i en naturlig sætning?",
+          "en": "Can you use 'pandai', 'pulau', and 'amboi' in a natural sentence?",
+          "id": "Dapatkah Anda menggunakan 'pandai', 'pulau', dan 'amboi' dalam kalimat yang alami?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Sari",
+      "source": "Jeg forsøger at udtale 'pandai', men det lyder mærkeligt når jeg siger det.",
+      "target": "Saya mencoba mengucapkan 'pandai', tapi terdengar aneh saat saya mengatakannya."
+    },
+    {
+      "speaker": "Budi",
+      "source": "Lad mig høre – prøv igen?",
+      "target": "Coba saya dengar – coba lagi?"
+    },
+    {
+      "speaker": "Sari",
+      "source": "Pan-di-ai. Er det rigtigt?",
+      "target": "Pan-di-ai. Apa sudah benar?"
+    },
+    {
+      "speaker": "Budi",
+      "source": "Næsten! AI er kun én stavelse – en glidebevægelse fra A til I. Prøv: pan-DAI. Som 'aj!' på dansk.",
+      "target": "Hampir! AI hanya satu suku kata – gerakan meluncur dari A ke I. Coba: pan-DAI. Seperti 'aj!' dalam bahasa Denmark."
+    },
+    {
+      "speaker": "Sari",
+      "source": "Pan-DAI! Bedre?",
+      "target": "Pan-DAI! Lebih baik?"
+    },
+    {
+      "speaker": "Budi",
+      "source": "Ja! Det er rigtigt. Du er klog – du er pandai! Og 'ø' på indonesisk – det er 'pulau'. Prøv: pu-LAU.",
+      "target": "Ya! Itu benar. Kamu pintar – kamu pandai! Dan 'ø' dalam bahasa Indonesia adalah 'pulau'. Coba: pu-LAU."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "klog / dygtig",
+      "target": "pandai",
+      "note": {
+        "da": "Diftong AI: glider fra A til I. Udtales pan-DAI. Synonym: pintar.",
+        "en": "Diphthong AI: glides from A to I. Pronounced pan-DAI. Synonym: pintar.",
+        "id": "Diftong AI: meluncur dari A ke I. Diucapkan pan-DAI. Sinonim: pintar."
+      }
+    },
+    {
+      "source": "afslappet / rolig",
+      "target": "santai",
+      "note": {
+        "da": "Diftong AI. 'Santai saja' = tag det roligt / slap af.",
+        "en": "Diphthong AI. 'Santai saja' = just relax / take it easy.",
+        "id": "Diftong AI. 'Santai saja' = santai saja / jangan terlalu serius."
+      }
+    },
+    {
+      "source": "ø (stykke land omgivet af vand)",
+      "target": "pulau",
+      "note": {
+        "da": "Diftong AU: glider fra A til U. Indonesia har over 17.000 øer.",
+        "en": "Diphthong AU: glides from A to U. Indonesia has over 17,000 islands.",
+        "id": "Diftong AU: meluncur dari A ke U. Indonesia memiliki lebih dari 17.000 pulau."
+      }
+    },
+    {
+      "source": "tiger",
+      "target": "harimau",
+      "note": {
+        "da": "Diftong AU til sidst. Sumatransk tiger – 'harimau Sumatra' – er truet art.",
+        "en": "Diphthong AU at the end. The Sumatran tiger – 'harimau Sumatra' – is an endangered species.",
+        "id": "Diftong AU di akhir. Harimau Sumatera adalah spesies yang terancam punah."
+      }
+    },
+    {
+      "source": "av! / av! (forundring/beundring)",
+      "target": "amboi",
+      "note": {
+        "da": "Diftong OI. Bruges til at udtrykke forundring, beundring eller glædelig overraskelse. Poetisk/litterær.",
+        "en": "Diphthong OI. Used to express wonder, admiration, or pleasant surprise. Poetic/literary in register.",
+        "id": "Diftong OI. Digunakan untuk mengungkapkan kekaguman, pujian, atau kejutan yang menyenangkan. Bernuansa puitis/sastra."
+      }
+    },
+    {
+      "source": "dejlig brise / svag vind",
+      "target": "sepoi-sepoi",
+      "note": {
+        "da": "Diftong OI (gentaget). 'Angin sepoi-sepoi' = en svag kærlig brise. Et smukt poetisk ord.",
+        "en": "Diphthong OI (repeated). 'Angin sepoi-sepoi' = a gentle breeze. A beautiful poetic word.",
+        "id": "Diftong OI (diulang). 'Angin sepoi-sepoi' = angin yang bertiup lembut. Kata yang indah dan puitis."
+      }
+    },
+    {
+      "source": "nu / i dette øjeblik",
+      "target": "sekarang",
+      "note": {
+        "da": "Ingen diftong – øvelsesord for kontrast. Udtales klart: se-ka-rang med rullet R.",
+        "en": "No diphthong – practice word for contrast. Pronounced clearly: se-ka-rang with rolled R.",
+        "id": "Tidak ada diftong – kata latihan untuk kontras. Diucapkan dengan jelas: se-ka-rang dengan R yang digulung."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Diftong som stavelsesafslutning: kata + diftong",
+      "explanation": {
+        "da": "Indonesiske diftonger (AI, AU, OI) optræder altid som afslutning på en stavelse. De dannes ved at glide fra den første vokal til den anden i én flydende bevægelse. De er aldrig to separate stavelser: 'pandai' er to stavelser (pan-dai), ikke tre (pan-da-i).",
+        "en": "Indonesian diphthongs (AI, AU, OI) always appear as the ending of a syllable. They are formed by gliding from the first vowel to the second in one smooth movement. They are never two separate syllables: 'pandai' has two syllables (pan-dai), not three (pan-da-i).",
+        "id": "Diftong bahasa Indonesia (AI, AU, OI) selalu muncul sebagai akhiran suku kata. Diftong dibentuk dengan meluncur dari vokal pertama ke vokal kedua dalam satu gerakan yang mulus. Bukan dua suku kata terpisah: 'pandai' memiliki dua suku kata (pan-dai), bukan tiga (pan-da-i)."
+      },
+      "examples": [
+        {
+          "source": "klog – to stavelser: pan-dai (ikke pan-da-i)",
+          "target": "pandai – dua suku kata: pan-dai (bukan pan-da-i)"
+        },
+        {
+          "source": "ø – to stavelser: pu-lau (ikke pu-la-u)",
+          "target": "pulau – dua suku kata: pu-lau (bukan pu-la-u)"
+        },
+        {
+          "source": "wow! – to stavelser: am-boi (ikke am-bo-i)",
+          "target": "amboi – dua suku kata: am-boi (bukan am-bo-i)"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til de følgende ord og skriv hvilken diftong du hører (AI, AU eller OI): santai, harimau, amboi, pandai, pulau, sepoi.",
+        "en": "Listen to the following words and write which diphthong you hear (AI, AU, or OI): santai, harimau, amboi, pandai, pulau, sepoi.",
+        "id": "Dengarkan kata-kata berikut dan tuliskan diftong mana yang Anda dengar (AI, AU, atau OI): santai, harimau, amboi, pandai, pulau, sepoi."
+      },
+      "answerShape": {
+        "da": "santai=AI, harimau=AU, amboi=OI, pandai=AI, pulau=AU, sepoi=OI",
+        "en": "santai=AI, harimau=AU, amboi=OI, pandai=AI, pulau=AU, sepoi=OI",
+        "id": "santai=AI, harimau=AU, amboi=OI, pandai=AI, pulau=AU, sepoi=OI"
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig disse sætninger tydeligt med fokus på diftongerne: 'Kamu sangat pandai.' / 'Pulau Bali sangat indah.' / 'Amboi, indahnya!'",
+        "en": "Say these sentences clearly, focusing on the diphthongs: 'Kamu sangat pandai.' / 'Pulau Bali sangat indah.' / 'Amboi, indahnya!'",
+        "id": "Ucapkan kalimat-kalimat ini dengan jelas, fokus pada diftong: 'Kamu sangat pandai.' / 'Pulau Bali sangat indah.' / 'Amboi, indahnya!'"
+      },
+      "answerShape": {
+        "da": "Diftongerne udtales som glidende enkeltstavelser. 'Pandai' har to stavelser. 'Pulau' har to stavelser. 'Amboi' udtales med OI-diftong.",
+        "en": "Diphthongs pronounced as gliding single syllables. 'Pandai' has two syllables. 'Pulau' has two syllables. 'Amboi' pronounced with OI diphthong.",
+        "id": "Diftong diucapkan sebagai suku kata tunggal yang meluncur. 'Pandai' memiliki dua suku kata. 'Pulau' memiliki dua suku kata. 'Amboi' diucapkan dengan diftong OI."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Sæt ord fra kassen sammen med den rigtige diftong-kategori. Ord: santai, harimau, amboi, pandai, pulau, sepoi. Kategorier: AI / AU / OI.",
+        "en": "Match words from the box with the correct diphthong category. Words: santai, harimau, amboi, pandai, pulau, sepoi. Categories: AI / AU / OI.",
+        "id": "Cocokkan kata-kata dari kotak dengan kategori diftong yang benar. Kata-kata: santai, harimau, amboi, pandai, pulau, sepoi. Kategori: AI / AU / OI."
+      },
+      "answerShape": {
+        "da": "AI: santai, pandai. AU: harimau, pulau. OI: amboi, sepoi.",
+        "en": "AI: santai, pandai. AU: harimau, pulau. OI: amboi, sepoi.",
+        "id": "AI: santai, pandai. AU: harimau, pulau. OI: amboi, sepoi."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme00-lesson04-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Diftonger i indonesisk: AI, AU og OI",
+        "en": "Diphthongs in Indonesian: AI, AU, and OI",
+        "id": "Diftong dalam bahasa Indonesia: AI, AU, dan OI"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

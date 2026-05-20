@@ -1,0 +1,36 @@
+---
+import SiteHeader from "@components/SiteHeader.astro";
+import SiteFooter from "@components/SiteFooter.astro";
+import "@styles/global.css";
+
+interface Props {
+  title: string;
+  description: string;
+  locale?: string;
+  pair?: string;
+}
+
+const { title, description, locale = "da", pair } = Astro.props;
+---
+
+<!doctype html>
+<html lang={locale}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body>
+    <div class="site-bg">
+      <div class="site-glow site-glow-left"></div>
+      <div class="site-glow site-glow-right"></div>
+    </div>
+    <SiteHeader locale={locale} pair={pair} />
+    <main>
+      <slot />
+    </main>
+    <SiteFooter locale={locale} />
+  </body>
+</html>

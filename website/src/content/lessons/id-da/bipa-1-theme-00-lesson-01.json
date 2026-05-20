@@ -1,0 +1,251 @@
+{
+  "pair": "id-da",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 30,
+  "title": {
+    "da": "Danske Lyde & Alfabetet",
+    "en": "Danish Sounds & The Alphabet",
+    "id": "Bunyi Bahasa Denmark & Alfabet"
+  },
+  "summary": {
+    "da": "Lær de vigtigste danske vokaler, bløde konsonanter og helt grundlæggende udtale, så dansk ikke føles tilfældigt fra første dag.",
+    "en": "Learn the key Danish vowels, soft consonants, and basic pronunciation so Danish does not feel random from day one.",
+    "id": "Pelajari vokal penting bahasa Denmark, konsonan lembut, dan pengucapan dasar agar bahasa Denmark tidak terasa acak sejak hari pertama."
+  },
+  "objectives": [
+    {
+      "da": "Genkende forskellen på korte og lange danske vokaler.",
+      "en": "Recognise the difference between short and long Danish vowels.",
+      "id": "Mengenali perbedaan antara vokal pendek dan panjang dalam bahasa Denmark."
+    },
+    {
+      "da": "Udtale almindelige begyndersætninger tydeligere.",
+      "en": "Pronounce common beginner sentences more clearly.",
+      "id": "Mengucapkan kalimat pemula umum dengan lebih jelas."
+    },
+    {
+      "da": "Opbygge mod til at læse dansk højt.",
+      "en": "Build confidence to read Danish aloud.",
+      "id": "Membangun kepercayaan diri untuk membaca bahasa Denmark dengan suara keras."
+    }
+  ],
+  "unit": {
+    "slug": "theme-00",
+    "order": 0,
+    "title": {
+      "da": "Tema 0: Fundamentet",
+      "en": "Theme 0: The Foundation",
+      "id": "Tema 0: Dasar"
+    },
+    "summary": {
+      "da": "Lyde, bogstaver og de første mønstre i dansk.",
+      "en": "Sounds, letters, and the first patterns in Danish.",
+      "id": "Bunyi, huruf, dan pola pertama dalam bahasa Denmark."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skriv ordene “hej”, “tak” og “jeg” på tavlen. Spørg hvilke lyde der føles nye for indonesiske elever.",
+        "en": "Write the words “hej”, “tak”, and “jeg” on the board. Ask which sounds feel new for Indonesian learners.",
+        "id": "Tuliskan kata “hej”, “tak”, dan “jeg” di papan. Tanyakan bunyi mana yang terasa baru bagi pembelajar Indonesia."
+      },
+      "flow": [
+        {
+          "da": "Vis danske vokaler med minimale kontraster og lad eleverne gentage i kor og individuelt.",
+          "en": "Show Danish vowels with minimal contrasts and let students repeat in chorus and individually.",
+          "id": "Tunjukkan vokal bahasa Denmark dengan kontras minimal dan minta siswa mengulang bersama-sama dan sendiri."
+        },
+        {
+          "da": "Arbejd med bløde lyde som i “jeg” og “meget” uden at kræve perfektion fra start.",
+          "en": "Work with soft sounds like in “jeg” and “meget” without demanding perfection from the start.",
+          "id": "Latih bunyi lembut seperti pada “jeg” dan “meget” tanpa menuntut kesempurnaan sejak awal."
+        },
+        {
+          "da": "Lad eleverne læse korte ord og faste fraser højt i par.",
+          "en": "Let students read short words and fixed phrases aloud in pairs.",
+          "id": "Minta siswa membaca kata pendek dan frasa tetap dengan suara keras secara berpasangan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Dansk udtale er den største barriere tidligt. Hold fokus på mod og genkendelse før perfektion.",
+          "en": "Danish pronunciation is the biggest early barrier. Focus on courage and recognition before perfection.",
+          "id": "Pengucapan bahasa Denmark adalah hambatan terbesar di awal. Fokuslah pada keberanian dan pengenalan sebelum kesempurnaan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lyt til ordene og gentag dem langsomt tre gange.",
+          "en": "Listen to the words and repeat them slowly three times.",
+          "id": "Dengarkan kata-kata itu dan ulangi perlahan tiga kali."
+        },
+        {
+          "da": "Sammenlign hvordan dansk skrives og lyder. Notér overraskelser.",
+          "en": "Compare how Danish is written and how it sounds. Note surprises.",
+          "id": "Bandingkan bagaimana bahasa Denmark ditulis dan diucapkan. Catat hal yang mengejutkan."
+        },
+        {
+          "da": "Læs dialogen højt og marker de ord der er svære at sige.",
+          "en": "Read the dialogue aloud and mark the words that are hard to say.",
+          "id": "Baca dialog dengan suara keras dan tandai kata-kata yang sulit diucapkan."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du læse “hej, tak, jeg hedder...” højt uden at stoppe?",
+          "en": "Can you read “hej, tak, jeg hedder...” aloud without stopping?",
+          "id": "Bisakah Anda membaca “hej, tak, jeg hedder...” dengan suara keras tanpa berhenti?"
+        },
+        {
+          "da": "Kan du høre forskel på mindst to danske vokaler?",
+          "en": "Can you hear the difference between at least two Danish vowels?",
+          "id": "Bisakah Anda mendengar perbedaan setidaknya dua vokal bahasa Denmark?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Lærer",
+      "source": "Mari kita mulai dengan bunyi dasar. Bagaimana kamu mengucapkan “hej”?",
+      "target": "Lad os starte med de grundlæggende lyde. Hvordan udtaler du “hej”?"
+    },
+    {
+      "speaker": "Elev",
+      "source": "Saya dengar seperti “hai”, tetapi lebih lembut.",
+      "target": "Jeg hører det som “hej”, men blødere."
+    },
+    {
+      "speaker": "Lærer",
+      "source": "Bagus. Sekarang coba: “jeg hedder Rina”.",
+      "target": "Godt. Prøv nu: “jeg hedder Rina”."
+    },
+    {
+      "speaker": "Elev",
+      "source": "Bahasa Denmark terasa sulit, tetapi menarik.",
+      "target": "Dansk føles svært, men spændende."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "hej",
+      "target": "hej",
+      "note": {
+        "da": "Et af de vigtigste første ord.",
+        "en": "One of the most important first words.",
+        "id": "Salah satu kata pertama yang paling penting."
+      }
+    },
+    {
+      "source": "tak",
+      "target": "tak",
+      "note": {
+        "da": "Kort ord, men meget brugt i hverdagssamtaler.",
+        "en": "Short word, but used a lot in everyday conversation.",
+        "id": "Kata pendek, tetapi sangat sering digunakan dalam percakapan sehari-hari."
+      }
+    },
+    {
+      "source": "jeg",
+      "target": "jeg / saya",
+      "note": {
+        "da": "Et centralt dansk pronomen som ofte lyder blødere end det ser ud.",
+        "en": "A central Danish pronoun that often sounds softer than it looks.",
+        "id": "Kata ganti penting dalam bahasa Denmark yang sering terdengar lebih lembut daripada tampilannya."
+      }
+    },
+    {
+      "source": "goddag",
+      "target": "goddag",
+      "note": {
+        "da": "Mere formelt end “hej”. Godt i høflige møder.",
+        "en": "More formal than “hej”. Useful in polite meetings.",
+        "id": "Lebih formal daripada “hej”. Berguna dalam pertemuan sopan."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Danske vokaler og rytme",
+      "explanation": {
+        "da": "Dansk bygger meget mening gennem vokalkvalitet og rytme. Som begynder er målet først at genkende mønstrene og turde sige dem højt.",
+        "en": "Danish carries much meaning through vowel quality and rhythm. As a beginner, the first goal is to recognise the patterns and dare to say them aloud.",
+        "id": "Bahasa Denmark membawa banyak makna melalui kualitas vokal dan ritme. Sebagai pemula, tujuan pertama adalah mengenali polanya dan berani mengucapkannya dengan suara keras."
+      },
+      "examples": [
+        {
+          "source": "hej",
+          "target": "hej"
+        },
+        {
+          "source": "tak",
+          "target": "tak"
+        },
+        {
+          "source": "jeg hedder Ana",
+          "target": "jeg hedder Ana"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til fire korte danske ord og markér hvilke to der lyder mest ens.",
+        "en": "Listen to four short Danish words and mark which two sound most alike.",
+        "id": "Dengarkan empat kata pendek bahasa Denmark dan tandai dua kata yang terdengar paling mirip."
+      },
+      "answerShape": {
+        "da": "Et kort valg med begrundelse.",
+        "en": "A short choice with explanation.",
+        "id": "Pilihan singkat dengan alasan."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig “hej, tak, jeg hedder...” højt tre gange med roligt tempo.",
+        "en": "Say “hej, tak, jeg hedder...” aloud three times at a calm pace.",
+        "id": "Ucapkan “hej, tak, jeg hedder...” dengan suara keras tiga kali dengan tempo tenang."
+      },
+      "answerShape": {
+        "da": "Kort udtaleøvelse.",
+        "en": "Short pronunciation exercise.",
+        "id": "Latihan pengucapan singkat."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv din egen første linje på dansk: “Hej, jeg hedder ...”",
+        "en": "Write your own first line in Danish: “Hej, jeg hedder ...”",
+        "id": "Tulis kalimat pertama Anda sendiri dalam bahasa Denmark: “Hej, jeg hedder ...”"
+      },
+      "answerShape": {
+        "da": "En kort sætning.",
+        "en": "One short sentence.",
+        "id": "Satu kalimat pendek."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilken dansk lyd virker sværest lige nu, og hvorfor?",
+        "en": "Which Danish sound feels hardest right now, and why?",
+        "id": "Bunyi bahasa Denmark mana yang terasa paling sulit saat ini, dan mengapa?"
+      },
+      "answerShape": {
+        "da": "To korte sætninger.",
+        "en": "Two short sentences.",
+        "id": "Dua kalimat singkat."
+      }
+    }
+  ],
+  "media": []
+}

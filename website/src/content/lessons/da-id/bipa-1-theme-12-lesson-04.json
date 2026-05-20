@@ -1,0 +1,328 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 4,
+  "slug": "lesson-04",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Di Dokter – Hos lægen",
+    "en": "Di Dokter – At the Doctor's",
+    "id": "Di Dokter – Di Tempat Dokter"
+  },
+  "summary": {
+    "da": "Lær sproget til en lægekonsultation: sundhedsinstitutioner i Indonesien, spørgsmål fra lægen og patientens svar.",
+    "en": "Learn the language for a medical consultation: health institutions in Indonesia, questions from the doctor, and the patient's responses.",
+    "id": "Pelajari bahasa untuk konsultasi medis: institusi kesehatan di Indonesia, pertanyaan dokter, dan jawaban pasien."
+  },
+  "objectives": [
+    {
+      "da": "Kende de vigtigste sundhedsinstitutioner på indonesisk: klinik, rumah sakit og puskesmas.",
+      "en": "Know the main health institutions in Indonesian: klinik, rumah sakit, and puskesmas.",
+      "id": "Mengenal institusi kesehatan utama dalam bahasa Indonesia: klinik, rumah sakit, dan puskesmas."
+    },
+    {
+      "da": "Forstå og svare på enkle læge-spørgsmål som 'Sudah berapa lama?' og 'Ada keluhan apa?'.",
+      "en": "Understand and respond to simple doctor questions such as 'Sudah berapa lama?' and 'Ada keluhan apa?'.",
+      "id": "Memahami dan menjawab pertanyaan dokter sederhana seperti 'Sudah berapa lama?' dan 'Ada keluhan apa?'."
+    },
+    {
+      "da": "Føre en grundlæggende patient-læge-dialog om symptomer.",
+      "en": "Conduct a basic patient-doctor dialogue about symptoms.",
+      "id": "Melakukan dialog dasar pasien-dokter tentang gejala."
+    }
+  ],
+  "unit": {
+    "slug": "theme-12",
+    "order": 12,
+    "title": {
+      "da": "Tema 12: Krop & Helbred",
+      "en": "Theme 12: Body & Health",
+      "id": "Tema 12: Tubuh & Kesehatan"
+    },
+    "summary": {
+      "da": "Legemsdele, sygdom og sundhed i indonesisk kontekst.",
+      "en": "Body parts, illness, and health in an Indonesian context.",
+      "id": "Bagian tubuh, penyakit, dan kesehatan dalam konteks Indonesia."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis et billede af en indonesisk puskesmas og spørg: 'Kender I denne slags bygning? Hvad tror I det er?' Forklar kort puskesmas-systemet — en vigtig del af Indonesiens folkesundhed.",
+        "en": "Show a picture of an Indonesian puskesmas and ask: 'Do you recognise this kind of building? What do you think it is?' Briefly explain the puskesmas system — an important part of Indonesia's public health.",
+        "id": "Tunjukkan gambar puskesmas Indonesia dan tanya: 'Apakah kalian mengenal bangunan seperti ini? Menurut kalian apa itu?' Jelaskan singkat sistem puskesmas — bagian penting dari kesehatan masyarakat Indonesia."
+      },
+      "flow": [
+        {
+          "da": "Introducer sundhedsinstitutioner og ordforråd (10 min): Præsenter klinik, rumah sakit, puskesmas og tilhørende ord. Fremhæv puskesmas som et unikt indonesisk fænomen der ikke har direkte dansk ækvivalent.",
+          "en": "Introduce health institutions and vocabulary (10 min): Present klinik, rumah sakit, puskesmas and related words. Highlight puskesmas as a uniquely Indonesian institution with no direct Danish equivalent.",
+          "id": "Perkenalkan institusi kesehatan dan kosakata (10 menit): Sajikan klinik, rumah sakit, puskesmas dan kata-kata terkait. Soroti puskesmas sebagai institusi khas Indonesia yang tidak memiliki padanan langsung dalam bahasa Denmark."
+        },
+        {
+          "da": "Øv konsultations-sætninger (12 min): Skriv lægens spørgsmål på den ene side af tavlen og patientens svar på den anden. Læreren spiller læge; klassen svarer i kor og derefter individuelt.",
+          "en": "Practise consultation sentences (12 min): Write the doctor's questions on one side of the board and the patient's responses on the other. The teacher plays the doctor; the class responds in chorus and then individually.",
+          "id": "Latih kalimat konsultasi (12 menit): Tulis pertanyaan dokter di satu sisi papan dan jawaban pasien di sisi lain. Guru berperan sebagai dokter; kelas menjawab bersama-sama kemudian secara individual."
+        },
+        {
+          "da": "Parrollespil: lægekonsultation (13 min): Eleverne skiftes til at spille læge og patient. Lægen stiller mindst tre spørgsmål; patienten svarer med symptomer fra lektion 3.",
+          "en": "Pair role-play: medical consultation (13 min): Students take turns playing doctor and patient. The doctor asks at least three questions; the patient responds with symptoms from Lesson 3.",
+          "id": "Bermain peran berpasangan: konsultasi medis (13 menit): Siswa bergantian memerankan dokter dan pasien. Dokter mengajukan setidaknya tiga pertanyaan; pasien menjawab dengan gejala dari Pelajaran 3."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Puskesmas (Pusat Kesehatan Masyarakat) er et statsdrevet primær-sundhedscenter på lokalsamfundsniveau. Det er et centralt element i Indonesiens sundhedssystem og noget eleverne vil støde på i virkeligheden.",
+          "en": "Puskesmas (Pusat Kesehatan Masyarakat) is a government-run primary health centre at community level. It is a central element of Indonesia's health system and something students will encounter in real life.",
+          "id": "Puskesmas (Pusat Kesehatan Masyarakat) adalah pusat kesehatan primer milik pemerintah di tingkat masyarakat. Ini adalah elemen sentral sistem kesehatan Indonesia."
+        },
+        {
+          "da": "'Silakan berbaring' er en høflig imperativ. Lær eleverne at 'silakan + verbum' er den indonesiske standardmåde at give en høflig opfordring eller tilladelse.",
+          "en": "'Silakan berbaring' is a polite imperative. Teach students that 'silakan + verb' is the Indonesian standard way to give a polite invitation or permission.",
+          "id": "'Silakan berbaring' adalah perintah yang sopan. Ajarkan siswa bahwa 'silakan + kata kerja' adalah cara standar Indonesia untuk memberi undangan atau izin yang sopan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs om de tre sundhedsinstitutioner. Skriv en sætning om, hvilken du ville vælge i tre forskellige situationer: let sygdom, alvorlig ulykke, kontrol i nabolaget.",
+          "en": "Read about the three health institutions. Write one sentence about which you would choose in three different situations: mild illness, serious accident, neighbourhood check-up.",
+          "id": "Baca tentang tiga institusi kesehatan. Tulislah satu kalimat tentang mana yang akan Anda pilih dalam tiga situasi berbeda: penyakit ringan, kecelakaan serius, pemeriksaan di lingkungan sekitar."
+        },
+        {
+          "da": "Øv lægens spørgsmål og dine svar. Forestil dig at du er patient og skriv tre svar på: 'Ada keluhan apa?', 'Sudah berapa lama?', 'Di mana sakitnya?'.",
+          "en": "Practise the doctor's questions and your responses. Imagine you are a patient and write three answers to: 'Ada keluhan apa?', 'Sudah berapa lama?', 'Di mana sakitnya?'.",
+          "id": "Latih pertanyaan dokter dan jawaban Anda. Bayangkan Anda adalah pasien dan tulislah tiga jawaban untuk: 'Ada keluhan apa?', 'Sudah berapa lama?', 'Di mana sakitnya?'."
+        },
+        {
+          "da": "Lyt til dialogen to gange og markér alle de spørgsmål som lægen stiller.",
+          "en": "Listen to the dialogue twice and mark all the questions the doctor asks.",
+          "id": "Dengarkan dialog dua kali dan tandai semua pertanyaan yang diajukan dokter."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du forklare, hvad puskesmas er, og hvornår en indonesier ville bruge det frem for rumah sakit?",
+          "en": "Can you explain what a puskesmas is and when an Indonesian person would use it instead of a rumah sakit?",
+          "id": "Bisakah Anda menjelaskan apa itu puskesmas dan kapan orang Indonesia akan menggunakannya daripada rumah sakit?"
+        },
+        {
+          "da": "Kan du svare naturligt på mindst tre af lægens spørgsmål fra dialogen?",
+          "en": "Can you respond naturally to at least three of the doctor's questions from the dialogue?",
+          "id": "Bisakah Anda menjawab secara natural setidaknya tiga pertanyaan dokter dari dialog?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Dokter",
+      "source": "Selamat pagi. Silakan duduk. Ada keluhan apa?",
+      "target": "Selamat pagi. Silakan duduk. Ada keluhan apa?"
+    },
+    {
+      "speaker": "Pasien (Patient)",
+      "source": "Selamat pagi, Dok. Saya sakit kepala dan demam sejak kemarin.",
+      "target": "Selamat pagi, Dok. Saya sakit kepala dan demam sejak kemarin."
+    },
+    {
+      "speaker": "Dokter",
+      "source": "Sudah berapa lama demamnya?",
+      "target": "Sudah berapa lama demamnya?"
+    },
+    {
+      "speaker": "Pasien (Patient)",
+      "source": "Kira-kira dua hari, Dok. Saya juga batuk.",
+      "target": "Kira-kira dua hari, Dok. Saya juga batuk."
+    },
+    {
+      "speaker": "Dokter",
+      "source": "Baik. Silakan berbaring. Saya periksa dulu.",
+      "target": "Baik. Silakan berbaring. Saya periksa dulu."
+    },
+    {
+      "speaker": "Dokter",
+      "source": "Anda kena flu. Saya beri resep obat. Istirahat yang cukup, ya.",
+      "target": "Anda kena flu. Saya beri resep obat. Istirahat yang cukup, ya."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "læge / doktor",
+      "target": "dokter",
+      "note": {
+        "da": "Forkortes til 'Dok' som høflig tiltaleform, f.eks. 'Terima kasih, Dok.'",
+        "en": "Abbreviated to 'Dok' as a polite form of address, e.g. 'Terima kasih, Dok.'",
+        "id": "Disingkat menjadi 'Dok' sebagai bentuk sapaan sopan, mis. 'Terima kasih, Dok.'"
+      }
+    },
+    {
+      "source": "klinik",
+      "target": "klinik",
+      "note": {
+        "da": "Privat klinik. Samme ord som på dansk.",
+        "en": "Private clinic. Same word as in Danish.",
+        "id": "Klinik swasta. Kata yang sama dengan bahasa Denmark."
+      }
+    },
+    {
+      "source": "hospital",
+      "target": "rumah sakit",
+      "note": {
+        "da": "Bogstaveligt: 'sygehus'. 'Rumah' = hus, 'sakit' = syg/smerter.",
+        "en": "Literally: 'house of the sick'. 'Rumah' = house, 'sakit' = sick/pain.",
+        "id": "Harfiah: 'rumah orang sakit'. 'Rumah' = rumah, 'sakit' = sakit/nyeri."
+      }
+    },
+    {
+      "source": "sundhedscenter (statsligt lokalcenter)",
+      "target": "puskesmas",
+      "note": {
+        "da": "Forkortelse af 'Pusat Kesehatan Masyarakat' (Folkesundhedscenter). Statsfinansieret primærsundhed i hvert lokalsamfund.",
+        "en": "Abbreviation of 'Pusat Kesehatan Masyarakat' (Community Health Centre). Government-funded primary health in every community.",
+        "id": "Singkatan dari 'Pusat Kesehatan Masyarakat'. Layanan kesehatan primer yang didanai pemerintah di setiap masyarakat."
+      }
+    },
+    {
+      "source": "recept",
+      "target": "resep",
+      "note": {
+        "da": "Lægelig recept til medicin. Næsten samme udtale som på dansk.",
+        "en": "Medical prescription. Almost the same pronunciation as in Danish.",
+        "id": "Resep medis. Hampir sama pengucapannya dengan bahasa Denmark."
+      }
+    },
+    {
+      "source": "undersøge / tjekke",
+      "target": "periksa",
+      "note": {
+        "da": "'Saya periksa' = Jeg undersøger dig. 'Silakan periksa' = Lad mig undersøge dig.",
+        "en": "'Saya periksa' = I will examine you. 'Silakan periksa' = Please let me examine you.",
+        "id": "'Saya periksa' = Saya periksa Anda. Umum digunakan dalam konteks medis."
+      }
+    },
+    {
+      "source": "vær venlig at lægge dig ned",
+      "target": "silakan berbaring",
+      "note": {
+        "da": "'Silakan' = vær venlig at / må du gerne. 'Berbaring' = ligge ned.",
+        "en": "'Silakan' = please / you are welcome to. 'Berbaring' = to lie down.",
+        "id": "'Silakan' = silakan / dipersilakan. 'Berbaring' = berbaring."
+      }
+    },
+    {
+      "source": "Hvor længe har det stået på?",
+      "target": "Sudah berapa lama?",
+      "note": {
+        "da": "Nøglespørgsmål hos lægen. 'Sudah' markerer, at noget allerede er sket/pågår.",
+        "en": "Key question at the doctor's. 'Sudah' marks that something has already happened/is ongoing.",
+        "id": "Pertanyaan kunci di tempat dokter. 'Sudah' menandai bahwa sesuatu telah terjadi/sedang berlangsung."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Silakan + [verbum]",
+      "explanation": {
+        "da": "'Silakan' er et høflighedsord der betyder 'vær venlig at' eller 'du er velkommen til at'. Det placeres foran et udsagnsord og bruges til at give en høflig opfordring eller tilladelse — meget almindeligt i servicesammenhænge.",
+        "en": "'Silakan' is a politeness word meaning 'please' or 'you are welcome to'. It is placed before a verb and used to give a polite invitation or permission — very common in service contexts.",
+        "id": "'Silakan' adalah kata kesopanan yang berarti 'silakan' atau 'dipersilakan'. Diletakkan sebelum kata kerja dan digunakan untuk memberi undangan atau izin yang sopan — sangat umum dalam konteks layanan."
+      },
+      "examples": [
+        {
+          "source": "Vær venlig at sætte dig ned.",
+          "target": "Silakan duduk."
+        },
+        {
+          "source": "Vær venlig at lægge dig ned.",
+          "target": "Silakan berbaring."
+        },
+        {
+          "source": "Vær venlig at komme ind.",
+          "target": "Silakan masuk."
+        }
+      ]
+    },
+    {
+      "pattern": "Sudah + berapa lama + [verbum/tilstand]?",
+      "explanation": {
+        "da": "Et spørgsmål om varighed: 'Hvor lang tid har [tilstand] varet?'. 'Sudah' (allerede) + 'berapa lama' (hvor lang tid). Svaret bruger tidsord som 'dua hari' (to dage), 'seminggu' (en uge).",
+        "en": "A question about duration: 'How long has [condition] lasted?' 'Sudah' (already) + 'berapa lama' (how long). The answer uses time words like 'dua hari' (two days), 'seminggu' (one week).",
+        "id": "Pertanyaan tentang durasi: 'Sudah berapa lama [kondisi] berlangsung?' 'Sudah' + 'berapa lama'. Jawabannya menggunakan kata waktu seperti 'dua hari', 'seminggu'."
+      },
+      "examples": [
+        {
+          "source": "Hvor længe har du haft feber?",
+          "target": "Sudah berapa lama demamnya?"
+        },
+        {
+          "source": "Omtrent to dage.",
+          "target": "Kira-kira dua hari."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Spil en lægekonsultation med en partner. Lægen stiller disse tre spørgsmål: 'Ada keluhan apa?', 'Sudah berapa lama?', 'Di mana sakitnya?'. Patienten svarer med realistiske symptomer.",
+        "en": "Play a medical consultation with a partner. The doctor asks these three questions: 'Ada keluhan apa?', 'Sudah berapa lama?', 'Di mana sakitnya?'. The patient responds with realistic symptoms.",
+        "id": "Mainkan konsultasi medis dengan pasangan. Dokter mengajukan tiga pertanyaan: 'Ada keluhan apa?', 'Sudah berapa lama?', 'Di mana sakitnya?'. Pasien menjawab dengan gejala yang realistis."
+      },
+      "answerShape": {
+        "da": "Dokter: 'Ada keluhan apa?' Patient: 'Saya [symptom] sejak [tid].' Dokter: 'Silakan [instruktion].'",
+        "en": "Doctor: 'Ada keluhan apa?' Patient: 'Saya [symptom] sejak [time].' Doctor: 'Silakan [instruction].'",
+        "id": "Dokter: 'Ada keluhan apa?' Pasien: 'Saya [gejala] sejak [waktu].' Dokter: 'Silakan [instruksi].'"
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen og svar på tre spørgsmål: (1) Hvad er patientens symptomer? (2) Hvor længe har han/hun haft dem? (3) Hvad siger lægen til sidst?",
+        "en": "Listen to the dialogue and answer three questions: (1) What are the patient's symptoms? (2) How long has he/she had them? (3) What does the doctor say at the end?",
+        "id": "Dengarkan dialog dan jawab tiga pertanyaan: (1) Apa gejala pasien? (2) Sudah berapa lama gejalanya? (3) Apa yang dikatakan dokter di akhir?"
+      },
+      "answerShape": {
+        "da": "(1) Sakit kepala, demam, batuk. (2) Kira-kira dua hari. (3) Anda kena flu — resep og hvile.",
+        "en": "(1) Sakit kepala, demam, batuk. (2) Kira-kira dua hari. (3) Anda kena flu — prescription and rest.",
+        "id": "(1) Sakit kepala, demam, batuk. (2) Kira-kira dua hari. (3) Anda kena flu — resep dan istirahat."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Sammenlign det indonesiske sundhedssystem (klinik, rumah sakit, puskesmas) med det danske system. Hvad er den vigtigste forskel, du har lært i dag?",
+        "en": "Compare the Indonesian health system (klinik, rumah sakit, puskesmas) with the Danish system. What is the most important difference you have learned today?",
+        "id": "Bandingkan sistem kesehatan Indonesia (klinik, rumah sakit, puskesmas) dengan sistem Denmark. Apa perbedaan terpenting yang Anda pelajari hari ini?"
+      },
+      "answerShape": {
+        "da": "En til to sætninger om puskesmas og dets rolle som et statsligt primærsundhedscenter på lokalt plan.",
+        "en": "One to two sentences about puskesmas and its role as a government-funded primary health centre at the local level.",
+        "id": "Satu hingga dua kalimat tentang puskesmas dan perannya sebagai pusat kesehatan primer milik pemerintah di tingkat lokal."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme12-lesson04-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Di Dokter – Lægekonsultation på indonesisk",
+        "en": "Di Dokter – A Medical Consultation in Indonesian",
+        "id": "Di Dokter – Konsultasi Medis dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

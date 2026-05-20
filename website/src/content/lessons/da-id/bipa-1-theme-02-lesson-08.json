@@ -1,0 +1,268 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 8,
+  "slug": "lesson-08",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Profil Lengkap — Den Komplette Selvpræsentation",
+    "en": "Profil Lengkap — The Complete Self-Introduction",
+    "id": "Profil Lengkap"
+  },
+  "summary": {
+    "da": "Konsolidering af hele Tema 2. Sammensæt en naturlig og komplet selvpræsentation med navn, alder, nationalitet, sprog, erhverv, udseende og bolig.",
+    "en": "Consolidation of all of Theme 2. Put together a natural and complete self-introduction covering name, age, nationality, language, profession, appearance, and home.",
+    "id": "Konsolidasi seluruh Tema 2. Susun perkenalan diri yang alami dan lengkap mencakup nama, usia, kebangsaan, bahasa, pekerjaan, penampilan, dan tempat tinggal."
+  },
+  "objectives": [
+    {
+      "da": "Sammensætte en flydende selvpræsentation på to til tre minutter ved brug af alt Tema 2-indhold.",
+      "en": "Compose a fluent self-introduction of two to three minutes using all Theme 2 content.",
+      "id": "Menyusun perkenalan diri yang lancar selama dua hingga tiga menit menggunakan semua konten Tema 2."
+    },
+    {
+      "da": "Besvare opfølgingsspørgsmål om alle aspekter af identitet på A1-niveau.",
+      "en": "Answer follow-up questions about all aspects of identity at A1 level.",
+      "id": "Menjawab pertanyaan lanjutan tentang semua aspek identitas pada level A1."
+    },
+    {
+      "da": "Identificere egne videnshuller og planlægge videre læring.",
+      "en": "Identify own knowledge gaps and plan further learning.",
+      "id": "Mengidentifikasi celah pengetahuan sendiri dan merencanakan pembelajaran lebih lanjut."
+    }
+  ],
+  "unit": {
+    "slug": "theme-02",
+    "order": 2,
+    "title": {
+      "da": "Tema 2: Identitet",
+      "en": "Theme 2: Identity",
+      "id": "Tema 2: Identitas"
+    },
+    "summary": {
+      "da": "Hvem er du? Personlige oplysninger og selvbeskrivelse.",
+      "en": "Who are you? Personal details and self-description.",
+      "id": "Siapa kamu? Informasi pribadi dan deskripsi diri."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Fortæl klassen: 'I dag er der ingen ny grammatik. I dag bruger I alt, hvad I har lært i Tema 2.' Giv eleverne 5 minutter til at forberede en selvpræsentation.",
+        "en": "Tell the class: 'Today there is no new grammar. Today you use everything you have learned in Theme 2.' Give students 5 minutes to prepare a self-introduction.",
+        "id": "Ceritakan kepada kelas: 'Hari ini tidak ada tata bahasa baru. Hari ini kalian menggunakan semua yang telah dipelajari di Tema 2.' Beri siswa 5 menit untuk mempersiapkan perkenalan diri."
+      },
+      "flow": [
+        {
+          "da": "Lad eleverne holde individuelle præsentationer (2-3 minutter). Klassen noterer, hvad de forstår.",
+          "en": "Have students give individual presentations (2-3 minutes). The class notes what they understand.",
+          "id": "Minta siswa memberikan presentasi individu (2-3 menit). Kelas mencatat apa yang mereka pahami."
+        },
+        {
+          "da": "Efter hver præsentation: stil to opfølgingsspørgsmål fra resten af klassen. Fx 'Berapa umurmu?' eller 'Tinggal di mana?'",
+          "en": "After each presentation: have the rest of the class ask two follow-up questions. E.g. 'Berapa umurmu?' or 'Tinggal di mana?'",
+          "id": "Setelah setiap presentasi: minta sisa kelas mengajukan dua pertanyaan lanjutan. Misalnya 'Berapa umurmu?' atau 'Tinggal di mana?'"
+        },
+        {
+          "da": "Afsluttende refleksion: Hvad er det sværeste ved at præsentere sig selv på indonesisk? Hvad vil I forbedre til Tema 3?",
+          "en": "Final reflection: What is the hardest part about introducing yourself in Indonesian? What do you want to improve for Theme 3?",
+          "id": "Refleksi akhir: Apa bagian yang paling sulit dalam memperkenalkan diri dalam bahasa Indonesia? Apa yang ingin Anda tingkatkan untuk Tema 3?"
+        }
+      ],
+      "notes": [
+        {
+          "da": "Denne lektion fungerer som en uformel formativ vurdering. Notér, hvilke strukturer eleverne stadig kæmper med til opfølgning.",
+          "en": "This lesson functions as an informal formative assessment. Note which structures students are still struggling with for follow-up.",
+          "id": "Pelajaran ini berfungsi sebagai penilaian formatif informal. Catat struktur mana yang masih kesulitan dikuasai siswa untuk tindak lanjut."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv din komplette profil på indonesisk: alle Tema 2 emner i én sammenhængende tekst.",
+          "en": "Write your complete profile in Indonesian: all Theme 2 topics in one coherent text.",
+          "id": "Tuliskan profil lengkap Anda dalam bahasa Indonesia: semua topik Tema 2 dalam satu teks yang koheren."
+        },
+        {
+          "da": "Optag dig selv, mens du præsenterer dig selv på indonesisk. Lyt tilbage og noter, hvad du vil forbedre.",
+          "en": "Record yourself as you introduce yourself in Indonesian. Listen back and note what you want to improve.",
+          "id": "Rekam diri Anda saat memperkenalkan diri dalam bahasa Indonesia. Dengarkan kembali dan catat apa yang ingin Anda tingkatkan."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du holde en to minutter lang selvpræsentation, der dækker: navn, alder, nationalitet, sprog, erhverv, udseende og bolig?",
+          "en": "Can you deliver a two-minute self-introduction covering: name, age, nationality, language, profession, appearance, and home?",
+          "id": "Dapatkah Anda memberikan perkenalan diri selama dua menit yang mencakup: nama, usia, kebangsaan, bahasa, pekerjaan, penampilan, dan tempat tinggal?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Mads",
+      "source": "Perkenalkan, nama saya Mads Nielsen.",
+      "target": "Perkenalkan, nama saya Mads Nielsen."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Saya berumur dua puluh enam tahun. Saya orang Denmark.",
+      "target": "Saya berumur dua puluh enam tahun. Saya orang Denmark."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Saya berbicara bahasa Denmark dan bahasa Indonesia sedikit.",
+      "target": "Saya berbicara bahasa Denmark dan bahasa Indonesia sedikit."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Saya seorang fotografer. Saya bekerja sebagai fotografer untuk sebuah majalah.",
+      "target": "Saya seorang fotografer. Saya bekerja sebagai fotografer untuk sebuah majalah."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Saya tinggi dan cukup ramah. Saya aktif dan suka berolahraga.",
+      "target": "Saya tinggi dan cukup ramah. Saya aktif dan suka berolahraga."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Saya tinggal di apartemen di Jakarta, dekat dengan pusat kota. Senang bertemu dengan kalian semua!",
+      "target": "Saya tinggal di apartemen di Jakarta, dekat dengan pusat kota. Senang bertemu dengan kalian semua!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Perkenalkan",
+      "target": "Perkenalkan",
+      "note": {
+        "da": "Idiomatisk præsentationsindledning: 'Lad mig præsentere (mig selv)'. Bruges til at starte formelle præsentationer.",
+        "en": "Idiomatic opening for introductions: 'Let me introduce (myself)'. Used to start formal introductions.",
+        "id": "Pembuka perkenalan idiomatik: 'Izinkan saya memperkenalkan (diri saya)'. Digunakan untuk memulai perkenalan formal."
+      }
+    },
+    {
+      "source": "At gøre sig bekendt / At møde",
+      "target": "Berkenalan",
+      "note": {
+        "da": "Berkenalan = stifte bekendtskab/lære hinanden at kende. Senang berkenalan = rart at møde dig.",
+        "en": "Berkenalan = to get acquainted/to meet for the first time. Senang berkenalan = nice to meet you.",
+        "id": "Berkenalan = berkenalan/saling mengenal. Senang berkenalan = senang berkenalan denganmu."
+      }
+    },
+    {
+      "source": "Rart at møde dig",
+      "target": "Senang bertemu dengan kamu",
+      "note": {
+        "da": "Senang = glad/lykkelig. Bertemu = møde/mødes. Den fulde frase er Senang bertemu dengan kamu.",
+        "en": "Senang = happy/glad. Bertemu = to meet. The full phrase is Senang bertemu dengan kamu.",
+        "id": "Senang = senang/gembira. Bertemu = bertemu. Frasa lengkapnya adalah Senang bertemu dengan kamu."
+      }
+    },
+    {
+      "source": "Komplet / Fuld",
+      "target": "Lengkap",
+      "note": {
+        "da": "Profil lengkap = komplet profil. Lengkap bruges til at beskrive noget komplet eller fuldstændigt.",
+        "en": "Profil lengkap = complete profile. Lengkap is used to describe something complete or whole.",
+        "id": "Profil lengkap = profil lengkap. Lengkap digunakan untuk mendeskripsikan sesuatu yang lengkap atau utuh."
+      }
+    },
+    {
+      "source": "Jeg vil gerne / Jeg kan godt lide",
+      "target": "Saya suka / Saya ingin",
+      "note": {
+        "da": "Suka = kan godt lide/nyde. Ingin = ville gerne/ønske. Saya suka olahraga = Jeg kan godt lide sport.",
+        "en": "Suka = like/enjoy. Ingin = want to/wish. Saya suka olahraga = I like sports.",
+        "id": "Suka = suka/menikmati. Ingin = ingin. Saya suka olahraga = Saya suka olahraga."
+      }
+    },
+    {
+      "source": "Alle / Alle sammen",
+      "target": "Semua / Kalian semua",
+      "note": {
+        "da": "Semua = alle/enhver. Kalian semua = I alle/alle jer. Bruges til at henvende sig til en gruppe.",
+        "en": "Semua = all/every. Kalian semua = all of you. Used to address a group.",
+        "id": "Semua = semua/setiap. Kalian semua = kalian semua. Digunakan untuk menyapa kelompok."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Komplet Profil-skabelon",
+      "explanation": {
+        "da": "En fuld indonesisk selvpræsentation følger typisk denne rækkefølge: 1) Navn 2) Alder 3) Nationalitet 4) Sprog 5) Erhverv 6) Udseende/personlighed 7) Bopæl. Brug dan (og) til at forbinde elementer.",
+        "en": "A full Indonesian self-introduction typically follows this order: 1) Name 2) Age 3) Nationality 4) Language 5) Profession 6) Appearance/personality 7) Residence. Use dan (and) to connect elements.",
+        "id": "Perkenalan diri lengkap dalam bahasa Indonesia biasanya mengikuti urutan: 1) Nama 2) Usia 3) Kebangsaan 4) Bahasa 5) Pekerjaan 6) Penampilan/kepribadian 7) Tempat tinggal. Gunakan dan untuk menghubungkan elemen."
+      },
+      "examples": [
+        { "source": "Navn + Alder", "target": "Nama saya Lena. Saya berumur dua puluh empat tahun." },
+        { "source": "Nationalitet + Sprog", "target": "Saya orang Denmark dan saya berbicara bahasa Denmark." },
+        { "source": "Erhverv + Bopæl", "target": "Saya seorang guru dan saya tinggal di Kopenhagen." }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Hold din komplette selvpræsentation på indonesisk. Inkluder alle syv elementer fra skabelonen.",
+        "en": "Deliver your complete self-introduction in Indonesian. Include all seven elements from the template.",
+        "id": "Berikan perkenalan diri lengkap Anda dalam bahasa Indonesia. Sertakan semua tujuh elemen dari templat."
+      },
+      "answerShape": {
+        "da": "Navn → Alder → Nationalitet → Sprog → Erhverv → Udseende → Bopæl",
+        "en": "Name → Age → Nationality → Language → Profession → Appearance → Residence",
+        "id": "Nama → Usia → Kebangsaan → Bahasa → Pekerjaan → Penampilan → Tempat Tinggal"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en profil for en fiktiv person. Vælg selv nationalitet, erhverv og bolig.",
+        "en": "Write a profile for a fictional person. Choose nationality, profession, and home yourself.",
+        "id": "Tuliskan profil untuk orang fiktif. Pilih sendiri kebangsaan, pekerjaan, dan tempat tinggal."
+      },
+      "answerShape": {
+        "da": "Komplet indonesisk tekst med alle syv elementer.",
+        "en": "Complete Indonesian text with all seven elements.",
+        "id": "Teks Indonesia lengkap dengan semua tujuh elemen."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Kig tilbage på Tema 2. Hvad var det sværeste? Hvad overraskede dig mest ved indonesisk identitetskultur?",
+        "en": "Look back at Theme 2. What was hardest? What surprised you most about Indonesian identity culture?",
+        "id": "Lihat kembali Tema 2. Apa yang paling sulit? Apa yang paling mengejutkan Anda tentang budaya identitas Indonesia?"
+      },
+      "answerShape": {
+        "da": "Afsluttende refleksion over Tema 2.",
+        "en": "Final reflection on Theme 2.",
+        "id": "Refleksi akhir tentang Tema 2."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme02-lesson08-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Den Komplette Indonesiske Selvpræsentation",
+        "en": "The Complete Indonesian Self-Introduction",
+        "id": "Perkenalan Diri Lengkap dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

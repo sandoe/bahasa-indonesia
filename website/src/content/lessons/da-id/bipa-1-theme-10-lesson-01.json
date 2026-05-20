@@ -1,0 +1,313 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Steder i Byen",
+    "en": "Places in the City",
+    "id": "Tempat di Kota"
+  },
+  "summary": {
+    "da": "Lær navnene på vigtige steder i en indonesisk by og hvordan man spørger efter og beskriver placeringer.",
+    "en": "Learn the names of important places in an Indonesian city and how to ask about and describe locations.",
+    "id": "Pelajari nama-nama tempat penting di kota Indonesia dan cara bertanya serta mendeskripsikan lokasi."
+  },
+  "objectives": [
+    {
+      "da": "Navngive mindst otte steder i en by på indonesisk.",
+      "en": "Name at least eight places in a city in Indonesian.",
+      "id": "Menyebutkan setidaknya delapan tempat di kota dalam bahasa Indonesia."
+    },
+    {
+      "da": "Bruge 'di mana ada...?' til at spørge om et steds placering.",
+      "en": "Use 'di mana ada...?' to ask about the location of a place.",
+      "id": "Menggunakan 'di mana ada...?' untuk menanyakan lokasi suatu tempat."
+    },
+    {
+      "da": "Beskrive et steds placering med 'di sebelah...' (ved siden af).",
+      "en": "Describe a location using 'di sebelah...' (next to/beside).",
+      "id": "Mendeskripsikan lokasi suatu tempat menggunakan 'di sebelah...' (di samping)."
+    }
+  ],
+  "unit": {
+    "slug": "theme-10",
+    "order": 10,
+    "title": {
+      "da": "Tema 10: Byen & Transport",
+      "en": "Theme 10: City & Transport",
+      "id": "Tema 10: Kota & Transportasi"
+    },
+    "summary": {
+      "da": "At navigere i en indonesisk by og bruge offentlig transport.",
+      "en": "Navigating an Indonesian city and using public transport.",
+      "id": "Menavigasi kota Indonesia dan menggunakan transportasi umum."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis billeder af en indonesisk by på skærmen og spørg: Hvad kan du se? Kender du nogen af stederne?",
+        "en": "Show pictures of an Indonesian city on the screen and ask: What can you see? Do you recognise any of the places?",
+        "id": "Tampilkan gambar kota Indonesia di layar dan tanya: Apa yang kamu lihat? Apakah kamu mengenali tempat-tempat itu?"
+      },
+      "flow": [
+        {
+          "da": "Introducer bystederne én ad gangen med billeder: pasar, toko, rumah sakit, sekolah, kantor, masjid, gereja, bank, hotel, supermarket, restoran, stasiun. Bed eleverne gentage hvert ord.",
+          "en": "Introduce the city places one at a time with pictures: pasar, toko, rumah sakit, sekolah, kantor, masjid, gereja, bank, hotel, supermarket, restoran, stasiun. Have students repeat each word.",
+          "id": "Perkenalkan tempat-tempat di kota satu per satu dengan gambar: pasar, toko, rumah sakit, sekolah, kantor, masjid, gereja, bank, hotel, supermarket, restoran, stasiun. Minta siswa mengulangi setiap kata."
+        },
+        {
+          "da": "Øv spørge-strukturen 'Di mana ada...?' med klassens svar. Tegn et simpelt bykort på tavlen og brug 'di sebelah...' til at placere bygninger.",
+          "en": "Practise the question structure 'Di mana ada...?' with class responses. Draw a simple city map on the board and use 'di sebelah...' to position buildings.",
+          "id": "Latih struktur pertanyaan 'Di mana ada...?' dengan respons kelas. Gambar peta kota sederhana di papan dan gunakan 'di sebelah...' untuk menempatkan bangunan."
+        },
+        {
+          "da": "Par-øvelse: Elev A spørger 'Di mana ada bank?', elev B svarer ved at pege på kortet og sige 'Di sebelah hotel.'",
+          "en": "Pair activity: Student A asks 'Di mana ada bank?', student B answers by pointing at the map and saying 'Di sebelah hotel.'",
+          "id": "Latihan berpasangan: Siswa A bertanya 'Di mana ada bank?', siswa B menjawab dengan menunjuk peta dan berkata 'Di sebelah hotel.'"
+        }
+      ],
+      "notes": [
+        {
+          "da": "Masjid er meget synligt i indonesiske byer – ca. 87 % af befolkningen er muslimer. Det er en god anledning til at tale om Indonesiens religiøse mangfoldighed (Islam, Kristendom, Hinduisme, Buddhisme).",
+          "en": "Masjid is very prominent in Indonesian cities – approximately 87% of the population is Muslim. It is a good opportunity to discuss Indonesia's religious diversity (Islam, Christianity, Hinduism, Buddhism).",
+          "id": "Masjid sangat menonjol di kota-kota Indonesia – sekitar 87% penduduk beragama Islam. Ini adalah kesempatan baik untuk membahas keberagaman agama Indonesia (Islam, Kristen, Hindu, Buddha)."
+        },
+        {
+          "da": "Stasiun kan bruges om tog- og busstationer. Præciser om nødvendigt: stasiun kereta (togstation) eller terminal bus (busterminal).",
+          "en": "Stasiun can refer to train and bus stations. Clarify if needed: stasiun kereta (train station) or terminal bus (bus terminal).",
+          "id": "Stasiun dapat merujuk pada stasiun kereta dan bus. Perjelas jika perlu: stasiun kereta (stasiun kereta api) atau terminal bus (terminal bus)."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Gennemgå ordlisten og forestil dig, at du går igennem en indonesisk by. Prøv at visualisere hvert sted.",
+          "en": "Go through the vocabulary list and imagine walking through an Indonesian city. Try to visualise each place.",
+          "id": "Tinjau daftar kosakata dan bayangkan Anda berjalan melalui kota Indonesia. Coba visualisasikan setiap tempat."
+        },
+        {
+          "da": "Tegn dit eget bykort med seks steder og skriv en sætning om hvert sted ved hjælp af 'di sebelah...'.",
+          "en": "Draw your own city map with six places and write a sentence about each using 'di sebelah...'.",
+          "id": "Gambar peta kota Anda sendiri dengan enam tempat dan tulis kalimat tentang masing-masing menggunakan 'di sebelah...'"
+        },
+        {
+          "da": "Øv dialogen højt og skift roller: vær både den, der spørger, og den, der giver retningen.",
+          "en": "Practise the dialogue aloud and switch roles: be both the person asking and the person giving directions.",
+          "id": "Latih dialog dengan keras dan berganti peran: jadilah orang yang bertanya dan orang yang memberi petunjuk."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du nævne otte steder i en by på indonesisk uden at se på noter?",
+          "en": "Can you name eight places in a city in Indonesian without looking at your notes?",
+          "id": "Bisakah kamu menyebutkan delapan tempat di kota dalam bahasa Indonesia tanpa melihat catatan?"
+        },
+        {
+          "da": "Kan du spørge og svare på 'Di mana ada rumah sakit?' med en lokationsbeskrivelse?",
+          "en": "Can you ask and answer 'Di mana ada rumah sakit?' with a location description?",
+          "id": "Bisakah kamu bertanya dan menjawab 'Di mana ada rumah sakit?' dengan deskripsi lokasi?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Lars (Tourist)",
+      "source": "Permisi, di mana ada bank di sini?",
+      "target": "Undskyld, er der en bank her i nærheden?"
+    },
+    {
+      "speaker": "Ibu Dewi (Lokal)",
+      "source": "Ada bank di sebelah hotel itu.",
+      "target": "Der er en bank ved siden af det hotel dér."
+    },
+    {
+      "speaker": "Lars (Tourist)",
+      "source": "Terima kasih. Dan di mana ada rumah sakit?",
+      "target": "Tak. Og hvor er der et hospital?"
+    },
+    {
+      "speaker": "Ibu Dewi (Lokal)",
+      "source": "Rumah sakit ada di sebelah sekolah, tidak jauh dari sini.",
+      "target": "Hospitalet er ved siden af skolen, ikke langt herfra."
+    },
+    {
+      "speaker": "Lars (Tourist)",
+      "source": "Apakah ada supermarket di dekat sini?",
+      "target": "Er der et supermarked i nærheden her?"
+    },
+    {
+      "speaker": "Ibu Dewi (Lokal)",
+      "source": "Ya, ada supermarket di sebelah stasiun. Mudah ditemukan!",
+      "target": "Ja, der er et supermarked ved siden af stationen. Nemt at finde!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Marked",
+      "target": "Pasar",
+      "note": {
+        "da": "Traditionelt udendørsmarked. Meget almindeligt i hele Indonesien.",
+        "en": "Traditional outdoor market. Very common throughout Indonesia.",
+        "id": "Pasar tradisional terbuka. Sangat umum di seluruh Indonesia."
+      }
+    },
+    {
+      "source": "Butik / Forretning",
+      "target": "Toko",
+      "note": {
+        "da": "Kan betyde enhver slags butik eller forretning.",
+        "en": "Can mean any kind of shop or store.",
+        "id": "Bisa berarti toko atau toko apa saja."
+      }
+    },
+    {
+      "source": "Hospital / Sygehus",
+      "target": "Rumah sakit",
+      "note": {
+        "da": "Bogstaveligt: 'sygehus'. Rumah = hus, sakit = syg.",
+        "en": "Literally: 'sick house'. Rumah = house, sakit = sick.",
+        "id": "Secara harfiah: 'rumah sakit'. Rumah = rumah, sakit = sakit."
+      }
+    },
+    {
+      "source": "Skole",
+      "target": "Sekolah",
+      "note": {
+        "da": "Bruges om alle skoletyper. Sekolah dasar = grundskole, SMA = gymnasium.",
+        "en": "Used for all school types. Sekolah dasar = primary school, SMA = high school.",
+        "id": "Digunakan untuk semua jenis sekolah. Sekolah dasar = SD, SMA = sekolah menengah atas."
+      }
+    },
+    {
+      "source": "Kontor",
+      "target": "Kantor",
+      "note": {
+        "da": "Fra det hollandske 'kantoor'. Et eksempel på det hollandske sprogs indflydelse på indonesisk.",
+        "en": "From Dutch 'kantoor'. An example of Dutch influence on Indonesian.",
+        "id": "Dari bahasa Belanda 'kantoor'. Contoh pengaruh bahasa Belanda pada bahasa Indonesia."
+      }
+    },
+    {
+      "source": "Moské",
+      "target": "Masjid",
+      "note": {
+        "da": "Det arabiske ord for moské, brugt direkte i indonesisk. Meget synligt i indonesiske byer.",
+        "en": "The Arabic word for mosque, used directly in Indonesian. Very prominent in Indonesian cities.",
+        "id": "Kata Arab untuk masjid, digunakan langsung dalam bahasa Indonesia. Sangat menonjol di kota-kota Indonesia."
+      }
+    },
+    {
+      "source": "Station",
+      "target": "Stasiun",
+      "note": {
+        "da": "Bruges om togstationer. For busstationer bruges typisk 'terminal'.",
+        "en": "Used for train stations. For bus stations, 'terminal' is typically used.",
+        "id": "Digunakan untuk stasiun kereta api. Untuk terminal bus, biasanya digunakan 'terminal'."
+      }
+    },
+    {
+      "source": "Restaurant",
+      "target": "Restoran",
+      "note": {
+        "da": "Formelt ord for restaurant. En simpel spisestedsbod kaldes 'warung'.",
+        "en": "Formal word for restaurant. A simple food stall is called 'warung'.",
+        "id": "Kata formal untuk restoran. Warung makan adalah sebutan untuk tempat makan sederhana."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Di mana ada...?",
+      "explanation": {
+        "da": "'Di mana' betyder 'hvor'. 'Ada' betyder 'der er/findes'. Sammen bruges de til at spørge om, hvor noget kan findes. Svar med 'Ada ... di ...'.",
+        "en": "'Di mana' means 'where'. 'Ada' means 'there is/exists'. Together they are used to ask where something can be found. Answer with 'Ada ... di ...'.",
+        "id": "'Di mana' berarti 'di mana'. 'Ada' berarti 'ada/terdapat'. Bersama-sama digunakan untuk menanyakan di mana sesuatu bisa ditemukan. Jawab dengan 'Ada ... di ...'."
+      },
+      "examples": [
+        { "source": "Hvor er der en bank?", "target": "Di mana ada bank?" },
+        { "source": "Hvor er der et hospital?", "target": "Di mana ada rumah sakit?" },
+        { "source": "Der er et supermarked her.", "target": "Ada supermarket di sini." }
+      ]
+    },
+    {
+      "pattern": "Di sebelah... (ved siden af)",
+      "explanation": {
+        "da": "'Di sebelah' betyder 'ved siden af' eller 'til siden af'. Bruges til at beskrive et steds placering i forhold til et andet sted.",
+        "en": "'Di sebelah' means 'next to' or 'beside'. Used to describe a location in relation to another place.",
+        "id": "'Di sebelah' berarti 'di sebelah' atau 'di samping'. Digunakan untuk menggambarkan lokasi suatu tempat dalam hubungannya dengan tempat lain."
+      },
+      "examples": [
+        { "source": "Banken er ved siden af hotellet.", "target": "Bank ada di sebelah hotel." },
+        { "source": "Skolen er ved siden af parken.", "target": "Sekolah ada di sebelah taman." }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Forestil dig, at du er turist i Jakarta. Spørg om vejen til tre steder: 'Di mana ada...?'",
+        "en": "Imagine you are a tourist in Jakarta. Ask for directions to three places: 'Di mana ada...?'",
+        "id": "Bayangkan kamu adalah turis di Jakarta. Tanyakan arah ke tiga tempat: 'Di mana ada...?'"
+      },
+      "answerShape": {
+        "da": "Di mana ada [sted]? / Ada [sted] di sebelah [andet sted].",
+        "en": "Di mana ada [place]? / Ada [place] di sebelah [other place].",
+        "id": "Di mana ada [tempat]? / Ada [tempat] di sebelah [tempat lain]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Oversæt disse sætninger til indonesisk: 'Hospitalet er ved siden af skolen.' / 'Hvor er der et hotel?' / 'Der er en butik ved siden af banken.'",
+        "en": "Translate these sentences into Indonesian: 'The hospital is next to the school.' / 'Where is there a hotel?' / 'There is a shop next to the bank.'",
+        "id": "Terjemahkan kalimat-kalimat ini ke dalam bahasa Indonesia: 'Rumah sakit ada di sebelah sekolah.' / 'Di mana ada hotel?' / 'Ada toko di sebelah bank.'"
+      },
+      "answerShape": {
+        "da": "Rumah sakit ada di sebelah sekolah. / Di mana ada hotel? / Ada toko di sebelah bank.",
+        "en": "Rumah sakit ada di sebelah sekolah. / Di mana ada hotel? / Ada toko di sebelah bank.",
+        "id": "Rumah sakit ada di sebelah sekolah. / Di mana ada hotel? / Ada toko di sebelah bank."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Sammenlign en indonesisk by med en dansk by. Hvilke steder er ens? Hvad er anderledes? Tænk på masjid, pasar og warung.",
+        "en": "Compare an Indonesian city with a Danish city. Which places are the same? What is different? Think about masjid, pasar, and warung.",
+        "id": "Bandingkan kota Indonesia dengan kota Denmark. Tempat mana yang sama? Apa yang berbeda? Pikirkan tentang masjid, pasar, dan warung."
+      },
+      "answerShape": {
+        "da": "Fri refleksion",
+        "en": "Free reflection",
+        "id": "Refleksi bebas"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme10-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Steder i en Indonesisk By",
+        "en": "Places in an Indonesian City",
+        "id": "Tempat-Tempat di Kota Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

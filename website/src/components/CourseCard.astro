@@ -1,0 +1,137 @@
+---
+import type { CollectionEntry } from "astro:content";
+import type { LearningPair, UiLocale } from "@data/site";
+import { t } from "@lib/i18n";
+
+interface Props {
+  course: CollectionEntry<"courses">;
+  locale: UiLocale;
+  pair: LearningPair;
+}
+
+const { course, locale, pair } = Astro.props;
+const openCourseLabel = {
+  da: "Se kursus",
+  en: "Open course",
+  id: "Buka kursus"
+} as const;
+---
+
+<a class="course-card-v2" href={`/${locale}/${pair}/${course.data.slug}/`} style={`--course-accent:${course.data.palette.accent};`}>
+  <div class="card-top">
+    <div class="badge">
+      <span class="level">BIPA {course.data.order}</span>
+      <span class="cefr">{course.data.cefr}</span>
+    </div>
+  </div>
+  
+  <div class="card-body">
+    <h3>{t(course.data.title, locale)}</h3>
+    <p>{t(course.data.summary, locale)}</p>
+    
+    <div class="focus-tags">
+      {course.data.focus.slice(0, 2).map((item) => (
+        <span class="tag">{t(item, locale)}</span>
+      ))}
+    </div>
+  </div>
+
+  <div class="card-footer">
+    <span class="explore">{openCourseLabel[locale]}</span>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+  </div>
+</a>
+
+<style>
+  .course-card-v2 {
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-lg);
+    padding: 2rem;
+    text-decoration: none;
+    color: var(--ink);
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.02);
+  }
+  .course-card-v2::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: var(--course-accent);
+    opacity: 0.8;
+  }
+  .course-card-v2:hover {
+    transform: translateY(-8px);
+    border-color: var(--course-accent);
+    box-shadow: var(--shadow);
+  }
+  .card-top .badge {
+    display: flex;
+    gap: 0.5rem;
+  }
+  .level, .cefr {
+    padding: 0.3rem 0.7rem;
+    border-radius: 8px;
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+  .level {
+    background: var(--course-accent);
+    color: white;
+  }
+  .cefr {
+    background: rgba(13, 26, 28, 0.05);
+    color: var(--muted);
+  }
+  .card-body h3 {
+    font-size: 1.4rem;
+    margin-bottom: 0.6rem;
+    color: var(--teal);
+  }
+  .card-body p {
+    color: var(--muted);
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin-bottom: 1.2rem;
+  }
+  .focus-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .tag {
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--teal);
+    background: rgba(28, 77, 79, 0.05);
+    padding: 0.3rem 0.6rem;
+    border-radius: 6px;
+  }
+  .card-footer {
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    color: var(--course-accent);
+    font-weight: 800;
+    font-size: 0.9rem;
+  }
+  .card-footer svg {
+    width: 16px;
+    height: 16px;
+    transition: transform 0.3s;
+  }
+  .course-card-v2:hover .card-footer svg {
+    transform: translateX(5px);
+  }
+</style>

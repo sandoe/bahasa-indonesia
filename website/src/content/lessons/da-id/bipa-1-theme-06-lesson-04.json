@@ -1,0 +1,296 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 4,
+  "slug": "lesson-04",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Bulan dalam Setahun — Måneder",
+    "en": "Bulan dalam Setahun — Months of the Year",
+    "id": "Bulan dalam Setahun"
+  },
+  "summary": {
+    "da": "Lær alle tolv måneder på indonesisk — de ligner de engelske måneder. Brug 'bulan [måned]' og 'pada bulan [måned]' og tal om fødselsdage.",
+    "en": "Learn all twelve months in Indonesian — they closely resemble the English months. Use 'bulan [month]' and 'pada bulan [month]' and talk about birthdays.",
+    "id": "Pelajari kedua belas bulan dalam bahasa Indonesia — mirip dengan bahasa Inggris. Gunakan 'bulan [bulan]' dan 'pada bulan [bulan]' serta berbicara tentang ulang tahun."
+  },
+  "objectives": [
+    {
+      "da": "Navngive alle tolv måneder på indonesisk",
+      "en": "Name all twelve months in Indonesian",
+      "id": "Menyebutkan kedua belas bulan dalam bahasa Indonesia"
+    },
+    {
+      "da": "Bruge 'bulan apa' til at spørge om måneden og svare med 'pada bulan [måned]'",
+      "en": "Use 'bulan apa' to ask about the month and answer with 'pada bulan [month]'",
+      "id": "Menggunakan 'bulan apa' untuk bertanya tentang bulan dan menjawab dengan 'pada bulan [bulan]'"
+    },
+    {
+      "da": "Fortælle, hvilken måned man er født i, og spørge andre om det",
+      "en": "Say which month you were born in and ask others about theirs",
+      "id": "Menyebutkan bulan kelahiran dan menanyakannya kepada orang lain"
+    }
+  ],
+  "unit": {
+    "slug": "theme-06",
+    "order": 6,
+    "title": {
+      "da": "Tema 6: Tid & Dato",
+      "en": "Theme 6: Time & Date",
+      "id": "Tema 6: Waktu & Tanggal"
+    },
+    "summary": {
+      "da": "Klokkeslæt, ugedage, måneder og datoer.",
+      "en": "Clock time, days, months, and dates.",
+      "id": "Waktu, hari, bulan, dan tanggal."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg klassen: 'Hvornår har du fødselsdag?' Skriv månederne på tavlen på dansk, og afslør derefter de indonesiske navne — eleverne genkender dem straks.",
+        "en": "Ask the class: 'When is your birthday?' Write the months on the board in Danish, then reveal the Indonesian names — students will recognise them immediately.",
+        "id": "Tanya kelas: 'Kapan ulang tahunmu?' Tuliskan bulan-bulan di papan dalam bahasa Denmark, lalu ungkapkan nama-nama dalam bahasa Indonesia — siswa akan langsung mengenalinya."
+      },
+      "flow": [
+        {
+          "da": "Introducer månederne som en liste ved siden af de engelske navne. Fremhæv de minimale forskelle (Oktober/October, Juli/July osv.).",
+          "en": "Introduce the months as a list alongside the English names. Highlight the minimal differences (Oktober/October, Juli/July etc.).",
+          "id": "Perkenalkan bulan-bulan bersama nama bahasa Inggrisnya. Soroti perbedaan kecil (Oktober/October, Juli/July, dll.)."
+        },
+        {
+          "da": "Øv 'pada bulan apa kamu lahir?' i par. Eleven svarer med sin faktiske fødselsmåned.",
+          "en": "Practise 'pada bulan apa kamu lahir?' in pairs. The student answers with their actual birth month.",
+          "id": "Latih 'pada bulan apa kamu lahir?' berpasangan. Siswa menjawab dengan bulan lahir sebenarnya."
+        },
+        {
+          "da": "Gruppeaktivitet: lav en klassens fødselsdagskalender — hvem er født i hvilken måned?",
+          "en": "Group activity: create a class birthday calendar — who is born in which month?",
+          "id": "Aktivitas kelompok: buat kalender ulang tahun kelas — siapa yang lahir di bulan apa?"
+        }
+      ],
+      "notes": [
+        {
+          "da": "Maret (marts) og Agustus (august) er de stavemæssigt mest afvigende. Brug dem som ankerpunkter.",
+          "en": "Maret (March) and Agustus (August) differ most in spelling. Use them as anchor points.",
+          "id": "Maret dan Agustus paling berbeda ejaannya. Gunakan keduanya sebagai titik acuan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv alle tolv måneder på indonesisk uden at se. Tjek derefter dine fejl.",
+          "en": "Write all twelve months in Indonesian without looking. Then check your mistakes.",
+          "id": "Tuliskan kedua belas bulan dalam bahasa Indonesia tanpa melihat. Lalu periksa kesalahanmu."
+        },
+        {
+          "da": "Lær at spørge og svare om fødselsdage. Øv med en studiekammerat.",
+          "en": "Learn to ask and answer about birthdays. Practise with a study partner.",
+          "id": "Pelajari cara bertanya dan menjawab tentang ulang tahun. Latih dengan teman belajar."
+        },
+        {
+          "da": "Lyt til dialogen og identificér: i hvilke måneder er personerne født?",
+          "en": "Listen to the dialogue and identify: in which months are the people born?",
+          "id": "Dengarkan dialog dan identifikasi: di bulan apa orang-orang dalam dialog dilahirkan?"
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige alle tolv måneder i rækkefølge på indonesisk?",
+          "en": "Can you say all twelve months in order in Indonesian?",
+          "id": "Bisakah kamu menyebutkan kedua belas bulan secara berurutan dalam bahasa Indonesia?"
+        },
+        {
+          "da": "Svar på indonesisk: 'Pada bulan apa kamu lahir?'",
+          "en": "Answer in Indonesian: 'Pada bulan apa kamu lahir?'",
+          "id": "Jawab dalam bahasa Indonesia: 'Pada bulan apa kamu lahir?'"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Tini",
+      "source": "Hei, ulang tahunmu bulan apa?",
+      "target": "Hej, i hvilken måned er din fødselsdag?"
+    },
+    {
+      "speaker": "Rudi",
+      "source": "Ulang tahun saya pada bulan Maret. Kamu?",
+      "target": "Min fødselsdag er i marts. Hvad med dig?"
+    },
+    {
+      "speaker": "Tini",
+      "source": "Saya lahir pada bulan Oktober. Bulan depan!",
+      "target": "Jeg er født i oktober. Næste måned!"
+    },
+    {
+      "speaker": "Rudi",
+      "source": "Oh, sebentar lagi. Mau merayakan?",
+      "target": "Åh, det er snart. Vil du fejre det?"
+    },
+    {
+      "speaker": "Tini",
+      "source": "Ya, biasanya saya makan malam bersama keluarga.",
+      "target": "Ja, normalt spiser jeg aftensmad med familien."
+    },
+    {
+      "speaker": "Rudi",
+      "source": "Selamat ulang tahun lebih awal, Tini!",
+      "target": "Tillykke med fødselsdagen på forhånd, Tini!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Januari",
+      "target": "januar / January",
+      "note": {
+        "da": "Næsten identisk med engelsk",
+        "en": "Nearly identical to English",
+        "id": "Hampir identik dengan bahasa Inggris"
+      }
+    },
+    {
+      "source": "Maret",
+      "target": "marts / March",
+      "note": {
+        "da": "Mangler det engelske 'ch'; udtales MA-ret",
+        "en": "Lacks the English 'ch'; pronounced MA-ret",
+        "id": "Dieja tanpa 'ch'; diucapkan MA-ret"
+      }
+    },
+    {
+      "source": "Agustus",
+      "target": "august / August",
+      "note": {
+        "da": "Vigtigt: Indonesiens uafhængighedsdag er 17. august",
+        "en": "Important: Indonesia's Independence Day is 17 August",
+        "id": "Penting: Hari Kemerdekaan Indonesia adalah 17 Agustus"
+      }
+    },
+    {
+      "source": "bulan",
+      "target": "måned / uge — og 'måne' / month — and 'moon'",
+      "note": {
+        "da": "Dobbelt betydning: 'bulan ini' = denne måned; 'bulan purnama' = fuldmåne",
+        "en": "Double meaning: 'bulan ini' = this month; 'bulan purnama' = full moon",
+        "id": "Dua arti: 'bulan ini' = bulan ini; 'bulan purnama' = bulan purnama"
+      }
+    },
+    {
+      "source": "ulang tahun",
+      "target": "fødselsdag / birthday",
+      "note": {
+        "da": "Ordret: 'gentage år'; 'selamat ulang tahun' = tillykke med fødselsdagen",
+        "en": "Literally: 'repeat year'; 'selamat ulang tahun' = happy birthday",
+        "id": "Harfiah: 'ulang tahun'; 'selamat ulang tahun' = selamat ulang tahun"
+      }
+    },
+    {
+      "source": "lahir",
+      "target": "at blive født / to be born",
+      "note": {
+        "da": "'Saya lahir pada bulan...' = Jeg er født i måned...",
+        "en": "'Saya lahir pada bulan...' = I was born in the month of...",
+        "id": "'Saya lahir pada bulan...' = Saya lahir pada bulan..."
+      }
+    },
+    {
+      "source": "bulan depan / bulan lalu",
+      "target": "næste måned / forrige måned — next month / last month",
+      "note": {
+        "da": "'Depan' = foran/næste; 'lalu' = forbi/forrige. Mønster gælder også for dag og år.",
+        "en": "'Depan' = front/next; 'lalu' = past/last. Pattern applies to day and year too.",
+        "id": "'Depan' = depan/berikutnya; 'lalu' = lalu/kemarin. Pola ini berlaku untuk hari dan tahun juga."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "pada bulan [måned] — i måneden",
+      "explanation": {
+        "da": "Brug 'pada bulan' til at sige, at noget sker i en bestemt måned. 'Pada' kan udelades i afslappet tale.",
+        "en": "Use 'pada bulan' to say something happens in a specific month. 'Pada' can be omitted in casual speech.",
+        "id": "Gunakan 'pada bulan' untuk mengatakan sesuatu terjadi pada bulan tertentu. 'Pada' bisa dihilangkan dalam percakapan santai."
+      },
+      "examples": [
+        {
+          "source": "Saya lahir pada bulan Juni.",
+          "target": "Jeg er født i juni. / I was born in June."
+        },
+        {
+          "source": "Ulang tahunnya pada bulan Desember.",
+          "target": "Hans/Hendes fødselsdag er i december. / His/Her birthday is in December."
+        },
+        {
+          "source": "Liburan kita bulan Juli.",
+          "target": "Vores ferie er i juli. / Our holiday is in July."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig din fødselsmåned på indonesisk og lav en hel sætning med 'Saya lahir pada bulan...'",
+        "en": "Say your birth month in Indonesian and form a complete sentence with 'Saya lahir pada bulan...'",
+        "id": "Sebutkan bulan lahirmu dalam bahasa Indonesia dan buat kalimat lengkap dengan 'Saya lahir pada bulan...'"
+      },
+      "answerShape": {
+        "da": "Saya lahir pada bulan [måned].",
+        "en": "Saya lahir pada bulan [month].",
+        "id": "Saya lahir pada bulan [bulan]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en liste over tre begivenheder (fx fødselsdage, ferier) med den måned, de sker i.",
+        "en": "Write a list of three events (e.g. birthdays, holidays) with the month they occur.",
+        "id": "Tulis daftar tiga acara (mis. ulang tahun, liburan) dengan bulan terjadinya."
+      },
+      "answerShape": {
+        "da": "[Begivenhed] pada bulan [måned].",
+        "en": "[Event] pada bulan [month].",
+        "id": "[Acara] pada bulan [bulan]."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen. I hvilken måned er Tinis fødselsdag, og i hvilken måned er Rudis?",
+        "en": "Listen to the dialogue. In which month is Tini's birthday, and in which month is Rudi's?",
+        "id": "Dengarkan dialog. Di bulan apa ulang tahun Tini dan di bulan apa ulang tahun Rudi?"
+      },
+      "answerShape": {
+        "da": "Tini: Oktober. Rudi: Maret.",
+        "en": "Tini: Oktober. Rudi: Maret.",
+        "id": "Tini: Oktober. Rudi: Maret."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme06-lesson04-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Måneder på indonesisk — Bulan dalam Setahun",
+        "en": "Months of the Year in Indonesian — Bulan dalam Setahun",
+        "id": "Bulan dalam Setahun — Nama-Nama Bulan dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

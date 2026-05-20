@@ -1,0 +1,52 @@
+{
+  "slug": "bipa-7",
+  "order": 7,
+  "cefr": "C1+",
+  "stage": {
+    "da": "Avanceret",
+    "en": "Advanced",
+    "id": "Mahir"
+  },
+  "title": {
+    "da": "BIPA 7 · Offentlig og faglig retorik",
+    "en": "BIPA 7 · Public and professional rhetoric",
+    "id": "BIPA 7 · Retorika publik dan profesional"
+  },
+  "summary": {
+    "da": "Komplekse argumenter, offentlig tale og fortolkning af nuancer.",
+    "en": "Complex arguments, public speaking, and interpretation of nuance.",
+    "id": "Argumen kompleks, berbicara di depan umum, dan penafsiran nuansa."
+  },
+  "focus": [
+    {
+      "da": "Retoriske overgange",
+      "en": "Rhetorical transitions",
+      "id": "Transisi retoris"
+    },
+    {
+      "da": "Kildearbejde",
+      "en": "Source work",
+      "id": "Kerja sumber"
+    },
+    {
+      "da": "Abstrakt præcision",
+      "en": "Abstract precision",
+      "id": "Ketepatan abstrak"
+    }
+  ],
+  "teacherPositioning": {
+    "da": "Egnet til præsentationer, analyse og større produktionsopgaver.",
+    "en": "Suitable for presentations, analysis, and larger production tasks.",
+    "id": "Cocok untuk presentasi, analisis, dan tugas produksi yang lebih besar."
+  },
+  "selfStudyPositioning": {
+    "da": "Kræver modeltekster, peer-lignende feedbackspor og refleksionsværktøjer.",
+    "en": "Requires model texts, peer-like feedback tracks, and reflection tools.",
+    "id": "Memerlukan teks model, jalur umpan balik seperti teman sejawat, dan alat refleksi."
+  },
+  "supportedPairs": ["da-id", "id-da", "en-id", "id-en"],
+  "palette": {
+    "accent": "#2a3344",
+    "glow": "#c8d0df"
+  }
+}

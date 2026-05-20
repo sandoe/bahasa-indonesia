@@ -1,0 +1,268 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Angka 11–20 — Tallene 11 til 20",
+    "en": "Angka 11–20 — Numbers 11 to 20",
+    "id": "Angka 11–20"
+  },
+  "summary": {
+    "da": "Lær tallene 11 til 20 på indonesisk. Forstå mønsteret med -belas for 11-19 og lær at udveksle telefonnumre i en rigtig kontekst.",
+    "en": "Learn the numbers 11 to 20 in Indonesian. Understand the -belas pattern for 11-19 and practice exchanging phone numbers in a real context.",
+    "id": "Pelajari angka 11 hingga 20 dalam bahasa Indonesia. Pahami pola -belas untuk 11-19 dan berlatihlah menukar nomor telepon dalam konteks nyata."
+  },
+  "objectives": [
+    {
+      "da": "Tælle fra 11 til 20 korrekt ved hjælp af -belas mønsteret.",
+      "en": "Count from 11 to 20 correctly using the -belas pattern.",
+      "id": "Menghitung dari 11 hingga 20 dengan benar menggunakan pola -belas."
+    },
+    {
+      "da": "Udtale sebelas (11) og dua puluh (20) korrekt.",
+      "en": "Pronounce sebelas (11) and dua puluh (20) correctly.",
+      "id": "Mengucapkan sebelas (11) dan dua puluh (20) dengan benar."
+    },
+    {
+      "da": "Udveksle telefonnumre på indonesisk.",
+      "en": "Exchange phone numbers in Indonesian.",
+      "id": "Menukar nomor telepon dalam bahasa Indonesia."
+    }
+  ],
+  "unit": {
+    "slug": "theme-03",
+    "order": 3,
+    "title": {
+      "da": "Tema 3: Tal & Farver",
+      "en": "Theme 3: Numbers & Colors",
+      "id": "Tema 3: Angka & Warna"
+    },
+    "summary": {
+      "da": "Tæl og beskriv verden med tal og farver.",
+      "en": "Count and describe the world with numbers and colors.",
+      "id": "Hitung dan deskripsikan dunia dengan angka dan warna."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skriv 11 = sebelas på tavlen og spørg: Hvad ser I? (se + belas). Lad eleverne udlede mønsteret.",
+        "en": "Write 11 = sebelas on the board and ask: What do you see? (se + belas). Let students infer the pattern.",
+        "id": "Tuliskan 11 = sebelas di papan tulis dan tanyakan: Apa yang kalian lihat? (se + belas). Biarkan siswa menyimpulkan polanya."
+      },
+      "flow": [
+        {
+          "da": "Forklar: -belas er suffixet for 11-19. Mønster: [enere] + belas. Undtagen: 11 = sebelas (se-, ikke satu-).",
+          "en": "Explain: -belas is the suffix for 11-19. Pattern: [ones digit] + belas. Exception: 11 = sebelas (se-, not satu-).",
+          "id": "Jelaskan: -belas adalah sufiks untuk 11-19. Pola: [satuan] + belas. Kecuali: 11 = sebelas (se-, bukan satu-)."
+        },
+        {
+          "da": "Gennemgå: sebelas (11), dua belas (12), tiga belas (13)... sembilan belas (19), dua puluh (20).",
+          "en": "Go through: sebelas (11), dua belas (12), tiga belas (13)... sembilan belas (19), dua puluh (20).",
+          "id": "Bahas: sebelas (11), dua belas (12), tiga belas (13)... sembilan belas (19), dua puluh (20)."
+        },
+        {
+          "da": "Øvelse: Eleverne bytter telefonnumre. Sig nummeret langsomt og tydeligt. Modtageren skriver det ned.",
+          "en": "Exercise: Students exchange phone numbers. Say the number slowly and clearly. The receiver writes it down.",
+          "id": "Latihan: Siswa saling bertukar nomor telepon. Ucapkan nomornya perlahan dan jelas. Penerima menuliskannya."
+        }
+      ],
+      "notes": [
+        {
+          "da": "I Indonesien læses telefonnumre cifre for cifre: 0812-3456-7890 = nol-delapan-satu-dua... Grupperingen hjælper hukommelsen.",
+          "en": "In Indonesia, phone numbers are read digit by digit: 0812-3456-7890 = nol-delapan-satu-dua... The grouping aids memory.",
+          "id": "Di Indonesia, nomor telepon dibaca digit per digit: 0812-3456-7890 = nol-delapan-satu-dua... Pengelompokan membantu daya ingat."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv tallene 11-20 ud fra hukommelsen. Tjek derefter om de er rigtige.",
+          "en": "Write the numbers 11-20 from memory. Then check if they are correct.",
+          "id": "Tuliskan angka 11-20 dari ingatan. Kemudian periksa apakah sudah benar."
+        },
+        {
+          "da": "Øv at sige dit eget telefonnummer på indonesisk, cifre for cifre.",
+          "en": "Practice saying your own phone number in Indonesian, digit by digit.",
+          "id": "Berlatihlah menyebutkan nomor telepon Anda sendiri dalam bahasa Indonesia, digit per digit."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige tallene 11-20 flydende uden at tøve?",
+          "en": "Can you say the numbers 11-20 fluently without hesitating?",
+          "id": "Dapatkah Anda menyebutkan angka 11-20 dengan lancar tanpa ragu-ragu?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Rina",
+      "source": "Hei Mads! Hvad er dit telefonnummer? Jeg vil gerne sende dig en besked.",
+      "target": "Hei Mads! Berapa nomor teleponmu? Saya ingin mengirim pesan kepadamu."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Oke! Nomor telepon saya: nol-delapan-satu-dua, tiga-empat-lima-enam.",
+      "target": "Oke! Nomor telepon saya: nol-delapan-satu-dua, tiga-empat-lima-enam."
+    },
+    {
+      "speaker": "Rina",
+      "source": "Vent lidt. Nol-delapan-satu-dua... og så?",
+      "target": "Tunggu sebentar. Nol-delapan-satu-dua... lalu?"
+    },
+    {
+      "speaker": "Mads",
+      "source": "Tiga-empat-lima-enam. Er det det rigtige?",
+      "target": "Tiga-empat-lima-enam. Apakah itu benar?"
+    },
+    {
+      "speaker": "Rina",
+      "source": "Ya! Og mit nummer er: nol-delapan-satu-tujuh, satu-dua-tiga-empat.",
+      "target": "Ya! Dan nomor saya adalah: nol-delapan-satu-tujuh, satu-dua-tiga-empat."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Bagus. Ada berapa angka dalam nomor Indonesia? Sembilan belas?",
+      "target": "Bagus. Ada berapa angka dalam nomor Indonesia? Sembilan belas?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Elleve",
+      "target": "Sebelas",
+      "note": {
+        "da": "Se- her er en fork. for satu (ét). Ikke satu belas men sebelas. Undtagelse at huske.",
+        "en": "Se- here is a contraction of satu (one). Not satu belas but sebelas. An exception to remember.",
+        "id": "Se- di sini adalah singkatan dari satu (satu). Bukan satu belas tetapi sebelas. Pengecualian yang perlu diingat."
+      }
+    },
+    {
+      "source": "Tolv",
+      "target": "Dua belas",
+      "note": {
+        "da": "Dua (2) + belas (suffix for 11-19). Mønsteret begynder her.",
+        "en": "Dua (2) + belas (suffix for 11-19). The pattern begins here.",
+        "id": "Dua (2) + belas (sufiks untuk 11-19). Pola dimulai di sini."
+      }
+    },
+    {
+      "source": "Femten",
+      "target": "Lima belas",
+      "note": {
+        "da": "Lima (5) + belas. Nem at huske med lima = fem huskeregl.",
+        "en": "Lima (5) + belas. Easy to remember with the lima = five mnemonic.",
+        "id": "Lima (5) + belas. Mudah diingat dengan mnemonik lima = lima."
+      }
+    },
+    {
+      "source": "Nitten",
+      "target": "Sembilan belas",
+      "note": {
+        "da": "Sembilan (9) + belas = 19. Det sidste tal med -belas.",
+        "en": "Sembilan (9) + belas = 19. The last number with -belas.",
+        "id": "Sembilan (9) + belas = 19. Angka terakhir dengan -belas."
+      }
+    },
+    {
+      "source": "Tyve",
+      "target": "Dua puluh",
+      "note": {
+        "da": "Dua (2) + puluh (tier). Puluh er suffikset for tiere (20, 30, 40...)",
+        "en": "Dua (2) + puluh (tens). Puluh is the suffix for tens (20, 30, 40...)",
+        "id": "Dua (2) + puluh (puluhan). Puluh adalah sufiks untuk puluhan (20, 30, 40...)"
+      }
+    },
+    {
+      "source": "Telefonnummer",
+      "target": "Nomor telepon",
+      "note": {
+        "da": "Nomor = nummer. Telepon = telefon. Bruges ofte forkortet som 'no. HP' (nomor handphone).",
+        "en": "Nomor = number. Telepon = telephone. Often abbreviated as 'no. HP' (nomor handphone).",
+        "id": "Nomor = nomor. Telepon = telepon. Sering disingkat 'no. HP' (nomor handphone)."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "[Enere] + belas = 11-19",
+      "explanation": {
+        "da": "Belas er suffikset der danner tallene 11-19. Tag enerens navn og tilføj belas. Undtagelse: 11 = sebelas (ikke satu belas). Reglen er ellers fuldstændig regelmæssig.",
+        "en": "Belas is the suffix that forms numbers 11-19. Take the ones digit name and add belas. Exception: 11 = sebelas (not satu belas). The rule is otherwise completely regular.",
+        "id": "Belas adalah sufiks yang membentuk angka 11-19. Ambil nama satuan dan tambahkan belas. Kecuali: 11 = sebelas (bukan satu belas). Aturannya sangat teratur."
+      },
+      "examples": [
+        { "source": "Tretten (3 + belas)", "target": "Tiga belas" },
+        { "source": "Sytten (7 + belas)", "target": "Tujuh belas" },
+        { "source": "Nitten (9 + belas)", "target": "Sembilan belas" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig dit telefonnummer (eller et opfundet et) på indonesisk, cifre for cifre.",
+        "en": "Say your phone number (or an invented one) in Indonesian, digit by digit.",
+        "id": "Ucapkan nomor telepon Anda (atau yang dibuat-buat) dalam bahasa Indonesia, digit per digit."
+      },
+      "answerShape": {
+        "da": "Nomor telepon saya: [cifre på indonesisk].",
+        "en": "Nomor telepon saya: [digits in Indonesian].",
+        "id": "Nomor telepon saya: [digit dalam bahasa Indonesia]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv tallene 11, 13, 15, 17, 19 med ord på indonesisk.",
+        "en": "Write the numbers 11, 13, 15, 17, 19 in words in Indonesian.",
+        "id": "Tuliskan angka 11, 13, 15, 17, 19 dengan kata-kata dalam bahasa Indonesia."
+      },
+      "answerShape": {
+        "da": "Sebelas, tiga belas, lima belas, tujuh belas, sembilan belas.",
+        "en": "Sebelas, tiga belas, lima belas, tujuh belas, sembilan belas.",
+        "id": "Sebelas, tiga belas, lima belas, tujuh belas, sembilan belas."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til de tal der siges og skriv dem som cifre: [læreren siger 5 tal mellem 11-20 i tilfældig rækkefølge].",
+        "en": "Listen to the numbers being said and write them as digits: [teacher says 5 numbers between 11-20 in random order].",
+        "id": "Dengarkan angka yang disebutkan dan tuliskan sebagai digit: [guru menyebutkan 5 angka antara 11-20 secara acak]."
+      },
+      "answerShape": {
+        "da": "Fem tal som cifre.",
+        "en": "Five numbers as digits.",
+        "id": "Lima angka sebagai digit."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme03-lesson02-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Tallene 11-20 og Telefonnumre",
+        "en": "Numbers 11-20 and Phone Numbers",
+        "id": "Angka 11-20 dan Nomor Telepon"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,296 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 3,
+  "slug": "lesson-03",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Keluarga Besar – Den Store Familie",
+    "en": "Keluarga Besar – Extended Family",
+    "id": "Keluarga Besar – Keluarga yang Lebih Luas"
+  },
+  "summary": {
+    "da": "Lær ordene for bedsteforældre, onkler, tanter, fætre/kusiner og andre slægtninge, og øv dig i at beskrive et familietræ.",
+    "en": "Learn the words for grandparents, uncles, aunts, cousins, and other relatives, and practice describing a family tree.",
+    "id": "Pelajari kata-kata untuk kakek-nenek, paman, bibi, sepupu, dan kerabat lainnya, serta latihan mendeskripsikan pohon keluarga."
+  },
+  "objectives": [
+    {
+      "da": "Navngive mindst seks slægtninge ud over kernefamilien.",
+      "en": "Name at least six relatives beyond the core family.",
+      "id": "Menyebutkan setidaknya enam kerabat di luar keluarga inti."
+    },
+    {
+      "da": "Beskrive relationer i et familietræ med enkle sætninger.",
+      "en": "Describe relationships in a family tree using simple sentences.",
+      "id": "Mendeskripsikan hubungan dalam pohon keluarga dengan kalimat sederhana."
+    },
+    {
+      "da": "Skelne mellem 'paman/om' og 'bibi/tante' i formel og uformel sprogbrug.",
+      "en": "Distinguish between 'paman/om' and 'bibi/tante' in formal and informal usage.",
+      "id": "Membedakan antara 'paman/om' dan 'bibi/tante' dalam penggunaan formal dan informal."
+    }
+  ],
+  "unit": {
+    "slug": "theme-04",
+    "order": 4,
+    "title": {
+      "da": "Tema 4: Min Familie",
+      "en": "Theme 4: My Family",
+      "id": "Tema 4: Keluarga Saya"
+    },
+    "summary": {
+      "da": "Familiebetegnelser og at tale om sin familie.",
+      "en": "Family terms and talking about your family.",
+      "id": "Istilah keluarga dan berbicara tentang keluarga."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Tegn et simpelt familietræ på tavlen med tre generationer. Spørg eleverne: 'Hvem er denne person?' og peg på bedsteforældre, søskende til forældre osv.",
+        "en": "Draw a simple family tree on the board with three generations. Ask students: 'Who is this person?' and point to grandparents, parents' siblings, etc.",
+        "id": "Gambarlah pohon keluarga sederhana di papan tulis dengan tiga generasi. Tanyakan kepada siswa: 'Siapa orang ini?' dan tunjuk kakek-nenek, saudara orang tua, dll."
+      },
+      "flow": [
+        {
+          "da": "Introducer 'kakek' og 'nenek'. Sammenlign at indonesisk ikke skelner farside/morside (ingen 'morfar'/'farfar'). Man kan præcisere med 'kakek dari pihak ibu/ayah'.",
+          "en": "Introduce 'kakek' and 'nenek'. Compare that Indonesian does not distinguish maternal/paternal side (no 'morfar'/'farfar'). You can specify with 'kakek dari pihak ibu/ayah'.",
+          "id": "Perkenalkan 'kakek' dan 'nenek'. Bandingkan bahwa bahasa Indonesia tidak membedakan sisi ibu/ayah. Anda dapat menentukan dengan 'kakek dari pihak ibu/ayah'."
+        },
+        {
+          "da": "Tilføj paman/om (onkel), bibi/tante (tante), sepupu (fætter/kusine), keponakan (nevø/niece), cucu (barnebarn). Fremhæv at 'om' og 'tante' er lånord fra hollandsk/tysk.",
+          "en": "Add paman/om (uncle), bibi/tante (aunt), sepupu (cousin), keponakan (nephew/niece), cucu (grandchild). Highlight that 'om' and 'tante' are loanwords from Dutch/German.",
+          "id": "Tambahkan paman/om (paman), bibi/tante (bibi), sepupu (sepupu), keponakan (keponakan), cucu (cucu). Soroti bahwa 'om' dan 'tante' adalah kata pinjaman dari Belanda/Jerman."
+        },
+        {
+          "da": "Lav en pardialog: A beskriver sit familietræ, B stiller spørgsmål som 'Siapa itu?' og 'Berapa cucu?'",
+          "en": "Do a pair dialogue: A describes their family tree, B asks questions like 'Siapa itu?' and 'Berapa cucu?'",
+          "id": "Lakukan dialog berpasangan: A mendeskripsikan pohon keluarganya, B mengajukan pertanyaan seperti 'Siapa itu?' dan 'Berapa cucu?'"
+        }
+      ],
+      "notes": [
+        {
+          "da": "Indonesisk har faktisk meget detaljerede slægtsskabsord i lokale sprog (javansk, sundansk osv.), men standardindonesisk er relativt simpelt. Fortæl eleverne at det, de lærer, er det nationale standardsprog.",
+          "en": "Indonesian actually has very detailed kinship terms in local languages (Javanese, Sundanese, etc.), but standard Indonesian is relatively simple. Tell students that what they are learning is the national standard language.",
+          "id": "Bahasa Indonesia sebenarnya memiliki istilah kekerabatan yang sangat detail dalam bahasa daerah (Jawa, Sunda, dll.), tetapi bahasa Indonesia standar relatif sederhana. Beritahu siswa bahwa yang mereka pelajari adalah bahasa standar nasional."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Tegn dit eget udvidede familietræ og skriv alle navne på indonesisk. Inkludér mindst to generationer.",
+          "en": "Draw your own extended family tree and write all names in Indonesian. Include at least two generations.",
+          "id": "Gambarlah pohon keluarga besar Anda sendiri dan tuliskan semua nama dalam bahasa Indonesia. Sertakan setidaknya dua generasi."
+        },
+        {
+          "da": "Øv dialogens sætninger. Forestil dig at du forklarer familietræet til en ven.",
+          "en": "Practice the dialogue sentences. Imagine you are explaining the family tree to a friend.",
+          "id": "Latih kalimat dialog. Bayangkan Anda menjelaskan pohon keluarga kepada teman."
+        },
+        {
+          "da": "Test dig selv: dæk ordene til og se om du kan huske dem fra billederne i familietræet.",
+          "en": "Test yourself: cover the words and see if you can recall them from the images in the family tree.",
+          "id": "Uji diri sendiri: tutup kata-kata dan lihat apakah Anda dapat mengingatnya dari gambar di pohon keluarga."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du se forskel på 'paman' og 'om', og i hvilke sammenhænge du ville bruge hvad?",
+          "en": "Can you tell the difference between 'paman' and 'om', and in which contexts you would use which?",
+          "id": "Bisakah Anda membedakan 'paman' dan 'om', dan dalam konteks mana Anda akan menggunakan yang mana?"
+        },
+        {
+          "da": "Kan du oversætte: 'Min farmor har tre børnebørn'?",
+          "en": "Can you translate: 'My grandmother has three grandchildren'?",
+          "id": "Bisakah Anda menerjemahkan: 'Nenek saya punya tiga cucu'?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Siti",
+      "source": "Wah, banyak sekali fotonya! Ini reuni keluarga?",
+      "target": "Nej, hvor mange billeder! Er det et familietræf?"
+    },
+    {
+      "speaker": "Rudi",
+      "source": "Ya! Ini kakek dan nenek saya dari pihak ibu.",
+      "target": "Ja! Det er mine bedsteforældre fra mors side."
+    },
+    {
+      "speaker": "Siti",
+      "source": "Dan ini siapa? Yang pakai baju merah?",
+      "target": "Og hvem er den her? Den der har den røde bluse på?"
+    },
+    {
+      "speaker": "Rudi",
+      "source": "Itu paman saya – adik ayah saya. Di sebelahnya itu bibi saya, istrinya.",
+      "target": "Det er min onkel – far min lillebror. Ved siden af ham er min tante, hans kone."
+    },
+    {
+      "speaker": "Siti",
+      "source": "Banyak ya keponakan dan sepupu?",
+      "target": "Mange nevøer, niecer og fætre/kusiner?"
+    },
+    {
+      "speaker": "Rudi",
+      "source": "Iya, ada delapan sepupu! Keluarga besar memang ramai.",
+      "target": "Ja, otte fætre og kusiner! En stor familie er virkelig livlig."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Bedstefar",
+      "target": "Kakek",
+      "note": {
+        "da": "Gælder begge sider. For præcisering: 'kakek dari pihak ayah' (farfarssiden).",
+        "en": "Applies to both sides. To specify: 'kakek dari pihak ayah' (paternal grandfather).",
+        "id": "Berlaku untuk kedua pihak. Untuk mempertegas: 'kakek dari pihak ayah'."
+      }
+    },
+    {
+      "source": "Bedstemor",
+      "target": "Nenek",
+      "note": {
+        "da": "Som 'kakek': gælder begge sider. Bruges også som venlig tiltaleform for ældre kvinder.",
+        "en": "Like 'kakek': applies to both sides. Also used as a friendly address form for older women.",
+        "id": "Seperti 'kakek': berlaku untuk kedua pihak. Juga digunakan sebagai bentuk sapaan ramah untuk wanita yang lebih tua."
+      }
+    },
+    {
+      "source": "Onkel",
+      "target": "Paman / Om",
+      "note": {
+        "da": "'Paman' er formelt; 'om' er uformelt og er et hollandsk lånord (oom).",
+        "en": "'Paman' is formal; 'om' is informal and is a Dutch loanword (oom).",
+        "id": "'Paman' formal; 'om' informal dan merupakan kata pinjaman Belanda (oom)."
+      }
+    },
+    {
+      "source": "Tante",
+      "target": "Bibi / Tante",
+      "note": {
+        "da": "'Bibi' er formelt; 'tante' er uformelt og er et hollandsk/tysk lånord.",
+        "en": "'Bibi' is formal; 'tante' is informal and is a Dutch/German loanword.",
+        "id": "'Bibi' formal; 'tante' informal dan merupakan kata pinjaman Belanda/Jerman."
+      }
+    },
+    {
+      "source": "Fætter / Kusine",
+      "target": "Sepupu",
+      "note": {
+        "da": "Kønsnetral – ét ord dækker både fætter og kusine.",
+        "en": "Gender-neutral – one word covers both male and female cousins.",
+        "id": "Netral gender – satu kata mencakup sepupu laki-laki maupun perempuan."
+      }
+    },
+    {
+      "source": "Nevø / Niece",
+      "target": "Keponakan",
+      "note": {
+        "da": "Ligeledes kønsnetral – ét ord for søskendes børn.",
+        "en": "Also gender-neutral – one word for siblings' children.",
+        "id": "Juga netral gender – satu kata untuk anak-anak saudara kandung."
+      }
+    },
+    {
+      "source": "Barnebarn",
+      "target": "Cucu",
+      "note": {
+        "da": "Bruges om børns børn uanset køn. Kan præciseres: 'cucu laki-laki/perempuan'.",
+        "en": "Used for children's children regardless of gender. Can specify: 'cucu laki-laki/perempuan'.",
+        "id": "Digunakan untuk anak dari anak tanpa memandang jenis kelamin. Dapat dipertegas: 'cucu laki-laki/perempuan'."
+      }
+    },
+    {
+      "source": "Familie (stor)",
+      "target": "Keluarga besar",
+      "note": {
+        "da": "'Besar' betyder stor. Keluarga besar = den udvidede familie inkl. alle slægtninge.",
+        "en": "'Besar' means big/large. Keluarga besar = the extended family including all relatives.",
+        "id": "'Besar' berarti besar. Keluarga besar = keluarga yang lebih luas termasuk semua kerabat."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Ini/Itu + [slægtning] + saya",
+      "explanation": {
+        "da": "'Ini' bruges for noget nær (denne), 'itu' for noget fjernt (den der). Begge kan bruges om at pege på en person i et foto.",
+        "en": "'Ini' is used for something near (this), 'itu' for something far (that). Both can be used when pointing to a person in a photo.",
+        "id": "'Ini' digunakan untuk yang dekat (ini), 'itu' untuk yang jauh (itu). Keduanya dapat digunakan saat menunjuk seseorang dalam foto."
+      },
+      "examples": [
+        { "source": "Dette er min bedstefar.", "target": "Ini kakek saya." },
+        { "source": "Den der er min tante.", "target": "Itu bibi saya." },
+        { "source": "Det er mine fætre og kusiner.", "target": "Itu sepupu-sepupu saya." }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Beskriv dit udvidede familietræ for en makker. Nævn mindst tre slægtninge og brug 'ini/itu ... saya'.",
+        "en": "Describe your extended family tree to a partner. Mention at least three relatives and use 'ini/itu ... saya'.",
+        "id": "Deskripsikan pohon keluarga besar Anda kepada pasangan. Sebutkan setidaknya tiga kerabat dan gunakan 'ini/itu ... saya'."
+      },
+      "answerShape": {
+        "da": "Tre eller flere sætninger som begynder med Ini/Itu.",
+        "en": "Three or more sentences beginning with Ini/Itu.",
+        "id": "Tiga kalimat atau lebih yang dimulai dengan Ini/Itu."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Udfyld med det rette ord: kakek / nenek / paman / bibi / sepupu / keponakan / cucu. 1) Mor til min far er min ___. 2) Barn af min bror er min ___. 3) Barn af min søster er min ___. 4) Bror til min far er min ___.",
+        "en": "Fill in the correct word: kakek / nenek / paman / bibi / sepupu / keponakan / cucu. 1) Mother of my father is my ___. 2) Child of my brother is my ___. 3) Child of my sister is my ___. 4) Brother of my father is my ___.",
+        "id": "Isi dengan kata yang benar: kakek / nenek / paman / bibi / sepupu / keponakan / cucu. 1) Ibu dari ayah saya adalah ___ saya. 2) Anak dari kakak laki-laki saya adalah ___ saya. 3) Anak dari kakak perempuan saya adalah ___ saya. 4) Kakak laki-laki dari ayah saya adalah ___ saya."
+      },
+      "answerShape": {
+        "da": "1) nenek  2) keponakan  3) keponakan  4) paman.",
+        "en": "1) nenek  2) keponakan  3) keponakan  4) paman.",
+        "id": "1) nenek  2) keponakan  3) keponakan  4) paman."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad er typisk størrelse på en indonesisk familie sammenlignet med en dansk? Hvad tror du det betyder for hverdagslivet?",
+        "en": "What is the typical size of an Indonesian family compared to a Danish one? What do you think this means for daily life?",
+        "id": "Apa ukuran khas keluarga Indonesia dibandingkan keluarga Denmark? Menurut Anda apa artinya bagi kehidupan sehari-hari?"
+      },
+      "answerShape": {
+        "da": "To til tre sætninger.",
+        "en": "Two to three sentences.",
+        "id": "Dua hingga tiga kalimat."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme04-lesson03-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Familiereunion – den store indonesiske familie",
+        "en": "Family reunion – the large Indonesian family",
+        "id": "Reuni keluarga – keluarga besar Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 6,
+  "slug": "lesson-06",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Penyakit Umum – Almindelige sygdomme",
+    "en": "Penyakit Umum – Common Illnesses",
+    "id": "Penyakit Umum – Penyakit-Penyakit Umum"
+  },
+  "summary": {
+    "da": "Lær navnene på almindelige sygdomme og skader, og øv den indonesiske venskabsfrase 'jaga diri baik-baik' i en samtale om sygdom.",
+    "en": "Learn the names of common illnesses and injuries, and practise the Indonesian friendship phrase 'jaga diri baik-baik' in a conversation about illness.",
+    "id": "Pelajari nama-nama penyakit dan cedera umum, serta latih ungkapan persahabatan Indonesia 'jaga diri baik-baik' dalam percakapan tentang sakit."
+  },
+  "objectives": [
+    {
+      "da": "Navngive mindst syv almindelige sygdomme og skader på indonesisk.",
+      "en": "Name at least seven common illnesses and injuries in Indonesian.",
+      "id": "Menyebutkan setidaknya tujuh penyakit dan cedera umum dalam bahasa Indonesia."
+    },
+    {
+      "da": "Bruge frasen 'jaga diri baik-baik' korrekt i en social sammenhæng.",
+      "en": "Use the phrase 'jaga diri baik-baik' correctly in a social context.",
+      "id": "Menggunakan ungkapan 'jaga diri baik-baik' dengan benar dalam konteks sosial."
+    },
+    {
+      "da": "Spørge til og udtrykke omsorg for en syg ven på indonesisk.",
+      "en": "Ask about and express concern for a sick friend in Indonesian.",
+      "id": "Bertanya tentang dan mengungkapkan kepedulian terhadap teman yang sakit dalam bahasa Indonesia."
+    }
+  ],
+  "unit": {
+    "slug": "theme-12",
+    "order": 12,
+    "title": {
+      "da": "Tema 12: Krop & Helbred",
+      "en": "Theme 12: Body & Health",
+      "id": "Tema 12: Tubuh & Kesehatan"
+    },
+    "summary": {
+      "da": "Legemsdele, sygdom og sundhed i indonesisk kontekst.",
+      "en": "Body parts, illness, and health in an Indonesian context.",
+      "id": "Bagian tubuh, penyakit, dan kesehatan dalam konteks Indonesia."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg klassen: 'Hvad er de tre hyppigste sygdomme, I er stødt på i Indonesien?' Saml svar på tavlen og brug dem til at introducere dagens ordforråd. Introducer 'jaga diri baik-baik' og forklar dens kulturelle og sociale betydning.",
+        "en": "Ask the class: 'What are the three most common illnesses you have encountered in Indonesia?' Collect answers on the board and use them to introduce today's vocabulary. Introduce 'jaga diri baik-baik' and explain its cultural and social significance.",
+        "id": "Tanya kelas: 'Apa tiga penyakit yang paling sering Anda temui di Indonesia?' Kumpulkan jawaban di papan dan gunakan untuk memperkenalkan kosakata hari ini. Perkenalkan 'jaga diri baik-baik' dan jelaskan makna budaya dan sosialnya."
+      },
+      "flow": [
+        {
+          "da": "Introducer sygdoms- og skadeordforråd (12 min): Præsenter ni ord med billeder eller beskrivelser. Opdel dem i to kategorier: 'sygdomme' (flu, demam, batuk osv.) og 'skader' (luka, memar). Eleverne gentager og categoriserer.",
+          "en": "Introduce illness and injury vocabulary (12 min): Present nine words with pictures or descriptions. Divide them into two categories: 'illnesses' (flu, demam, batuk etc.) and 'injuries' (luka, memar). Students repeat and categorise.",
+          "id": "Perkenalkan kosakata penyakit dan cedera (12 menit): Sajikan sembilan kata dengan gambar atau deskripsi. Bagi menjadi dua kategori: 'penyakit' (flu, demam, batuk dll.) dan 'cedera' (luka, memar). Siswa mengulang dan mengkategorikan."
+        },
+        {
+          "da": "Kultursprog: omsorgssætninger (10 min): Lær disse vendinger: 'Sudah baikan?'(Har du det bedre?), 'Jaga diri baik-baik.' (Pas godt på dig selv.), 'Cepat sembuh ya.' (God bedring.). Diskuter hvornår disse bruges.",
+          "en": "Culture language: care phrases (10 min): Teach these phrases: 'Sudah baikan?' (Are you feeling better?), 'Jaga diri baik-baik.' (Take good care of yourself.), 'Cepat sembuh ya.' (Get well soon.). Discuss when these are used.",
+          "id": "Bahasa budaya: frasa kepedulian (10 menit): Ajarkan frasa-frasa ini: 'Sudah baikan?', 'Jaga diri baik-baik.', 'Cepat sembuh ya.' Diskusikan kapan frasa-frasa ini digunakan."
+        },
+        {
+          "da": "Ven-til-ven-dialog (13 min): Eleverne øver dialogen i par: den ene er syg, den anden er bekymret ven. Byt roller. Opfordr til brug af alle tre omsorgssætninger.",
+          "en": "Friend-to-friend dialogue (13 min): Students practise the dialogue in pairs: one is sick, the other is a concerned friend. Swap roles. Encourage use of all three care phrases.",
+          "id": "Dialog teman ke teman (13 menit): Siswa berlatih dialog berpasangan: satu sakit, yang lain teman yang peduli. Berganti peran. Dorong penggunaan ketiga frasa kepedulian."
+        }
+      ],
+      "notes": [
+        {
+          "da": "'Jaga diri baik-baik' er mere end en velskningsfrase — det er en udtryk for ægte omsorg i indonesisk kultur og bruges til nære venner og familie. Opfordr eleverne til at bruge det naturligt.",
+          "en": "'Jaga diri baik-baik' is more than a farewell phrase — it is an expression of genuine care in Indonesian culture and is used with close friends and family. Encourage students to use it naturally.",
+          "id": "'Jaga diri baik-baik' lebih dari sekadar ungkapan perpisahan — ini adalah ekspresi kepedulian tulus dalam budaya Indonesia dan digunakan dengan teman dekat dan keluarga."
+        },
+        {
+          "da": "'Alergi' er et internationalt lånord og udtales [a-ler-gi]. Spørg eleverne om de har allergier og lad dem øve 'Saya alergi ...'",
+          "en": "'Alergi' is an international loanword and is pronounced [a-ler-gi]. Ask students if they have allergies and let them practise 'Saya alergi ...'",
+          "id": "'Alergi' adalah kata pinjaman internasional dan diucapkan [a-ler-gi]. Tanya siswa apakah mereka memiliki alergi dan biarkan mereka berlatih 'Saya alergi ...'"
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær de ni sygdoms- og skadeord. Opdel dem i to kolonner: 'sygdomme' og 'skader/tilstande'. Brug ord fra hvert abschnitt i en sætning.",
+          "en": "Learn the nine illness and injury words. Divide them into two columns: 'illnesses' and 'injuries/conditions'. Use a word from each section in a sentence.",
+          "id": "Pelajari sembilan kata penyakit dan cedera. Bagi menjadi dua kolom: 'penyakit' dan 'cedera/kondisi'. Gunakan satu kata dari setiap bagian dalam sebuah kalimat."
+        },
+        {
+          "da": "Øv de tre omsorgssætninger. Skriv en kort besked (to til tre sætninger) til en ven der er syg, ved hjælp af mindst to af dem.",
+          "en": "Practise the three care phrases. Write a short message (two to three sentences) to a sick friend using at least two of them.",
+          "id": "Latih tiga frasa kepedulian. Tulislah pesan singkat (dua hingga tiga kalimat) kepada teman yang sakit menggunakan setidaknya dua di antaranya."
+        },
+        {
+          "da": "Lyt til dialogen og find alle sygdomsordene der nævnes.",
+          "en": "Listen to the dialogue and find all the illness words that are mentioned.",
+          "id": "Dengarkan dialog dan temukan semua kata penyakit yang disebutkan."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du nævne syv sygdomme/skader fra dette lektions ordliste uden at se?",
+          "en": "Can you name seven illnesses/injuries from this lesson's word list without looking?",
+          "id": "Bisakah Anda menyebutkan tujuh penyakit/cedera dari daftar kata pelajaran ini tanpa melihat?"
+        },
+        {
+          "da": "Kan du bruge 'jaga diri baik-baik' og 'cepat sembuh ya' naturligt i en sætning til en syg ven?",
+          "en": "Can you use 'jaga diri baik-baik' and 'cepat sembuh ya' naturally in a sentence to a sick friend?",
+          "id": "Bisakah Anda menggunakan 'jaga diri baik-baik' dan 'cepat sembuh ya' secara natural dalam kalimat kepada teman yang sakit?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Rina",
+      "source": "Hai, Doni. Kamu tidak masuk kemarin. Ada apa?",
+      "target": "Hai, Doni. Kamu tidak masuk kemarin. Ada apa?"
+    },
+    {
+      "speaker": "Doni",
+      "source": "Iya, aku kena flu. Demam juga. Badan rasanya lemas sekali.",
+      "target": "Iya, aku kena flu. Demam juga. Badan rasanya lemas sekali."
+    },
+    {
+      "speaker": "Rina",
+      "source": "Aduh, kasihan. Sudah ke dokter belum?",
+      "target": "Aduh, kasihan. Sudah ke dokter belum?"
+    },
+    {
+      "speaker": "Doni",
+      "source": "Sudah. Kata dokter aku harus banyak istirahat dan minum obat.",
+      "target": "Sudah. Kata dokter aku harus banyak istirahat dan minum obat."
+    },
+    {
+      "speaker": "Rina",
+      "source": "Iya, istirahat yang cukup ya. Cepat sembuh, Doni!",
+      "target": "Iya, istirahat yang cukup ya. Cepat sembuh, Doni!"
+    },
+    {
+      "speaker": "Doni",
+      "source": "Makasih, Rin. Jaga diri baik-baik juga ya, biar tidak ketularan.",
+      "target": "Makasih, Rin. Jaga diri baik-baik juga ya, biar tidak ketularan."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "influenza / forkølelse",
+      "target": "flu",
+      "note": {
+        "da": "Internationalt lånord. I indonesisk bruges 'flu' om influenza og kraftig forkølelse.",
+        "en": "International loanword. In Indonesian, 'flu' refers to influenza and severe colds.",
+        "id": "Kata pinjaman internasional. Dalam bahasa Indonesia, 'flu' mengacu pada influenza dan pilek berat."
+      }
+    },
+    {
+      "source": "tandpine",
+      "target": "sakit gigi",
+      "note": {
+        "da": "'Sakit + gigi (tand)'. Hyppig og smertefuld klage.",
+        "en": "'Sakit + gigi (tooth)'. A frequent and painful complaint.",
+        "id": "'Sakit + gigi'. Keluhan yang sering dan menyakitkan."
+      }
+    },
+    {
+      "source": "diarré / løs mave",
+      "target": "diare",
+      "note": {
+        "da": "Internationalt lånord; næsten identisk udtale.",
+        "en": "International loanword; nearly identical pronunciation.",
+        "id": "Kata pinjaman internasional; pengucapan hampir identik."
+      }
+    },
+    {
+      "source": "allergi",
+      "target": "alergi",
+      "note": {
+        "da": "Internationalt lånord. 'Saya alergi terhadap ...' = Jeg er allergisk over for ...",
+        "en": "International loanword. 'Saya alergi terhadap ...' = I am allergic to ...",
+        "id": "Kata pinjaman internasional. 'Saya alergi terhadap ...' = Saya alergi terhadap ..."
+      }
+    },
+    {
+      "source": "sår / snitsår",
+      "target": "luka",
+      "note": {
+        "da": "Bruges om åbne sår, snitsår og rifter.",
+        "en": "Used for open wounds, cuts, and scratches.",
+        "id": "Digunakan untuk luka terbuka, luka sayat, dan luka goresan."
+      }
+    },
+    {
+      "source": "blodudtrædning / blå mærke",
+      "target": "memar",
+      "note": {
+        "da": "En overfladisk skade uden åbent sår.",
+        "en": "A surface injury without an open wound.",
+        "id": "Cedera permukaan tanpa luka terbuka."
+      }
+    },
+    {
+      "source": "pas på dig selv / tag vare på dig selv",
+      "target": "jaga diri baik-baik",
+      "note": {
+        "da": "Bogstaveligt: 'beskyt dig selv godt'. En central indonesisk venskabsfrase — bruges ved afsked og ved sygdom.",
+        "en": "Literally: 'guard/protect yourself well'. A core Indonesian friendship phrase — used at farewells and during illness.",
+        "id": "Harfiah: 'jaga dirimu dengan baik'. Frasa persahabatan inti Indonesia — digunakan saat perpisahan dan saat sakit."
+      }
+    },
+    {
+      "source": "god bedring",
+      "target": "cepat sembuh",
+      "note": {
+        "da": "Bogstaveligt: 'rask snart'. Siges med 'ya' til sidst for at gøre det blødere.",
+        "en": "Literally: 'recover quickly'. Said with 'ya' at the end to soften it.",
+        "id": "Harfiah: 'sembuh cepat'. Diucapkan dengan 'ya' di akhir untuk memperlembutnya."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Kena + [penyakit]",
+      "explanation": {
+        "da": "'Kena' er et uformelt verbum der betyder 'at få/rammes af'. Det bruges i hverdagstale om sygdomme og uheld: 'kena flu' (få influenza), 'kena hujan' (blive gennemblødt af regn). Mere formelt siger man 'terkena' eller 'menderita'.",
+        "en": "'Kena' is an informal verb meaning 'to get/be struck by'. It is used in everyday speech about illnesses and mishaps: 'kena flu' (get the flu), 'kena hujan' (get caught in the rain). More formally, 'terkena' or 'menderita' are used.",
+        "id": "'Kena' adalah kata kerja informal yang berarti 'terkena/mendapat'. Digunakan dalam percakapan sehari-hari tentang penyakit dan kejadian: 'kena flu', 'kena hujan'. Lebih formal: 'terkena' atau 'menderita'."
+      },
+      "examples": [
+        {
+          "source": "Jeg har fået influenza.",
+          "target": "Aku kena flu."
+        },
+        {
+          "source": "Han har fået diarré.",
+          "target": "Dia kena diare."
+        }
+      ]
+    },
+    {
+      "pattern": "Kata + [person] + harus + [verbum]",
+      "explanation": {
+        "da": "'Kata' bruges til at citere, hvad nogen har sagt: 'Kata dokter ...' = 'Ifølge lægen ...' / 'Lægen sagde ...'. Det er den uformelle måde at gengive tale på — meget naturlig i hverdagstale.",
+        "en": "'Kata' is used to quote what someone said: 'Kata dokter ...' = 'According to the doctor ...' / 'The doctor said ...'. It is the informal way to report speech — very natural in everyday conversation.",
+        "id": "'Kata' digunakan untuk mengutip apa yang dikatakan seseorang: 'Kata dokter ...' = 'Menurut dokter ...'. Ini adalah cara informal melaporkan ucapan — sangat natural dalam percakapan sehari-hari."
+      },
+      "examples": [
+        {
+          "source": "Lægen sagde, at jeg skal hvile.",
+          "target": "Kata dokter aku harus istirahat."
+        },
+        {
+          "source": "Min mor sagde, at jeg skal drikke meget vand.",
+          "target": "Kata ibuku aku harus banyak minum air."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Ring til en ven der ikke kom til klassen i dag og hørte efter om de har det godt. Spil begge roller: den bekymrede ven og den syge ven.",
+        "en": "Call a friend who did not come to class today and check if they are okay. Play both roles: the concerned friend and the sick friend.",
+        "id": "Telepon teman yang tidak hadir di kelas hari ini dan periksa apakah mereka baik-baik saja. Mainkan kedua peran: teman yang peduli dan teman yang sakit."
+      },
+      "answerShape": {
+        "da": "Ven: 'Kamu tidak masuk kemarin. Ada apa?' Syg: 'Aku kena [sygdom].' Ven: 'Cepat sembuh ya. Jaga diri baik-baik.'",
+        "en": "Friend: 'Kamu tidak masuk kemarin. Ada apa?' Sick: 'Aku kena [illness].' Friend: 'Cepat sembuh ya. Jaga diri baik-baik.'",
+        "id": "Teman: 'Kamu tidak masuk kemarin. Ada apa?' Sakit: 'Aku kena [penyakit].' Teman: 'Cepat sembuh ya. Jaga diri baik-baik.'"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Lav en liste over fem sygdomme fra dette lektions ordliste og skriv en sætning om hver: hvad er symptomet, og hvornår opstår det typisk?",
+        "en": "Make a list of five illnesses from this lesson's word list and write one sentence about each: what is the symptom and when does it typically occur?",
+        "id": "Buat daftar lima penyakit dari daftar kata pelajaran ini dan tulislah satu kalimat tentang masing-masing: apa gejalanya dan kapan biasanya terjadi?"
+      },
+      "answerShape": {
+        "da": "Fem sætninger, f.eks. 'Flu terjadi saat musim hujan.' (Influenza opstår i regntiden.)",
+        "en": "Five sentences, e.g. 'Flu terjadi saat musim hujan.' (Flu occurs during the rainy season.)",
+        "id": "Lima kalimat, mis. 'Flu terjadi saat musim hujan.'"
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad fortæller 'jaga diri baik-baik' om indonesisk kultur og venskab? Skriv to til tre sætninger på dit modersmål.",
+        "en": "What does 'jaga diri baik-baik' reveal about Indonesian culture and friendship? Write two to three sentences in your own language.",
+        "id": "Apa yang diungkapkan 'jaga diri baik-baik' tentang budaya dan persahabatan Indonesia? Tulislah dua hingga tiga kalimat dalam bahasa Anda sendiri."
+      },
+      "answerShape": {
+        "da": "En kort refleksion om, at frasen viser omsorg og ansvar over for andres velvære — en vigtig del af indonesiske sociale normer.",
+        "en": "A short reflection noting that the phrase shows care and responsibility for others' wellbeing — an important part of Indonesian social norms.",
+        "id": "Refleksi singkat bahwa frasa ini menunjukkan kepedulian dan tanggung jawab terhadap kesejahteraan orang lain — bagian penting dari norma sosial Indonesia."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme12-lesson06-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Penyakit Umum – Almindelige sygdomme og omsorgssætninger",
+        "en": "Penyakit Umum – Common Illnesses and Care Phrases",
+        "id": "Penyakit Umum – Penyakit Umum dan Frasa Kepedulian"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

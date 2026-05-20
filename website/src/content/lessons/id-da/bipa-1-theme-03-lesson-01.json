@@ -1,0 +1,247 @@
+{
+  "pair": "id-da",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Tal og farver på dansk",
+    "en": "Numbers and Colours in Danish",
+    "id": "Angka dan warna dalam bahasa Denmark"
+  },
+  "summary": {
+    "da": "Lær de vigtigste tal og de mest brugte farver på dansk til hverdag, priser og simple beskrivelser.",
+    "en": "Learn the key numbers and most used colours in Danish for daily life, prices, and simple descriptions.",
+    "id": "Pelajari angka penting dan warna yang paling sering digunakan dalam bahasa Denmark untuk kehidupan sehari-hari, harga, dan deskripsi sederhana."
+  },
+  "objectives": [
+    {
+      "da": "Tælle fra 1 til 10 på dansk.",
+      "en": "Count from 1 to 10 in Danish.",
+      "id": "Menghitung dari 1 sampai 10 dalam bahasa Denmark."
+    },
+    {
+      "da": "Genkende de mest almindelige farver.",
+      "en": "Recognise the most common colours.",
+      "id": "Mengenali warna-warna yang paling umum."
+    },
+    {
+      "da": "Bruge tal og farver i korte sætninger.",
+      "en": "Use numbers and colours in short sentences.",
+      "id": "Menggunakan angka dan warna dalam kalimat pendek."
+    }
+  ],
+  "unit": {
+    "slug": "theme-03",
+    "order": 3,
+    "title": {
+      "da": "Tema 3: Tal & Farver",
+      "en": "Theme 3: Numbers & Colours",
+      "id": "Tema 3: Angka & Warna"
+    },
+    "summary": {
+      "da": "Grundtal, hverdagsfarver og simple beskrivelser.",
+      "en": "Basic numbers, everyday colours, and simple descriptions.",
+      "id": "Angka dasar, warna sehari-hari, dan deskripsi sederhana."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Hold farvede genstande op og spørg hvor mange der er, og hvilken farve de har.",
+        "en": "Hold up coloured objects and ask how many there are and what colour they are.",
+        "id": "Angkat benda-benda berwarna dan tanyakan ada berapa serta warnanya apa."
+      },
+      "flow": [
+        {
+          "da": "Øv tallene 1-10 rytmisk som klasse.",
+          "en": "Practise the numbers 1-10 rhythmically as a class.",
+          "id": "Latih angka 1-10 secara ritmis bersama kelas."
+        },
+        {
+          "da": "Kobl farver på konkrete ting i rummet.",
+          "en": "Connect colours to concrete things in the room.",
+          "id": "Hubungkan warna dengan benda-benda nyata di ruangan."
+        },
+        {
+          "da": "Lav korte sætninger som “to røde bøger” og “en blå taske”.",
+          "en": "Make short phrases like “two red books” and “a blue bag”.",
+          "id": "Buat frasa pendek seperti “to røde bøger” dan “en blå taske”."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Tal i dansk bliver hurtigt svære senere, så hold dette første møde helt enkelt og mundtligt.",
+          "en": "Numbers in Danish get difficult later, so keep this first meeting very simple and oral.",
+          "id": "Angka dalam bahasa Denmark akan menjadi sulit nanti, jadi buat pertemuan pertama ini sangat sederhana dan lisan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv tallene 1-10 og læs dem højt.",
+          "en": "Write the numbers 1-10 and read them aloud.",
+          "id": "Tuliskan angka 1-10 dan bacalah dengan suara keras."
+        },
+        {
+          "da": "Find fem ting omkring dig og beskriv farven på dansk.",
+          "en": "Find five things around you and describe their colour in Danish.",
+          "id": "Temukan lima benda di sekitar Anda dan jelaskan warnanya dalam bahasa Denmark."
+        },
+        {
+          "da": "Lav tre korte sætninger med tal og farver.",
+          "en": "Make three short sentences with numbers and colours.",
+          "id": "Buat tiga kalimat pendek dengan angka dan warna."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige mindst fem tal uden at kigge?",
+          "en": "Can you say at least five numbers without looking?",
+          "id": "Bisakah Anda menyebutkan setidaknya lima angka tanpa melihat?"
+        },
+        {
+          "da": "Kan du beskrive én ting med både tal og farve?",
+          "en": "Can you describe one thing with both number and colour?",
+          "id": "Bisakah Anda mendeskripsikan satu benda dengan angka dan warna sekaligus?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Rani",
+      "source": "Ada berapa apel?",
+      "target": "Hvor mange æbler er der?"
+    },
+    {
+      "speaker": "Mikkel",
+      "source": "Ada tre apel merah.",
+      "target": "Der er tre røde æbler."
+    },
+    {
+      "speaker": "Rani",
+      "source": "Dan tas itu warna apa?",
+      "target": "Og hvilken farve har den taske?"
+    },
+    {
+      "speaker": "Mikkel",
+      "source": "Tas itu biru.",
+      "target": "Tasken er blå."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "satu, dua, tiga",
+      "target": "en, to, tre",
+      "note": {
+        "da": "De første tre tal er grundlæggende i næsten al begyndersamtale.",
+        "en": "The first three numbers are basic in almost all beginner conversation.",
+        "id": "Tiga angka pertama sangat mendasar dalam hampir semua percakapan pemula."
+      }
+    },
+    {
+      "source": "merah",
+      "target": "rød",
+      "note": {
+        "da": "Et godt første farveord til ting omkring dig.",
+        "en": "A good first colour word for things around you.",
+        "id": "Kata warna pertama yang bagus untuk benda-benda di sekitar Anda."
+      }
+    },
+    {
+      "source": "biru",
+      "target": "blå",
+      "note": {
+        "da": "Meget almindeligt i hverdagssprog.",
+        "en": "Very common in everyday language.",
+        "id": "Sangat umum dalam bahasa sehari-hari."
+      }
+    },
+    {
+      "source": "berapa banyak / warna",
+      "target": "hvor mange / farve",
+      "note": {
+        "da": "Nyttige ord til spørgsmål og beskrivelser.",
+        "en": "Useful words for questions and descriptions.",
+        "id": "Kata-kata berguna untuk pertanyaan dan deskripsi."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Tal + farve + ting",
+      "explanation": {
+        "da": "På dansk kan du tidligt bygge små beskrivelser med antal og farve: “to røde bøger”, “en blå bil”.",
+        "en": "In Danish you can early build small descriptions with quantity and colour: “two red books”, “a blue car”.",
+        "id": "Dalam bahasa Denmark Anda dapat lebih awal membangun deskripsi kecil dengan jumlah dan warna: “to røde bøger”, “en blå bil”."
+      },
+      "examples": [
+        {
+          "source": "tiga buku merah",
+          "target": "tre røde bøger"
+        },
+        {
+          "source": "satu tas biru",
+          "target": "en blå taske"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til en liste med tal og sæt kryds ved det tal du hører.",
+        "en": "Listen to a list of numbers and tick the one you hear.",
+        "id": "Dengarkan daftar angka dan beri tanda pada angka yang Anda dengar."
+      },
+      "answerShape": {
+        "da": "En lille taløvelse.",
+        "en": "A small number exercise.",
+        "id": "Latihan angka kecil."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig tre ting omkring dig med tal eller farve.",
+        "en": "Say three things around you using number or colour.",
+        "id": "Sebutkan tiga benda di sekitar Anda dengan angka atau warna."
+      },
+      "answerShape": {
+        "da": "Tre korte beskrivelser.",
+        "en": "Three short descriptions.",
+        "id": "Tiga deskripsi singkat."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv to sætninger med en farve og et tal.",
+        "en": "Write two sentences with a colour and a number.",
+        "id": "Tulis dua kalimat dengan warna dan angka."
+      },
+      "answerShape": {
+        "da": "To korte sætninger.",
+        "en": "Two short sentences.",
+        "id": "Dua kalimat pendek."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilke danske tal eller farver er lettest at huske for dig?",
+        "en": "Which Danish numbers or colours are easiest for you to remember?",
+        "id": "Angka atau warna bahasa Denmark mana yang paling mudah Anda ingat?"
+      },
+      "answerShape": {
+        "da": "En kort refleksion.",
+        "en": "A short reflection.",
+        "id": "Refleksi singkat."
+      }
+    }
+  ],
+  "media": []
+}

@@ -1,0 +1,210 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Hej, jeg hedder ...",
+    "en": "Hi, my name is ...",
+    "id": "Halo, nama saya ..."
+  },
+  "summary": {
+    "da": "En første lektion om hilsen, navn og tryg introduktion.",
+    "en": "A first lesson on greeting, naming, and safe introduction.",
+    "id": "Pelajaran pertama tentang salam, nama, dan perkenalan yang aman."
+  },
+  "objectives": [
+    {
+      "da": "Sige hej og præsentere sig selv.",
+      "en": "Say hello and introduce yourself.",
+      "id": "Mengucapkan salam dan memperkenalkan diri."
+    },
+    {
+      "da": "Genkende de første høflige mønstre.",
+      "en": "Recognize the first polite patterns.",
+      "id": "Mengenali pola santun pertama."
+    }
+  ],
+  "unit": {
+    "slug": "theme-01",
+    "order": 1,
+    "title": {
+      "da": "Tema 1: Første møde",
+      "en": "Theme 1: First meeting",
+      "id": "Tema 1: Pertemuan pertama"
+    },
+    "summary": {
+      "da": "Hilsner og den allerførste kontakt med sproget.",
+      "en": "Greetings and the very first contact with the language.",
+      "id": "Salam dan kontak pertama kali dengan bahasa."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Lad klassen høre rytmen i sproget før reglerne introduceres.",
+        "en": "Let the class hear the rhythm of the language before the rules are introduced.",
+        "id": "Biarkan kelas mendengar ritme bahasa sebelum aturan diperkenalkan."
+      },
+      "flow": [
+        {
+          "da": "Modeller tre korte præsentationer højt.",
+          "en": "Model three short introductions aloud.",
+          "id": "Modelkan tiga perkenalan singkat dengan suara keras."
+        },
+        {
+          "da": "Lad elever gentage i kor og derefter parvis.",
+          "en": "Let learners repeat as a chorus and then in pairs.",
+          "id": "Biarkan siswa mengulang bersama lalu berpasangan."
+        },
+        {
+          "da": "Slut af med en mikrocirkel hvor alle siger navn og land.",
+          "en": "Finish with a micro-circle where everyone says name and country.",
+          "id": "Akhiri dengan lingkaran kecil di mana semua orang menyebut nama dan negara."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Undgå for meget grammatik på første møde.",
+          "en": "Avoid too much grammar in the first meeting.",
+          "id": "Hindari terlalu banyak tata bahasa pada pertemuan pertama."
+        },
+        {
+          "da": "Brug tavlen til navn, pil, land og udtalehjælp.",
+          "en": "Use the board for name, arrows, country, and pronunciation support.",
+          "id": "Gunakan papan untuk nama, panah, negara, dan bantuan pelafalan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lyt til mønsteret og læs dialogen højt for dig selv.",
+          "en": "Listen to the pattern and read the dialogue aloud to yourself.",
+          "id": "Dengarkan polanya dan baca dialog dengan suara keras untuk diri sendiri."
+        },
+        {
+          "da": "Udskift navn og land med dine egne oplysninger.",
+          "en": "Replace the name and country with your own details.",
+          "id": "Ganti nama dan negara dengan informasi Anda sendiri."
+        },
+        {
+          "da": "Optag dig selv senere, når rigtig video og lyd er klar.",
+          "en": "Record yourself later when real video and audio are ready.",
+          "id": "Rekam diri Anda nanti ketika video dan audio asli sudah siap."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige dit navn naturligt?",
+          "en": "Can you say your name naturally?",
+          "id": "Bisakah Anda menyebut nama Anda dengan alami?"
+        },
+        {
+          "da": "Kan du spørge nogen om deres navn?",
+          "en": "Can you ask someone for their name?",
+          "id": "Bisakah Anda menanyakan nama seseorang?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "A",
+      "source": "Hej, jeg hedder Anna.",
+      "target": "Halo, nama saya Anna."
+    },
+    {
+      "speaker": "B",
+      "source": "Hej Anna, jeg hedder Mikkel.",
+      "target": "Halo Anna, nama saya Mikkel."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Hej",
+      "target": "Halo",
+      "note": {
+        "da": "Neutral hilsen",
+        "en": "Neutral greeting",
+        "id": "Salam netral"
+      }
+    },
+    {
+      "source": "Mit navn er ...",
+      "target": "Nama saya ...",
+      "note": {
+        "da": "Tryg præsentationsramme",
+        "en": "Safe introduction frame",
+        "id": "Pola perkenalan yang aman"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Nama saya ...",
+      "explanation": {
+        "da": "Et fast og meget brugbart mønster til selvpræsentation.",
+        "en": "A fixed and highly useful pattern for self-introduction.",
+        "id": "Pola tetap yang sangat berguna untuk memperkenalkan diri."
+      },
+      "examples": [
+        {
+          "source": "Jeg hedder Lea.",
+          "target": "Nama saya Lea."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt efter hvem der taler først i dialogen.",
+        "en": "Listen for who speaks first in the dialogue.",
+        "id": "Dengarkan siapa yang berbicara lebih dulu dalam dialog."
+      },
+      "answerShape": {
+        "da": "Kort mundtligt svar",
+        "en": "Short oral answer",
+        "id": "Jawaban lisan singkat"
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig sætningen med dit eget navn tre gange.",
+        "en": "Say the sentence with your own name three times.",
+        "id": "Ucapkan kalimat itu dengan nama Anda sendiri tiga kali."
+      },
+      "answerShape": {
+        "da": "Udtaleøvelse",
+        "en": "Pronunciation practice",
+        "id": "Latihan pelafalan"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-intro-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Placeholder for lærer- eller LLM-video",
+        "en": "Placeholder for teacher or LLM video",
+        "id": "Placeholder untuk video pengajar atau LLM"
+      },
+      "note": {
+        "da": "Senere kan du indsætte en self-produced YouTube-video eller en anden public-safe kilde.",
+        "en": "Later you can insert a self-produced YouTube video or another public-safe source.",
+        "id": "Nanti Anda dapat memasukkan video YouTube buatan sendiri atau sumber lain yang aman untuk publik."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

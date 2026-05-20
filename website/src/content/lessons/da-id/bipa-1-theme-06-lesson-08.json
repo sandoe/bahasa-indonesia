@@ -1,0 +1,278 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 8,
+  "slug": "lesson-08",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Repetisi Waktu dan Tanggal — Gennemgang af tid og dato",
+    "en": "Repetisi Waktu dan Tanggal — Time and Date Consolidation",
+    "id": "Repetisi Waktu dan Tanggal"
+  },
+  "summary": {
+    "da": "Konsolidér alt fra Tema 6: klokkeslæt, setengah/seperempat, ugedage, måneder, datoer, årstal og tidsord. Øv ved at læse en kalender og planlægge en fuld uge.",
+    "en": "Consolidate everything from Theme 6: clock time, setengah/seperempat, days, months, dates, years, and time words. Practise by reading a calendar and planning a full week.",
+    "id": "Konsolidasikan semua materi dari Tema 6: waktu, setengah/seperempat, hari, bulan, tanggal, tahun, dan kata waktu. Latih dengan membaca kalender dan merencanakan satu minggu penuh."
+  },
+  "objectives": [
+    {
+      "da": "Kombinere klokkeslæt, ugedag, dato og år i én komplet ytring",
+      "en": "Combine clock time, day of the week, date, and year in one complete expression",
+      "id": "Menggabungkan waktu, hari, tanggal, dan tahun dalam satu ungkapan lengkap"
+    },
+    {
+      "da": "Læse og beskrive en kalender på indonesisk",
+      "en": "Read and describe a calendar in Indonesian",
+      "id": "Membaca dan mendeskripsikan kalender dalam bahasa Indonesia"
+    },
+    {
+      "da": "Planlægge et ugeprogram med dag, dato og klokkeslæt",
+      "en": "Plan a weekly schedule with day, date, and time",
+      "id": "Merencanakan jadwal mingguan dengan hari, tanggal, dan waktu"
+    }
+  ],
+  "unit": {
+    "slug": "theme-06",
+    "order": 6,
+    "title": {
+      "da": "Tema 6: Tid & Dato",
+      "en": "Theme 6: Time & Date",
+      "id": "Tema 6: Waktu & Tanggal"
+    },
+    "summary": {
+      "da": "Klokkeslæt, ugedage, måneder og datoer.",
+      "en": "Clock time, days, months, and dates.",
+      "id": "Waktu, hari, bulan, dan tanggal."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis en simpel ugekalender på tavlen med ugefyldte aktiviteter og blandede tidsformater. Spørg: 'Hvad sker der på onsdag klokken to?' Eleverne svarer på indonesisk.",
+        "en": "Display a simple weekly calendar on the board with filled-in activities and mixed time formats. Ask: 'What happens on Wednesday at two o'clock?' Students answer in Indonesian.",
+        "id": "Tampilkan kalender mingguan sederhana di papan dengan aktivitas yang diisi dan format waktu campuran. Tanya: 'Apa yang terjadi pada hari Rabu jam dua?' Siswa menjawab dalam bahasa Indonesia."
+      },
+      "flow": [
+        {
+          "da": "Hurtig gennemgang: spørgerunden — læreren peger tilfældigt på datoelementer (klokkeslæt, dag, dato, årstal), og eleverne svarer.",
+          "en": "Quick review: question round — teacher points randomly at date elements (time, day, date, year) and students respond.",
+          "id": "Tinjauan cepat: putaran pertanyaan — guru menunjuk elemen tanggal secara acak (waktu, hari, tanggal, tahun) dan siswa merespons."
+        },
+        {
+          "da": "Par-aktivitet: lav et komplet ugeprogram med mindst fem begivenheder, der inkluderer dag + dato + klokkeslæt.",
+          "en": "Pair activity: create a complete weekly schedule with at least five events including day + date + time.",
+          "id": "Aktivitas berpasangan: buat jadwal mingguan lengkap dengan setidaknya lima acara yang mencakup hari + tanggal + waktu."
+        },
+        {
+          "da": "Præsenter ugeprogrammet for klassen: 'Pada hari [dag] tanggal [N], saya ada [begivenhed] jam [N].'",
+          "en": "Present the weekly schedule to the class: 'Pada hari [day] tanggal [N], saya ada [event] jam [N].'",
+          "id": "Presentasikan jadwal mingguan kepada kelas: 'Pada hari [hari] tanggal [N], saya ada [acara] jam [N].'"
+        }
+      ],
+      "notes": [
+        {
+          "da": "Brug denne lektion til at afdække tilbageværende forvirring — særligt setengah-strukturen og årstalskonstruktionen.",
+          "en": "Use this lesson to surface any remaining confusion — especially the setengah structure and year construction.",
+          "id": "Gunakan pelajaran ini untuk mengungkap kebingungan yang tersisa — terutama struktur setengah dan konstruksi tahun."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lav dit eget ugeprogram for næste uge på indonesisk med dag, dato og klokkeslæt for mindst fem aktiviteter.",
+          "en": "Create your own weekly schedule for next week in Indonesian with day, date, and time for at least five activities.",
+          "id": "Buat jadwal mingguan sendiri untuk minggu depan dalam bahasa Indonesia dengan hari, tanggal, dan waktu untuk setidaknya lima aktivitas."
+        },
+        {
+          "da": "Lyt til dialogen og skriv alle tid- og datoangivelser ned. Tjek, at du forstår dem alle.",
+          "en": "Listen to the dialogue and write down all time and date references. Check that you understand them all.",
+          "id": "Dengarkan dialog dan tuliskan semua referensi waktu dan tanggal. Periksa apakah kamu memahami semuanya."
+        },
+        {
+          "da": "Lav en selvtest: sig de syv ugedage, tolv måneder, dagens dato og klokkeslættet nu — alt på indonesisk.",
+          "en": "Self-test: say the seven days of the week, twelve months, today's date, and the current time — all in Indonesian.",
+          "id": "Tes diri: sebutkan tujuh hari dalam seminggu, dua belas bulan, tanggal hari ini, dan waktu sekarang — semuanya dalam bahasa Indonesia."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige en komplet begivenhed med dag, dato og klokkeslæt på indonesisk? Prøv: 'Rapat pada hari Selasa tanggal [N] [bulan] jam [N].'",
+          "en": "Can you say a complete event with day, date, and time in Indonesian? Try: 'Rapat pada hari Selasa tanggal [N] [month] jam [N].'",
+          "id": "Bisakah kamu menyebutkan acara lengkap dengan hari, tanggal, dan waktu dalam bahasa Indonesia? Coba: 'Rapat pada hari Selasa tanggal [N] [bulan] jam [N].'"
+        },
+        {
+          "da": "Hvad er den komplette dato og tid for dette øjeblik på indonesisk?",
+          "en": "What is the complete date and time for this moment in Indonesian?",
+          "id": "Apa tanggal dan waktu lengkap untuk saat ini dalam bahasa Indonesia?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Lina",
+      "source": "Oke, kita atur jadwal minggu depan. Senin tanggal dua puluh dua bisa?",
+      "target": "OK, lad os planlægge næste uge. Mandag den 22. kan du?"
+    },
+    {
+      "speaker": "Riko",
+      "source": "Senin pagi saya ada kelas sampai jam sebelas. Siang bisa.",
+      "target": "Mandag morgen har jeg undervisning indtil klokken elleve. Om eftermiddagen kan jeg."
+    },
+    {
+      "speaker": "Lina",
+      "source": "Bagaimana jam setengah satu? Kita makan siang sambil diskusi.",
+      "target": "Hvad med halv et? Vi kan spise frokost og diskutere."
+    },
+    {
+      "speaker": "Riko",
+      "source": "Boleh. Rabu tanggal dua puluh empat juga ada acara?",
+      "target": "OK. Er der noget onsdag den 24. også?"
+    },
+    {
+      "speaker": "Lina",
+      "source": "Ya, rapat tim pada hari Rabu jam tiga sore.",
+      "target": "Ja, teammøde onsdag klokken tre om eftermiddagen."
+    },
+    {
+      "speaker": "Riko",
+      "source": "Catat: Senin jam setengah satu makan siang, Rabu jam tiga rapat. Sudah lengkap.",
+      "target": "Noteret: mandag halv et frokost, onsdag klokken tre møde. Det er komplet."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "jadwal",
+      "target": "tidsplan / schedule",
+      "note": {
+        "da": "'Jadwal minggu depan' = næste uges program",
+        "en": "'Jadwal minggu depan' = next week's schedule",
+        "id": "'Jadwal minggu depan' = jadwal minggu depan"
+      }
+    },
+    {
+      "source": "atur",
+      "target": "at arrangere / to arrange",
+      "note": {
+        "da": "'Kita atur' = lad os arrangere; 'mengatur' = at organisere",
+        "en": "'Kita atur' = let's arrange; 'mengatur' = to organise",
+        "id": "'Kita atur' = mari kita atur; 'mengatur' = mengorganisir"
+      }
+    },
+    {
+      "source": "pagi / siang / sore / malam",
+      "target": "morgen / middag / eftermiddag / aften — morning / midday / afternoon / evening",
+      "note": {
+        "da": "Fire dagtidsinddelinger i indonesisk; 'siang' = ca. 10–15; 'sore' = ca. 15–18",
+        "en": "Four time-of-day divisions in Indonesian; 'siang' ≈ 10–15; 'sore' ≈ 15–18",
+        "id": "Empat pembagian waktu sehari dalam bahasa Indonesia; 'siang' ≈ 10–15; 'sore' ≈ 15–18"
+      }
+    },
+    {
+      "source": "sambil",
+      "target": "mens / while (doing something at the same time)",
+      "note": {
+        "da": "'Makan sambil bicara' = spise og tale på samme tid",
+        "en": "'Makan sambil bicara' = eating while talking",
+        "id": "'Makan sambil bicara' = makan sambil berbicara"
+      }
+    },
+    {
+      "source": "sudah lengkap",
+      "target": "det er komplet / it's complete",
+      "note": {
+        "da": "'Sudah' = allerede/nu (aspektmarkør); 'lengkap' = komplet/fuldstændig",
+        "en": "'Sudah' = already/now (aspect marker); 'lengkap' = complete/thorough",
+        "id": "'Sudah' = sudah (penanda aspek); 'lengkap' = lengkap/menyeluruh"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Komplet dato+tid-udtryk: pada hari [dag] tanggal [N] [bulan] jam [N]",
+      "explanation": {
+        "da": "En komplet indonesisk tid- og datoangivelse kombinerer alle lærte elementer: ugedag + dato + måned (+ år) + klokkeslæt. Rækkefølgen er fleksibel, men dag-dato-tid er mest almindelig.",
+        "en": "A complete Indonesian time and date expression combines all learned elements: day of week + date + month (+ year) + clock time. The order is flexible, but day-date-time is most common.",
+        "id": "Ungkapan waktu dan tanggal lengkap dalam bahasa Indonesia menggabungkan semua elemen yang dipelajari: hari + tanggal + bulan (+ tahun) + jam. Urutannya fleksibel, tetapi hari-tanggal-waktu paling umum."
+      },
+      "examples": [
+        {
+          "source": "Rapat pada hari Kamis tanggal satu Agustus jam sembilan pagi.",
+          "target": "Mødet er torsdag den 1. august kl. 9 om morgenen. / Meeting on Thursday 1 August at 9 a.m."
+        },
+        {
+          "source": "Ulang tahun saya pada hari Selasa tanggal tiga Maret.",
+          "target": "Min fødselsdag er tirsdag den 3. marts. / My birthday is on Tuesday the 3rd of March."
+        },
+        {
+          "source": "Kita berangkat Sabtu jam setengah delapan pagi.",
+          "target": "Vi tager afsted lørdag kl. 7:30 om morgenen. / We depart Saturday at 7:30 a.m."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv dit ideelle ugeprogram for næste uge med tre til fem aktiviteter. Brug fuld dag + dato + klokkeslæt for hver.",
+        "en": "Write your ideal weekly schedule for next week with three to five activities. Use full day + date + time for each.",
+        "id": "Tuliskan jadwal mingguan idealmu untuk minggu depan dengan tiga hingga lima aktivitas. Gunakan hari + tanggal + waktu lengkap untuk masing-masing."
+      },
+      "answerShape": {
+        "da": "Pada hari [dag] tanggal [N] [bulan], saya [aktivitet] jam [N].",
+        "en": "Pada hari [day] tanggal [N] [month], saya [activity] jam [N].",
+        "id": "Pada hari [hari] tanggal [N] [bulan], saya [aktivitas] jam [N]."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Præsenter to begivenheder fra dit ugeprogram for en partner. Brug dag, dato og klokkeslæt.",
+        "en": "Present two events from your weekly schedule to a partner. Use day, date, and time.",
+        "id": "Presentasikan dua acara dari jadwal mingguan kepada pasangan. Gunakan hari, tanggal, dan waktu."
+      },
+      "answerShape": {
+        "da": "Pada hari [dag] tanggal [N], saya ada [begivenhed] jam [N].",
+        "en": "Pada hari [day] tanggal [N], saya ada [event] jam [N].",
+        "id": "Pada hari [hari] tanggal [N], saya ada [acara] jam [N]."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilke dele af tid og dato på indonesisk fandt du sværest i Tema 6? Hvad vil du øve mere?",
+        "en": "Which parts of time and date in Indonesian did you find most difficult in Theme 6? What will you practise more?",
+        "id": "Bagian mana dari waktu dan tanggal dalam bahasa Indonesia yang paling sulit di Tema 6? Apa yang ingin kamu latih lebih lanjut?"
+      },
+      "answerShape": {
+        "da": "Saya merasa sulit dengan [emne] karena [årsag]. Saya mau berlatih lagi.",
+        "en": "Saya merasa sulit dengan [topic] karena [reason]. Saya mau berlatih lagi.",
+        "id": "Saya merasa sulit dengan [topik] karena [alasan]. Saya mau berlatih lagi."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme06-lesson08-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Tema 6 Repetition — Tid og dato på indonesisk",
+        "en": "Theme 6 Review — Time and Date in Indonesian",
+        "id": "Repetisi Tema 6 — Waktu dan Tanggal dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

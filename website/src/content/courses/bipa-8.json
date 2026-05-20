@@ -1,0 +1,52 @@
+{
+  "slug": "bipa-8",
+  "order": 8,
+  "cefr": "C2-ish",
+  "stage": {
+    "da": "Mestring",
+    "en": "Mastery",
+    "id": "Penguasaan"
+  },
+  "title": {
+    "da": "BIPA 8 · Mestring og brobygning",
+    "en": "BIPA 8 · Mastery and mediation",
+    "id": "BIPA 8 · Penguasaan dan mediasi"
+  },
+  "summary": {
+    "da": "Forskning, undervisning, tværkulturel mægling og finjusteret stil.",
+    "en": "Research, teaching, intercultural mediation, and refined style.",
+    "id": "Riset, pengajaran, mediasi lintas budaya, dan gaya yang halus."
+  },
+  "focus": [
+    {
+      "da": "Domænesprog",
+      "en": "Domain language",
+      "id": "Bahasa domain"
+    },
+    {
+      "da": "Mediation",
+      "en": "Mediation",
+      "id": "Mediasi"
+    },
+    {
+      "da": "Redigering",
+      "en": "Editing",
+      "id": "Penyuntingan"
+    }
+  ],
+  "teacherPositioning": {
+    "da": "Niveauet fungerer som et ekspertlag for særlige fagspor og vejledning.",
+    "en": "This level acts as an expert layer for specialist tracks and supervision.",
+    "id": "Level ini berfungsi sebagai lapisan ahli untuk jalur khusus dan supervisi."
+  },
+  "selfStudyPositioning": {
+    "da": "Selvstudie på dette niveau kræver stærke værktøjer til portefølje og feedback.",
+    "en": "Self-study at this level requires strong portfolio and feedback tooling.",
+    "id": "Belajar mandiri pada level ini memerlukan alat portofolio dan umpan balik yang kuat."
+  },
+  "supportedPairs": ["da-id", "id-da", "en-id", "id-en"],
+  "palette": {
+    "accent": "#a04763",
+    "glow": "#f2bfd0"
+  }
+}

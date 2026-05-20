@@ -1,0 +1,247 @@
+{
+  "pair": "id-da",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 30,
+  "title": {
+    "da": "Hej, jeg hedder...",
+    "en": "Hi, My Name Is...",
+    "id": "Hai, nama saya..."
+  },
+  "summary": {
+    "da": "Lær at hilse, sige hvad du hedder og spørge en anden om navn på dansk.",
+    "en": "Learn to greet, say your name, and ask another person for their name in Danish.",
+    "id": "Belajar memberi salam, menyebutkan nama, dan menanyakan nama orang lain dalam bahasa Denmark."
+  },
+  "objectives": [
+    {
+      "da": "Hilse enkelt og naturligt på dansk.",
+      "en": "Greet simply and naturally in Danish.",
+      "id": "Memberi salam secara sederhana dan alami dalam bahasa Denmark."
+    },
+    {
+      "da": "Sige “jeg hedder...” med sikkerhed.",
+      "en": "Say “jeg hedder...” confidently.",
+      "id": "Mengatakan “jeg hedder...” dengan percaya diri."
+    },
+    {
+      "da": "Stille det enkle spørgsmål “hvad hedder du?”.",
+      "en": "Ask the simple question “hvad hedder du?”.",
+      "id": "Mengajukan pertanyaan sederhana “hvad hedder du?”."
+    }
+  ],
+  "unit": {
+    "slug": "theme-01",
+    "order": 1,
+    "title": {
+      "da": "Tema 1: Første Møde",
+      "en": "Theme 1: First Meeting",
+      "id": "Tema 1: Pertemuan Pertama"
+    },
+    "summary": {
+      "da": "Hilsner, navn og den første kontakt på dansk.",
+      "en": "Greetings, names, and first contact in Danish.",
+      "id": "Salam, nama, dan kontak pertama dalam bahasa Denmark."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Lad to elever mødes foran klassen og sige “hej”. Byg derefter samtalen lag for lag.",
+        "en": "Let two students meet in front of the class and say “hej”. Then build the conversation layer by layer.",
+        "id": "Minta dua siswa bertemu di depan kelas dan mengucapkan “hej”. Lalu bangun percakapan selangkah demi selangkah."
+      },
+      "flow": [
+        {
+          "da": "Modelér forskellen mellem “hej” og “goddag”.",
+          "en": "Model the difference between “hej” and “goddag”.",
+          "id": "Tunjukkan perbedaan antara “hej” dan “goddag”."
+        },
+        {
+          "da": "Øv “jeg hedder...” og “hvad hedder du?” i hurtige parskift.",
+          "en": "Practise “jeg hedder...” and “hvad hedder du?” in fast pair rotations.",
+          "id": "Latih “jeg hedder...” dan “hvad hedder du?” dalam pergantian pasangan yang cepat."
+        },
+        {
+          "da": "Lad eleverne udvide med “hyggeligt at møde dig”.",
+          "en": "Let students expand with “hyggeligt at møde dig”.",
+          "id": "Minta siswa memperluas dengan “hyggeligt at møde dig”."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Begyndere har brug for faste fraser først. Hold samtalen meget rytmisk og gentagelig.",
+          "en": "Beginners need fixed phrases first. Keep the conversation very rhythmic and repeatable.",
+          "id": "Pemula membutuhkan frasa tetap terlebih dahulu. Jagalah percakapan sangat ritmis dan mudah diulang."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs dialogen højt og byt mellem begge roller.",
+          "en": "Read the dialogue aloud and switch between both roles.",
+          "id": "Baca dialog dengan suara keras dan bergantian memainkan kedua peran."
+        },
+        {
+          "da": "Skriv tre varianter af din egen præsentation.",
+          "en": "Write three versions of your own introduction.",
+          "id": "Tulis tiga versi perkenalan Anda sendiri."
+        },
+        {
+          "da": "Øv navnene på tre personer du kender: “Han/hun hedder...”",
+          "en": "Practise the names of three people you know: “He/she is called...”",
+          "id": "Latih nama tiga orang yang Anda kenal: “Namanya...”"
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du præsentere dig selv på under 10 sekunder?",
+          "en": "Can you introduce yourself in under 10 seconds?",
+          "id": "Bisakah Anda memperkenalkan diri dalam waktu kurang dari 10 detik?"
+        },
+        {
+          "da": "Kan du spørge nogen om navn uden at kigge i noter?",
+          "en": "Can you ask someone their name without looking at notes?",
+          "id": "Bisakah Anda menanyakan nama seseorang tanpa melihat catatan?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Ayu",
+      "source": "Hai, nama saya Ayu.",
+      "target": "Hej, jeg hedder Ayu."
+    },
+    {
+      "speaker": "Jonas",
+      "source": "Hej Ayu. Saya Jonas.",
+      "target": "Hej Ayu. Jeg hedder Jonas."
+    },
+    {
+      "speaker": "Ayu",
+      "source": "Siapa nama kamu?",
+      "target": "Hvad hedder du?"
+    },
+    {
+      "speaker": "Jonas",
+      "source": "Nama saya Jonas. Senang bertemu denganmu.",
+      "target": "Jeg hedder Jonas. Hyggeligt at møde dig."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "hej",
+      "target": "hej",
+      "note": {
+        "da": "Det mest neutrale og brugbare hverdagshej.",
+        "en": "The most neutral and useful everyday hello.",
+        "id": "Sapaan sehari-hari yang paling netral dan berguna."
+      }
+    },
+    {
+      "source": "goddag",
+      "target": "goddag",
+      "note": {
+        "da": "Mere høfligt og lidt mere formelt.",
+        "en": "More polite and slightly more formal.",
+        "id": "Lebih sopan dan sedikit lebih formal."
+      }
+    },
+    {
+      "source": "jeg hedder",
+      "target": "mit navn er / saya bernama",
+      "note": {
+        "da": "Standardmønstret til at sige sit navn.",
+        "en": "The standard pattern for saying your name.",
+        "id": "Pola standar untuk menyebutkan nama Anda."
+      }
+    },
+    {
+      "source": "hyggeligt at møde dig",
+      "target": "senang bertemu denganmu",
+      "note": {
+        "da": "Meget brugt ved første møde.",
+        "en": "Very common when meeting someone for the first time.",
+        "id": "Sangat umum digunakan saat bertemu seseorang untuk pertama kali."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Jeg hedder... / Hvad hedder du?",
+      "explanation": {
+        "da": "Dansk bruger ofte “jeg hedder...” til navn. Spørgsmålet “hvad hedder du?” er den naturlige begyndermodel.",
+        "en": "Danish often uses “jeg hedder...” for names. The question “hvad hedder du?” is the natural beginner model.",
+        "id": "Bahasa Denmark sering menggunakan “jeg hedder...” untuk menyebutkan nama. Pertanyaan “hvad hedder du?” adalah model alami bagi pemula."
+      },
+      "examples": [
+        {
+          "source": "Nama saya Rina.",
+          "target": "Jeg hedder Rina."
+        },
+        {
+          "source": "Siapa nama kamu?",
+          "target": "Hvad hedder du?"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til tre korte præsentationer og markér hvilke navne du hører.",
+        "en": "Listen to three short introductions and mark which names you hear.",
+        "id": "Dengarkan tiga perkenalan singkat dan tandai nama-nama yang Anda dengar."
+      },
+      "answerShape": {
+        "da": "En navneliste.",
+        "en": "A name list.",
+        "id": "Daftar nama."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Præsenter dig selv og spørg derefter en partner om navn.",
+        "en": "Introduce yourself and then ask a partner for their name.",
+        "id": "Perkenalkan diri Anda lalu tanyakan nama pasangan Anda."
+      },
+      "answerShape": {
+        "da": "To korte linjer.",
+        "en": "Two short lines.",
+        "id": "Dua kalimat pendek."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en mini-dialog med fire linjer til et første møde.",
+        "en": "Write a mini-dialogue with four lines for a first meeting.",
+        "id": "Tulis mini-dialog empat baris untuk pertemuan pertama."
+      },
+      "answerShape": {
+        "da": "En kort dialog.",
+        "en": "A short dialogue.",
+        "id": "Dialog singkat."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvornår ville du vælge “hej” og hvornår “goddag”?",
+        "en": "When would you choose “hej” and when “goddag”?",
+        "id": "Kapan Anda akan memilih “hej” dan kapan “goddag”?"
+      },
+      "answerShape": {
+        "da": "En kort sammenligning.",
+        "en": "A short comparison.",
+        "id": "Perbandingan singkat."
+      }
+    }
+  ],
+  "media": []
+}

@@ -1,0 +1,247 @@
+{
+  "pair": "id-da",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Mine hobbyer",
+    "en": "My Hobbies",
+    "id": "Hobi saya"
+  },
+  "summary": {
+    "da": "Lær at tale om hobbyer og fritidsinteresser på dansk.",
+    "en": "Learn to talk about hobbies and leisure interests in Danish.",
+    "id": "Belajar berbicara tentang hobi dan minat waktu luang dalam bahasa Denmark."
+  },
+  "objectives": [
+    {
+      "da": "Nævne flere hobbyer på dansk.",
+      "en": "Name several hobbies in Danish.",
+      "id": "Menyebutkan beberapa hobi dalam bahasa Denmark."
+    },
+    {
+      "da": "Sige hvad du kan lide at lave.",
+      "en": "Say what you like to do.",
+      "id": "Mengatakan apa yang Anda suka lakukan."
+    },
+    {
+      "da": "Stille et simpelt spørgsmål om en andens hobby.",
+      "en": "Ask a simple question about another person’s hobby.",
+      "id": "Mengajukan pertanyaan sederhana tentang hobi orang lain."
+    }
+  ],
+  "unit": {
+    "slug": "theme-08",
+    "order": 8,
+    "title": {
+      "da": "Tema 8: Fritid & Interesser",
+      "en": "Theme 8: Leisure & Interests",
+      "id": "Tema 8: Waktu Luang & Minat"
+    },
+    "summary": {
+      "da": "Hobbyer, interesser og samtaler om fritid.",
+      "en": "Hobbies, interests, and conversations about leisure.",
+      "id": "Hobi, minat, dan percakapan tentang waktu luang."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg hvad eleverne laver i weekenden. Saml svar som danske hobbyord.",
+        "en": "Ask what students do at the weekend. Collect answers as Danish hobby words.",
+        "id": "Tanyakan apa yang dilakukan siswa di akhir pekan. Kumpulkan jawaban sebagai kosakata hobi bahasa Denmark."
+      },
+      "flow": [
+        {
+          "da": "Introducer læse, lave mad, se film, spille fodbold, høre musik.",
+          "en": "Introduce read, cook, watch films, play football, listen to music.",
+          "id": "Perkenalkan membaca, memasak, menonton film, bermain sepak bola, mendengarkan musik."
+        },
+        {
+          "da": "Byg sætninger med “jeg kan godt lide at...”.",
+          "en": "Build sentences with “I like to...”.",
+          "id": "Bangun kalimat dengan “jeg kan godt lide at...”."
+        },
+        {
+          "da": "Lad eleverne interviewe hinanden om hobbyer.",
+          "en": "Let students interview each other about hobbies.",
+          "id": "Minta siswa saling mewawancarai tentang hobi."
+        }
+      ],
+      "notes": [
+        {
+          "da": "“Kan godt lide” er et vigtigt hverdagsmønster og bør gentages meget.",
+          "en": "“Like” is an important everyday pattern and should be repeated a lot.",
+          "id": "“Kan godt lide” adalah pola sehari-hari yang penting dan harus banyak diulang."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lav en liste over fem ting du kan lide at lave.",
+          "en": "Make a list of five things you like to do.",
+          "id": "Buat daftar lima hal yang Anda suka lakukan."
+        },
+        {
+          "da": "Skriv en kort tekst om din yndlingshobby.",
+          "en": "Write a short text about your favourite hobby.",
+          "id": "Tulis teks singkat tentang hobi favorit Anda."
+        },
+        {
+          "da": "Øv spørgsmålet “hvad kan du godt lide at lave?”.",
+          "en": "Practise the question “what do you like to do?”.",
+          "id": "Latih pertanyaan “apa yang kamu suka lakukan?”."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige mindst tre hobbyer på dansk?",
+          "en": "Can you say at least three hobbies in Danish?",
+          "id": "Bisakah Anda mengatakan setidaknya tiga hobi dalam bahasa Denmark?"
+        },
+        {
+          "da": "Kan du sige hvad du kan godt lide at lave?",
+          "en": "Can you say what you like to do?",
+          "id": "Bisakah Anda mengatakan apa yang Anda suka lakukan?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Sinta",
+      "source": "Apa hobimu?",
+      "target": "Hvad er din hobby?"
+    },
+    {
+      "speaker": "Noah",
+      "source": "Saya suka membaca og høre musik.",
+      "target": "Jeg kan godt lide at læse og høre musik."
+    },
+    {
+      "speaker": "Sinta",
+      "source": "Bagaimana dengan film?",
+      "target": "Hvad med film?"
+    },
+    {
+      "speaker": "Noah",
+      "source": "Ya, saya juga godt lide at se film.",
+      "target": "Ja, jeg kan også godt lide at se film."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "membaca",
+      "target": "læse",
+      "note": {
+        "da": "Et godt hverdagsverbum til hobbyer.",
+        "en": "A good everyday verb for hobbies.",
+        "id": "Kata kerja sehari-hari yang baik untuk hobi."
+      }
+    },
+    {
+      "source": "memasak",
+      "target": "lave mad",
+      "note": {
+        "da": "En meget brugbar fritidsaktivitet og hverdagshandling.",
+        "en": "A very useful leisure activity and daily action.",
+        "id": "Kegiatan waktu luang dan tindakan sehari-hari yang sangat berguna."
+      }
+    },
+    {
+      "source": "mendengar musik",
+      "target": "høre musik",
+      "note": {
+        "da": "Fast og brugbar kombination.",
+        "en": "A fixed and useful combination.",
+        "id": "Gabungan tetap dan berguna."
+      }
+    },
+    {
+      "source": "saya suka",
+      "target": "jeg kan godt lide",
+      "note": {
+        "da": "Det mest anvendelige mønster til at udtrykke præference.",
+        "en": "The most useful pattern for expressing preference.",
+        "id": "Pola paling berguna untuk menyatakan preferensi."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Jeg kan godt lide at...",
+      "explanation": {
+        "da": "Et centralt dansk mønster til præferencer og hobbyer. Efter mønstret kommer ofte et verbum i grundform.",
+        "en": "A central Danish pattern for preferences and hobbies. After the pattern, a verb in base form often follows.",
+        "id": "Pola penting bahasa Denmark untuk preferensi dan hobi. Setelah pola ini biasanya muncul kata kerja bentuk dasar."
+      },
+      "examples": [
+        {
+          "source": "Saya suka membaca.",
+          "target": "Jeg kan godt lide at læse."
+        },
+        {
+          "source": "Saya suka memasak.",
+          "target": "Jeg kan godt lide at lave mad."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til tre personer og skriv deres hobbyer.",
+        "en": "Listen to three people and write their hobbies.",
+        "id": "Dengarkan tiga orang dan tuliskan hobi mereka."
+      },
+      "answerShape": {
+        "da": "En lille liste.",
+        "en": "A small list.",
+        "id": "Daftar kecil."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Fortæl en partner om to ting du godt kan lide at lave.",
+        "en": "Tell a partner about two things you like to do.",
+        "id": "Ceritakan kepada pasangan Anda dua hal yang Anda suka lakukan."
+      },
+      "answerShape": {
+        "da": "To hele sætninger.",
+        "en": "Two full sentences.",
+        "id": "Dua kalimat lengkap."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en kort weekendtekst med dine hobbyer.",
+        "en": "Write a short weekend text with your hobbies.",
+        "id": "Tulis teks akhir pekan singkat dengan hobi Anda."
+      },
+      "answerShape": {
+        "da": "Tre til fire linjer.",
+        "en": "Three to four lines.",
+        "id": "Tiga hingga empat baris."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilken hobby er lettest at tale om på dansk for dig?",
+        "en": "Which hobby is easiest for you to talk about in Danish?",
+        "id": "Hobi mana yang paling mudah Anda bicarakan dalam bahasa Denmark?"
+      },
+      "answerShape": {
+        "da": "En kort sætning.",
+        "en": "One short sentence.",
+        "id": "Satu kalimat pendek."
+      }
+    }
+  ],
+  "media": []
+}

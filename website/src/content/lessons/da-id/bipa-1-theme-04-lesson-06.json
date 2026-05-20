@@ -1,0 +1,268 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 6,
+  "slug": "lesson-06",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Ini Siapa? – Hvem er det her?",
+    "en": "Ini Siapa? – Who Is This?",
+    "id": "Ini Siapa? – Siapa Orang Ini?"
+  },
+  "summary": {
+    "da": "Lær at pege på og identificere familiemedlemmer i et foto med spørgsmålet 'Ini siapa?' og possessiver: 'ayah saya' (formelt) og 'ayahku' (uformelt).",
+    "en": "Learn to point to and identify family members in a photo using 'Ini siapa?' and possessives: 'ayah saya' (formal) and 'ayahku' (informal).",
+    "id": "Pelajari cara menunjuk dan mengidentifikasi anggota keluarga dalam foto menggunakan 'Ini siapa?' dan posesif: 'ayah saya' (formal) dan 'ayahku' (informal)."
+  },
+  "objectives": [
+    {
+      "da": "Stille og besvare spørgsmålet 'Ini siapa?' om et foto.",
+      "en": "Ask and answer the question 'Ini siapa?' about a photo.",
+      "id": "Bertanya dan menjawab pertanyaan 'Ini siapa?' tentang sebuah foto."
+    },
+    {
+      "da": "Bruge possessivsuffikset -ku korrekt i uformel tale.",
+      "en": "Use the possessive suffix -ku correctly in informal speech.",
+      "id": "Menggunakan sufiks posesif -ku dengan benar dalam percakapan informal."
+    },
+    {
+      "da": "Skelne mellem formel ('saya') og uformel ('-ku') ejerfaldsbrug.",
+      "en": "Distinguish between formal ('saya') and informal ('-ku') possessive use.",
+      "id": "Membedakan antara penggunaan posesif formal ('saya') dan informal ('-ku')."
+    }
+  ],
+  "unit": {
+    "slug": "theme-04",
+    "order": 4,
+    "title": {
+      "da": "Tema 4: Min Familie",
+      "en": "Theme 4: My Family",
+      "id": "Tema 4: Keluarga Saya"
+    },
+    "summary": {
+      "da": "Familiebetegnelser og at tale om sin familie.",
+      "en": "Family terms and talking about your family.",
+      "id": "Istilah keluarga dan berbicara tentang keluarga."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis et familiefoto (fra internet eller tegnet på tavlen) og peg på en person. Spørg klassen: 'Ini siapa?' Lad dem gætte med de ord de kender.",
+        "en": "Show a family photo (from the internet or drawn on the board) and point to a person. Ask the class: 'Ini siapa?' Let them guess using words they know.",
+        "id": "Tampilkan foto keluarga (dari internet atau digambar di papan tulis) dan tunjuk satu orang. Tanyakan kelas: 'Ini siapa?' Biarkan mereka menebak menggunakan kata-kata yang mereka ketahui."
+      },
+      "flow": [
+        {
+          "da": "Introducer spørgsmål-svar-mønsteret: 'Ini siapa?' → 'Ini [familiemedlem] saya.' Øv med alle kendte familieord.",
+          "en": "Introduce the question-answer pattern: 'Ini siapa?' → 'Ini [family member] saya.' Practice with all known family words.",
+          "id": "Perkenalkan pola tanya-jawab: 'Ini siapa?' → 'Ini [anggota keluarga] saya.' Latih dengan semua kata keluarga yang diketahui."
+        },
+        {
+          "da": "Introducer -ku suffikset: 'ayahku', 'ibuku', 'kakakku'. Sammenlign: ayah saya (formelt) = ayahku (uformelt/intimt). Brug analogien: som 'du' vs. 'De' på dansk.",
+          "en": "Introduce the -ku suffix: 'ayahku', 'ibuku', 'kakakku'. Compare: ayah saya (formal) = ayahku (informal/intimate). Use the analogy: like 'du' vs. 'De' in Danish.",
+          "id": "Perkenalkan sufiks -ku: 'ayahku', 'ibuku', 'kakakku'. Bandingkan: ayah saya (formal) = ayahku (informal/intim). Gunakan analogi: seperti 'du' vs. 'De' dalam bahasa Denmark."
+        },
+        {
+          "da": "Eleverne viser fotos fra deres telefoner. Makkeren spørger 'Ini siapa?' og eleven svarer med familietermerne.",
+          "en": "Students show photos from their phones. The partner asks 'Ini siapa?' and the student answers with family terms.",
+          "id": "Siswa menampilkan foto dari ponsel mereka. Pasangan bertanya 'Ini siapa?' dan siswa menjawab dengan istilah keluarga."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Suffikset -mu (din) og -nya (hans/hendes/dens) følger samme mønster som -ku. Nævn dem kort, men fokusér på -ku i denne lektion.",
+          "en": "The suffixes -mu (your) and -nya (his/her/its) follow the same pattern as -ku. Mention them briefly, but focus on -ku in this lesson.",
+          "id": "Sufiks -mu (milikmu) dan -nya (miliknya) mengikuti pola yang sama seperti -ku. Sebutkan sebentar, tetapi fokus pada -ku dalam pelajaran ini."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Tag et familiefoto og skriv captions til hvert familiemedlem med -ku formen: 'Ini ayahku', 'Ini ibuku' osv.",
+          "en": "Take a family photo and write captions for each family member using the -ku form: 'Ini ayahku', 'Ini ibuku' etc.",
+          "id": "Ambil foto keluarga dan tuliskan keterangan untuk setiap anggota keluarga menggunakan bentuk -ku: 'Ini ayahku', 'Ini ibuku' dll."
+        },
+        {
+          "da": "Øv at skifte mellem 'saya' og '-ku' formerne. Hvornår føles hvad naturligt?",
+          "en": "Practice switching between the 'saya' and '-ku' forms. When does each feel natural?",
+          "id": "Latih beralih antara bentuk 'saya' dan '-ku'. Kapan masing-masing terasa alami?"
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du svare på 'Ini siapa?' med fem forskellige familieord, både i formel og uformel form?",
+          "en": "Can you answer 'Ini siapa?' with five different family words, both in formal and informal form?",
+          "id": "Bisakah Anda menjawab 'Ini siapa?' dengan lima kata keluarga yang berbeda, baik dalam bentuk formal maupun informal?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Tom",
+      "source": "Wah, kamu bawa foto keluarga!",
+      "target": "Nå, du har et familiefoto med!"
+    },
+    {
+      "speaker": "Dewi",
+      "source": "Iya, ini foto waktu lebaran. Ini siapa menurutmu?",
+      "target": "Ja, det er fra vores Lebaran-fejring. Hvem tror du det er?"
+    },
+    {
+      "speaker": "Tom",
+      "source": "Hmm... ini ayahmu?",
+      "target": "Hmm... er det din far?"
+    },
+    {
+      "speaker": "Dewi",
+      "source": "Ya! Ini ayahku. Dan ini ibuku di sebelahnya.",
+      "target": "Ja! Det er min far. Og det er min mor ved siden af ham."
+    },
+    {
+      "speaker": "Tom",
+      "source": "Ini siapa? Yang pakai baju batik kuning?",
+      "target": "Hvem er den her? Den der har den gule batik på?"
+    },
+    {
+      "speaker": "Dewi",
+      "source": "Itu kakakku – kakak perempuanku. Dia tinggal di Bandung.",
+      "target": "Det er min storesøster. Hun bor i Bandung."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Hvem er det her?",
+      "target": "Ini siapa?",
+      "note": {
+        "da": "Bogstaveligt 'dette hvem?' Spørgsmålet om en nærværende person eller et billede.",
+        "en": "Literally 'this who?' The question about a present person or a picture.",
+        "id": "Secara harfiah 'ini siapa?' Pertanyaan tentang seseorang yang hadir atau dalam gambar."
+      }
+    },
+    {
+      "source": "Min far (uformelt)",
+      "target": "Ayahku",
+      "note": {
+        "da": "Suffikset -ku er den uformelle possessiv for 1. person singularis. Brugt med venner og familie.",
+        "en": "The suffix -ku is the informal first person singular possessive. Used with friends and family.",
+        "id": "Sufiks -ku adalah posesif orang pertama tunggal informal. Digunakan dengan teman dan keluarga."
+      }
+    },
+    {
+      "source": "Min mor (uformelt)",
+      "target": "Ibuku",
+      "note": {
+        "da": "Ibu + ku. Bemærk: konsonantafslutninger beholder konsonanten: 'kakak' → 'kakakku'.",
+        "en": "Ibu + ku. Note: consonant endings keep the consonant: 'kakak' → 'kakakku'.",
+        "id": "Ibu + ku. Catatan: akhiran konsonan tetap mempertahankan konsonan: 'kakak' → 'kakakku'."
+      }
+    },
+    {
+      "source": "Din (uformelt, possessiv)",
+      "target": "-mu",
+      "note": {
+        "da": "Suffikset -mu er 2. person uformelt: 'ayahmu' = din far, 'ibumu' = din mor.",
+        "en": "The suffix -mu is 2nd person informal: 'ayahmu' = your father, 'ibumu' = your mother.",
+        "id": "Sufiks -mu adalah orang kedua informal: 'ayahmu' = ayahmu, 'ibumu' = ibumu."
+      }
+    },
+    {
+      "source": "Fejring af Eid al-Fitr",
+      "target": "Lebaran",
+      "note": {
+        "da": "Den indonesiske betegnelse for Eid al-Fitr (islamisk højtid). Familier samles fra hele landet.",
+        "en": "The Indonesian term for Eid al-Fitr (Islamic holiday). Families gather from across the country.",
+        "id": "Istilah Indonesia untuk Idul Fitri. Keluarga berkumpul dari seluruh negeri."
+      }
+    },
+    {
+      "source": "Batiktøj",
+      "target": "Baju batik",
+      "note": {
+        "da": "Traditionelt indonesisk tøj med farverige mønstre. Batik er UNESCO-kulturarv fra Indonesien.",
+        "en": "Traditional Indonesian clothing with colorful patterns. Batik is a UNESCO intangible cultural heritage from Indonesia.",
+        "id": "Pakaian tradisional Indonesia dengan motif berwarna-warni. Batik adalah warisan budaya takbenda UNESCO dari Indonesia."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Possessiv: [familieord] + saya (formelt) vs. [familieord] + -ku (uformelt)",
+      "explanation": {
+        "da": "Indonesisk har to former for 'min': 'saya' placeres efter substantivet (ayah saya), eller suffikset -ku tilføjes direkte (ayahku). -ku bruges i uformel, intim tale; 'saya' er mere formelt og universelt.",
+        "en": "Indonesian has two forms of 'my': 'saya' is placed after the noun (ayah saya), or the suffix -ku is added directly (ayahku). -ku is used in informal, intimate speech; 'saya' is more formal and universal.",
+        "id": "Bahasa Indonesia memiliki dua bentuk 'milik saya': 'saya' ditempatkan setelah kata benda (ayah saya), atau sufiks -ku ditambahkan langsung (ayahku). -ku digunakan dalam percakapan informal dan intim; 'saya' lebih formal dan universal."
+      },
+      "examples": [
+        { "source": "Min far (formelt)", "target": "Ayah saya" },
+        { "source": "Min far (uformelt)", "target": "Ayahku" },
+        { "source": "Min storesøster (uformelt)", "target": "Kakakku" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Vis et foto (af din familie, dine venner eller en tegning) til din makker. De spørger 'Ini siapa?' og du svarer med -ku formen for hvert familiemedlem.",
+        "en": "Show a photo (of your family, friends, or a drawing) to your partner. They ask 'Ini siapa?' and you answer using the -ku form for each family member.",
+        "id": "Tunjukkan foto (keluarga, teman, atau gambar) kepada pasangan Anda. Mereka bertanya 'Ini siapa?' dan Anda menjawab menggunakan bentuk -ku untuk setiap anggota keluarga."
+      },
+      "answerShape": {
+        "da": "Fire til seks svar med -ku formen.",
+        "en": "Four to six responses using the -ku form.",
+        "id": "Empat hingga enam jawaban menggunakan bentuk -ku."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Omskriv fra formel til uformel form: 1) adik saya → 2) nenek saya → 3) paman saya → 4) ibu saya →",
+        "en": "Rewrite from formal to informal form: 1) adik saya → 2) nenek saya → 3) paman saya → 4) ibu saya →",
+        "id": "Tulis ulang dari bentuk formal ke informal: 1) adik saya → 2) nenek saya → 3) paman saya → 4) ibu saya →"
+      },
+      "answerShape": {
+        "da": "1) adikku  2) nenekku  3) pamanku  4) ibuku.",
+        "en": "1) adikku  2) nenekku  3) pamanku  4) ibuku.",
+        "id": "1) adikku  2) nenekku  3) pamanku  4) ibuku."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen. Hvilke -ku former bruges? Hvem beskrives? Hvor bor Dewis storesøster?",
+        "en": "Listen to the dialogue. Which -ku forms are used? Who is described? Where does Dewi's older sister live?",
+        "id": "Dengarkan dialog. Bentuk -ku mana yang digunakan? Siapa yang dideskripsikan? Di mana kakak perempuan Dewi tinggal?"
+      },
+      "answerShape": {
+        "da": "Ayahku, ibuku, kakakku. Kakak perempuan. Bandung.",
+        "en": "Ayahku, ibuku, kakakku. Older sister. Bandung.",
+        "id": "Ayahku, ibuku, kakakku. Kakak perempuan. Bandung."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme04-lesson06-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "At vise familiebilleder og bruge possessiver",
+        "en": "Showing family pictures and using possessives",
+        "id": "Menampilkan foto keluarga dan menggunakan posesif"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

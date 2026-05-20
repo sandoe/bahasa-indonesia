@@ -1,0 +1,181 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 40,
+  "title": {
+    "da": "Hvor kommer du fra?",
+    "en": "Where are you from?",
+    "id": "Kamu berasal dari mana?"
+  },
+  "summary": {
+    "da": "Nationalitet, by og bopæl som næste trin efter navn.",
+    "en": "Nationality, city, and residence as the next step after names.",
+    "id": "Kebangsaan, kota, dan tempat tinggal sebagai langkah berikutnya setelah nama."
+  },
+  "objectives": [
+    {
+      "da": "Fortælle hvor du kommer fra.",
+      "en": "Say where you come from.",
+      "id": "Mengatakan dari mana Anda berasal."
+    },
+    {
+      "da": "Spørge høfligt andre om hjemsted.",
+      "en": "Ask others politely about their home place.",
+      "id": "Menanyakan tempat asal orang lain dengan sopan."
+    }
+  ],
+  "unit": {
+    "slug": "theme-01",
+    "order": 1,
+    "title": {
+      "da": "Tema 1: Første møde",
+      "en": "Theme 1: First meeting",
+      "id": "Tema 1: Pertemuan pertama"
+    },
+    "summary": {
+      "da": "Hilsner og den allerførste kontakt med sproget.",
+      "en": "Greetings and the very first contact with the language.",
+      "id": "Salam dan kontak pertama kali dengan bahasa."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Bind navn og sted sammen i et kort personkort på tavlen.",
+        "en": "Link name and place in a short identity card on the board.",
+        "id": "Hubungkan nama dan tempat dalam kartu identitas singkat di papan."
+      },
+      "flow": [
+        {
+          "da": "Vis et eksempel med navn, land og by.",
+          "en": "Show an example with name, country, and city.",
+          "id": "Tunjukkan contoh dengan nama, negara, dan kota."
+        },
+        {
+          "da": "Lad elever spørge hinanden i små skiftende par.",
+          "en": "Let learners question each other in rotating pairs.",
+          "id": "Biarkan siswa saling bertanya dalam pasangan yang berganti."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Hold fokus på funktion frem for perfekt grammatik.",
+          "en": "Keep the focus on function over perfect grammar.",
+          "id": "Pertahankan fokus pada fungsi, bukan tata bahasa sempurna."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs mønstret højt og indsæt dit eget land.",
+          "en": "Read the pattern aloud and insert your own country.",
+          "id": "Baca pola dengan suara keras dan masukkan negara Anda sendiri."
+        },
+        {
+          "da": "Svar på spørgsmålet tre gange med små variationer.",
+          "en": "Answer the question three times with small variations.",
+          "id": "Jawab pertanyaan itu tiga kali dengan variasi kecil."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du både spørge og svare?",
+          "en": "Can you both ask and answer?",
+          "id": "Bisakah Anda bertanya dan menjawab?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "A",
+      "source": "Jeg kommer fra Danmark.",
+      "target": "Saya dari Denmark."
+    },
+    {
+      "speaker": "B",
+      "source": "Jeg bor i København.",
+      "target": "Saya tinggal di Kopenhagen."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Jeg kommer fra ...",
+      "target": "Saya dari ...",
+      "note": {
+        "da": "Land eller oprindelse",
+        "en": "Country or origin",
+        "id": "Negara atau asal"
+      }
+    },
+    {
+      "source": "Jeg bor i ...",
+      "target": "Saya tinggal di ...",
+      "note": {
+        "da": "By eller bopæl",
+        "en": "City or residence",
+        "id": "Kota atau tempat tinggal"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya dari ... / Saya tinggal di ...",
+      "explanation": {
+        "da": "To grundmønstre der hurtigt udvider elevens identitetssprog.",
+        "en": "Two base patterns that quickly expand identity language.",
+        "id": "Dua pola dasar yang dengan cepat memperluas bahasa identitas."
+      },
+      "examples": [
+        {
+          "source": "Jeg kommer fra Aarhus.",
+          "target": "Saya dari Aarhus."
+        },
+        {
+          "source": "Jeg bor i Odense.",
+          "target": "Saya tinggal di Odense."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Byg din egen tolinjers præsentation.",
+        "en": "Build your own two-line introduction.",
+        "id": "Bangun perkenalan dua baris Anda sendiri."
+      },
+      "answerShape": {
+        "da": "To korte sætninger",
+        "en": "Two short sentences",
+        "id": "Dua kalimat pendek"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-origin-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Placeholder for dialog-video med navne og byer",
+        "en": "Placeholder for a dialogue video with names and cities",
+        "id": "Placeholder untuk video dialog dengan nama dan kota"
+      },
+      "note": {
+        "da": "Skal senere udskiftes med din egen public-safe video.",
+        "en": "To be replaced later with your own public-safe video.",
+        "id": "Akan diganti nanti dengan video Anda sendiri yang aman untuk publik."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

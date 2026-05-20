@@ -1,0 +1,319 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 7,
+  "slug": "lesson-07",
+  "durationMinutes": 30,
+  "title": {
+    "da": "Lyt og Gentag – Konsolidering",
+    "en": "Listen and Repeat – Consolidation",
+    "id": "Dengar dan Ulangi – Konsolidasi"
+  },
+  "summary": {
+    "da": "Gennemgang og konsolidering af alle udtaleemner fra Tema 0: vokaler, diftonger, svære konsonanter, betoning og stavelser. Selvvurderingsaktivitet og fremvisning af fremskridt.",
+    "en": "Review and consolidation of all pronunciation topics from Theme 0: vowels, diphthongs, tricky consonants, stress, and syllables. Self-assessment activity and demonstration of progress.",
+    "id": "Tinjauan dan konsolidasi semua topik pengucapan dari Tema 0: vokal, diftong, konsonan yang sulit, tekanan, dan suku kata. Kegiatan penilaian diri dan demonstrasi kemajuan."
+  },
+  "objectives": [
+    {
+      "da": "Demonstrere korrekt udtale af vokaler, diftonger og alle svære konsonanter",
+      "en": "Demonstrate correct pronunciation of vowels, diphthongs, and all tricky consonants",
+      "id": "Mendemonstrasikan pengucapan yang benar dari vokal, diftong, dan semua konsonan yang sulit"
+    },
+    {
+      "da": "Vurdere egne udtalestyrker og -svagheder gennem selvvurdering",
+      "en": "Assess own pronunciation strengths and weaknesses through self-assessment",
+      "id": "Menilai kekuatan dan kelemahan pengucapan sendiri melalui penilaian diri"
+    },
+    {
+      "da": "Fremvise tydeligt fremskridt fra starten af Tema 0",
+      "en": "Demonstrate clear progress from the beginning of Theme 0",
+      "id": "Menunjukkan kemajuan yang jelas dari awal Tema 0"
+    }
+  ],
+  "unit": {
+    "slug": "theme-00",
+    "order": 0,
+    "title": {
+      "da": "Tema 0: Fundamentet",
+      "en": "Theme 0: The Foundation",
+      "id": "Tema 0: Dasar"
+    },
+    "summary": {
+      "da": "Sprogets byggesten: Bogstaver, lyde og de første regler.",
+      "en": "Building blocks: Letters, sounds, first rules.",
+      "id": "Fondasi bahasa: huruf, bunyi, aturan pertama."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Start med en hurtig 'mini-quiz': Læreren siger et ord, eleverne skriver på papir hvilke udtaleregler der gælder (vokaltype, konsonanttype, betoningsmønster). Brug kendte ord fra tidligere lektioner. Dette aktiverer hukommelsen og sætter scenen for konsolidering.",
+        "en": "Start with a quick 'mini-quiz': The teacher says a word, students write on paper which pronunciation rules apply (vowel type, consonant type, stress pattern). Use familiar words from previous lessons. This activates memory and sets the stage for consolidation.",
+        "id": "Mulai dengan 'kuis mini' cepat: Guru mengucapkan sebuah kata, siswa menuliskan di kertas aturan pengucapan mana yang berlaku (jenis vokal, jenis konsonan, pola tekanan). Gunakan kata-kata yang sudah dikenal dari pelajaran sebelumnya. Ini mengaktifkan memori dan menyiapkan konsolidasi."
+      },
+      "flow": [
+        {
+          "da": "Gennemgang i stationer: Del klassen i tre grupper. Station 1: Vokal + diftonger (ord med ai, au, oi og de to E-lyde). Station 2: Svære konsonanter (C, G, J, NG, NY, R). Station 3: Betoning + stavelser (klap ord, find tryk). Grupper roterer efter 5 minutter.",
+          "en": "Review in stations: Divide the class into three groups. Station 1: Vowels + diphthongs (words with ai, au, oi and the two E sounds). Station 2: Tricky consonants (C, G, J, NG, NY, R). Station 3: Stress + syllables (clap words, find stress). Groups rotate after 5 minutes.",
+          "id": "Tinjauan di stasiun: Bagi kelas menjadi tiga kelompok. Stasiun 1: Vokal + diftong (kata-kata dengan ai, au, oi dan dua bunyi E). Stasiun 2: Konsonan sulit (C, G, J, NG, NY, R). Stasiun 3: Tekanan + suku kata (tepuk kata, temukan tekanan). Kelompok berputar setiap 5 menit."
+        },
+        {
+          "da": "Fremvisningsrunde: Eleverne øver dialogeksemplet. Elev B demonstrerer fremskridt til Guru ved at sige en udenadlært mini-tekst med alle de lærte udtaleelementer. Læreren giver konstruktiv feedback.",
+          "en": "Demonstration round: Students practise the dialogue example. Student B demonstrates progress to the Teacher by saying a memorised mini-text containing all the learned pronunciation elements. The teacher gives constructive feedback.",
+          "id": "Putaran demonstrasi: Siswa berlatih contoh dialog. Siswa B mendemonstrasikan kemajuan kepada Guru dengan mengucapkan teks mini yang dihafal yang berisi semua elemen pengucapan yang dipelajari. Guru memberikan umpan balik yang konstruktif."
+        },
+        {
+          "da": "Selvvurdering: Eleverne udfylder selvvurderingsskema (se aktiviteter). Derefter parler de og sammenligner vurderinger. Klassen opsummerer hvad der er gået godt og hvad der stadig kræver opmærksomhed.",
+          "en": "Self-assessment: Students complete the self-assessment form (see activities). They then pair up and compare assessments. The class summarises what has gone well and what still needs attention.",
+          "id": "Penilaian diri: Siswa mengisi formulir penilaian diri (lihat kegiatan). Kemudian mereka berpasangan dan membandingkan penilaian. Kelas merangkum apa yang berjalan dengan baik dan apa yang masih perlu perhatian."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Konsolideringslektion er en god mulighed for at identificere hvilke elever der har brug for ekstra støtte og hvilke der er klar til at gå videre. Brug selvvurderingsskemaet som diagnoseværktøj.",
+          "en": "A consolidation lesson is a good opportunity to identify which students need extra support and which are ready to move forward. Use the self-assessment form as a diagnostic tool.",
+          "id": "Pelajaran konsolidasi adalah kesempatan yang baik untuk mengidentifikasi siswa mana yang membutuhkan dukungan tambahan dan mana yang siap untuk melanjutkan. Gunakan formulir penilaian diri sebagai alat diagnostik."
+        },
+        {
+          "da": "Fejring: Mindr eleverne om at de nu kan udtale et af verdens mest lydkonsistente sprog. Giv dem lyst til at gå videre med Tema 1!",
+          "en": "Celebration: Remind students that they can now pronounce one of the world's most phonetically consistent languages. Give them enthusiasm to move on to Theme 1!",
+          "id": "Perayaan: Ingatkan siswa bahwa mereka sekarang dapat mengucapkan salah satu bahasa yang paling konsisten secara fonetik di dunia. Beri mereka semangat untuk melanjutkan ke Tema 1!"
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lav din egen udtalegennemgang: tag alle vokabelordene fra Tema 0 (lektionerne 1–7) og sig hvert ord højt én gang. Marker ord der stadig føles usikre.",
+          "en": "Do your own pronunciation review: take all the vocabulary words from Theme 0 (lessons 1–7) and say each word aloud once. Mark words that still feel uncertain.",
+          "id": "Lakukan tinjauan pengucapan sendiri: ambil semua kata kosakata dari Tema 0 (pelajaran 1–7) dan ucapkan setiap kata dengan keras sekali. Tandai kata-kata yang masih terasa tidak pasti."
+        },
+        {
+          "da": "Optag dig selv mens du siger den memorerede mini-tekst fra dialogeksemplet. Lyt til optagelsen og noter tre ting du er tilfreds med og én ting du vil forbedre.",
+          "en": "Record yourself saying the memorised mini-text from the dialogue example. Listen to the recording and note three things you are satisfied with and one thing you want to improve.",
+          "id": "Rekam diri Anda mengucapkan teks mini yang dihafal dari contoh dialog. Dengarkan rekaman dan catat tiga hal yang memuaskan dan satu hal yang ingin Anda tingkatkan."
+        },
+        {
+          "da": "Udfyld selvvurderingsskemaet fra aktiviteterne og gem det – du kan bruge det til at følge dine fremskridt hen ad vejen.",
+          "en": "Complete the self-assessment checklist from the activities and save it – you can use it to track your progress along the way.",
+          "id": "Isi daftar periksa penilaian diri dari kegiatan dan simpan – Anda dapat menggunakannya untuk melacak kemajuan Anda di sepanjang jalan."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du udtale alle fem vokaler, de tre diftonger og de seks svære konsonanter korrekt?",
+          "en": "Can you correctly pronounce all five vowels, the three diphthongs, and the six tricky consonants?",
+          "id": "Dapatkah Anda mengucapkan dengan benar semua lima vokal, tiga diftong, dan enam konsonan yang sulit?"
+        },
+        {
+          "da": "Er du klar til at gå videre til Tema 1 med selvtillid om din udtale?",
+          "en": "Are you ready to move on to Theme 1 with confidence about your pronunciation?",
+          "id": "Apakah Anda siap untuk melanjutkan ke Tema 1 dengan percaya diri tentang pengucapan Anda?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Murid",
+      "source": "Jeg øvede virkelig meget denne uge. Kan jeg vise dig?",
+      "target": "Saya berlatih sungguh-sungguh minggu ini. Boleh saya tunjukkan kepada Anda?"
+    },
+    {
+      "speaker": "Guru",
+      "source": "Selvfølgelig! Start med vokalerne – sig: meja, buku, pagi, sore, guru.",
+      "target": "Tentu saja! Mulai dari vokal – ucapkan: meja, buku, pagi, sore, guru."
+    },
+    {
+      "speaker": "Murid",
+      "source": "Meja, buku, pagi, sore, guru. Og diftonger: pandai, pulau, amboi.",
+      "target": "Meja, buku, pagi, sore, guru. Dan diftong: pandai, pulau, amboi."
+    },
+    {
+      "speaker": "Guru",
+      "source": "Fremragende! Og de svære konsonanter?",
+      "target": "Luar biasa! Dan konsonan yang sulit?"
+    },
+    {
+      "speaker": "Murid",
+      "source": "Coba, gula, jalan, dengan, nyaman, rumah. Og stednavne: Jakarta, Yogyakarta, Kalimantan!",
+      "target": "Coba, gula, jalan, dengan, nyaman, rumah. Dan nama tempat: Jakarta, Yogyakarta, Kalimantan!"
+    },
+    {
+      "speaker": "Guru",
+      "source": "Perfekt! Du har lært fundamentet rigtig godt. Du er klar til det næste tema!",
+      "target": "Sempurna! Kamu sudah mempelajari dasarnya dengan sangat baik. Kamu siap untuk tema berikutnya!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "at gentage / gentagelse",
+      "target": "mengulangi / pengulangan",
+      "note": {
+        "da": "Kerneverb til udtaleøvelse. 'Coba ulangi!' = Prøv at gentage! En nyttig sætning i sprogundervisning.",
+        "en": "Core verb for pronunciation practice. 'Coba ulangi!' = Try to repeat! A useful phrase in language teaching.",
+        "id": "Kata kerja inti untuk latihan pengucapan. 'Coba ulangi!' = Coba ulangi! Frasa yang berguna dalam pengajaran bahasa."
+      }
+    },
+    {
+      "source": "fremskridt",
+      "target": "kemajuan",
+      "note": {
+        "da": "3 stavelser: ke-MA-juan. 'Kamu ada kemajuan!' = Du har gjort fremskridt!",
+        "en": "3 syllables: ke-MA-juan. 'Kamu ada kemajuan!' = You have made progress!",
+        "id": "3 suku kata: ke-MA-juan. 'Kamu ada kemajuan!' = Kamu sudah ada kemajuan!"
+      }
+    },
+    {
+      "source": "at øve / at træne",
+      "target": "berlatih",
+      "note": {
+        "da": "3 stavelser: ber-LA-tih. 'Saya berlatih setiap hari' = Jeg øver hver dag.",
+        "en": "3 syllables: ber-LA-tih. 'Saya berlatih setiap hari' = I practise every day.",
+        "id": "3 suku kata: ber-LA-tih. 'Saya berlatih setiap hari' = Saya berlatih setiap hari."
+      }
+    },
+    {
+      "source": "korrekt / rigtigt",
+      "target": "benar",
+      "note": {
+        "da": "2 stavelser: be-NAR. 'Sudah benar!' = Det er rigtigt nu! Meget brugt i sprogundervisning.",
+        "en": "2 syllables: be-NAR. 'Sudah benar!' = That's correct now! Widely used in language teaching.",
+        "id": "2 suku kata: be-NAR. 'Sudah benar!' = Sudah benar! Banyak digunakan dalam pengajaran bahasa."
+      }
+    },
+    {
+      "source": "næsten / tæt på",
+      "target": "hampir",
+      "note": {
+        "da": "2 stavelser: HAM-pir. 'Hampir benar!' = Næsten rigtigt! Nyttigt til positiv feedback.",
+        "en": "2 syllables: HAM-pir. 'Hampir benar!' = Almost correct! Useful for positive feedback.",
+        "id": "2 suku kata: HAM-pir. 'Hampir benar!' = Hampir benar! Berguna untuk umpan balik positif."
+      }
+    },
+    {
+      "source": "klar / færdig",
+      "target": "siap",
+      "note": {
+        "da": "1 stavelse: siap. 'Saya sudah siap!' = Jeg er klar! Bruges til at melde sig klar i klassen.",
+        "en": "1 syllable: siap. 'Saya sudah siap!' = I am ready! Used to signal readiness in class.",
+        "id": "1 suku kata: siap. 'Saya sudah siap!' = Saya sudah siap! Digunakan untuk memberi tanda siap di kelas."
+      }
+    },
+    {
+      "source": "fundament / grundlag",
+      "target": "dasar",
+      "note": {
+        "da": "2 stavelser: DA-sar. 'Dasar bahasa' = sprogets fundament. Titlen på hele Tema 0.",
+        "en": "2 syllables: DA-sar. 'Dasar bahasa' = the foundation of the language. The title of all of Theme 0.",
+        "id": "2 suku kata: DA-sar. 'Dasar bahasa' = dasar bahasa. Judul seluruh Tema 0."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Selvvurderingssætninger: Saya bisa / Saya belum bisa",
+      "explanation": {
+        "da": "'Saya bisa [verbum]' = Jeg kan [verbum]. 'Saya belum bisa [verbum]' = Jeg kan ikke [verbum] endnu. 'Belum' = endnu ikke (antyder fremtidig mulighed). 'Tidak bisa' = kan ikke (mere permanent). Brug 'belum' til sprogindlæring – det er altid midlertidigt!",
+        "en": "'Saya bisa [verb]' = I can [verb]. 'Saya belum bisa [verb]' = I cannot [verb] yet. 'Belum' = not yet (implies future possibility). 'Tidak bisa' = cannot (more permanent). Use 'belum' for language learning – it is always temporary!",
+        "id": "'Saya bisa [kata kerja]' = Saya bisa [kata kerja]. 'Saya belum bisa [kata kerja]' = Saya belum bisa [kata kerja]. 'Belum' = belum (menyiratkan kemungkinan di masa depan). 'Tidak bisa' = tidak bisa (lebih permanen). Gunakan 'belum' untuk belajar bahasa – itu selalu sementara!"
+      },
+      "examples": [
+        {
+          "source": "Jeg kan udtale 'dengan' korrekt.",
+          "target": "Saya bisa mengucapkan 'dengan' dengan benar."
+        },
+        {
+          "source": "Jeg kan endnu ikke rulle R'et.",
+          "target": "Saya belum bisa menggulung R."
+        },
+        {
+          "source": "Vi kan nu gå videre til Tema 1!",
+          "target": "Kita sudah bisa lanjut ke Tema 1!"
+        }
+      ]
+    },
+    {
+      "pattern": "Opmuntrende feedback: Bagus! / Luar biasa! / Hampir benar!",
+      "explanation": {
+        "da": "Indonesisk har mange udtryk til at give opmuntrende feedback i en læringssammenhæng. 'Bagus!' = Godt! / Bravo! 'Luar biasa!' = Fantastisk! (bogstaveligt: 'uden for det normale'). 'Hampir benar!' = Næsten rigtigt! 'Coba lagi!' = Prøv igen!",
+        "en": "'Bagus!' = Good! / Well done! 'Luar biasa!' = Fantastic! (literally: 'outside the ordinary'). 'Hampir benar!' = Almost correct! 'Coba lagi!' = Try again! These expressions are very commonly used in Indonesian classrooms.",
+        "id": "'Bagus!' = Bagus! 'Luar biasa!' = Luar biasa! (secara harfiah: 'di luar biasa'). 'Hampir benar!' = Hampir benar! 'Coba lagi!' = Coba lagi! Ungkapan-ungkapan ini sangat umum digunakan di kelas bahasa Indonesia."
+      },
+      "examples": [
+        {
+          "source": "Bagus! Du udtaler det korrekt.",
+          "target": "Bagus! Kamu mengucapkannya dengan benar."
+        },
+        {
+          "source": "Næsten rigtigt – prøv igen.",
+          "target": "Hampir benar – coba lagi."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Udfyld dette selvvurderingsskema for Tema 0. For hvert punkt: skriv 1 (behøver mere øvelse), 2 (nogenlunde) eller 3 (sikker): Vokaler a/i/o/u / Åben-E og lukket-E / Diftonger ai, au, oi / Konsonant C / Konsonant G / Konsonant J / Lyd NG / Lyd NY / Konsonant R / Betoning på næstsidste stavelse / Stavelsesopdelinger.",
+        "en": "Complete this self-assessment checklist for Theme 0. For each item, write 1 (needs more practice), 2 (fairly confident), or 3 (confident): Vowels a/i/o/u / Open-E and closed-E / Diphthongs ai, au, oi / Consonant C / Consonant G / Consonant J / Sound NG / Sound NY / Consonant R / Stress on second-to-last syllable / Syllable divisions.",
+        "id": "Isi daftar periksa penilaian diri ini untuk Tema 0. Untuk setiap item, tulis 1 (perlu lebih banyak latihan), 2 (cukup percaya diri), atau 3 (percaya diri): Vokal a/i/o/u / E terbuka dan E tertutup / Diftong ai, au, oi / Konsonan C / Konsonan G / Konsonan J / Bunyi NG / Bunyi NY / Konsonan R / Tekanan pada suku kata kedua dari belakang / Pembagian suku kata."
+      },
+      "answerShape": {
+        "da": "Individuelle vurderinger. Mål: de fleste punkter bør score 2 eller 3 efter Tema 0. Eventuelle 1'ere er prioriteringer for ekstra øvelse.",
+        "en": "Individual assessments. Goal: most items should score 2 or 3 after Theme 0. Any 1s are priorities for extra practice.",
+        "id": "Penilaian individual. Tujuan: sebagian besar item harus mendapat skor 2 atau 3 setelah Tema 0. Nilai 1 adalah prioritas untuk latihan tambahan."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig denne konsolideringstekst højt – en gang langsomt, en gang i normalt tempo: 'Coba belajar bahasa Indonesia setiap hari. Dengan berlatih, kamu pasti bisa. Saya ingin pergi ke Bali dan Yogyakarta. Pandai berbicara adalah impian saya.'",
+        "en": "Say this consolidation text aloud – once slowly, once at normal speed: 'Coba belajar bahasa Indonesia setiap hari. Dengan berlatih, kamu pasti bisa. Saya ingin pergi ke Bali dan Yogyakarta. Pandai berbicara adalah impian saya.'",
+        "id": "Ucapkan teks konsolidasi ini dengan keras – sekali perlahan, sekali dengan kecepatan normal: 'Coba belajar bahasa Indonesia setiap hari. Dengan berlatih, kamu pasti bisa. Saya ingin pergi ke Bali dan Yogyakarta. Pandai berbicara adalah impian saya.'"
+      },
+      "answerShape": {
+        "da": "Fokuspunkter: C='tj' i 'coba', hårdt G i 'dengan', AI-diftong i 'pandai', tryk på næstsidste stavelse i 'belajar', 'berlatih', 'berbicara', korrekte stednavne.",
+        "en": "Focus points: C='tj' in 'coba', hard G in 'dengan', AI diphthong in 'pandai', stress on second-to-last syllable in 'belajar', 'berlatih', 'berbicara', correct place names.",
+        "id": "Poin fokus: C='tj' dalam 'coba', G keras dalam 'dengan', diftong AI dalam 'pandai', tekanan pada suku kata kedua dari belakang dalam 'belajar', 'berlatih', 'berbicara', nama tempat yang benar."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til den fulde konsolideringstekst og identificer: (1) Hvilket ord har en diftong? (2) Hvilket ord bruger lyden NG? (3) Hvilket stednavn hører du? Skriv dine svar.",
+        "en": "Listen to the full consolidation text and identify: (1) Which word has a diphthong? (2) Which word uses the NG sound? (3) Which place name do you hear? Write your answers.",
+        "id": "Dengarkan teks konsolidasi lengkap dan identifikasi: (1) Kata mana yang memiliki diftong? (2) Kata mana yang menggunakan bunyi NG? (3) Nama tempat mana yang Anda dengar? Tuliskan jawaban Anda."
+      },
+      "answerShape": {
+        "da": "(1) 'pandai' (AI-diftong). (2) 'dengan' (NG-lyd). (3) 'Bali' og 'Yogyakarta'.",
+        "en": "(1) 'pandai' (AI diphthong). (2) 'dengan' (NG sound). (3) 'Bali' and 'Yogyakarta'.",
+        "id": "(1) 'pandai' (diftong AI). (2) 'dengan' (bunyi NG). (3) 'Bali' dan 'Yogyakarta'."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme00-lesson08-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Tema 0 konsolidering: alle udtaleelementer samlet",
+        "en": "Theme 0 consolidation: all pronunciation elements together",
+        "id": "Konsolidasi Tema 0: semua elemen pengucapan digabungkan"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

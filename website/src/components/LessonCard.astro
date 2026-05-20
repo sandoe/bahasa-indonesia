@@ -1,0 +1,124 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { uiCopy, type LearningPair, type UiLocale } from "@data/site";
+import { t } from "@lib/i18n";
+
+interface Props {
+  lesson: CollectionEntry<"lessons">;
+  locale: UiLocale;
+  pair: LearningPair;
+}
+
+const { lesson, locale, pair } = Astro.props;
+const lessonLabel = {
+  da: "Lektion",
+  en: "Lesson",
+  id: "Pelajaran"
+} as const;
+const openLessonLabel = {
+  da: "Åbn lektion",
+  en: "Open lesson",
+  id: "Buka pelajaran"
+} as const;
+const minuteLabel = {
+  da: "min",
+  en: "min",
+  id: "menit"
+} as const;
+---
+
+<a
+  class="lesson-card"
+  href={`/${locale}/${pair}/${lesson.data.courseSlug}/${lesson.data.unit.slug}/${lesson.data.slug}/`}
+>
+  <div class="lesson-meta">
+    <span class="theme-tag">{t(uiCopy.themeLabel, locale)} {lesson.data.unit.order}</span>
+    <span class="lesson-order">{lessonLabel[locale]} {lesson.data.order}</span>
+    <span class="duration">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+      {lesson.data.durationMinutes} {minuteLabel[locale]}
+    </span>
+  </div>
+  <h4>{t(lesson.data.title, locale)}</h4>
+  <p>{t(lesson.data.summary, locale)}</p>
+  <span class="lesson-cta">{openLessonLabel[locale]}</span>
+</a>
+
+<style>
+  .lesson-card {
+    background: white;
+    border: 1px solid var(--line);
+    border-radius: 18px;
+    padding: 1.5rem;
+    text-decoration: none;
+    color: var(--ink);
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+    min-height: 100%;
+  }
+  .lesson-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--teal);
+    box-shadow: var(--shadow);
+  }
+  .lesson-meta {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.6rem 0.9rem;
+    margin-bottom: 0.2rem;
+  }
+  .theme-tag {
+    font-size: 0.7rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--accent);
+  }
+  .lesson-order {
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--teal);
+    background: rgba(28, 77, 79, 0.08);
+    padding: 0.22rem 0.55rem;
+    border-radius: 999px;
+  }
+  .duration {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--muted);
+    margin-left: auto;
+  }
+  .lesson-card h4 {
+    font-size: 1.25rem;
+    margin: 0;
+    color: var(--teal);
+    line-height: 1.2;
+  }
+  .lesson-card p {
+    font-size: 0.95rem;
+    color: var(--muted);
+    line-height: 1.5;
+    margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .lesson-cta {
+    margin-top: auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: var(--teal);
+    font-size: 0.9rem;
+    font-weight: 800;
+  }
+</style>

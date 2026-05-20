@@ -1,0 +1,301 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 4,
+  "slug": "lesson-04",
+  "durationMinutes": 30,
+  "title": {
+    "da": "Betoning og Stavelser",
+    "en": "Stress and Syllables",
+    "id": "Tekanan dan Suku Kata"
+  },
+  "summary": {
+    "da": "Indonesisk har et konsistent betoningsmønster: trykket falder normalt på den næstsidste stavelse. Lær at opdele ord i stavelser og øv med ord som be-la-jar, ma-kan og men-de-gar.",
+    "en": "Indonesian has a consistent stress pattern: the accent normally falls on the second-to-last syllable. Learn to divide words into syllables and practise with words such as be-la-jar, ma-kan, and men-de-gar.",
+    "id": "Bahasa Indonesia memiliki pola tekanan yang konsisten: tekanan biasanya jatuh pada suku kata kedua dari belakang. Pelajari cara membagi kata menjadi suku kata dan berlatihlah dengan kata-kata seperti be-la-jar, ma-kan, dan men-de-gar."
+  },
+  "objectives": [
+    {
+      "da": "Opdele indonesiske ord i stavelser korrekt",
+      "en": "Divide Indonesian words into syllables correctly",
+      "id": "Membagi kata-kata bahasa Indonesia menjadi suku kata dengan benar"
+    },
+    {
+      "da": "Anvende reglen om tryk på næstsidste stavelse konsekvent",
+      "en": "Apply the second-to-last syllable stress rule consistently",
+      "id": "Menerapkan aturan tekanan pada suku kata kedua dari belakang secara konsisten"
+    },
+    {
+      "da": "Klappe stavelserne i ord som be-la-jar, ma-kan og men-de-gar",
+      "en": "Clap the syllables in words such as be-la-jar, ma-kan, and men-de-gar",
+      "id": "Menepuk suku kata dalam kata-kata seperti be-la-jar, ma-kan, dan men-de-gar"
+    }
+  ],
+  "unit": {
+    "slug": "theme-00",
+    "order": 0,
+    "title": {
+      "da": "Tema 0: Fundamentet",
+      "en": "Theme 0: The Foundation",
+      "id": "Tema 0: Dasar"
+    },
+    "summary": {
+      "da": "Sprogets byggesten: Bogstaver, lyde og de første regler.",
+      "en": "Building blocks: Letters, sounds, first rules.",
+      "id": "Fondasi bahasa: huruf, bunyi, aturan pertama."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Klap rytmen i dit eget navn: [dit-navn]. Spørg eleverne at gøre det samme. Introducer derefter stavelsesbegrebet: 'En stavelse = én vokallyds kerne.' Skriv 'makan' på tavlen og klap mens du siger: MA-KAN.",
+        "en": "Clap the rhythm of your own name: [your-name]. Ask students to do the same. Then introduce the concept of syllables: 'A syllable = one vowel sound core.' Write 'makan' on the board and clap while saying: MA-KAN.",
+        "id": "Tepuk ritme nama Anda sendiri: [nama-anda]. Minta siswa melakukan hal yang sama. Kemudian perkenalkan konsep suku kata: 'Suku kata = satu inti bunyi vokal.' Tulis 'makan' di papan dan tepuk sambil berkata: MA-KAN."
+      },
+      "flow": [
+        {
+          "da": "Stavelsesinddelingsøvelse: Skriv 10 ord på tavlen og bed eleverne om at opdele dem med bindestreger. Brug ord fra lektionens vokabular. Gå rundt og kontroller. Vigtig regel: én konsonant imellem vokaler tilhører den næste stavelse (ma-kan, bu-ku).",
+          "en": "Syllable division exercise: Write 10 words on the board and ask students to divide them with hyphens. Use words from the lesson vocabulary. Walk around and check. Key rule: one consonant between vowels belongs to the next syllable (ma-kan, bu-ku).",
+          "id": "Latihan pembagian suku kata: Tulis 10 kata di papan dan minta siswa membaginya dengan tanda hubung. Gunakan kata-kata dari kosakata pelajaran. Berkeliling dan periksa. Aturan penting: satu konsonan di antara vokal termasuk suku kata berikutnya (ma-kan, bu-ku)."
+        },
+        {
+          "da": "Betoningsregel: Vis at trykket i 99% af indonesiske ord falder på næstsidste stavelse. Demonstrer ved at overdrive betoningen: be-LA-jar, ma-KAN, men-de-GAR. Eleverne gentager med overdrevet tryk.",
+          "en": "Stress rule: Show that the stress in 99% of Indonesian words falls on the second-to-last syllable. Demonstrate by exaggerating the stress: be-LA-jar, ma-KAN, men-de-GAR. Students repeat with exaggerated stress.",
+          "id": "Aturan tekanan: Tunjukkan bahwa tekanan dalam 99% kata bahasa Indonesia jatuh pada suku kata kedua dari belakang. Demonstrasikan dengan melebih-lebihkan tekanan: be-LA-jar, ma-KAN, men-de-GAR. Siswa mengulangi dengan tekanan yang dilebih-lebihkan."
+        },
+        {
+          "da": "Klappespil: Læreren siger et ord, eleverne klappers stavelserne. Derefter peger læreren og en elev gentager – denne gang med korrekt betoning. Brug dialogeksemplet til at afslutte.",
+          "en": "Clapping game: The teacher says a word, students clap the syllables. Then the teacher points and a student repeats – this time with correct stress. Use the dialogue example to close.",
+          "id": "Permainan tepuk: Guru mengucapkan sebuah kata, siswa menepuk suku katanya. Kemudian guru menunjuk dan seorang siswa mengulangi – kali ini dengan tekanan yang benar. Gunakan contoh dialog untuk menutup."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Dansk har meget komplekse betoningsregler med mange undtagelser. Fortæl eleverne det gode nyt: indonesisk er næsten undtagelsesfrit. Ord med præfikser (me-, ber-, pe-) betones stadig på næstsidste stavelse af rodformen.",
+          "en": "Danish has very complex stress rules with many exceptions. Tell students the good news: Indonesian is nearly exception-free. Words with prefixes (me-, ber-, pe-) are still stressed on the second-to-last syllable of the root form.",
+          "id": "Bahasa Denmark memiliki aturan tekanan yang sangat kompleks dengan banyak pengecualian. Beritahu siswa kabar baiknya: bahasa Indonesia hampir bebas pengecualian. Kata-kata dengan awalan (me-, ber-, pe-) masih diberi tekanan pada suku kata kedua dari belakang dari bentuk dasar."
+        },
+        {
+          "da": "Stavelsesinddelingsregler: VC-V → V-CV (a-kan, bu-ku). VCC-V → VC-CV (ting-gal, kan-tor). Præsentér kun den første regel i denne lektion – den anden er til et fremtidigt niveau.",
+          "en": "Syllable division rules: VC-V → V-CV (a-kan, bu-ku). VCC-V → VC-CV (ting-gal, kan-tor). Present only the first rule in this lesson – the second is for a future level.",
+          "id": "Aturan pembagian suku kata: VC-V → V-CV (a-kan, bu-ku). VCC-V → VC-CV (ting-gal, kan-tor). Sajikan hanya aturan pertama dalam pelajaran ini – yang kedua untuk tingkat yang lebih lanjut."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Opdel disse ord i stavelser og markér den betonede stavelse med store bogstaver: belajar, makan, mendengar, bicara, Indonesia, universitas, bekerja.",
+          "en": "Divide these words into syllables and mark the stressed syllable in capitals: belajar, makan, mendengar, bicara, Indonesia, universitas, bekerja.",
+          "id": "Bagi kata-kata ini menjadi suku kata dan tandai suku kata yang ditekankan dengan huruf kapital: belajar, makan, mendengar, bicara, Indonesia, universitas, bekerja."
+        },
+        {
+          "da": "Klap stavelserne i fem nye ord du finder selv (fx fra en indonesisk sang eller et websted). Skriv dem ned med stavelsesinddelingen.",
+          "en": "Clap the syllables in five new words you find yourself (e.g. from an Indonesian song or website). Write them down with the syllable division.",
+          "id": "Tepuk suku kata dalam lima kata baru yang Anda temukan sendiri (mis. dari lagu atau situs web Indonesia). Tuliskan dengan pembagian suku katanya."
+        },
+        {
+          "da": "Lyt til dialogeksemplet og klap med – identificer hvilken stavelse der betones i hvert ord med to eller flere stavelser.",
+          "en": "Listen to the dialogue example and clap along – identify which syllable is stressed in each word with two or more syllables.",
+          "id": "Dengarkan contoh dialog dan tepuk bersama – identifikasi suku kata mana yang ditekankan dalam setiap kata yang memiliki dua suku kata atau lebih."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du opdele 'universitas' i stavelser og betone den rigtige? (u-ni-VER-si-tas)",
+          "en": "Can you divide 'universitas' into syllables and stress the right one? (u-ni-VER-si-tas)",
+          "id": "Dapatkah Anda membagi 'universitas' menjadi suku kata dan menekankan yang benar? (u-ni-VER-si-tas)"
+        },
+        {
+          "da": "Kan du klappe rytmen i en hel sætning som 'Saya mau belajar bahasa Indonesia'?",
+          "en": "Can you clap the rhythm in a whole sentence such as 'Saya mau belajar bahasa Indonesia'?",
+          "id": "Dapatkah Anda menepuk ritme dalam seluruh kalimat seperti 'Saya mau belajar bahasa Indonesia'?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Guru",
+      "source": "Nu vil vi øve stavelser. Klap med mig: MA-KAN. To klap – to stavelser.",
+      "target": "Sekarang kita berlatih suku kata. Tepuk bersama saya: MA-KAN. Dua tepukan – dua suku kata."
+    },
+    {
+      "speaker": "Murid",
+      "source": "MA-KAN. Som at spise, ikke?",
+      "target": "MA-KAN. Artinya makan, kan?"
+    },
+    {
+      "speaker": "Guru",
+      "source": "Præcis! Og nu et sværere ord: be-la-jar. Tre klap.",
+      "target": "Tepat! Sekarang kata yang lebih sulit: be-la-jar. Tiga tepukan."
+    },
+    {
+      "speaker": "Murid",
+      "source": "BE-la-jar? Er det B'et der er betont?",
+      "target": "BE-la-jar? Apakah B yang ditekankan?"
+    },
+    {
+      "speaker": "Guru",
+      "source": "Ikke helt – reglen er: tryk på næstsidste stavelse. 'Belajar' har tre stavelser: be-LA-jar. Den midterste er betont.",
+      "target": "Belum tepat – aturannya: tekanan pada suku kata kedua dari belakang. 'Belajar' punya tiga suku kata: be-LA-jar. Yang tengah ditekankan."
+    },
+    {
+      "speaker": "Murid",
+      "source": "be-LA-jar! Det giver mening. Og 'mendengar' – men-de-NGAR?",
+      "target": "be-LA-jar! Masuk akal. Dan 'mendengar' – men-de-NGAR?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "at lære / studere",
+      "target": "belajar",
+      "note": {
+        "da": "3 stavelser: be-LA-jar. Tryk på LA. Kommer af 'ajar' (at undervise/lære).",
+        "en": "3 syllables: be-LA-jar. Stress on LA. Comes from 'ajar' (to teach/learn).",
+        "id": "3 suku kata: be-LA-jar. Tekanan pada LA. Berasal dari kata dasar 'ajar'."
+      }
+    },
+    {
+      "source": "at spise",
+      "target": "makan",
+      "note": {
+        "da": "2 stavelser: ma-KAN. Tryk på KAN. Et af de mest basale hverdagsord.",
+        "en": "2 syllables: ma-KAN. Stress on KAN. One of the most basic everyday words.",
+        "id": "2 suku kata: ma-KAN. Tekanan pada KAN. Salah satu kata sehari-hari paling dasar."
+      }
+    },
+    {
+      "source": "at lytte / at høre",
+      "target": "mendengar",
+      "note": {
+        "da": "4 stavelser: men-de-NGAR. Tryk på NGAR. Roden er 'dengar' (lyd/lytning).",
+        "en": "4 syllables: men-de-NGAR (or men-DE-ngar in careful speech). Root is 'dengar' (sound/listening).",
+        "id": "4 suku kata: men-de-NGAR. Tekanan pada suku kata kedua dari belakang. Kata dasar adalah 'dengar'."
+      }
+    },
+    {
+      "source": "at tale / snakke",
+      "target": "bicara",
+      "note": {
+        "da": "3 stavelser: bi-CA-ra. Tryk på CA.",
+        "en": "3 syllables: bi-CA-ra. Stress on CA.",
+        "id": "3 suku kata: bi-CA-ra. Tekanan pada CA."
+      }
+    },
+    {
+      "source": "Indonesia",
+      "target": "Indonesia",
+      "note": {
+        "da": "6 stavelser: In-do-NE-si-a... Tryk falder på NE (næstsidste betydningsfulde stavelse). I daglig tale: In-do-NE-sya.",
+        "en": "5 syllables in Indonesian speech: In-do-NE-sia. Stress on NE. In everyday speech often: In-do-NE-sya.",
+        "id": "5 suku kata: In-do-NE-sia. Tekanan pada NE. Dalam percakapan sehari-hari sering: In-do-NE-sya."
+      }
+    },
+    {
+      "source": "at arbejde",
+      "target": "bekerja",
+      "note": {
+        "da": "3 stavelser: be-KER-ja. Tryk på KER. Roden er 'kerja' (arbejde).",
+        "en": "3 syllables: be-KER-ja. Stress on KER. Root is 'kerja' (work).",
+        "id": "3 suku kata: be-KER-ja. Tekanan pada KER. Kata dasar adalah 'kerja' (pekerjaan)."
+      }
+    },
+    {
+      "source": "sprog",
+      "target": "bahasa",
+      "note": {
+        "da": "3 stavelser: ba-HA-sa. Tryk på HA. 'Bahasa Indonesia' = det indonesiske sprog.",
+        "en": "3 syllables: ba-HA-sa. Stress on HA. 'Bahasa Indonesia' = the Indonesian language.",
+        "id": "3 suku kata: ba-HA-sa. Tekanan pada HA. 'Bahasa Indonesia' = bahasa Indonesia."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Betoningsregel: penúltimate stavelse (næstsidste)",
+      "explanation": {
+        "da": "I indonesisk falder trykket næsten altid på den næstsidste stavelse af ordet (kaldet 'penúltimate' på latin). For 2-stavelsesord: det er den første stavelse (MA-kan, BU-ku, PA-gi). For 3-stavelsesord: det er den midterste (be-LA-jar, bi-CA-ra). For 4+ stavelser: tæl altid fra slutningen: næstsidste.",
+        "en": "In Indonesian the stress almost always falls on the second-to-last syllable of the word (called 'penultimate'). For 2-syllable words: it is the first syllable (MA-kan, BU-ku, PA-gi). For 3-syllable words: it is the middle one (be-LA-jar, bi-CA-ra). For 4+ syllables: always count from the end: second-to-last.",
+        "id": "Dalam bahasa Indonesia, tekanan hampir selalu jatuh pada suku kata kedua dari belakang (disebut 'penultimate'). Untuk kata 2 suku kata: itu adalah suku kata pertama (MA-kan, BU-ku, PA-gi). Untuk kata 3 suku kata: itu adalah yang tengah (be-LA-jar, bi-CA-ra). Untuk 4+ suku kata: selalu hitung dari akhir: kedua dari belakang."
+      },
+      "examples": [
+        {
+          "source": "2 stavelser: MA-kan (spise), PA-gi (morgen), BU-ku (bog)",
+          "target": "2 suku kata: MA-kan, PA-gi, BU-ku"
+        },
+        {
+          "source": "3 stavelser: be-LA-jar (lære), bi-CA-ra (tale), ba-HA-sa (sprog)",
+          "target": "3 suku kata: be-LA-jar, bi-CA-ra, ba-HA-sa"
+        },
+        {
+          "source": "4 stavelser: men-de-NGAR (høre), u-ni-VER-si-tas (universitet)",
+          "target": "4 suku kata: men-de-NGAR, u-ni-VER-si-tas"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til de følgende ord og skriv antallet af stavelser: belajar, makan, bahasa, Indonesia, bekerja, pagi, universitas.",
+        "en": "Listen to the following words and write the number of syllables: belajar, makan, bahasa, Indonesia, bekerja, pagi, universitas.",
+        "id": "Dengarkan kata-kata berikut dan tuliskan jumlah suku kata: belajar, makan, bahasa, Indonesia, bekerja, pagi, universitas."
+      },
+      "answerShape": {
+        "da": "belajar=3, makan=2, bahasa=3, Indonesia=5, bekerja=3, pagi=2, universitas=5",
+        "en": "belajar=3, makan=2, bahasa=3, Indonesia=5, bekerja=3, pagi=2, universitas=5",
+        "id": "belajar=3, makan=2, bahasa=3, Indonesia=5, bekerja=3, pagi=2, universitas=5"
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Klap stavelserne og sig disse ord med korrekt betoning: be-la-jar / ma-kan / men-de-ngar / bi-ca-ra / ba-ha-sa. Overdrev betoningen tydeligt.",
+        "en": "Clap the syllables and say these words with correct stress: be-la-jar / ma-kan / men-de-ngar / bi-ca-ra / ba-ha-sa. Exaggerate the stress clearly.",
+        "id": "Tepuk suku kata dan ucapkan kata-kata ini dengan tekanan yang benar: be-la-jar / ma-kan / men-de-ngar / bi-ca-ra / ba-ha-sa. Lebih-lebihkan tekanannya dengan jelas."
+      },
+      "answerShape": {
+        "da": "be-LA-jar, ma-KAN, men-de-NGAR, bi-CA-ra, ba-HA-sa. Tryk tydeligt på næstsidste stavelse.",
+        "en": "be-LA-jar, ma-KAN, men-de-NGAR, bi-CA-ra, ba-HA-sa. Clearly stress the second-to-last syllable.",
+        "id": "be-LA-jar, ma-KAN, men-de-NGAR, bi-CA-ra, ba-HA-sa. Tekankan dengan jelas suku kata kedua dari belakang."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Sæt stavestreger i de rigtige steder og marker den betonede stavelse: belajar → ___-___-___ / mendengar → ___-___-___-___ / universitas → ___-___-___-___-___",
+        "en": "Place syllable divisions in the correct places and mark the stressed syllable: belajar → ___-___-___ / mendengar → ___-___-___-___ / universitas → ___-___-___-___-___",
+        "id": "Tempatkan tanda pembagian suku kata di tempat yang tepat dan tandai suku kata yang ditekankan: belajar → ___-___-___ / mendengar → ___-___-___-___ / universitas → ___-___-___-___-___"
+      },
+      "answerShape": {
+        "da": "be-LA-jar / men-de-NGAR / u-ni-VER-si-tas",
+        "en": "be-LA-jar / men-de-NGAR / u-ni-VER-si-tas",
+        "id": "be-LA-jar / men-de-NGAR / u-ni-VER-si-tas"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme00-lesson05-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Stavelsesklappning og betoningsregler i indonesisk",
+        "en": "Syllable clapping and stress rules in Indonesian",
+        "id": "Menepuk suku kata dan aturan tekanan dalam bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

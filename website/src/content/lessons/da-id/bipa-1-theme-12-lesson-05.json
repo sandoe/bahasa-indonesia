@@ -1,0 +1,327 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 5,
+  "slug": "lesson-05",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Di Apotek – På apoteket",
+    "en": "Di Apotek – At the Pharmacy",
+    "id": "Di Apotek – Di Apotek"
+  },
+  "summary": {
+    "da": "Lær at købe medicin på et indonesisk apotek: spørg efter medicin, forstå dosis-instruktioner og spørg om brug.",
+    "en": "Learn to buy medicine at an Indonesian pharmacy: ask for medicine, understand dosage instructions, and ask about usage.",
+    "id": "Pelajari cara membeli obat di apotek Indonesia: meminta obat, memahami petunjuk dosis, dan bertanya tentang penggunaan."
+  },
+  "objectives": [
+    {
+      "da": "Spørge efter specifikke typer medicin på indonesisk.",
+      "en": "Ask for specific types of medicine in Indonesian.",
+      "id": "Meminta jenis obat tertentu dalam bahasa Indonesia."
+    },
+    {
+      "da": "Forstå og gengive dosisinstruktioner som 'Diminum tiga kali sehari'.",
+      "en": "Understand and repeat dosage instructions such as 'Diminum tiga kali sehari'.",
+      "id": "Memahami dan mengulang petunjuk dosis seperti 'Diminum tiga kali sehari'."
+    },
+    {
+      "da": "Gennemføre en simpel apoteksdialog om at købe håndkøbsmedicin.",
+      "en": "Complete a simple pharmacy dialogue about buying over-the-counter medicine.",
+      "id": "Menyelesaikan dialog apotek sederhana tentang membeli obat bebas."
+    }
+  ],
+  "unit": {
+    "slug": "theme-12",
+    "order": 12,
+    "title": {
+      "da": "Tema 12: Krop & Helbred",
+      "en": "Theme 12: Body & Health",
+      "id": "Tema 12: Tubuh & Kesehatan"
+    },
+    "summary": {
+      "da": "Legemsdele, sygdom og sundhed i indonesisk kontekst.",
+      "en": "Body parts, illness, and health in an Indonesian context.",
+      "id": "Bagian tubuh, penyakit, dan kesehatan dalam konteks Indonesia."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis billeder af almindelige indonesiske medicinpakker. Spørg: 'Hvad er det her? Kender I disse ord?' Introducer 'apotek' og forklar, at mange almindelige lægemidler fås håndkøb i Indonesien.",
+        "en": "Show pictures of common Indonesian medicine packages. Ask: 'What is this? Do you recognise these words?' Introduce 'apotek' and explain that many common medicines are available over the counter in Indonesia.",
+        "id": "Tunjukkan gambar kemasan obat Indonesia yang umum. Tanya: 'Apa ini? Apakah kalian mengenal kata-kata ini?' Perkenalkan 'apotek' dan jelaskan bahwa banyak obat umum tersedia tanpa resep di Indonesia."
+      },
+      "flow": [
+        {
+          "da": "Introducer medicinordforråd (10 min): Præsenter apoteksord og medicintyper. Fokuser på opbygningen 'obat + sygdom' (f.eks. obat batuk, obat sakit kepala). Lad eleverne bygge nye kombinationer.",
+          "en": "Introduce medicine vocabulary (10 min): Present pharmacy words and medicine types. Focus on the structure 'obat + illness' (e.g. obat batuk, obat sakit kepala). Let students build new combinations.",
+          "id": "Perkenalkan kosakata obat-obatan (10 menit): Sajikan kata-kata apotek dan jenis obat. Fokus pada struktur 'obat + penyakit' (mis. obat batuk, obat sakit kepala). Biarkan siswa membuat kombinasi baru."
+        },
+        {
+          "da": "Øv dosisinstruktioner (12 min): Skriv 'Diminum ... kali sehari' på tavlen med forskellige tal. Eleverne øver i kor: 'Diminum dua kali sehari', 'Diminum tiga kali sehari' osv. Forklar 'diminum' (passiv af 'minum' = drikke/tage).",
+          "en": "Practise dosage instructions (12 min): Write 'Diminum ... kali sehari' on the board with different numbers. Students practise in chorus: 'Diminum dua kali sehari', 'Diminum tiga kali sehari' etc. Explain 'diminum' (passive of 'minum' = to drink/take).",
+          "id": "Latih petunjuk dosis (12 menit): Tulis 'Diminum ... kali sehari' di papan dengan berbagai angka. Siswa berlatih bersama-sama: 'Diminum dua kali sehari', 'Diminum tiga kali sehari' dll. Jelaskan 'diminum' (pasif dari 'minum')."
+        },
+        {
+          "da": "Rollespil på apoteket (13 min): Eleverne spiller apoteker og kunde. Kunden siger sit symptom; apotekeren anbefaler medicin og forklarer dosis. Brug dialogskabelonen.",
+          "en": "Role-play at the pharmacy (13 min): Students play pharmacist and customer. The customer states their symptom; the pharmacist recommends medicine and explains the dosage. Use the dialogue template.",
+          "id": "Bermain peran di apotek (13 menit): Siswa memerankan apoteker dan pelanggan. Pelanggan menyatakan gejalanya; apoteker merekomendasikan obat dan menjelaskan dosis. Gunakan template dialog."
+        }
+      ],
+      "notes": [
+        {
+          "da": "'Diminum' er passiv-formen og bruges i instruktionstekster. Aktiv-formen er 'minum' ('drikke'). Passiv er meget udbredt i indonesisk til instruktioner og skilte — undgå at gøre dette til en grammatiklektion, men fremhæv mønsteret.",
+          "en": "'Diminum' is the passive form and is used in instruction texts. The active form is 'minum' ('to drink'). Passive is very common in Indonesian for instructions and signs — avoid making this a grammar lesson, but highlight the pattern.",
+          "id": "'Diminum' adalah bentuk pasif dan digunakan dalam teks instruksi. Bentuk aktif adalah 'minum'. Pasif sangat umum dalam bahasa Indonesia untuk instruksi dan tanda — hindari menjadikannya pelajaran tata bahasa, tetapi soroti polanya."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær 'obat + sygdom'-mønsteret: opbyg fem medicinnavne ved hjælp af ord fra lektion 3 og 4.",
+          "en": "Learn the 'obat + illness' pattern: build five medicine names using words from Lessons 3 and 4.",
+          "id": "Pelajari pola 'obat + penyakit': buat lima nama obat menggunakan kata-kata dari Pelajaran 3 dan 4."
+        },
+        {
+          "da": "Øv dosisinstruktionerne: skriv tre varianter af 'Diminum ... kali sehari' med forskellige tal (én, to, tre gange om dagen).",
+          "en": "Practise the dosage instructions: write three variants of 'Diminum ... kali sehari' with different numbers (once, twice, three times a day).",
+          "id": "Latih petunjuk dosis: tulislah tiga variasi 'Diminum ... kali sehari' dengan angka berbeda (satu, dua, tiga kali sehari)."
+        },
+        {
+          "da": "Læs dialogen og øv din rolle som kunden. Prøv at erstatte medicinen med en anden du har lært.",
+          "en": "Read the dialogue and practise your role as the customer. Try replacing the medicine with another one you have learned.",
+          "id": "Baca dialog dan latih peran Anda sebagai pelanggan. Coba ganti obatnya dengan obat lain yang telah Anda pelajari."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du bede om tre forskellige typer medicin ved hjælp af 'obat + sygdom'-mønsteret?",
+          "en": "Can you ask for three different types of medicine using the 'obat + illness' pattern?",
+          "id": "Bisakah Anda meminta tiga jenis obat berbeda menggunakan pola 'obat + penyakit'?"
+        },
+        {
+          "da": "Kan du forstå og gentage en dosisinstruktion som 'Diminum dua kali sehari setelah makan'?",
+          "en": "Can you understand and repeat a dosage instruction such as 'Diminum dua kali sehari setelah makan'?",
+          "id": "Bisakah Anda memahami dan mengulangi petunjuk dosis seperti 'Diminum dua kali sehari setelah makan'?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Pelanggan (Kunde)",
+      "source": "Permisi, ada obat sakit kepala?",
+      "target": "Permisi, ada obat sakit kepala?"
+    },
+    {
+      "speaker": "Apoteker (Apoteker)",
+      "source": "Ada. Ini paracetamol. Beli berapa tablet?",
+      "target": "Ada. Ini paracetamol. Beli berapa tablet?"
+    },
+    {
+      "speaker": "Pelanggan (Kunde)",
+      "source": "Satu strip saja. Aturan pakainya bagaimana?",
+      "target": "Satu strip saja. Aturan pakainya bagaimana?"
+    },
+    {
+      "speaker": "Apoteker (Apoteker)",
+      "source": "Diminum dua kali sehari, satu tablet setiap kali minum. Sebaiknya setelah makan.",
+      "target": "Diminum dua kali sehari, satu tablet setiap kali minum. Sebaiknya setelah makan."
+    },
+    {
+      "speaker": "Pelanggan (Kunde)",
+      "source": "Ada juga obat batuk?",
+      "target": "Ada juga obat batuk?"
+    },
+    {
+      "speaker": "Apoteker (Apoteker)",
+      "source": "Ada. Ini obat batuk sirup. Diminum tiga kali sehari, satu sendok makan.",
+      "target": "Ada. Ini obat batuk sirup. Diminum tiga kali sehari, satu sendok makan."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "apotek",
+      "target": "apotek",
+      "note": {
+        "da": "Næsten identisk med det danske ord. Indonesiske apoteker sælger mange lægemidler håndkøb.",
+        "en": "Almost identical to the Danish word. Indonesian pharmacies sell many medicines over the counter.",
+        "id": "Hampir identik dengan kata Denmark. Apotek Indonesia menjual banyak obat tanpa resep."
+      }
+    },
+    {
+      "source": "medicin / lægemiddel",
+      "target": "obat",
+      "note": {
+        "da": "Bruges som præfiks i sammensætninger: 'obat batuk' (hostmedicin), 'obat demam' (febernedsættende).",
+        "en": "Used as a prefix in compounds: 'obat batuk' (cough medicine), 'obat demam' (fever reducer).",
+        "id": "Digunakan sebagai prefiks dalam gabungan: 'obat batuk', 'obat demam'."
+      }
+    },
+    {
+      "source": "hostmedicin",
+      "target": "obat batuk",
+      "note": {
+        "da": "Kombination af 'obat' + 'batuk' (hoste). Mønsteret er produktivt.",
+        "en": "Combination of 'obat' + 'batuk' (cough). The pattern is productive.",
+        "id": "Kombinasi 'obat' + 'batuk'. Pola ini produktif."
+      }
+    },
+    {
+      "source": "vitamin",
+      "target": "vitamin",
+      "note": {
+        "da": "Internationalt ord; udtales [vi-ta-min].",
+        "en": "International word; pronounced [vi-ta-min].",
+        "id": "Kata internasional; diucapkan [vi-ta-min]."
+      }
+    },
+    {
+      "source": "antibiotikum",
+      "target": "antibiotik",
+      "note": {
+        "da": "Kræver recept i formelle sammenhænge; bruges som på dansk.",
+        "en": "Requires a prescription in formal contexts; used similarly to Danish.",
+        "id": "Memerlukan resep dalam konteks formal; digunakan serupa dengan bahasa Denmark."
+      }
+    },
+    {
+      "source": "dosis",
+      "target": "dosis",
+      "note": {
+        "da": "Samme ord som på dansk.",
+        "en": "Same word as in Danish.",
+        "id": "Kata yang sama dengan bahasa Denmark."
+      }
+    },
+    {
+      "source": "brugsanvisning / doseringsanvisning",
+      "target": "aturan pakai",
+      "note": {
+        "da": "Bogstaveligt: 'brugeregler'. Svarer til 'brugsanvisning' på medicinæsker.",
+        "en": "Literally: 'rules of use'. Equivalent to the usage instructions on medicine boxes.",
+        "id": "Harfiah: 'aturan penggunaan'. Setara dengan petunjuk penggunaan pada kotak obat."
+      }
+    },
+    {
+      "source": "tages ... gange om dagen",
+      "target": "diminum ... kali sehari",
+      "note": {
+        "da": "'Diminum' er passivformen (at tages/drikkes). 'Kali' = gange, 'sehari' = om dagen.",
+        "en": "'Diminum' is the passive form (to be taken/drunk). 'Kali' = times, 'sehari' = per day.",
+        "id": "'Diminum' adalah bentuk pasif. 'Kali' = kali, 'sehari' = per hari."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Obat + [penyakit/gejala]",
+      "explanation": {
+        "da": "Medicinnavne dannes ved at kombinere 'obat' (medicin) med det relevante sygdoms- eller symptomord. Mønsteret er fuldt produktivt og svarer til det danske 'X-medicin' eller 'medicin mod X'.",
+        "en": "Medicine names are formed by combining 'obat' (medicine) with the relevant illness or symptom word. The pattern is fully productive and corresponds to the Danish 'X medicine' or 'medicine for X'.",
+        "id": "Nama obat dibentuk dengan menggabungkan 'obat' dengan kata penyakit atau gejala yang relevan. Polanya sepenuhnya produktif."
+      },
+      "examples": [
+        {
+          "source": "hostmedicin",
+          "target": "obat batuk"
+        },
+        {
+          "source": "febernedsættende medicin",
+          "target": "obat demam"
+        },
+        {
+          "source": "smertelindrende / smertestillende",
+          "target": "obat nyeri / obat sakit"
+        }
+      ]
+    },
+    {
+      "pattern": "Diminum + [antal] + kali sehari",
+      "explanation": {
+        "da": "Passiv-konstruktionen 'di- + verbum' angiver en handling der sker på noget (her: medicinen tages). 'Kali sehari' = gange om dagen. Denne konstruktion er standarden på indonesiske medicinæsker og apotekssedler.",
+        "en": "The passive construction 'di- + verb' indicates an action done to something (here: the medicine is taken). 'Kali sehari' = times per day. This construction is the standard on Indonesian medicine boxes and pharmacy labels.",
+        "id": "Konstruksi pasif 'di- + kata kerja' menunjukkan tindakan yang dilakukan pada sesuatu (di sini: obat diminum). 'Kali sehari' = kali per hari. Konstruksi ini standar pada kotak obat dan label apotek Indonesia."
+      },
+      "examples": [
+        {
+          "source": "Tages én gang om dagen.",
+          "target": "Diminum satu kali sehari."
+        },
+        {
+          "source": "Tages to gange om dagen.",
+          "target": "Diminum dua kali sehari."
+        },
+        {
+          "source": "Tages tre gange om dagen efter måltider.",
+          "target": "Diminum tiga kali sehari setelah makan."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Du er kunde på apoteket. Du har hoste og mavepine. Bed om den rigtige medicin til begge symptomer og spørg om doseringsanvisningerne.",
+        "en": "You are a customer at the pharmacy. You have a cough and a stomachache. Ask for the right medicine for both symptoms and enquire about the dosage instructions.",
+        "id": "Anda adalah pelanggan di apotek. Anda batuk dan sakit perut. Mintalah obat yang tepat untuk kedua gejala dan tanyakan petunjuk dosisnya."
+      },
+      "answerShape": {
+        "da": "Ada obat batuk? / Ada obat sakit perut? Aturan pakainya bagaimana? Diminum [antal] kali sehari.",
+        "en": "Ada obat batuk? / Ada obat sakit perut? Aturan pakainya bagaimana? Diminum [number] kali sehari.",
+        "id": "Ada obat batuk? / Ada obat sakit perut? Aturan pakainya bagaimana? Diminum [angka] kali sehari."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Byg fire medicinnavne ved hjælp af 'obat + sygdom/symptom'-mønsteret. Brug symptomord fra lektion 3.",
+        "en": "Build four medicine names using the 'obat + illness/symptom' pattern. Use symptom words from Lesson 3.",
+        "id": "Buat empat nama obat menggunakan pola 'obat + penyakit/gejala'. Gunakan kata-kata gejala dari Pelajaran 3."
+      },
+      "answerShape": {
+        "da": "f.eks. obat demam, obat pilek, obat sakit gigi, obat sakit kepala.",
+        "en": "e.g. obat demam, obat pilek, obat sakit gigi, obat sakit kepala.",
+        "id": "mis. obat demam, obat pilek, obat sakit gigi, obat sakit kepala."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til tre dosisinstruktioner. Skriv, hvor mange gange om dagen medicinen skal tages i hvert tilfælde.",
+        "en": "Listen to three dosage instructions. Write how many times a day the medicine should be taken in each case.",
+        "id": "Dengarkan tiga petunjuk dosis. Tulislah berapa kali sehari obat harus diminum dalam setiap kasus."
+      },
+      "answerShape": {
+        "da": "Skriv tallene: f.eks. én gang / to gange / tre gange om dagen.",
+        "en": "Write the numbers: e.g. once / twice / three times a day.",
+        "id": "Tulislah angkanya: mis. satu kali / dua kali / tiga kali sehari."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme12-lesson05-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Di Apotek – Køb medicin på indonesisk",
+        "en": "Di Apotek – Buying Medicine in Indonesian",
+        "id": "Di Apotek – Membeli Obat dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Panggilan Hormat – Høflige Tiltaleformer",
+    "en": "Panggilan Hormat – Respectful Address Forms",
+    "id": "Panggilan Hormat – Bentuk Sapaan yang Sopan"
+  },
+  "summary": {
+    "da": "Lær de indonesiske høflighedstitler Bapak, Ibu, Mas, Mbak og Bang, og forstå hvornår og hvordan man bruger dem over for fremmede og bekendtskaber.",
+    "en": "Learn the Indonesian honorifics Bapak, Ibu, Mas, Mbak, and Bang, and understand when and how to use them with strangers and acquaintances.",
+    "id": "Pelajari gelar kehormatan Indonesia Bapak, Ibu, Mas, Mbak, dan Bang, serta pahami kapan dan bagaimana menggunakannya dengan orang asing dan kenalan."
+  },
+  "objectives": [
+    {
+      "da": "Anvende de korrekte tiltaleformer Bapak, Ibu, Mas og Mbak i samtaler.",
+      "en": "Use the correct address forms Bapak, Ibu, Mas, and Mbak in conversations.",
+      "id": "Menggunakan bentuk sapaan yang benar Bapak, Ibu, Mas, dan Mbak dalam percakapan."
+    },
+    {
+      "da": "Forklare den geografiske forskel: Mas/Mbak bruges mest på Java, Bang er typisk for Jakarta.",
+      "en": "Explain the geographic difference: Mas/Mbak are mainly used in Java, Bang is typical of Jakarta.",
+      "id": "Menjelaskan perbedaan geografis: Mas/Mbak terutama digunakan di Jawa, Bang khas Jakarta."
+    },
+    {
+      "da": "Gennemføre en høflig samtale i en butik eller servicesammenhæng.",
+      "en": "Carry out a polite conversation in a shop or service context.",
+      "id": "Melakukan percakapan sopan di toko atau konteks layanan."
+    }
+  ],
+  "unit": {
+    "slug": "theme-04",
+    "order": 4,
+    "title": {
+      "da": "Tema 4: Min Familie",
+      "en": "Theme 4: My Family",
+      "id": "Tema 4: Keluarga Saya"
+    },
+    "summary": {
+      "da": "Familiebetegnelser og at tale om sin familie.",
+      "en": "Family terms and talking about your family.",
+      "id": "Istilah keluarga dan berbicara tentang keluarga."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Lav en rollespilsscene: læreren er en indonesisk butiksejer. Eleverne kommer ind og hilser. Hvad siger de? Diskuter hvad der ville være høfligt.",
+        "en": "Set up a role-play scene: the teacher is an Indonesian shopkeeper. Students enter and greet. What do they say? Discuss what would be polite.",
+        "id": "Buat adegan bermain peran: guru adalah pemilik toko Indonesia. Siswa masuk dan menyapa. Apa yang mereka katakan? Diskusikan apa yang akan sopan."
+      },
+      "flow": [
+        {
+          "da": "Introducer Bapak/Pak og Ibu/Bu som de universelle høflighedsformer. Sammenlign med dansk 'hr.' og 'fru' – men bruges meget oftere i indonesisk.",
+          "en": "Introduce Bapak/Pak and Ibu/Bu as the universal polite forms. Compare with Danish 'hr.' and 'fru' – but used far more frequently in Indonesian.",
+          "id": "Perkenalkan Bapak/Pak dan Ibu/Bu sebagai bentuk sopan yang universal. Bandingkan dengan 'hr.' dan 'fru' dalam bahasa Denmark – tetapi jauh lebih sering digunakan dalam bahasa Indonesia."
+        },
+        {
+          "da": "Tilføj de regionale former: Mas (ældre bror/herre, Jawa) og Mbak (ældre søster/dame, Jawa). Bang bruges i Jakarta. Vis et simpelt kort over Indonesien.",
+          "en": "Add the regional forms: Mas (older brother/sir, Java) and Mbak (older sister/ma'am, Java). Bang is used in Jakarta. Show a simple map of Indonesia.",
+          "id": "Tambahkan bentuk regional: Mas (kakak laki-laki/tuan, Jawa) dan Mbak (kakak perempuan/nyonya, Jawa). Bang digunakan di Jakarta. Tampilkan peta sederhana Indonesia."
+        },
+        {
+          "da": "Øv en butiksscene med rollespil: kunde bruger 'Pak/Bu' og sælger svarer høfligt.",
+          "en": "Practice a shop scene through role-play: customer uses 'Pak/Bu' and seller responds politely.",
+          "id": "Latih adegan toko melalui bermain peran: pelanggan menggunakan 'Pak/Bu' dan penjual merespons dengan sopan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Forklar at disse tiltaleformer er afledt af familierelationer – man behandler fremmede som familie. Dette er dybt kulturelt i Indonesien.",
+          "en": "Explain that these address forms derive from family relations – strangers are treated like family. This is deeply cultural in Indonesia.",
+          "id": "Jelaskan bahwa bentuk sapaan ini berasal dari hubungan keluarga – orang asing diperlakukan seperti keluarga. Ini sangat berbudaya di Indonesia."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Memorér tabellen: Bapak/Pak = mand (formelt/uformelt), Ibu/Bu = kvinde, Mas = ung mand (Jawa), Mbak = ung kvinde (Jawa), Bang = ung mand (Jakarta).",
+          "en": "Memorize the table: Bapak/Pak = man (formal/informal), Ibu/Bu = woman, Mas = young man (Java), Mbak = young woman (Java), Bang = young man (Jakarta).",
+          "id": "Hafal tabel: Bapak/Pak = pria (formal/informal), Ibu/Bu = wanita, Mas = pria muda (Jawa), Mbak = wanita muda (Jawa), Bang = pria muda (Jakarta)."
+        },
+        {
+          "da": "Øv dialogens sætninger højt. Tænk over hvilken tiltaleform du ville bruge i en indonesisk butik.",
+          "en": "Practice the dialogue sentences aloud. Think about which address form you would use in an Indonesian shop.",
+          "id": "Latih kalimat dialog dengan keras. Pikirkan bentuk sapaan mana yang akan Anda gunakan di toko Indonesia."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du forklare hvornår du ville bruge 'Pak' versus 'Mas' til en mandlig sælger?",
+          "en": "Can you explain when you would use 'Pak' versus 'Mas' for a male salesperson?",
+          "id": "Bisakah Anda menjelaskan kapan Anda akan menggunakan 'Pak' versus 'Mas' untuk pramuniaga laki-laki?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Pelanggan (Kunde)",
+      "source": "Selamat siang, Pak. Ada buku bahasa Indonesia?",
+      "target": "Goddag, (hr.). Har De indonesiske sprogbøger?"
+    },
+    {
+      "speaker": "Penjual (Sælger)",
+      "source": "Selamat siang. Ada, Bu. Di rak sebelah sana.",
+      "target": "Goddag. Ja, det har vi. De er på hylden derhenne."
+    },
+    {
+      "speaker": "Pelanggan (Kunde)",
+      "source": "Terima kasih, Pak. Saya cari buku untuk pemula.",
+      "target": "Tak, (hr.). Jeg leder efter en begynderbog."
+    },
+    {
+      "speaker": "Penjual (Sælger)",
+      "source": "Oh, buku ini bagus untuk pemula, Bu. Harganya tiga puluh ribu rupiah.",
+      "target": "Den her bog er god til begyndere. Den koster 30.000 rupiah."
+    },
+    {
+      "speaker": "Pelanggan (Kunde)",
+      "source": "Baik, saya ambil satu. Terima kasih, Pak.",
+      "target": "Fint, jeg tager en. Tak skal du have."
+    },
+    {
+      "speaker": "Penjual (Sælger)",
+      "source": "Sama-sama, Bu. Selamat belajar!",
+      "target": "Selv tak. God fornøjelse med studiet!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Hr. / Sir (formelt)",
+      "target": "Bapak / Pak",
+      "note": {
+        "da": "'Bapak' er den fulde form; 'Pak' er den afkortede hverdagsform. Begge er høflige.",
+        "en": "'Bapak' is the full form; 'Pak' is the shortened everyday form. Both are polite.",
+        "id": "'Bapak' adalah bentuk lengkap; 'Pak' adalah bentuk singkat sehari-hari. Keduanya sopan."
+      }
+    },
+    {
+      "source": "Fru / Ma'am (formelt)",
+      "target": "Ibu / Bu",
+      "note": {
+        "da": "Ligesom Bapak/Pak: Ibu er fuld form, Bu er hverdagsform. Bruges til alle voksne kvinder.",
+        "en": "Like Bapak/Pak: Ibu is full form, Bu is everyday form. Used for all adult women.",
+        "id": "Seperti Bapak/Pak: Ibu adalah bentuk lengkap, Bu adalah bentuk sehari-hari. Digunakan untuk semua wanita dewasa."
+      }
+    },
+    {
+      "source": "Hr. (ung mand, Jawa)",
+      "target": "Mas",
+      "note": {
+        "da": "Brugt på Java til yngre eller jævnaldrende mænd. Betyder bogstaveligt 'storebror'.",
+        "en": "Used in Java for younger or peer-aged men. Literally means 'older brother'.",
+        "id": "Digunakan di Jawa untuk pria yang lebih muda atau sebaya. Secara harfiah berarti 'kakak laki-laki'."
+      }
+    },
+    {
+      "source": "Frøken (ung kvinde, Jawa)",
+      "target": "Mbak",
+      "note": {
+        "da": "Kvindelig pendant til Mas. Brugt på Java. Betyder bogstaveligt 'storesøster'.",
+        "en": "Female counterpart to Mas. Used in Java. Literally means 'older sister'.",
+        "id": "Padanan perempuan dari Mas. Digunakan di Jawa. Secara harfiah berarti 'kakak perempuan'."
+      }
+    },
+    {
+      "source": "Hr. (ung mand, Jakarta)",
+      "target": "Bang",
+      "note": {
+        "da": "Typisk for Jakarta. Forkortelse af 'abang' (storebror). Bruges til taxichauffører, sælgere osv.",
+        "en": "Typical of Jakarta. Abbreviation of 'abang' (older brother). Used for taxi drivers, sellers, etc.",
+        "id": "Khas Jakarta. Singkatan dari 'abang' (kakak laki-laki). Digunakan untuk pengemudi taksi, penjual, dll."
+      }
+    },
+    {
+      "source": "Kunde",
+      "target": "Pelanggan",
+      "note": {
+        "da": "Den person der køber. Relateret: 'pembeli' (den der køber, mere generelt).",
+        "en": "The person who buys. Related: 'pembeli' (the buyer, more general).",
+        "id": "Orang yang membeli. Terkait: 'pembeli' (pembeli, lebih umum)."
+      }
+    },
+    {
+      "source": "Sælger / Butiksindehaver",
+      "target": "Penjual",
+      "note": {
+        "da": "Fra verbet 'jual' (at sælge). Præfiks 'pe-' danner personnavne: penjual = den der sælger.",
+        "en": "From the verb 'jual' (to sell). The prefix 'pe-' forms agent nouns: penjual = the one who sells.",
+        "id": "Dari kata kerja 'jual' (menjual). Awalan 'pe-' membentuk kata benda agen: penjual = yang menjual."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "[Sapaan] + pertanyaan/pernyataan",
+      "explanation": {
+        "da": "I indonesisk placeres tiltaleformen typisk i begyndelsen eller slutningen af en sætning. Den kan indsættes for ekstra høflighed. Sætningsstrukturen ændres ikke.",
+        "en": "In Indonesian, the address form is typically placed at the beginning or end of a sentence. It can be inserted for extra politeness. The sentence structure does not change.",
+        "id": "Dalam bahasa Indonesia, bentuk sapaan biasanya ditempatkan di awal atau akhir kalimat. Dapat disisipkan untuk kesopanan ekstra. Struktur kalimat tidak berubah."
+      },
+      "examples": [
+        { "source": "Har De det? (til mand)", "target": "Ada, Pak?" },
+        { "source": "Tak, fru.", "target": "Terima kasih, Bu." },
+        { "source": "Undskyld mig, (ung herre).", "target": "Permisi, Mas." }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Forestil dig at du er i en indonesisk café. Du bestiller kaffe hos en ung mand fra Jakarta. Brug den korrekte tiltaleform og sig 'Permisi, [sapaan]. Saya mau pesan kopi.'",
+        "en": "Imagine you are in an Indonesian café. You are ordering coffee from a young man from Jakarta. Use the correct address form and say 'Permisi, [address]. Saya mau pesan kopi.'",
+        "id": "Bayangkan Anda berada di kafe Indonesia. Anda memesan kopi dari seorang pria muda dari Jakarta. Gunakan bentuk sapaan yang benar dan katakan 'Permisi, [sapaan]. Saya mau pesan kopi.'"
+      },
+      "answerShape": {
+        "da": "Én sætning med korrekt tiltaleform (Permisi, Bang. Saya mau pesan kopi.).",
+        "en": "One sentence with the correct address form (Permisi, Bang. Saya mau pesan kopi.).",
+        "id": "Satu kalimat dengan bentuk sapaan yang benar (Permisi, Bang. Saya mau pesan kopi.)."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Match tiltaleformerne med de korrekte situationer: 1) Pak  2) Bu  3) Mas  4) Mbak  5) Bang  –  a) Ung kvindelig tjener på Java  b) Ældre mandlig embedsmand  c) Taxichauffør i Jakarta  d) Ung mandlig sælger på Java  e) Ældre kvindelig skolelærer.",
+        "en": "Match the address forms to the correct situations: 1) Pak  2) Bu  3) Mas  4) Mbak  5) Bang  –  a) Young female server in Java  b) Older male official  c) Taxi driver in Jakarta  d) Young male seller in Java  e) Older female schoolteacher.",
+        "id": "Cocokkan bentuk sapaan dengan situasi yang benar: 1) Pak  2) Bu  3) Mas  4) Mbak  5) Bang  –  a) Pelayan wanita muda di Jawa  b) Pejabat pria yang lebih tua  c) Pengemudi taksi di Jakarta  d) Penjual pria muda di Jawa  e) Guru wanita yang lebih tua."
+      },
+      "answerShape": {
+        "da": "Fem par: 1-b, 2-e, 3-d, 4-a, 5-c.",
+        "en": "Five pairs: 1-b, 2-e, 3-d, 4-a, 5-c.",
+        "id": "Lima pasang: 1-b, 2-e, 3-d, 4-a, 5-c."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Indonesiske tiltaleformer stammer fra familieord (bror, søster, far, mor). Hvad siger det om indonesisk kultur og måden man ser på sociale relationer?",
+        "en": "Indonesian address forms come from family words (brother, sister, father, mother). What does this say about Indonesian culture and how social relations are viewed?",
+        "id": "Bentuk sapaan Indonesia berasal dari kata-kata keluarga (kakak, adik, bapak, ibu). Apa yang ini katakan tentang budaya Indonesia dan cara memandang hubungan sosial?"
+      },
+      "answerShape": {
+        "da": "To til tre sætninger.",
+        "en": "Two to three sentences.",
+        "id": "Dua hingga tiga kalimat."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme04-lesson02-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Høflige tiltaleformer i hverdagssituationer",
+        "en": "Polite address forms in everyday situations",
+        "id": "Bentuk sapaan sopan dalam situasi sehari-hari"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

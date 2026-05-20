@@ -1,0 +1,273 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 7,
+  "slug": "lesson-07",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Keluarga dan Budaya – Familie og Kultur",
+    "en": "Keluarga dan Budaya – Family and Culture",
+    "id": "Keluarga dan Budaya – Keluarga dan Nilai Budaya"
+  },
+  "summary": {
+    "da": "Lær om gotong royong (fælles hjælp), flergenerationshusholdninger og familien som social grundsten i Indonesien. Ordforråd om at bo og passe på hinanden.",
+    "en": "Learn about gotong royong (mutual cooperation), multi-generational households, and the family as the core social unit in Indonesia. Vocabulary for living together and caring for each other.",
+    "id": "Pelajari tentang gotong royong, tempat tinggal multi-generasi, dan keluarga sebagai unit sosial inti di Indonesia. Kosakata untuk tinggal bersama dan merawat satu sama lain."
+  },
+  "objectives": [
+    {
+      "da": "Forklare begrebet 'gotong royong' med enkle ord.",
+      "en": "Explain the concept of 'gotong royong' in simple words.",
+      "id": "Menjelaskan konsep 'gotong royong' dengan kata-kata sederhana."
+    },
+    {
+      "da": "Bruge ordene 'tinggal bersama', 'merawat' og 'menghormati' i korte sætninger.",
+      "en": "Use the words 'tinggal bersama', 'merawat', and 'menghormati' in short sentences.",
+      "id": "Menggunakan kata 'tinggal bersama', 'merawat', dan 'menghormati' dalam kalimat pendek."
+    },
+    {
+      "da": "Sammenligne familiestrukturer i Indonesien og Danmark.",
+      "en": "Compare family structures in Indonesia and Denmark.",
+      "id": "Membandingkan struktur keluarga di Indonesia dan Denmark."
+    }
+  ],
+  "unit": {
+    "slug": "theme-04",
+    "order": 4,
+    "title": {
+      "da": "Tema 4: Min Familie",
+      "en": "Theme 4: My Family",
+      "id": "Tema 4: Keluarga Saya"
+    },
+    "summary": {
+      "da": "Familiebetegnelser og at tale om sin familie.",
+      "en": "Family terms and talking about your family.",
+      "id": "Istilah keluarga dan berbicara tentang keluarga."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg klassen: 'Bor du alene, med kæreste, med familien?' og 'Hvem passer på dine bedsteforældre i Danmark?' Introducer derefter det indonesiske perspektiv.",
+        "en": "Ask the class: 'Do you live alone, with a partner, with family?' and 'Who looks after your grandparents in Denmark?' Then introduce the Indonesian perspective.",
+        "id": "Tanyakan kelas: 'Apakah Anda tinggal sendiri, dengan pasangan, dengan keluarga?' dan 'Siapa yang merawat kakek-nenek Anda di Denmark?' Kemudian perkenalkan perspektif Indonesia."
+      },
+      "flow": [
+        {
+          "da": "Introducer gotong royong: fællesskab og gensidig hjælp. I en traditionel landsby hjælper man hinanden med husholdningsopgaver, fejringer og omsorg. Giv et konkret eksempel.",
+          "en": "Introduce gotong royong: community and mutual help. In a traditional village everyone helps each other with household tasks, celebrations, and care. Give a concrete example.",
+          "id": "Perkenalkan gotong royong: kebersamaan dan saling membantu. Di desa tradisional, semua orang saling membantu dengan tugas rumah tangga, perayaan, dan perawatan. Berikan contoh konkret."
+        },
+        {
+          "da": "Tal om flergenerationshushold: bedsteforældre bor ofte hos børn og børnebørn. Hvad er fordelene og udfordringerne? Vokabular: 'tinggal bersama', 'merawat', 'menghormati'.",
+          "en": "Talk about multi-generational households: grandparents often live with children and grandchildren. What are the benefits and challenges? Vocabulary: 'tinggal bersama', 'merawat', 'menghormati'.",
+          "id": "Berbicara tentang rumah tangga multi-generasi: kakek-nenek sering tinggal bersama anak dan cucu. Apa keuntungan dan tantangannya? Kosakata: 'tinggal bersama', 'merawat', 'menghormati'."
+        },
+        {
+          "da": "Sammenlign med det danske system: ældrepleje, plejehjem, og den større individuelle selvstændighed. Ingen forkert eller rigtig – bare anderledes.",
+          "en": "Compare with the Danish system: elder care, nursing homes, and greater individual independence. Neither is wrong or right – just different.",
+          "id": "Bandingkan dengan sistem Denmark: perawatan lansia, panti jompo, dan kemandirian individual yang lebih besar. Tidak ada yang salah atau benar – hanya berbeda."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Hold tonen respektfuld og nysgerrig. Undgå at fremstille den ene kultur som bedre end den anden. Målet er kulturforståelse, ikke sammenligning med vinder.",
+          "en": "Keep the tone respectful and curious. Avoid presenting one culture as better than the other. The goal is cultural understanding, not a comparison with a winner.",
+          "id": "Jaga nada yang penuh hormat dan rasa ingin tahu. Hindari menyajikan satu budaya sebagai lebih baik dari yang lain. Tujuannya adalah pemahaman budaya, bukan perbandingan dengan pemenang."
+        },
+        {
+          "da": "Gotong royong er et nationalt begreb i Indonesien og er inkluderet i Pancasila (de fem statsprincipper).",
+          "en": "Gotong royong is a national concept in Indonesia and is included in Pancasila (the five state principles).",
+          "id": "Gotong royong adalah konsep nasional di Indonesia dan termasuk dalam Pancasila (lima prinsip negara)."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær de tre nøgleord: tinggal bersama, merawat, menghormati. Skriv en sætning med hvert.",
+          "en": "Learn the three key words: tinggal bersama, merawat, menghormati. Write one sentence with each.",
+          "id": "Pelajari tiga kata kunci: tinggal bersama, merawat, menghormati. Tuliskan satu kalimat dengan masing-masing."
+        },
+        {
+          "da": "Reflekter: Hvad er gotong royong? Prøv at forklare det med dine egne ord – på dansk eller indonesisk.",
+          "en": "Reflect: What is gotong royong? Try to explain it in your own words – in Danish or Indonesian.",
+          "id": "Refleksikan: Apa itu gotong royong? Coba jelaskan dengan kata-kata Anda sendiri – dalam bahasa Denmark atau Indonesia."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du forklare 'gotong royong' og give et eksempel på det i praksis?",
+          "en": "Can you explain 'gotong royong' and give an example of it in practice?",
+          "id": "Bisakah Anda menjelaskan 'gotong royong' dan memberikan contoh praktisnya?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Lars",
+      "source": "Hei Rina, kamu tinggal dengan siapa?",
+      "target": "Hej Rina, hvem bor du med?"
+    },
+    {
+      "speaker": "Rina",
+      "source": "Saya tinggal bersama keluarga besar – orang tua, kakek, nenek, dan dua adik saya.",
+      "target": "Jeg bor med hele familien – forældre, bedsteforældre og to yngre søskende."
+    },
+    {
+      "speaker": "Lars",
+      "source": "Wah, ramai ya! Di Denmark, kami biasanya tinggal sendiri setelah dewasa.",
+      "target": "Nej, hvor livligt! I Danmark bor vi normalt alene efter vi er voksne."
+    },
+    {
+      "speaker": "Rina",
+      "source": "Di sini kami merawat orang tua dan kakek-nenek di rumah. Itu kewajiban kami.",
+      "target": "Her passer vi på vores forældre og bedsteforældre derhjemme. Det er vores pligt."
+    },
+    {
+      "speaker": "Lars",
+      "source": "Saya mengerti. Itu bagus. Ada istilah untuk itu?",
+      "target": "Jeg forstår. Det er smukt. Er der et ord for det?"
+    },
+    {
+      "speaker": "Rina",
+      "source": "Ya, kami sebut 'gotong royong' – saling membantu dan menghormati satu sama lain.",
+      "target": "Ja, vi kalder det 'gotong royong' – at hjælpe og respektere hinanden."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "At bo sammen",
+      "target": "Tinggal bersama",
+      "note": {
+        "da": "'Tinggal' = at bo/blive. 'Bersama' = sammen. Bruges om at dele hjem med familie.",
+        "en": "'Tinggal' = to live/stay. 'Bersama' = together. Used for sharing a home with family.",
+        "id": "'Tinggal' = tinggal/tetap. 'Bersama' = bersama. Digunakan untuk berbagi rumah dengan keluarga."
+      }
+    },
+    {
+      "source": "At passe på / At pleje",
+      "target": "Merawat",
+      "note": {
+        "da": "Stammer fra 'rawat' (pleje). Me- præfikset gør det til et aktivt verbum.",
+        "en": "Comes from 'rawat' (care). The me- prefix makes it an active verb.",
+        "id": "Berasal dari 'rawat' (merawat). Awalan me- menjadikannya kata kerja aktif."
+      }
+    },
+    {
+      "source": "At respektere",
+      "target": "Menghormati",
+      "note": {
+        "da": "Fra 'hormat' (respekt). Meget vigtig kulturel værdi i Indonesien, især over for ældre.",
+        "en": "From 'hormat' (respect). A very important cultural value in Indonesia, especially towards elders.",
+        "id": "Dari 'hormat' (respek). Nilai budaya yang sangat penting di Indonesia, terutama terhadap orang yang lebih tua."
+      }
+    },
+    {
+      "source": "Gensidig hjælp / Fællesskab",
+      "target": "Gotong royong",
+      "note": {
+        "da": "Et kernebegreb i indonesisk kultur og samfund. Bogstaveligt: at bære en byrde i fællesskab.",
+        "en": "A core concept in Indonesian culture and society. Literally: to carry a burden together.",
+        "id": "Konsep inti dalam budaya dan masyarakat Indonesia. Secara harfiah: menanggung beban bersama."
+      }
+    },
+    {
+      "source": "Pligt / Ansvar",
+      "target": "Kewajiban",
+      "note": {
+        "da": "Fra 'wajib' (obligatorisk/nødvendig). Bruges om moralske og sociale forpligtelser.",
+        "en": "From 'wajib' (obligatory/necessary). Used for moral and social obligations.",
+        "id": "Dari 'wajib' (wajib/perlu). Digunakan untuk kewajiban moral dan sosial."
+      }
+    },
+    {
+      "source": "Bedsteforældre (begge)",
+      "target": "Kakek-nenek",
+      "note": {
+        "da": "Sammensætning af kakek (bedstefar) og nenek (bedstemor). Reduplikation bruges til at indikere et par.",
+        "en": "Compound of kakek (grandfather) and nenek (grandmother). Pairing is used to indicate a couple.",
+        "id": "Gabungan kakek dan nenek. Penggabungan digunakan untuk menunjukkan pasangan."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Me- præfiks på verber",
+      "explanation": {
+        "da": "Mange indonesiske verber dannes ved at tilføje 'me-' (eller varianter men-, meng-, meny-, mer-) til en rodform. Dette markerer en aktiv handling. Eksempler: rawat → merawat, hormat → menghormati, tolong → menolong.",
+        "en": "Many Indonesian verbs are formed by adding 'me-' (or variants men-, meng-, meny-, mer-) to a root form. This marks an active action. Examples: rawat → merawat, hormat → menghormati, tolong → menolong.",
+        "id": "Banyak kata kerja Indonesia dibentuk dengan menambahkan 'me-' (atau varian men-, meng-, meny-, mer-) ke bentuk akar. Ini menandai tindakan aktif. Contoh: rawat → merawat, hormat → menghormati, tolong → menolong."
+      },
+      "examples": [
+        { "source": "At passe på (en person)", "target": "Merawat (seseorang)" },
+        { "source": "At respektere (en person)", "target": "Menghormati (seseorang)" },
+        { "source": "At hjælpe (en person)", "target": "Menolong (seseorang)" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Forklar gotong royong med dine egne ord på indonesisk: 'Gotong royong artinya...' (Gotong royong betyder...)",
+        "en": "Explain gotong royong in your own words in Indonesian: 'Gotong royong artinya...' (Gotong royong means...)",
+        "id": "Jelaskan gotong royong dengan kata-kata Anda sendiri dalam bahasa Indonesia: 'Gotong royong artinya...'"
+      },
+      "answerShape": {
+        "da": "Én til to sætninger.",
+        "en": "One to two sentences.",
+        "id": "Satu hingga dua kalimat."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Oversæt til indonesisk: 1) Vi bor alle sammen.  2) Jeg passer på min bedstemor.  3) Vi respekterer hinanden.  4) Det er vores pligt.",
+        "en": "Translate into Indonesian: 1) We all live together.  2) I care for my grandmother.  3) We respect each other.  4) It is our duty.",
+        "id": "Terjemahkan ke dalam bahasa Indonesia: 1) Kami semua tinggal bersama.  2) Saya merawat nenek saya.  3) Kami saling menghormati.  4) Itu adalah kewajiban kami."
+      },
+      "answerShape": {
+        "da": "1) Kami semua tinggal bersama.  2) Saya merawat nenek saya.  3) Kami saling menghormati.  4) Itu kewajiban kami.",
+        "en": "1) Kami semua tinggal bersama.  2) Saya merawat nenek saya.  3) Kami saling menghormati.  4) Itu kewajiban kami.",
+        "id": "1) Kami semua tinggal bersama.  2) Saya merawat nenek saya.  3) Kami saling menghormati.  4) Itu kewajiban kami."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilke elementer af gotong royong kendes fra dansk kultur? Hvad er forskelligt? Ville du ønske at noget var anderledes i din kultur?",
+        "en": "Which elements of gotong royong are familiar from Danish culture? What is different? Would you wish something were different in your culture?",
+        "id": "Elemen gotong royong mana yang dikenal dari budaya Denmark? Apa yang berbeda? Apakah Anda ingin sesuatu berbeda dalam budaya Anda?"
+      },
+      "answerShape": {
+        "da": "To til fire sætninger.",
+        "en": "Two to four sentences.",
+        "id": "Dua hingga empat kalimat."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme04-lesson07-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Gotong royong og den indonesiske familiekultur",
+        "en": "Gotong royong and Indonesian family culture",
+        "id": "Gotong royong dan budaya keluarga Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

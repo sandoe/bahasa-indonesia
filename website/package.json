@@ -1,0 +1,16 @@
+{
+  "name": "bahasa-bro-astro",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "node ./scripts/audit-content.mjs && astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "validate:content": "node ./scripts/audit-content.mjs"
+  },
+  "dependencies": {
+    "astro": "^6.3.1"
+  }
+}

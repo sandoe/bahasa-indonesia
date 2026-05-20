@@ -1,0 +1,343 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-2",
+  "order": 3,
+  "slug": "lesson-03",
+  "durationMinutes": 45,
+  "title": {
+    "da": "Venner og Venskab",
+    "en": "Friends and Friendship",
+    "id": "Teman dan Persahabatan"
+  },
+  "summary": {
+    "da": "Lær niveauer af venskab på indonesisk, og tal om, hvordan venskaber dannes i Indonesien.",
+    "en": "Learn levels of friendship in Indonesian, and talk about how friendships form in Indonesia.",
+    "id": "Pelajari tingkatan persahabatan dalam bahasa Indonesia, dan bicarakan bagaimana persahabatan terbentuk di Indonesia."
+  },
+  "objectives": [
+    {
+      "da": "Skelne og bruge ordforråd for niveauer af venskab",
+      "en": "Distinguish and use vocabulary for levels of friendship",
+      "id": "Membedakan dan menggunakan kosakata untuk tingkatan persahabatan"
+    },
+    {
+      "da": "Spørge og svare på, hvor længe man har kendt nogen",
+      "en": "Ask and answer how long you have known someone",
+      "id": "Menanyakan dan menjawab sudah berapa lama mengenal seseorang"
+    },
+    {
+      "da": "Genopfriske et gammelt venskab i samtale",
+      "en": "Reconnect with an old friendship in conversation",
+      "id": "Menjalin kembali persahabatan lama dalam percakapan"
+    }
+  ],
+  "unit": {
+    "slug": "unit-03",
+    "order": 3,
+    "title": {
+      "da": "Familie og Sociale Relationer",
+      "en": "Family and Social Relations",
+      "id": "Keluarga dan Relasi Sosial"
+    },
+    "summary": {
+      "da": "Dybere familiesprog, sociale roller og relationer i indonesisk kontekst.",
+      "en": "Deeper family language, social roles, and relationships in Indonesian context.",
+      "id": "Bahasa keluarga yang lebih dalam, peran sosial, dan hubungan dalam konteks Indonesia."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skriv på tavlen: kenalan — teman — teman dekat — sahabat. Spørg: 'Hvad er forskellen?' Lad eleverne gætte på dansk, og afsløre gradvist på indonesisk.",
+        "en": "Write on the board: kenalan — teman — teman dekat — sahabat. Ask: 'What is the difference?' Let students guess in Danish, then reveal in Indonesian gradually.",
+        "id": "Tulis di papan: kenalan — teman — teman dekat — sahabat. Tanya: 'Apa perbedaannya?' Biarkan siswa menebak dalam bahasa Denmark, kemudian ungkapkan secara bertahap dalam bahasa Indonesia."
+      },
+      "flow": [
+        {
+          "da": "Introduktion (5 min): Præsenter spektret af venskabsniveauer. Diskutér kort i grupper.",
+          "en": "Introduction (5 min): Present the spectrum of friendship levels. Discuss briefly in groups.",
+          "id": "Pembukaan (5 menit): Perkenalkan spektrum tingkatan persahabatan. Diskusikan sebentar dalam kelompok."
+        },
+        {
+          "da": "Ordforråd og kultur (10 min): Beskriv, hvordan venskaber dannes i Indonesien — nabolag, skole, arbejde, religion.",
+          "en": "Vocabulary and culture (10 min): Describe how friendships form in Indonesia — neighbourhood, school, work, religion.",
+          "id": "Kosakata dan budaya (10 menit): Jelaskan bagaimana persahabatan terbentuk di Indonesia — lingkungan, sekolah, pekerjaan, agama."
+        },
+        {
+          "da": "Grammatik (10 min): Introducer 'sudah berapa lama kenal?' og mulige svar. Elever øver spørgsmål og svar i par.",
+          "en": "Grammar (10 min): Introduce 'sudah berapa lama kenal?' and possible answers. Students practice question and answer in pairs.",
+          "id": "Tata bahasa (10 menit): Perkenalkan 'sudah berapa lama kenal?' dan kemungkinan jawabannya. Siswa berlatih tanya jawab berpasangan."
+        },
+        {
+          "da": "Dialog (10 min): Rollespil dialogen om to gamle venner, der mødes igen.",
+          "en": "Dialogue (10 min): Role-play the dialogue about two old friends meeting again.",
+          "id": "Dialog (10 menit): Mainkan peran dialog tentang dua teman lama yang bertemu kembali."
+        },
+        {
+          "da": "Aktiviteter (10 min): Gennemfør aktiviteterne i klassen.",
+          "en": "Activities (10 min): Complete the activities in class.",
+          "id": "Aktivitas (10 menit): Selesaikan aktivitas di kelas."
+        }
+      ],
+      "notes": [
+        {
+          "da": "I Indonesien er naboer og lokale fællesskaber (rukun tetangga/RT) en vigtig kilde til venskaber. Denne sociale struktur har ingen direkte dansk parallel.",
+          "en": "In Indonesia, neighbours and local communities (rukun tetangga/RT) are an important source of friendships. This social structure has no direct Danish parallel.",
+          "id": "Di Indonesia, tetangga dan komunitas lokal (rukun tetangga/RT) adalah sumber persahabatan yang penting. Struktur sosial ini tidak memiliki padanan langsung di Denmark."
+        },
+        {
+          "da": "'Sahabat' er det stærkeste venskabsord og bruges til at beskrive livslange venskaber. Det er tættere end 'teman dekat'.",
+          "en": "'Sahabat' is the strongest friendship word and is used to describe lifelong friends. It is closer than 'teman dekat'.",
+          "id": "'Sahabat' adalah kata persahabatan yang paling kuat dan digunakan untuk menggambarkan teman seumur hidup. Lebih dekat daripada 'teman dekat'."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær venskabsniveauerne og øv dem ved at kategorisere folk i dit liv.",
+          "en": "Learn the friendship levels and practice by categorizing people in your life.",
+          "id": "Pelajari tingkatan persahabatan dan latih dengan mengkategorikan orang-orang dalam hidupmu."
+        },
+        {
+          "da": "Øv spørgsmålet 'Sudah berapa lama kamu tinggal di sini?' og lignende. Skriv fem egne varianter.",
+          "en": "Practice the question 'Sudah berapa lama kamu tinggal di sini?' and similar forms. Write five of your own variants.",
+          "id": "Latih pertanyaan 'Sudah berapa lama kamu tinggal di sini?' dan bentuk serupa. Tulis lima variasi milikmu sendiri."
+        },
+        {
+          "da": "Læs dialogen og skriv et kort resumé på indonesisk af, hvad de to venner taler om.",
+          "en": "Read the dialogue and write a brief summary in Indonesian of what the two friends talk about.",
+          "id": "Baca dialog dan tulis ringkasan singkat dalam bahasa Indonesia tentang apa yang dibicarakan kedua teman."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du forklare forskellen på kenalan, teman, teman dekat og sahabat?",
+          "en": "Can you explain the difference between kenalan, teman, teman dekat, and sahabat?",
+          "id": "Bisakah kamu menjelaskan perbedaan antara kenalan, teman, teman dekat, dan sahabat?"
+        },
+        {
+          "da": "Kan du svare på 'Sudah berapa lama kamu kenal dia?' med en fuld sætning?",
+          "en": "Can you answer 'Sudah berapa lama kamu kenal dia?' with a full sentence?",
+          "id": "Bisakah kamu menjawab 'Sudah berapa lama kamu kenal dia?' dengan kalimat lengkap?"
+        },
+        {
+          "da": "Kan du beskrive, hvordan du mødte en af dine venner?",
+          "en": "Can you describe how you met one of your friends?",
+          "id": "Bisakah kamu mendeskripsikan bagaimana kamu bertemu dengan salah satu temanmu?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Sari",
+      "source": "Wah, Erik! Sudah lama tidak bertemu! Kamu baik-baik saja?",
+      "target": "Wauw, Erik! Det er længe siden! Har du det godt?"
+    },
+    {
+      "speaker": "Erik",
+      "source": "Sari! Iya, sudah lama sekali. Saya baik-baik saja, terima kasih! Kamu sendiri?",
+      "target": "Sari! Ja, det er virkelig længe siden. Jeg har det godt, tak! Og du?"
+    },
+    {
+      "speaker": "Sari",
+      "source": "Baik juga. Kita sudah berapa lama tidak bertemu ya? Mungkin dua tahun?",
+      "target": "Også godt. Hvor længe er det siden vi sidst mødte hinanden? Måske to år?"
+    },
+    {
+      "speaker": "Erik",
+      "source": "Ya, sekitar dua tahun. Kita kenal sudah lebih dari sepuluh tahun, kan?",
+      "target": "Ja, cirka to år. Vi har kendt hinanden i mere end ti år, ikke?"
+    },
+    {
+      "speaker": "Sari",
+      "source": "Benar! Kita sahabat sejak SMA. Kamu masih tinggal di Jakarta?",
+      "target": "Det passer! Vi har været bedste venner siden gymnasiet. Bor du stadig i Jakarta?"
+    },
+    {
+      "speaker": "Erik",
+      "source": "Tidak, sekarang saya tinggal di Bandung. Tapi kita harus sering bertemu lagi!",
+      "target": "Nej, jeg bor nu i Bandung. Men vi skal mødes oftere igen!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "kenalan",
+      "target": "bekendt",
+      "note": {
+        "da": "En person man kender overfladisk; ikke en tæt ven",
+        "en": "A person one knows superficially; not a close friend",
+        "id": "Seseorang yang dikenal secara sekilas; bukan teman dekat"
+      }
+    },
+    {
+      "source": "teman",
+      "target": "ven",
+      "note": {
+        "da": "Almindeligt ord for ven; bruges bredt",
+        "en": "Common word for friend; used broadly",
+        "id": "Kata umum untuk teman; digunakan secara luas"
+      }
+    },
+    {
+      "source": "teman dekat",
+      "target": "nær ven",
+      "note": {
+        "da": "Tæt ven; bogstaveligt 'nær ven'. Mere fortrolig end 'teman'.",
+        "en": "Close friend; literally 'near friend'. More intimate than 'teman'.",
+        "id": "Teman dekat; harfiah 'teman yang dekat'. Lebih akrab dari 'teman'."
+      }
+    },
+    {
+      "source": "sahabat",
+      "target": "bedste ven / fortrolig ven",
+      "note": {
+        "da": "Det stærkeste venskabsord; bruges om livslange eller dybeste venskaber",
+        "en": "The strongest friendship word; used for lifelong or deepest friendships",
+        "id": "Kata persahabatan terkuat; digunakan untuk persahabatan seumur hidup atau yang paling dalam"
+      }
+    },
+    {
+      "source": "bertemu",
+      "target": "at møde / at ses",
+      "note": {
+        "da": "Bogstaveligt: 'at møde hinanden'. Præfikset ber- angiver gensidig handling.",
+        "en": "Literally: 'to meet each other'. The ber- prefix indicates a mutual action.",
+        "id": "Harfiah: 'bertemu satu sama lain'. Awalan ber- menunjukkan tindakan timbal balik."
+      }
+    },
+    {
+      "source": "sejak",
+      "target": "siden / fra",
+      "note": {
+        "da": "Bruges til at angive startpunktet for en periode. 'Sejak SMA' = siden gymnasiet.",
+        "en": "Used to indicate the starting point of a period. 'Sejak SMA' = since high school.",
+        "id": "Digunakan untuk menunjukkan titik awal suatu periode. 'Sejak SMA' = sejak SMA."
+      }
+    },
+    {
+      "source": "sekitar",
+      "target": "cirka / omtrent",
+      "note": {
+        "da": "Bruges til at angive omtrentlige tal eller tidspunkter",
+        "en": "Used to indicate approximate numbers or times",
+        "id": "Digunakan untuk menunjukkan angka atau waktu yang perkiraan"
+      }
+    },
+    {
+      "source": "bergaul",
+      "target": "omgås / socialisere",
+      "note": {
+        "da": "At omgås og socialisere med folk; vigtigt i indonesisk kultur",
+        "en": "To associate and socialize with people; important in Indonesian culture",
+        "id": "Bergaul dan bersosialisasi dengan orang-orang; penting dalam budaya Indonesia"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Sudah berapa lama + kata kerja?",
+      "explanation": {
+        "da": "Konstruktionen 'sudah berapa lama' bruges til at spørge, hvor længe noget har stået på. 'Sudah' angiver, at det er igangværende, og 'berapa lama' spørger om varighed.",
+        "en": "The construction 'sudah berapa lama' is used to ask how long something has been going on. 'Sudah' indicates it is ongoing, and 'berapa lama' asks about duration.",
+        "id": "Konstruksi 'sudah berapa lama' digunakan untuk menanyakan sudah berapa lama sesuatu berlangsung. 'Sudah' menunjukkan bahwa itu sedang berlangsung, dan 'berapa lama' menanyakan durasi."
+      },
+      "examples": [
+        {
+          "source": "Sudah berapa lama kamu kenal dia?",
+          "target": "Hvor længe har du kendt ham/hende?"
+        },
+        {
+          "source": "Sudah berapa lama kamu tinggal di sini?",
+          "target": "Hvor længe har du boet her?"
+        },
+        {
+          "source": "Kami sudah berteman selama lima tahun.",
+          "target": "Vi har været venner i fem år."
+        }
+      ]
+    },
+    {
+      "pattern": "Kita / Kami — inklusiv vs. eksklusiv 'vi'",
+      "explanation": {
+        "da": "'Kita' inkluderer den person, du taler med ('vi alle'), mens 'kami' ekskluderer lytteren ('vi, men ikke dig'). Dette er en vigtig grammatisk distinktion, der ikke findes på dansk.",
+        "en": "'Kita' includes the person you are speaking to ('we all'), while 'kami' excludes the listener ('we, but not you'). This is an important grammatical distinction absent in Danish.",
+        "id": "'Kita' mencakup lawan bicara ('kita semua'), sedangkan 'kami' mengecualikan pendengar ('kami, tapi bukan kamu'). Ini adalah perbedaan tata bahasa penting yang tidak ada dalam bahasa Denmark."
+      },
+      "examples": [
+        {
+          "source": "Kita harus sering bertemu. (inklusif — du og jeg)",
+          "target": "Vi skal mødes oftere. (inklusiv — dig og mig)"
+        },
+        {
+          "source": "Kami pergi ke pesta tanpa dia. (eksklusiv — han/hun var ikke med)",
+          "target": "Vi gik til festen uden ham/hende. (eksklusiv — han/hun var ikke med)"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Fortæl om en god ven. Hvornår mødte I hinanden? Hvad laver I sammen? Brug 'sudah berapa lama' og 'sejak' i dit svar.",
+        "en": "Tell about a good friend. When did you meet? What do you do together? Use 'sudah berapa lama' and 'sejak' in your answer.",
+        "id": "Ceritakan tentang teman baikmu. Kapan kalian bertemu? Apa yang kalian lakukan bersama? Gunakan 'sudah berapa lama' dan 'sejak' dalam jawabanmu."
+      },
+      "answerShape": {
+        "da": "Saya kenal ... sejak ... Kita sudah berteman selama ...",
+        "en": "Saya kenal ... sejak ... Kita sudah berteman selama ...",
+        "id": "Saya kenal ... sejak ... Kita sudah berteman selama ..."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Oversæt sætningen til indonesisk: 'Vi har kendt hinanden i mere end fem år siden vi mødte på arbejdet.'",
+        "en": "Translate the sentence into Indonesian: 'We have known each other for more than five years since we met at work.'",
+        "id": "Terjemahkan kalimat ke dalam bahasa Indonesia: 'Kami sudah saling kenal lebih dari lima tahun sejak bertemu di tempat kerja.'"
+      },
+      "answerShape": {
+        "da": "Kita sudah saling kenal lebih dari lima tahun sejak bertemu di tempat kerja.",
+        "en": "Kita sudah saling kenal lebih dari lima tahun sejak bertemu di tempat kerja.",
+        "id": "Kita sudah saling kenal lebih dari lima tahun sejak bertemu di tempat kerja."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad gør et venskab til et 'sahabat'-venskab i din kultur? Hvad er vigtigt? Sammenlign med indonesisk kultur.",
+        "en": "What makes a friendship a 'sahabat' friendship in your culture? What is important? Compare with Indonesian culture.",
+        "id": "Apa yang membuat persahabatan menjadi persahabatan 'sahabat' dalam budayamu? Apa yang penting? Bandingkan dengan budaya Indonesia."
+      },
+      "answerShape": {
+        "da": "Menurut saya, seorang sahabat harus ... Di Indonesia, ...",
+        "en": "Menurut saya, seorang sahabat harus ... Di Indonesia, ...",
+        "id": "Menurut saya, seorang sahabat harus ... Di Indonesia, ..."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-unit03-lesson03-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Venskab og sociale relationer i Indonesien",
+        "en": "Friendship and social relations in Indonesia",
+        "id": "Persahabatan dan relasi sosial di Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+---
+import { pairMeta, uiCopy, type LearningPair, type UiLocale } from "@data/site";
+import { t } from "@lib/i18n";
+import LanguageSwitcher from "./LanguageSwitcher.astro";
+
+interface Props {
+  locale: string;
+  pair?: string;
+}
+
+const { locale, pair } = Astro.props;
+const currentLocale = (locale in uiCopy.brand ? locale : "da") as UiLocale;
+const currentPair = pair && pair in pairMeta ? (pair as LearningPair) : undefined;
+const homeHref = currentPair ? `/${currentLocale}/${currentPair}/` : "/";
+const pathname = Astro.url.pathname;
+
+function isActive(href: string) {
+  return pathname === href || pathname === href.replace(/\/$/, "");
+}
+---
+
+<header class="shell site-header-wrapper">
+  <div class="site-header">
+    <a href={homeHref} class="brand-link">
+      <div class="brand-visual">
+        <span class="brand-dot"></span>
+        <span class="brand-text">BB</span>
+      </div>
+      <div class="brand-copy">
+        <strong>{t(uiCopy.brand, currentLocale)}</strong>
+        <small>{currentPair ? t(pairMeta[currentPair].label, currentLocale) : t(uiCopy.brandTagline, currentLocale)}</small>
+      </div>
+    </a>
+
+    <nav class="header-nav" aria-label={t(uiCopy.ariaNavigation, currentLocale)}>
+      <a
+        href={homeHref}
+        class={`nav-item ${isActive(homeHref) ? 'is-active' : ''}`}
+        aria-current={isActive(homeHref) ? "page" : undefined}
+      >
+        {t(uiCopy.navOverview, currentLocale)}
+      </a>
+      {currentPair && (
+        <a
+          href={`/${currentLocale}/${currentPair}/#structure`}
+          class="nav-item"
+        >
+          {t(uiCopy.navStructure, currentLocale)}
+        </a>
+      )}
+      {currentPair && (
+        <a
+          href={`/${currentLocale}/${currentPair}/#sample`}
+          class="nav-item"
+        >
+          {t(uiCopy.navLesson, currentLocale)}
+        </a>
+      )}
+    </nav>
+
+    <div class="header-actions">
+      <LanguageSwitcher currentLocale={currentLocale} />
+      
+      <button class="mobile-menu-btn" aria-label={t(uiCopy.ariaOpenMenu, currentLocale)} aria-expanded="false" aria-controls="mobile-nav">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </div>
+
+  <nav class="mobile-nav" id="mobile-nav" aria-hidden="true">
+    <a href={homeHref} class={`mobile-nav-item ${isActive(homeHref) ? 'is-active' : ''}`}>
+      {t(uiCopy.navOverview, currentLocale)}
+    </a>
+    {currentPair && (
+      <a href={`/${currentLocale}/${currentPair}/#structure`} class="mobile-nav-item">
+        {t(uiCopy.navStructure, currentLocale)}
+      </a>
+    )}
+    {currentPair && (
+      <a href={`/${currentLocale}/${currentPair}/#sample`} class="mobile-nav-item">
+        {t(uiCopy.navLesson, currentLocale)}
+      </a>
+    )}
+  </nav>
+</header>
+
+<script>
+  const btn = document.querySelector('.mobile-menu-btn') as HTMLButtonElement | null;
+  const nav = document.getElementById('mobile-nav');
+  if (btn && nav) {
+    btn.addEventListener('click', () => {
+      const open = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', String(!open));
+      nav.setAttribute('aria-hidden', String(open));
+      btn.classList.toggle('is-open', !open);
+      nav.classList.toggle('is-open', !open);
+    });
+    nav.querySelectorAll('a').forEach((link) => {
+      link.addEventListener('click', () => {
+        btn.setAttribute('aria-expanded', 'false');
+        nav.setAttribute('aria-hidden', 'true');
+        btn.classList.remove('is-open');
+        nav.classList.remove('is-open');
+      });
+    });
+  }
+</script>
+
+<style>
+  .site-header-wrapper {
+    position: sticky;
+    top: 1.5rem;
+    z-index: 100;
+  }
+  .site-header {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(13, 26, 28, 0.08);
+    border-radius: 999px;
+    padding: 0.7rem 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 10px 30px rgba(13, 26, 28, 0.05);
+    animation: fadeInUp 0.8s ease-out forwards;
+  }
+  .brand-link {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    text-decoration: none;
+    color: var(--ink);
+  }
+  .brand-visual {
+    width: 45px;
+    height: 45px;
+    background: var(--teal);
+    border-radius: 14px;
+    display: grid;
+    place-items: center;
+    position: relative;
+    color: white;
+    font-weight: 900;
+    font-size: 1.1rem;
+  }
+  .brand-dot {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    width: 12px;
+    height: 12px;
+    background: var(--accent);
+    border: 2px solid white;
+    border-radius: 50%;
+  }
+  .brand-copy strong {
+    display: block;
+    font-size: 1.1rem;
+    line-height: 1;
+  }
+  .brand-copy small {
+    font-size: 0.75rem;
+    color: var(--muted);
+    font-weight: 600;
+  }
+  .header-nav {
+    display: flex;
+    gap: 0.5rem;
+  }
+  .nav-item {
+    padding: 0.6rem 1.2rem;
+    border-radius: 999px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 0.9rem;
+    color: var(--muted);
+    transition: all 0.2s;
+  }
+  .nav-item:hover {
+    background: rgba(13, 26, 28, 0.05);
+    color: var(--ink);
+  }
+  .nav-item.is-active {
+    background: var(--teal);
+    color: white;
+  }
+
+  .header-actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  /* Mobile menu button */
+  .mobile-menu-btn {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    gap: 5px;
+    width: 40px;
+    height: 40px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 10px;
+    transition: background 0.2s;
+  }
+  .mobile-menu-btn:hover { background: rgba(13, 26, 28, 0.05); }
+  .mobile-menu-btn span {
+    display: block;
+    width: 100%;
+    height: 2px;
+    background: var(--ink);
+    border-radius: 2px;
+    transition: all 0.3s;
+    transform-origin: center;
+  }
+  .mobile-menu-btn.is-open span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+  .mobile-menu-btn.is-open span:nth-child(2) { opacity: 0; transform: scaleX(0); }
+  .mobile-menu-btn.is-open span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+  /* Mobile nav dropdown */
+  .mobile-nav {
+    display: none;
+    flex-direction: column;
+    gap: 0.5rem;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(13, 26, 28, 0.08);
+    border-radius: 24px;
+    padding: 1rem;
+    margin-top: 0.5rem;
+    box-shadow: 0 10px 30px rgba(13, 26, 28, 0.08);
+    opacity: 0;
+    transform: translateY(-8px);
+    transition: opacity 0.2s, transform 0.2s;
+  }
+  .mobile-nav.is-open {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .mobile-nav-item {
+    padding: 0.8rem 1.2rem;
+    border-radius: 14px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1rem;
+    color: var(--muted);
+    transition: all 0.2s;
+  }
+  .mobile-nav-item:hover {
+    background: rgba(13, 26, 28, 0.05);
+    color: var(--ink);
+  }
+  .mobile-nav-item.is-active {
+    background: var(--teal);
+    color: white;
+  }
+
+  @media (max-width: 768px) {
+    .brand-copy { display: none; }
+    .header-nav { display: none; }
+    .mobile-menu-btn { display: flex; }
+    .mobile-nav { display: flex; }
+    .site-header-wrapper { top: 1rem; }
+  }
+</style>

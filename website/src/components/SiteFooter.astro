@@ -1,0 +1,87 @@
+---
+import type { UiLocale } from "@data/site";
+
+interface Props {
+  locale: string;
+}
+
+const { locale } = Astro.props;
+const currentLocale = (["da", "en", "id"].includes(locale) ? locale : "da") as UiLocale;
+
+const copy = {
+  da: {
+    line1: "Bygget som et public-safe fundament for eget indhold, lærerværktøjer og senere video-publicering.",
+    line2: "Ingen lærer-slides eller private undervisningsvideoer publiceres i denne version."
+  },
+  en: {
+    line1: "Built as a public-safe foundation for original content, teacher tooling, and later video publishing.",
+    line2: "No teacher slides or private teaching videos are published in this version."
+  },
+  id: {
+    line1: "Dibangun sebagai fondasi aman untuk publik bagi konten orisinal, alat pengajar, dan publikasi video di tahap berikutnya.",
+    line2: "Tidak ada slide pengajar atau video pengajaran privat yang dipublikasikan dalam versi ini."
+  }
+};
+---
+
+<footer class="shell site-footer">
+  <div class="footer-content">
+    <div class="footer-brand">
+      <div class="brand-mini">
+        <span class="dot"></span>
+        <strong>BahasaBroen</strong>
+      </div>
+      <p>{copy[currentLocale].line1}</p>
+    </div>
+    <div class="footer-legal">
+      <p>&copy; 2026 BahasaBroen · {copy[currentLocale].line2}</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    margin-top: 6rem;
+    padding-bottom: 4rem;
+    border-top: 1px solid var(--line);
+  }
+  .footer-content {
+    padding-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+  .footer-brand {
+    max-width: 500px;
+  }
+  .brand-mini {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin-bottom: 1rem;
+    color: var(--teal);
+  }
+  .brand-mini .dot {
+    width: 8px;
+    height: 8px;
+    background: var(--accent);
+    border-radius: 50%;
+  }
+  .footer-brand p {
+    color: var(--muted);
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+  .footer-legal {
+    color: var(--muted);
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+  
+  @media (max-width: 768px) {
+    .footer-content { flex-direction: column; text-align: center; align-items: center; }
+    .footer-brand { max-width: none; }
+  }
+</style>

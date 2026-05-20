@@ -1,0 +1,292 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 6,
+  "slug": "lesson-06",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Tahun Berapa? — Hvilket år?",
+    "en": "Tahun Berapa? — What Year?",
+    "id": "Tahun Berapa?"
+  },
+  "summary": {
+    "da": "Lær at sige årstal på indonesisk. Indonesien erklærede sin uafhængighed i 1945 — et godt ankerpunkt for store tal på indonesisk.",
+    "en": "Learn to say years in Indonesian. Indonesia declared independence in 1945 — a good anchor point for large numbers in Indonesian.",
+    "id": "Belajar menyebutkan tahun dalam bahasa Indonesia. Indonesia merdeka tahun 1945 — titik acuan yang baik untuk bilangan besar."
+  },
+  "objectives": [
+    {
+      "da": "Sige årstal på indonesisk, herunder 2026 og 1945",
+      "en": "Say years in Indonesian, including 2026 and 1945",
+      "id": "Menyebutkan tahun dalam bahasa Indonesia, termasuk 2026 dan 1945"
+    },
+    {
+      "da": "Spørge og svare på 'Tahun berapa sekarang?' og 'Tahun berapa kamu lahir?'",
+      "en": "Ask and answer 'Tahun berapa sekarang?' and 'Tahun berapa kamu lahir?'",
+      "id": "Bertanya dan menjawab 'Tahun berapa sekarang?' dan 'Tahun berapa kamu lahir?'"
+    },
+    {
+      "da": "Bruge årstal i samtaler om historiske begivenheder og personlige data",
+      "en": "Use years in conversations about historical events and personal information",
+      "id": "Menggunakan tahun dalam percakapan tentang peristiwa bersejarah dan informasi pribadi"
+    }
+  ],
+  "unit": {
+    "slug": "theme-06",
+    "order": 6,
+    "title": {
+      "da": "Tema 6: Tid & Dato",
+      "en": "Theme 6: Time & Date",
+      "id": "Tema 6: Waktu & Tanggal"
+    },
+    "summary": {
+      "da": "Klokkeslæt, ugedage, måneder og datoer.",
+      "en": "Clock time, days, months, and dates.",
+      "id": "Waktu, hari, bulan, dan tanggal."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skriv '1945' og '2026' på tavlen. Spørg: 'Hvad skete der i 1945?' Introducer Indonesiens uafhængighed som kontekst, og vis derefter, hvordan man siger disse årstal på indonesisk.",
+        "en": "Write '1945' and '2026' on the board. Ask: 'What happened in 1945?' Introduce Indonesian independence as context, then show how to say these years in Indonesian.",
+        "id": "Tulis '1945' dan '2026' di papan. Tanya: 'Apa yang terjadi tahun 1945?' Perkenalkan kemerdekaan Indonesia sebagai konteks, lalu tunjukkan cara mengucapkan tahun-tahun ini dalam bahasa Indonesia."
+      },
+      "flow": [
+        {
+          "da": "Forklar talstrukturen: ribu = tusind, ratus = hundrede, puluh = ti. Øv 1945 og 2026 og bed eleverne konstruere egne årstal.",
+          "en": "Explain the number structure: ribu = thousand, ratus = hundred, puluh = ten. Practise 1945 and 2026 and ask students to construct their own years.",
+          "id": "Jelaskan struktur bilangan: ribu = seribu, ratus = ratus, puluh = puluh. Latih 1945 dan 2026 dan minta siswa membuat tahun mereka sendiri."
+        },
+        {
+          "da": "Introducer 'Tahun berapa kamu lahir?' Eleverne spørger og svarer hinanden om fødselsåret.",
+          "en": "Introduce 'Tahun berapa kamu lahir?' Students ask and answer each other about their birth year.",
+          "id": "Perkenalkan 'Tahun berapa kamu lahir?' Siswa saling bertanya dan menjawab tentang tahun lahir mereka."
+        },
+        {
+          "da": "Diskussionsrunde: historiske årstal i indonesisk kontekst — 1945 (uafhængighed), 1998 (Reformasi), 2004 (første direkte præsidentvalg).",
+          "en": "Discussion round: historical years in Indonesian context — 1945 (independence), 1998 (Reformasi), 2004 (first direct presidential election).",
+          "id": "Diskusi: tahun-tahun bersejarah Indonesia — 1945 (kemerdekaan), 1998 (Reformasi), 2004 (pemilihan presiden langsung pertama)."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Indonesisk talsystem er decimalt og additivt — ingen subtraktion som i latin. 1900 = seribu sembilan ratus (1000 + 900).",
+          "en": "Indonesian number system is decimal and additive — no subtraction as in Latin. 1900 = seribu sembilan ratus (1000 + 900).",
+          "id": "Sistem bilangan Indonesia bersifat desimal dan aditif — tidak ada pengurangan seperti dalam bahasa Latin. 1900 = seribu sembilan ratus."
+        },
+        {
+          "da": "'Se-' som præfiks betyder 'én': seribu = ét tusind, seratus = ét hundrede.",
+          "en": "'Se-' as a prefix means 'one': seribu = one thousand, seratus = one hundred.",
+          "id": "'Se-' sebagai awalan berarti 'satu': seribu = satu ribu, seratus = satu ratus."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Øv at sige disse årstal på indonesisk: 1945, 1998, 2000, 2026, og dit eget fødselsår.",
+          "en": "Practise saying these years in Indonesian: 1945, 1998, 2000, 2026, and your own birth year.",
+          "id": "Latih menyebutkan tahun-tahun berikut dalam bahasa Indonesia: 1945, 1998, 2000, 2026, dan tahun lahirmu."
+        },
+        {
+          "da": "Lyt til dialogen og notér alle årstal, der nævnes.",
+          "en": "Listen to the dialogue and note all years mentioned.",
+          "id": "Dengarkan dialog dan catat semua tahun yang disebutkan."
+        },
+        {
+          "da": "Slå op: hvad er Hari Kemerdekaan, og hvornår fejres den? Skriv svaret med fuld dato på indonesisk.",
+          "en": "Look up: what is Hari Kemerdekaan, and when is it celebrated? Write the answer as a full date in Indonesian.",
+          "id": "Cari tahu: apa itu Hari Kemerdekaan dan kapan dirayakan? Tulis jawabannya sebagai tanggal lengkap dalam bahasa Indonesia."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Sig dit fødselsår på indonesisk. Er det korrekt?",
+          "en": "Say your birth year in Indonesian. Is it correct?",
+          "id": "Sebutkan tahun lahirmu dalam bahasa Indonesia. Apakah sudah benar?"
+        },
+        {
+          "da": "Hvad er 'tahun seribu sembilan ratus empat puluh lima' i tal?",
+          "en": "What is 'tahun seribu sembilan ratus empat puluh lima' in digits?",
+          "id": "Berapa angka dari 'tahun seribu sembilan ratus empat puluh lima'?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Maya",
+      "source": "Kamu lahir tahun berapa?",
+      "target": "Hvilket år er du født?"
+    },
+    {
+      "speaker": "Dimas",
+      "source": "Saya lahir tahun dua ribu satu. Kamu?",
+      "target": "Jeg er født i år 2001. Hvad med dig?"
+    },
+    {
+      "speaker": "Maya",
+      "source": "Saya lahir tahun sembilan belas sembilan delapan.",
+      "target": "Jeg er født i 1998."
+    },
+    {
+      "speaker": "Dimas",
+      "source": "Itu tahun Reformasi Indonesia, kan?",
+      "target": "Det var Indonesiens reformationsår, ikke sandt?"
+    },
+    {
+      "speaker": "Maya",
+      "source": "Ya, benar. Dan Indonesia merdeka tahun seribu sembilan ratus empat puluh lima.",
+      "target": "Ja, rigtigt. Og Indonesien fik uafhængighed i år 1945."
+    },
+    {
+      "speaker": "Dimas",
+      "source": "Tanggal tujuh belas Agustus tahun seribu sembilan ratus empat puluh lima.",
+      "target": "Den 17. august 1945."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "tahun",
+      "target": "år / year",
+      "note": {
+        "da": "'Tahun berapa?' = 'hvilket år?'; 'tahun ini' = 'i år'",
+        "en": "'Tahun berapa?' = 'what year?'; 'tahun ini' = 'this year'",
+        "id": "'Tahun berapa?' = 'tahun berapa?'; 'tahun ini' = 'tahun ini'"
+      }
+    },
+    {
+      "source": "ribu",
+      "target": "tusind / thousand",
+      "note": {
+        "da": "'Seribu' = ét tusind; 'dua ribu' = to tusind",
+        "en": "'Seribu' = one thousand; 'dua ribu' = two thousand",
+        "id": "'Seribu' = satu ribu; 'dua ribu' = dua ribu"
+      }
+    },
+    {
+      "source": "ratus",
+      "target": "hundrede / hundred",
+      "note": {
+        "da": "'Seratus' = ét hundrede; 'sembilan ratus' = ni hundrede",
+        "en": "'Seratus' = one hundred; 'sembilan ratus' = nine hundred",
+        "id": "'Seratus' = satu ratus; 'sembilan ratus' = sembilan ratus"
+      }
+    },
+    {
+      "source": "merdeka",
+      "target": "uafhængig / free / independent",
+      "note": {
+        "da": "Kernebegreb i indonesisk identitet; 'Merdeka!' er et uafhængighedsråb",
+        "en": "A core concept in Indonesian identity; 'Merdeka!' is an independence cry",
+        "id": "Konsep inti dalam identitas Indonesia; 'Merdeka!' adalah seruan kemerdekaan"
+      }
+    },
+    {
+      "source": "lahir",
+      "target": "at blive født / to be born",
+      "note": {
+        "da": "Bruges i både dato- og årssamtaler: 'lahir tahun...' eller 'lahir tanggal...'",
+        "en": "Used in both date and year conversations: 'lahir tahun...' or 'lahir tanggal...'",
+        "id": "Digunakan dalam percakapan tentang tanggal dan tahun: 'lahir tahun...' atau 'lahir tanggal...'"
+      }
+    },
+    {
+      "source": "Reformasi",
+      "target": "Reformasi (politisk reformationsperiode 1998)",
+      "note": {
+        "da": "Indonesisk reformperiode i 1998, der fulgte efter Suhartos fald",
+        "en": "Indonesian reform period in 1998 following the fall of Suharto",
+        "id": "Periode reformasi Indonesia tahun 1998 setelah jatuhnya Suharto"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Opbygning af årstal: [ribu] + [ratus] + [puluh] + [satu-sembilan]",
+      "explanation": {
+        "da": "Indonesiske årstal bygges op additivt fra venstre mod højre. Tusinder + hundreder + tier + enere. 'Se-' bruges for ét: seribu = 1000, seratus = 100.",
+        "en": "Indonesian years are built additively from left to right. Thousands + hundreds + tens + ones. 'Se-' is used for one: seribu = 1000, seratus = 100.",
+        "id": "Tahun dalam bahasa Indonesia dibangun secara aditif dari kiri ke kanan. Ribuan + ratusan + puluhan + satuan. 'Se-' digunakan untuk satu: seribu = 1000, seratus = 100."
+      },
+      "examples": [
+        {
+          "source": "tahun dua ribu dua puluh enam",
+          "target": "år 2026 (2000 + 20 + 6)"
+        },
+        {
+          "source": "tahun seribu sembilan ratus empat puluh lima",
+          "target": "år 1945 (1000 + 900 + 40 + 5)"
+        },
+        {
+          "source": "tahun dua ribu satu",
+          "target": "år 2001 (2000 + 1)"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig dit fødselsår på indonesisk. Sig derefter det nuværende år: 'Sekarang tahun...'",
+        "en": "Say your birth year in Indonesian. Then say the current year: 'Sekarang tahun...'",
+        "id": "Sebutkan tahun lahirmu dalam bahasa Indonesia. Lalu sebutkan tahun sekarang: 'Sekarang tahun...'"
+      },
+      "answerShape": {
+        "da": "Saya lahir tahun [årstal]. Sekarang tahun dua ribu dua puluh enam.",
+        "en": "Saya lahir tahun [year]. Sekarang tahun dua ribu dua puluh enam.",
+        "id": "Saya lahir tahun [tahun]. Sekarang tahun dua ribu dua puluh enam."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv tre historiske årstal (fra verdenshistorien eller din personlige historie) på indonesisk som fulde ord.",
+        "en": "Write three historical years (from world history or your personal history) in Indonesian as full words.",
+        "id": "Tuliskan tiga tahun bersejarah (dari sejarah dunia atau pribadi) dalam bahasa Indonesia sebagai kata-kata penuh."
+      },
+      "answerShape": {
+        "da": "Tahun [fulde ord] = [begivenhed].",
+        "en": "Tahun [full words] = [event].",
+        "id": "Tahun [kata penuh] = [peristiwa]."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen. Hvad er Mayas fødselsår, Dimas' fødselsår, og hvilket årstal nævnes i historisk kontekst?",
+        "en": "Listen to the dialogue. What are Maya's birth year, Dimas's birth year, and which year is mentioned in historical context?",
+        "id": "Dengarkan dialog. Apa tahun lahir Maya, tahun lahir Dimas, dan tahun apa yang disebutkan dalam konteks sejarah?"
+      },
+      "answerShape": {
+        "da": "Maya: 1998. Dimas: 2001. Historisk: 1945.",
+        "en": "Maya: 1998. Dimas: 2001. Historical: 1945.",
+        "id": "Maya: 1998. Dimas: 2001. Bersejarah: 1945."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme06-lesson06-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Årstal på indonesisk — Tahun Berapa?",
+        "en": "Years in Indonesian — Tahun Berapa?",
+        "id": "Tahun Berapa? — Cara Menyebutkan Tahun dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

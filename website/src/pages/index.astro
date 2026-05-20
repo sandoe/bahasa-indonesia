@@ -1,0 +1,159 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import PairMatrix from "@components/PairMatrix.astro";
+import { uiCopy } from "@data/site";
+---
+
+<BaseLayout
+  title="BahasaBroen | Sprogbroen mellem Danmark og Indonesien"
+  description="Lær indonesisk eller dansk gratis. En moderne platform skabt til at forbinde kulturer gennem sprog."
+>
+  <div class="animated-bg">
+    <div class="blob"></div>
+    <div class="blob"></div>
+  </div>
+
+  <section class="shell landing-hero">
+    <div class="hero-content">
+      <span class="eyebrow animated">Velkommen til BahasaBroen</span>
+      <h1 class="animated delay-1">Sprogbroen mellem <br/> <span class="text-gradient">Danmark & Indonesien</span></h1>
+      <p class="hero-text animated delay-2">
+        Lær indonesisk fra bunden med et komplet pensum, eller styrk dit danske. 
+        Vi bygger bro mellem to verdener, ét ord ad gangen.
+      </p>
+      
+      <div class="hero-actions animated delay-3">
+        <a class="primary-link" href="/da/da-id/">
+          Gå til Dansk <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg> Indonesisk
+        </a>
+      </div>
+    </div>
+
+    <div class="hero-visual animated delay-4">
+      <div class="bridge-container">
+        <div class="node dk">🇩🇰</div>
+        <div class="bridge-path"></div>
+        <div class="node id">🇮🇩</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="shell section-shell animated delay-5" id="routes">
+    <div class="section-header">
+      <span class="eyebrow">Sprogruter</span>
+      <h2>Vælg din retning</h2>
+      <p>Vi starter med den stærkeste forbindelse, men har plads til hele verden.</p>
+    </div>
+    <PairMatrix locale="da" />
+  </section>
+
+  <style>
+    .landing-hero {
+      display: grid;
+      grid-template-columns: 1.2fr 0.8fr;
+      gap: 4rem;
+      padding: 8rem 0 4rem;
+      min-height: 80vh;
+      align-items: center;
+    }
+
+    .hero-content {
+      max-width: 700px;
+    }
+
+    .text-gradient {
+      background: linear-gradient(90deg, #e31b23, var(--accent));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      display: inline-block;
+    }
+
+    .hero-text {
+      font-size: 1.4rem;
+      color: var(--muted);
+      margin: 2rem 0 3rem;
+      line-height: 1.5;
+    }
+
+    /* Animation classes */
+    .animated {
+      opacity: 0;
+      animation: fadeInUp 0.8s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+    }
+    .delay-1 { animation-delay: 0.2s; }
+    .delay-2 { animation-delay: 0.4s; }
+    .delay-3 { animation-delay: 0.6s; }
+    .delay-4 { animation-delay: 0.8s; }
+    .delay-5 { animation-delay: 1s; }
+
+    /* Visual Bridge */
+    .bridge-container {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 4rem;
+    }
+
+    .node {
+      width: 140px;
+      height: 140px;
+      background: white;
+      border-radius: 40px;
+      display: grid;
+      place-items: center;
+      font-size: 4rem;
+      box-shadow: var(--shadow);
+      border: 1px solid var(--line);
+      animation: float 6s ease-in-out infinite;
+    }
+
+    .node.id {
+      animation-delay: -3s;
+    }
+
+    .bridge-path {
+      width: 4px;
+      height: 120px;
+      background: linear-gradient(180deg, #e31b23 0%, var(--accent) 50%, #ffffff 100%);
+      opacity: 0.4;
+      border-radius: 2px;
+    }
+
+    /* Background blobs */
+    .animated-bg {
+      position: fixed;
+      inset: 0;
+      z-index: -1;
+      overflow: hidden;
+      pointer-events: none;
+    }
+
+    .blob {
+      position: absolute;
+      width: 600px;
+      height: 600px;
+      background: radial-gradient(circle, rgba(255,138,61,0.15) 0%, transparent 70%);
+      border-radius: 50%;
+      filter: blur(80px);
+    }
+
+    .blob:nth-child(1) { top: -200px; right: -100px; animation: float 10s ease-in-out infinite; }
+    .blob:nth-child(2) { bottom: -200px; left: -100px; animation: float 12s ease-in-out infinite; animation-delay: -2s; }
+
+    .section-header {
+      margin-bottom: 3rem;
+    }
+
+    @media (max-width: 1024px) {
+      .landing-hero {
+        grid-template-columns: 1fr;
+        padding-top: 4rem;
+        text-align: center;
+      }
+      .hero-content { margin: 0 auto; }
+      .hero-actions { justify-content: center; }
+      .hero-visual { display: none; }
+    }
+  </style>
+</BaseLayout>

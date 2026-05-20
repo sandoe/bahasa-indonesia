@@ -1,0 +1,247 @@
+{
+  "pair": "id-da",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Min dag",
+    "en": "My Day",
+    "id": "Hari saya"
+  },
+  "summary": {
+    "da": "Lær at beskrive din daglige rutine på dansk fra morgen til aften.",
+    "en": "Learn to describe your daily routine in Danish from morning to evening.",
+    "id": "Belajar mendeskripsikan rutinitas harian Anda dalam bahasa Denmark dari pagi hingga malam."
+  },
+  "objectives": [
+    {
+      "da": "Nævne centrale hverdagsverber.",
+      "en": "Name central daily-life verbs.",
+      "id": "Menyebutkan kata kerja inti kehidupan sehari-hari."
+    },
+    {
+      "da": "Beskrive din dag i simpel rækkefølge.",
+      "en": "Describe your day in simple sequence.",
+      "id": "Mendeskripsikan hari Anda dalam urutan sederhana."
+    },
+    {
+      "da": "Forstå en kort hverdagssamtale på dansk.",
+      "en": "Understand a short everyday conversation in Danish.",
+      "id": "Memahami percakapan sehari-hari singkat dalam bahasa Denmark."
+    }
+  ],
+  "unit": {
+    "slug": "theme-07",
+    "order": 7,
+    "title": {
+      "da": "Tema 7: Min Hverdag",
+      "en": "Theme 7: My Daily Life",
+      "id": "Tema 7: Kehidupan Sehari-hari Saya"
+    },
+    "summary": {
+      "da": "Rutiner, vaner og enkle daglige handlinger.",
+      "en": "Routines, habits, and simple daily actions.",
+      "id": "Rutinitas, kebiasaan, dan tindakan harian sederhana."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg klassen hvad de gør først om morgenen. Skriv svarene som danske verber.",
+        "en": "Ask the class what they do first in the morning. Write the answers as Danish verbs.",
+        "id": "Tanyakan kepada kelas apa yang mereka lakukan pertama kali di pagi hari. Tuliskan jawabannya sebagai kata kerja bahasa Denmark."
+      },
+      "flow": [
+        {
+          "da": "Introducer stå op, spise, arbejde, studere, komme hjem, sove.",
+          "en": "Introduce get up, eat, work, study, come home, sleep.",
+          "id": "Perkenalkan bangun, makan, bekerja, belajar, pulang, tidur."
+        },
+        {
+          "da": "Byg korte rutinesætninger med “jeg”.",
+          "en": "Build short routine sentences with “I”.",
+          "id": "Buat kalimat rutinitas pendek dengan “jeg”."
+        },
+        {
+          "da": "Lad eleverne fortælle om deres egen dag i par.",
+          "en": "Let students tell each other about their own day in pairs.",
+          "id": "Minta siswa saling menceritakan hari mereka sendiri secara berpasangan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Gentagelsen af “jeg + verbum” er god tidlig automatisering.",
+          "en": "The repetition of “I + verb” is good early automation.",
+          "id": "Pengulangan “jeg + kata kerja” adalah otomatisasi awal yang baik."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv seks handlinger fra din dag på dansk.",
+          "en": "Write six actions from your day in Danish.",
+          "id": "Tuliskan enam aktivitas dari hari Anda dalam bahasa Denmark."
+        },
+        {
+          "da": "Læs dialogen og marker rækkefølgen i handlingerne.",
+          "en": "Read the dialogue and mark the order of the actions.",
+          "id": "Baca dialog dan tandai urutan kegiatannya."
+        },
+        {
+          "da": "Fortæl din dag højt i tre til fem sætninger.",
+          "en": "Tell your day aloud in three to five sentences.",
+          "id": "Ceritakan hari Anda dengan suara keras dalam tiga sampai lima kalimat."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige mindst tre ting du gør hver dag?",
+          "en": "Can you say at least three things you do every day?",
+          "id": "Bisakah Anda mengatakan setidaknya tiga hal yang Anda lakukan setiap hari?"
+        },
+        {
+          "da": "Kan du fortælle hvornår du arbejder eller studerer?",
+          "en": "Can you say when you work or study?",
+          "id": "Bisakah Anda mengatakan kapan Anda bekerja atau belajar?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Bagus",
+      "source": "Saya bangun jam enam.",
+      "target": "Jeg står op klokken seks."
+    },
+    {
+      "speaker": "Karla",
+      "source": "Lalu apa yang kamu lakukan?",
+      "target": "Hvad gør du så?"
+    },
+    {
+      "speaker": "Bagus",
+      "source": "Saya makan morgenmad og går på arbejde.",
+      "target": "Jeg spiser morgenmad og går på arbejde."
+    },
+    {
+      "speaker": "Karla",
+      "source": "Saya kommer hjem klokken fem.",
+      "target": "Jeg kommer hjem klokken fem."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "bangun",
+      "target": "stå op",
+      "note": {
+        "da": "Et centralt verbum i daglige rutiner.",
+        "en": "A central verb in daily routines.",
+        "id": "Kata kerja inti dalam rutinitas harian."
+      }
+    },
+    {
+      "source": "makan",
+      "target": "spise",
+      "note": {
+        "da": "Bruges hele tiden i hverdagsdansk.",
+        "en": "Used all the time in everyday Danish.",
+        "id": "Sangat sering digunakan dalam bahasa Denmark sehari-hari."
+      }
+    },
+    {
+      "source": "bekerja",
+      "target": "arbejde",
+      "note": {
+        "da": "Nøgleord til voksenhverdag og små planer.",
+        "en": "Key word for adult daily life and small plans.",
+        "id": "Kata kunci untuk kehidupan sehari-hari orang dewasa dan rencana kecil."
+      }
+    },
+    {
+      "source": "tidur",
+      "target": "sove",
+      "note": {
+        "da": "Godt afslutningsverbum i rutiner.",
+        "en": "A good closing verb in routines.",
+        "id": "Kata kerja penutup yang baik dalam rutinitas."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Jeg + verbum",
+      "explanation": {
+        "da": "Dansk hverdagssprog bliver hurtigt brugbart med mønstret “jeg” + handling.",
+        "en": "Danish daily language becomes quickly useful with the pattern “I” + action.",
+        "id": "Bahasa sehari-hari Denmark cepat menjadi berguna dengan pola “jeg” + tindakan."
+      },
+      "examples": [
+        {
+          "source": "Saya makan pagi.",
+          "target": "Jeg spiser morgenmad."
+        },
+        {
+          "source": "Saya bekerja.",
+          "target": "Jeg arbejder."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til en persons dag og sæt handlingerne i rækkefølge.",
+        "en": "Listen to a person’s day and put the actions in order.",
+        "id": "Dengarkan hari seseorang dan susun aktivitasnya sesuai urutan."
+      },
+      "answerShape": {
+        "da": "En lille rækkefølgeøvelse.",
+        "en": "A small sequencing exercise.",
+        "id": "Latihan pengurutan kecil."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Fortæl om din dag i fire sætninger.",
+        "en": "Talk about your day in four sentences.",
+        "id": "Ceritakan hari Anda dalam empat kalimat."
+      },
+      "answerShape": {
+        "da": "Fire korte sætninger.",
+        "en": "Four short sentences.",
+        "id": "Empat kalimat pendek."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en minidagbog for i dag på dansk.",
+        "en": "Write a mini diary for today in Danish.",
+        "id": "Tulis buku harian mini untuk hari ini dalam bahasa Denmark."
+      },
+      "answerShape": {
+        "da": "Tre til fire linjer.",
+        "en": "Three to four lines.",
+        "id": "Tiga hingga empat baris."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilket dansk verbum virker mest nyttigt i din hverdag?",
+        "en": "Which Danish verb feels most useful in your daily life?",
+        "id": "Kata kerja bahasa Denmark mana yang terasa paling berguna dalam kehidupan sehari-hari Anda?"
+      },
+      "answerShape": {
+        "da": "En kort sætning.",
+        "en": "One short sentence.",
+        "id": "Satu kalimat pendek."
+      }
+    }
+  ],
+  "media": []
+}

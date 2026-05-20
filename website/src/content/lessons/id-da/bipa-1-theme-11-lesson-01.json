@@ -1,0 +1,247 @@
+{
+  "pair": "id-da",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "At købe noget",
+    "en": "Buying Something",
+    "id": "Membeli sesuatu"
+  },
+  "summary": {
+    "da": "Lær at spørge om pris og sige hvad du gerne vil købe på dansk.",
+    "en": "Learn to ask the price and say what you would like to buy in Danish.",
+    "id": "Belajar menanyakan harga dan mengatakan apa yang ingin Anda beli dalam bahasa Denmark."
+  },
+  "objectives": [
+    {
+      "da": "Spørge hvad noget koster.",
+      "en": "Ask what something costs.",
+      "id": "Menanyakan harga suatu barang."
+    },
+    {
+      "da": "Sige hvad du gerne vil købe.",
+      "en": "Say what you would like to buy.",
+      "id": "Mengatakan apa yang ingin Anda beli."
+    },
+    {
+      "da": "Bruge enkle butiksord og tal.",
+      "en": "Use simple shop words and numbers.",
+      "id": "Menggunakan kosakata toko sederhana dan angka."
+    }
+  ],
+  "unit": {
+    "slug": "theme-11",
+    "order": 11,
+    "title": {
+      "da": "Tema 11: Shopping",
+      "en": "Theme 11: Shopping",
+      "id": "Tema 11: Belanja"
+    },
+    "summary": {
+      "da": "Varer, priser og små butikssamtaler.",
+      "en": "Items, prices, and short shop conversations.",
+      "id": "Barang, harga, dan percakapan toko singkat."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis nogle varer og lad eleverne gætte priser.",
+        "en": "Show some items and let students guess prices.",
+        "id": "Tunjukkan beberapa barang dan biarkan siswa menebak harganya."
+      },
+      "flow": [
+        {
+          "da": "Introducer prisord og spørgsmål som “hvad koster den?”.",
+          "en": "Introduce price words and questions like “how much does it cost?”.",
+          "id": "Perkenalkan kosakata harga dan pertanyaan seperti “berapa harganya?”."
+        },
+        {
+          "da": "Øv “jeg vil gerne købe...” med konkrete varer.",
+          "en": "Practise “I would like to buy...” with concrete items.",
+          "id": "Latih “saya ingin membeli...” dengan barang-barang konkret."
+        },
+        {
+          "da": "Lav korte kunde-ekspedient-dialoger.",
+          "en": "Make short customer-shop assistant dialogues.",
+          "id": "Buat dialog singkat pembeli-penjaga toko."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Shopping er godt til at samle tal, farver og høflige ønsker.",
+          "en": "Shopping is good for combining numbers, colours, and polite wishes.",
+          "id": "Belanja bagus untuk menggabungkan angka, warna, dan keinginan sopan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lav en lille indkøbsliste på dansk.",
+          "en": "Make a small shopping list in Danish.",
+          "id": "Buat daftar belanja kecil dalam bahasa Denmark."
+        },
+        {
+          "da": "Skriv to priser med tal.",
+          "en": "Write two prices with numbers.",
+          "id": "Tulis dua harga dengan angka."
+        },
+        {
+          "da": "Øv spørgsmål om pris og køb højt.",
+          "en": "Practise price and buying questions aloud.",
+          "id": "Latih pertanyaan tentang harga dan membeli dengan suara keras."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du spørge om en pris på dansk?",
+          "en": "Can you ask a price in Danish?",
+          "id": "Bisakah Anda menanyakan harga dalam bahasa Denmark?"
+        },
+        {
+          "da": "Kan du sige én ting du gerne vil købe?",
+          "en": "Can you say one thing you would like to buy?",
+          "id": "Bisakah Anda mengatakan satu hal yang ingin Anda beli?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Kunde",
+      "source": "Berapa harga tas itu?",
+      "target": "Hvad koster den taske?"
+    },
+    {
+      "speaker": "Ekspedient",
+      "source": "Harganya seratus kroner.",
+      "target": "Den koster hundrede kroner."
+    },
+    {
+      "speaker": "Kunde",
+      "source": "Saya vil gerne købe den.",
+      "target": "Jeg vil gerne købe den."
+    },
+    {
+      "speaker": "Ekspedient",
+      "source": "Baik, silakan.",
+      "target": "Fint, værsgo."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "harga",
+      "target": "pris",
+      "note": {
+        "da": "Et nøgleord i butikker og på markeder.",
+        "en": "A key word in shops and markets.",
+        "id": "Kata kunci di toko dan pasar."
+      }
+    },
+    {
+      "source": "berapa harganya?",
+      "target": "hvad koster den?",
+      "note": {
+        "da": "Det mest nyttige begynderspørgsmål ved køb.",
+        "en": "The most useful beginner question when buying.",
+        "id": "Pertanyaan pemula yang paling berguna saat membeli."
+      }
+    },
+    {
+      "source": "saya ingin membeli",
+      "target": "jeg vil gerne købe",
+      "note": {
+        "da": "Et høfligt og anvendeligt købemønster.",
+        "en": "A polite and useful buying pattern.",
+        "id": "Pola membeli yang sopan dan berguna."
+      }
+    },
+    {
+      "source": "tas / sepatu / baju",
+      "target": "taske / sko / tøj",
+      "note": {
+        "da": "Gode første butiksting.",
+        "en": "Good first shop items.",
+        "id": "Barang-barang toko pertama yang baik."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Hvad koster ...? / Jeg vil gerne købe ...",
+      "explanation": {
+        "da": "To kerneformer i dansk shopping. Den ene spørger om pris, den anden udtrykker et køb.",
+        "en": "Two core forms in Danish shopping. One asks about price, the other expresses a purchase.",
+        "id": "Dua bentuk inti dalam belanja bahasa Denmark. Yang satu menanyakan harga, yang lain menyatakan pembelian."
+      },
+      "examples": [
+        {
+          "source": "Berapa harga sepatu itu?",
+          "target": "Hvad koster de sko?"
+        },
+        {
+          "source": "Saya ingin membeli tas ini.",
+          "target": "Jeg vil gerne købe denne taske."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til to priser og skriv dem ned.",
+        "en": "Listen to two prices and write them down.",
+        "id": "Dengarkan dua harga dan tuliskan."
+      },
+      "answerShape": {
+        "da": "To korte tal.",
+        "en": "Two short numbers.",
+        "id": "Dua angka singkat."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Spørg om prisen på en vare og sig at du vil købe den.",
+        "en": "Ask the price of an item and say that you want to buy it.",
+        "id": "Tanyakan harga suatu barang dan katakan bahwa Anda ingin membelinya."
+      },
+      "answerShape": {
+        "da": "To sætninger.",
+        "en": "Two sentences.",
+        "id": "Dua kalimat."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en mini-butiksdialog på dansk.",
+        "en": "Write a mini shop dialogue in Danish.",
+        "id": "Tulis mini-dialog toko dalam bahasa Denmark."
+      },
+      "answerShape": {
+        "da": "Fire korte linjer.",
+        "en": "Four short lines.",
+        "id": "Empat baris pendek."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilke indkøbsord vil være mest nyttige for dig i Danmark?",
+        "en": "Which shopping words will be most useful for you in Denmark?",
+        "id": "Kosakata belanja mana yang paling berguna bagi Anda di Denmark?"
+      },
+      "answerShape": {
+        "da": "En kort liste eller sætning.",
+        "en": "A short list or sentence.",
+        "id": "Daftar atau kalimat singkat."
+      }
+    }
+  ],
+  "media": []
+}

@@ -1,0 +1,273 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 5,
+  "slug": "lesson-05",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Anak Tunggal atau Banyak? – Ét barn eller mange?",
+    "en": "Anak Tunggal atau Banyak? – Only Child or Many?",
+    "id": "Anak Tunggal atau Banyak? – Satu Anak atau Banyak?"
+  },
+  "summary": {
+    "da": "Lær at tale om familiestørrelse, søskendeposition (ældste, midterste, yngste) og sammenlign familiemønstre i Indonesien og Danmark.",
+    "en": "Learn to talk about family size, sibling position (eldest, middle, youngest) and compare family patterns in Indonesia and Denmark.",
+    "id": "Pelajari cara berbicara tentang ukuran keluarga, posisi saudara kandung (sulung, tengah, bungsu) dan membandingkan pola keluarga di Indonesia dan Denmark."
+  },
+  "objectives": [
+    {
+      "da": "Spørge om og svare på 'berapa bersaudara?' (Hvor mange søskende?)",
+      "en": "Ask and answer 'berapa bersaudara?' (How many siblings?)",
+      "id": "Bertanya dan menjawab 'berapa bersaudara?' (Berapa saudara kandung?)"
+    },
+    {
+      "da": "Sige sin position i søskenderækken: anak pertama, tengah eller bungsu.",
+      "en": "State one's position in the sibling order: anak pertama, tengah, or bungsu.",
+      "id": "Menyatakan posisi dalam urutan saudara kandung: anak pertama, tengah, atau bungsu."
+    },
+    {
+      "da": "Diskutere kulturelle forskelle i familiestørrelse mellem Indonesien og Danmark.",
+      "en": "Discuss cultural differences in family size between Indonesia and Denmark.",
+      "id": "Mendiskusikan perbedaan budaya dalam ukuran keluarga antara Indonesia dan Denmark."
+    }
+  ],
+  "unit": {
+    "slug": "theme-04",
+    "order": 4,
+    "title": {
+      "da": "Tema 4: Min Familie",
+      "en": "Theme 4: My Family",
+      "id": "Tema 4: Keluarga Saya"
+    },
+    "summary": {
+      "da": "Familiebetegnelser og at tale om sin familie.",
+      "en": "Family terms and talking about your family.",
+      "id": "Istilah keluarga dan berbicara tentang keluarga."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Lav en hurtig håndsoprækning: Hvem er anak tunggal? Anak pertama? Anak bungsu? Introducer de indonesiske termer mens du tæller.",
+        "en": "Do a quick show of hands: Who is anak tunggal? Anak pertama? Anak bungsu? Introduce the Indonesian terms as you count.",
+        "id": "Lakukan acung tangan cepat: Siapa yang anak tunggal? Anak pertama? Anak bungsu? Perkenalkan istilah Indonesia saat Anda menghitung."
+      },
+      "flow": [
+        {
+          "da": "Introducer spørgsmålet 'Berapa bersaudara?' og svaret 'Saya anak tunggal' / 'Kami berdua bersaudara' / 'Kami berlima bersaudara'.",
+          "en": "Introduce the question 'Berapa bersaudara?' and answers 'Saya anak tunggal' / 'Kami berdua bersaudara' / 'Kami berlima bersaudara'.",
+          "id": "Perkenalkan pertanyaan 'Berapa bersaudara?' dan jawaban 'Saya anak tunggal' / 'Kami berdua bersaudara' / 'Kami berlima bersaudara'."
+        },
+        {
+          "da": "Introducer positionerne: anak pertama (ældst), anak tengah (midterst), anak bungsu (yngst). Øv med eksempler fra klassen.",
+          "en": "Introduce positions: anak pertama (eldest), anak tengah (middle), anak bungsu (youngest). Practice with examples from the class.",
+          "id": "Perkenalkan posisi: anak pertama (sulung), anak tengah, anak bungsu. Latih dengan contoh dari kelas."
+        },
+        {
+          "da": "Kulturel diskussion: gennemsnitlig børnetal i Indonesien vs. Danmark. Hvad er årsagerne? (urbanisering, økonomi, tradition). Hold det enkelt og åbent.",
+          "en": "Cultural discussion: average number of children in Indonesia vs Denmark. What are the reasons? (urbanization, economy, tradition). Keep it simple and open.",
+          "id": "Diskusi budaya: rata-rata jumlah anak di Indonesia vs Denmark. Apa alasannya? (urbanisasi, ekonomi, tradisi). Jaga tetap sederhana dan terbuka."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Undgå at generalisere kulturer. Brug statistikker som springbræt til diskussion, ikke som absolutte sandheder. Mange indonesiske byfamilier har nu 1-2 børn ligesom danske familier.",
+          "en": "Avoid generalizing cultures. Use statistics as a springboard for discussion, not as absolute truths. Many Indonesian city families now have 1-2 children just like Danish families.",
+          "id": "Hindari menggeneralisasi budaya. Gunakan statistik sebagai batu loncatan untuk diskusi, bukan sebagai kebenaran mutlak. Banyak keluarga kota Indonesia sekarang memiliki 1-2 anak seperti keluarga Denmark."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Øv at svare på 'Berapa bersaudara?' med dit eget svar. Prøv flere versioner: anak tunggal, berdua, bertiga osv.",
+          "en": "Practice answering 'Berapa bersaudara?' with your own answer. Try several versions: anak tunggal, berdua, bertiga, etc.",
+          "id": "Latih menjawab 'Berapa bersaudara?' dengan jawaban Anda sendiri. Coba beberapa versi: anak tunggal, berdua, bertiga, dll."
+        },
+        {
+          "da": "Skriv to sætninger om din søskendeposition og din plads i familien.",
+          "en": "Write two sentences about your sibling position and your place in the family.",
+          "id": "Tulislah dua kalimat tentang posisi Anda di antara saudara kandung dan tempat Anda dalam keluarga."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du stille og besvare spørgsmålet 'Berapa bersaudara?' korrekt?",
+          "en": "Can you ask and answer the question 'Berapa bersaudara?' correctly?",
+          "id": "Bisakah Anda bertanya dan menjawab pertanyaan 'Berapa bersaudara?' dengan benar?"
+        },
+        {
+          "da": "Kan du forklare forskellen på 'anak pertama' og 'anak bungsu'?",
+          "en": "Can you explain the difference between 'anak pertama' and 'anak bungsu'?",
+          "id": "Bisakah Anda menjelaskan perbedaan antara 'anak pertama' dan 'anak bungsu'?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Erik",
+      "source": "Hei Sari, kamu anak tunggal atau punya saudara?",
+      "target": "Hej Sari, er du enebarn eller har du søskende?"
+    },
+    {
+      "speaker": "Sari",
+      "source": "Kami empat bersaudara. Saya anak pertama.",
+      "target": "Vi er fire søskende. Jeg er den ældste."
+    },
+    {
+      "speaker": "Erik",
+      "source": "Wah, banyak ya! Di Denmark, banyak keluarga punya satu atau dua anak.",
+      "target": "Nej, hvor mange! I Danmark har mange familier et eller to børn."
+    },
+    {
+      "speaker": "Sari",
+      "source": "Di Indonesia juga mulai berubah. Di kota, keluarga kecil sudah biasa.",
+      "target": "I Indonesien er det også ved at ændre sig. I byerne er små familier nu normale."
+    },
+    {
+      "speaker": "Erik",
+      "source": "Kamu anak pertama – berarti kamu kakak semua saudara?",
+      "target": "Du er anak pertama – det vil sige du er storesøskende for alle?"
+    },
+    {
+      "speaker": "Sari",
+      "source": "Ya, betul! Ada anak kedua, anak ketiga, dan anak bungsu – si kecil.",
+      "target": "Ja, rigtigt! Der er nummer to, nummer tre, og den yngste – den lille."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Enebarn",
+      "target": "Anak tunggal",
+      "note": {
+        "da": "'Tunggal' = enkelt/alene. 'Anak tunggal' bruges bredt og er ikke negativt ladet.",
+        "en": "'Tunggal' = single/alone. 'Anak tunggal' is widely used and carries no negative connotation.",
+        "id": "'Tunggal' = tunggal/sendiri. 'Anak tunggal' digunakan secara luas dan tidak berkonotasi negatif."
+      }
+    },
+    {
+      "source": "Hvor mange søskende?",
+      "target": "Berapa bersaudara?",
+      "note": {
+        "da": "Bogstaveligt: 'Hvor mange er i søskende?' 'Bersaudara' = søskende (flertalsform).",
+        "en": "Literally: 'How many are you as siblings?' 'Bersaudara' = as siblings (plural form).",
+        "id": "Secara harfiah: 'Berapa orang bersaudara?' 'Bersaudara' = sebagai saudara (bentuk jamak)."
+      }
+    },
+    {
+      "source": "Ældste barn",
+      "target": "Anak pertama / Anak sulung",
+      "note": {
+        "da": "'Pertama' = første; 'sulung' er et mere poetisk/traditionelt ord for det ældste barn.",
+        "en": "'Pertama' = first; 'sulung' is a more poetic/traditional word for the eldest child.",
+        "id": "'Pertama' = pertama; 'sulung' adalah kata yang lebih puitis/tradisional untuk anak tertua."
+      }
+    },
+    {
+      "source": "Midterste barn",
+      "target": "Anak tengah",
+      "note": {
+        "da": "'Tengah' = midte. Bruges om børn der hverken er ældst eller yngst.",
+        "en": "'Tengah' = middle. Used for children who are neither the eldest nor the youngest.",
+        "id": "'Tengah' = tengah. Digunakan untuk anak yang bukan tertua maupun termuda."
+      }
+    },
+    {
+      "source": "Yngste barn",
+      "target": "Anak bungsu",
+      "note": {
+        "da": "'Bungsu' er et specifikt ord kun for det yngste barn. Har ofte en kærlig konnotation.",
+        "en": "'Bungsu' is a specific word only for the youngest child. Often has an affectionate connotation.",
+        "id": "'Bungsu' adalah kata khusus hanya untuk anak bungsu. Seringkali memiliki konotasi yang penuh kasih."
+      }
+    },
+    {
+      "source": "Vi er to søskende",
+      "target": "Kami berdua bersaudara",
+      "note": {
+        "da": "'Ber-' + tal = antal tilsammen. Berdua=to, bertiga=tre, berempat=fire, berlima=fem.",
+        "en": "'Ber-' + number = that many together. Berdua=two, bertiga=three, berempat=four, berlima=five.",
+        "id": "'Ber-' + angka = jumlah bersama. Berdua=dua, bertiga=tiga, berempat=empat, berlima=lima."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Ber- + tal = antal søskende/personer tilsammen",
+      "explanation": {
+        "da": "Præfikset 'ber-' foran et tal angiver et antal mennesker der gør noget sammen. 'Kami berdua' = vi to, 'kami bertiga' = vi tre. Bruges til at angive søskendeantal: 'kami berlima bersaudara' = vi er fem søskende.",
+        "en": "The prefix 'ber-' before a number indicates a number of people doing something together. 'Kami berdua' = we two, 'kami bertiga' = we three. Used to state number of siblings: 'kami berlima bersaudara' = we are five siblings.",
+        "id": "Awalan 'ber-' sebelum angka menunjukkan sejumlah orang yang melakukan sesuatu bersama. 'Kami berdua' = kami berdua, 'kami bertiga' = kami bertiga. Digunakan untuk menyatakan jumlah saudara kandung: 'kami berlima bersaudara'."
+      },
+      "examples": [
+        { "source": "Vi er to søskende.", "target": "Kami berdua bersaudara." },
+        { "source": "Vi er tre søskende.", "target": "Kami bertiga bersaudara." },
+        { "source": "Vi spiste to og to.", "target": "Kami makan berdua-berdua." }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig din søskendeposition højt: 'Saya anak [tunggal/pertama/tengah/bungsu]. Kami [berdua/bertiga/...] bersaudara.' Tilføj ét faktum om din familie.",
+        "en": "Say your sibling position aloud: 'Saya anak [tunggal/pertama/tengah/bungsu]. Kami [berdua/bertiga/...] bersaudara.' Add one fact about your family.",
+        "id": "Ucapkan posisi saudara kandung Anda dengan keras: 'Saya anak [tunggal/pertama/tengah/bungsu]. Kami [berdua/bertiga/...] bersaudara.' Tambahkan satu fakta tentang keluarga Anda."
+      },
+      "answerShape": {
+        "da": "To sætninger.",
+        "en": "Two sentences.",
+        "id": "Dua kalimat."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Udfyld hullerne: 1) Keluarga saya ___ dari enam orang. 2) Saya anak ___, yang paling muda. 3) Kami ___ bersaudara – saya, kakak, dan dua adik. 4) Kakak saya adalah anak ___.",
+        "en": "Fill in the gaps: 1) Keluarga saya ___ dari enam orang. 2) Saya anak ___, yang paling muda. 3) Kami ___ bersaudara – saya, kakak, dan dua adik. 4) Kakak saya adalah anak ___.",
+        "id": "Isi celah: 1) Keluarga saya ___ dari enam orang. 2) Saya anak ___, yang paling muda. 3) Kami ___ bersaudara – saya, kakak, dan dua adik. 4) Kakak saya adalah anak ___."
+      },
+      "answerShape": {
+        "da": "1) terdiri  2) bungsu  3) berempat  4) pertama.",
+        "en": "1) terdiri  2) bungsu  3) berempat  4) pertama.",
+        "id": "1) terdiri  2) bungsu  3) berempat  4) pertama."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad tror du 'anak bungsu' (det yngste barn) traditionelt set for en særlig behandling i indonesiske familier? Kendes det fra din egen kultur?",
+        "en": "What do you think makes 'anak bungsu' (the youngest child) traditionally receive special treatment in Indonesian families? Is this familiar from your own culture?",
+        "id": "Menurut Anda mengapa 'anak bungsu' secara tradisional mendapat perlakuan istimewa dalam keluarga Indonesia? Apakah ini dikenal dari budaya Anda sendiri?"
+      },
+      "answerShape": {
+        "da": "To til tre sætninger.",
+        "en": "Two to three sentences.",
+        "id": "Dua hingga tiga kalimat."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme04-lesson05-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Familiestørrelse i Indonesien og Danmark – en sammenligning",
+        "en": "Family size in Indonesia and Denmark – a comparison",
+        "id": "Ukuran keluarga di Indonesia dan Denmark – sebuah perbandingan"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

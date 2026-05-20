@@ -1,0 +1,301 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 6,
+  "slug": "lesson-06",
+  "durationMinutes": 30,
+  "title": {
+    "da": "Stedsnavne og Egennavne",
+    "en": "Place Names and Proper Nouns",
+    "id": "Nama Tempat dan Nama Diri"
+  },
+  "summary": {
+    "da": "Øv udtalen af indonesiske stednavne: Jakarta, Bali, Surabaya, Yogyakarta, Sumatra, Lombok, Sulawesi, Kalimantan – og personnavne: Sari, Budi, Dewi, Agus. Kontekst: drømmerejser til Indonesien.",
+    "en": "Practise pronouncing Indonesian place names: Jakarta, Bali, Surabaya, Yogyakarta, Sumatra, Lombok, Sulawesi, Kalimantan – and personal names: Sari, Budi, Dewi, Agus. Context: dream travel to Indonesia.",
+    "id": "Latih pengucapan nama tempat Indonesia: Jakarta, Bali, Surabaya, Yogyakarta, Sumatra, Lombok, Sulawesi, Kalimantan – dan nama pribadi: Sari, Budi, Dewi, Agus. Konteks: perjalanan impian ke Indonesia."
+  },
+  "objectives": [
+    {
+      "da": "Udtale mindst seks indonesiske stednavne korrekt",
+      "en": "Pronounce at least six Indonesian place names correctly",
+      "id": "Mengucapkan setidaknya enam nama tempat Indonesia dengan benar"
+    },
+    {
+      "da": "Anvende de lærte udtaleregler (vokaler, konsonanter, betoning) på egennavne",
+      "en": "Apply the learned pronunciation rules (vowels, consonants, stress) to proper nouns",
+      "id": "Menerapkan aturan pengucapan yang dipelajari (vokal, konsonan, tekanan) pada nama diri"
+    },
+    {
+      "da": "Sige en sætning om et drømmemål i Indonesien",
+      "en": "Say a sentence about a dream destination in Indonesia",
+      "id": "Mengucapkan kalimat tentang tujuan impian di Indonesia"
+    }
+  ],
+  "unit": {
+    "slug": "theme-00",
+    "order": 0,
+    "title": {
+      "da": "Tema 0: Fundamentet",
+      "en": "Theme 0: The Foundation",
+      "id": "Tema 0: Dasar"
+    },
+    "summary": {
+      "da": "Sprogets byggesten: Bogstaver, lyde og de første regler.",
+      "en": "Building blocks: Letters, sounds, first rules.",
+      "id": "Fondasi bahasa: huruf, bunyi, aturan pertama."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis et kort over Indonesien på projektoren. Peg på øerne og bed eleverne gætte stedsnavnene. Skriv dem på tavlen: Jakarta, Bali, Surabaya, Yogyakarta, Sumatra, Lombok, Sulawesi, Kalimantan. Spørg: 'Hvad kender I til Indonesien?'",
+        "en": "Show a map of Indonesia on the projector. Point to islands and ask students to guess the place names. Write them on the board: Jakarta, Bali, Surabaya, Yogyakarta, Sumatra, Lombok, Sulawesi, Kalimantan. Ask: 'What do you know about Indonesia?'",
+        "id": "Tampilkan peta Indonesia di proyektor. Tunjuk pulau-pulau dan minta siswa menebak nama tempatnya. Tulis di papan: Jakarta, Bali, Surabaya, Yogyakarta, Sumatra, Lombok, Sulawesi, Kalimantan. Tanya: 'Apa yang kalian tahu tentang Indonesia?'"
+      },
+      "flow": [
+        {
+          "da": "Udtaleanalyse: Tag hvert stednavn og bryd det ned i stavelser. Yogyakarta er det mest udfordrende: Yog-ya-KAR-ta (4 stavelser, Y=Y-lyd, G=hårdt G). Jakarta: Ja-KAR-ta (3 stavelser, J=Y-lyd, hårdt R). Klap rytmen for hvert navn.",
+          "en": "Pronunciation analysis: Take each place name and break it into syllables. Yogyakarta is the most challenging: Yog-ya-KAR-ta (4 syllables, Y=Y-sound, G=hard G). Jakarta: Ja-KAR-ta (3 syllables, J=Y-sound, hard R). Clap the rhythm for each name.",
+          "id": "Analisis pengucapan: Ambil setiap nama tempat dan pecah menjadi suku kata. Yogyakarta adalah yang paling menantang: Yog-ya-KAR-ta (4 suku kata, Y=bunyi-Y, G=G keras). Jakarta: Ja-KAR-ta (3 suku kata, J=bunyi-Y, R keras). Tepuk ritme setiap nama."
+        },
+        {
+          "da": "Personnavne: Sari (SA-ri), Budi (BU-di), Dewi (DE-wi), Agus (A-gus). Fortæl eleverne om navnenes kulturelle baggrund – Budi og Agus er typiske drengenavne, Sari og Dewi er pigenavne. Dewi = gudinde (Sanskrit).",
+          "en": "Personal names: Sari (SA-ri), Budi (BU-di), Dewi (DE-wi), Agus (A-gus). Tell students about the cultural background of the names – Budi and Agus are typical male names, Sari and Dewi are female names. Dewi = goddess (Sanskrit).",
+          "id": "Nama pribadi: Sari (SA-ri), Budi (BU-di), Dewi (DE-wi), Agus (A-gus). Ceritakan kepada siswa tentang latar belakang budaya nama-nama tersebut – Budi dan Agus adalah nama laki-laki yang umum, Sari dan Dewi adalah nama perempuan. Dewi = dewi (Sansekerta)."
+        },
+        {
+          "da": "Rollespil – drømmemål: Eleverne øver dialogeksemplet i par. Skift roller. Tilskynd dem til at bruge en af de lærte bynavne i en sætning: 'Saya ingin pergi ke Bali.' (Jeg vil gerne til Bali.)",
+          "en": "Role play – dream destinations: Students practise the dialogue example in pairs. Switch roles. Encourage them to use one of the learned city names in a sentence: 'Saya ingin pergi ke Bali.' (I want to go to Bali.)",
+          "id": "Bermain peran – tujuan impian: Siswa berlatih contoh dialog berpasangan. Ganti peran. Dorong mereka untuk menggunakan salah satu nama kota yang dipelajari dalam kalimat: 'Saya ingin pergi ke Bali.'"
+        }
+      ],
+      "notes": [
+        {
+          "da": "Yogyakarta er berømt for sin unikke udtale: lokalt kaldes byen 'Jogja' [dʒɔgdʒa] i hverdagstale. Standardformen er Yogyakarta, men eleverne bør kende begge varianter. Y i 'Yogya' er Y-lyd, G er hårdt.",
+          "en": "Yogyakarta is famous for its unique pronunciation: locally the city is called 'Jogja' in everyday speech. The standard form is Yogyakarta, but students should know both variants. Y in 'Yogya' is Y-sound, G is hard.",
+          "id": "Yogyakarta terkenal dengan pengucapan uniknya: secara lokal kota ini disebut 'Jogja' dalam percakapan sehari-hari. Bentuk standar adalah Yogyakarta, tetapi siswa harus mengetahui kedua variannya. Y dalam 'Yogya' adalah bunyi-Y, G adalah keras."
+        },
+        {
+          "da": "Kalimantan er den indonesiske del af øen Borneo. Mange danskere kender 'Borneo' – brug det som sprogbro. Tilsvarende: Sulawesi var tidligere kaldt Celebes af europæiske kolonisatorer.",
+          "en": "Kalimantan is the Indonesian part of the island of Borneo. Many Danes know 'Borneo' – use it as a language bridge. Similarly: Sulawesi was formerly called Celebes by European colonisers.",
+          "id": "Kalimantan adalah bagian Indonesia dari pulau Borneo. Banyak orang Denmark mengenal 'Borneo' – gunakan sebagai jembatan bahasa. Demikian pula: Sulawesi sebelumnya disebut Celebes oleh para penjajah Eropa."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lav en liste over alle stednavne fra lektionen. Skriv dem med stavelsesopdelinger og betoning: Ja-KAR-ta, BA-li, Su-ra-BA-ya, Yog-ya-KAR-ta osv. Øv udtalen 3 gange for hvert navn.",
+          "en": "Make a list of all place names from the lesson. Write them with syllable divisions and stress: Ja-KAR-ta, BA-li, Su-ra-BA-ya, Yog-ya-KAR-ta etc. Practise the pronunciation 3 times for each name.",
+          "id": "Buat daftar semua nama tempat dari pelajaran. Tulis dengan pembagian suku kata dan tekanan: Ja-KAR-ta, BA-li, Su-ra-BA-ya, Yog-ya-KAR-ta, dll. Latih pengucapan 3 kali untuk setiap nama."
+        },
+        {
+          "da": "Skriv en kort sætning om dit drømmemål i Indonesien: 'Saya ingin pergi ke ___.' Sig sætningen højt og fokuser på udtalen af stednavnet.",
+          "en": "Write a short sentence about your dream destination in Indonesia: 'Saya ingin pergi ke ___.' Say the sentence aloud and focus on the pronunciation of the place name.",
+          "id": "Tulis kalimat singkat tentang tujuan impian Anda di Indonesia: 'Saya ingin pergi ke ___.' Ucapkan kalimat dengan keras dan fokus pada pengucapan nama tempat."
+        },
+        {
+          "da": "Find et kort over Indonesien online og øv at pege på og udtale: Jakarta, Bali, Surabaya, Yogyakarta, Sumatra, Lombok, Sulawesi, Kalimantan.",
+          "en": "Find a map of Indonesia online and practise pointing to and pronouncing: Jakarta, Bali, Surabaya, Yogyakarta, Sumatra, Lombok, Sulawesi, Kalimantan.",
+          "id": "Temukan peta Indonesia secara online dan latih menunjuk dan mengucapkan: Jakarta, Bali, Surabaya, Yogyakarta, Sumatra, Lombok, Sulawesi, Kalimantan."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du udtale alle otte stednavne korrekt – herunder Yogyakarta med hårdt G og Y-lyd?",
+          "en": "Can you pronounce all eight place names correctly – including Yogyakarta with hard G and Y-sound?",
+          "id": "Dapatkah Anda mengucapkan semua delapan nama tempat dengan benar – termasuk Yogyakarta dengan G keras dan bunyi-Y?"
+        },
+        {
+          "da": "Kan du sige 'Saya ingin pergi ke [stednavn]' med korrekt udtale af stednavnet?",
+          "en": "Can you say 'Saya ingin pergi ke [place name]' with correct pronunciation of the place name?",
+          "id": "Dapatkah Anda mengucapkan 'Saya ingin pergi ke [nama tempat]' dengan pengucapan nama tempat yang benar?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Anna",
+      "source": "Hvis du kunne vælge – hvilken indonesisk ø ville du besøge?",
+      "target": "Kalau kamu bisa memilih – pulau Indonesia mana yang ingin kamu kunjungi?"
+    },
+    {
+      "speaker": "Lars",
+      "source": "Jeg drømmer om Bali. Og du?",
+      "target": "Saya bermimpi tentang Bali. Kalau kamu?"
+    },
+    {
+      "speaker": "Anna",
+      "source": "Jeg vil gerne til Yogyakarta – de siger det er meget smukt. Men hvordan udtaler man det?",
+      "target": "Saya ingin ke Yogyakarta – katanya sangat indah. Tapi bagaimana cara mengucapkannya?"
+    },
+    {
+      "speaker": "Lars",
+      "source": "Yog-ya-KAR-ta. Y er som dansk J, G er hårdt – og tryk på KAR.",
+      "target": "Yog-ya-KAR-ta. Y seperti 'y' dalam bahasa Inggris, G keras – dan tekanan pada KAR."
+    },
+    {
+      "speaker": "Anna",
+      "source": "Yog-ya-KAR-ta. Og Kalimantan – er det det samme som Borneo?",
+      "target": "Yog-ya-KAR-ta. Dan Kalimantan – apakah itu sama dengan Borneo?"
+    },
+    {
+      "speaker": "Lars",
+      "source": "Ja, Kalimantan er den indonesiske del af Borneo. Ka-li-MAN-tan – tryk på MAN.",
+      "target": "Ya, Kalimantan adalah bagian Indonesia dari Borneo. Ka-li-MAN-tan – tekanan pada MAN."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Jakarta (Indonesiens hovedstad)",
+      "target": "Jakarta",
+      "note": {
+        "da": "3 stavelser: Ja-KAR-ta. J=Y-lyd, G=hårdt, R=rullet, tryk på KAR.",
+        "en": "3 syllables: Ja-KAR-ta. J=Y-sound, G=hard, R=rolled, stress on KAR.",
+        "id": "3 suku kata: Ja-KAR-ta. J=bunyi-Y, R=digulung, tekanan pada KAR."
+      }
+    },
+    {
+      "source": "Bali (turistø i Indonesien)",
+      "target": "Bali",
+      "note": {
+        "da": "2 stavelser: BA-li. Tryk på BA. Den mest kendte indonesiske ø i vesten.",
+        "en": "2 syllables: BA-li. Stress on BA. The most well-known Indonesian island in the West.",
+        "id": "2 suku kata: BA-li. Tekanan pada BA. Pulau Indonesia yang paling dikenal di Barat."
+      }
+    },
+    {
+      "source": "Surabaya (Indonesiens næststørste by)",
+      "target": "Surabaya",
+      "note": {
+        "da": "4 stavelser: Su-ra-BA-ya. Tryk på BA. Betyder 'haj og krokodille' på gammel javanesisk.",
+        "en": "4 syllables: Su-ra-BA-ya. Stress on BA. Means 'shark and crocodile' in Old Javanese.",
+        "id": "4 suku kata: Su-ra-BA-ya. Tekanan pada BA. Artinya 'hiu dan buaya' dalam bahasa Jawa kuno."
+      }
+    },
+    {
+      "source": "Yogyakarta (kulturhovedstad på Java)",
+      "target": "Yogyakarta",
+      "note": {
+        "da": "4 stavelser: Yog-ya-KAR-ta. Y=Y-lyd, G=hårdt, tryk på KAR. Hverdagsform: Jogja.",
+        "en": "4 syllables: Yog-ya-KAR-ta. Y=Y-sound, G=hard, stress on KAR. Everyday form: Jogja.",
+        "id": "4 suku kata: Yog-ya-KAR-ta. Y=bunyi-Y, G=keras, tekanan pada KAR. Bentuk sehari-hari: Jogja."
+      }
+    },
+    {
+      "source": "Lombok (ø øst for Bali)",
+      "target": "Lombok",
+      "note": {
+        "da": "2 stavelser: LOM-bok. Tryk på LOM. Betyder 'chili' på sasak-sproget.",
+        "en": "2 syllables: LOM-bok. Stress on LOM. Means 'chili pepper' in the Sasak language.",
+        "id": "2 suku kata: LOM-bok. Tekanan pada LOM. Artinya 'cabai' dalam bahasa Sasak."
+      }
+    },
+    {
+      "source": "Dewi (kvindenavn)",
+      "target": "Dewi",
+      "note": {
+        "da": "2 stavelser: DE-wi. Tryk på DE. Betyder 'gudinde' på Sanskrit. Meget almindeligt kvindenavn i Indonesien og Bali.",
+        "en": "2 syllables: DE-wi. Stress on DE. Means 'goddess' in Sanskrit. Very common female name in Indonesia and Bali.",
+        "id": "2 suku kata: DE-wi. Tekanan pada DE. Artinya 'dewi' dalam bahasa Sansekerta. Nama perempuan yang sangat umum di Indonesia dan Bali."
+      }
+    },
+    {
+      "source": "at rejse / at besøge",
+      "target": "bepergian / mengunjungi",
+      "note": {
+        "da": "'Bepergian' = at rejse (overordnet). 'Mengunjungi' = at besøge (et bestemt sted). Bruges i sætningen: 'Saya ingin mengunjungi Bali.'",
+        "en": "'Bepergian' = to travel (general). 'Mengunjungi' = to visit (a specific place). Used in: 'Saya ingin mengunjungi Bali.'",
+        "id": "'Bepergian' = bepergian (umum). 'Mengunjungi' = mengunjungi (tempat tertentu). Digunakan dalam: 'Saya ingin mengunjungi Bali.'"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya ingin pergi ke + stednavn",
+      "explanation": {
+        "da": "'Saya ingin pergi ke [stednavn]' betyder 'Jeg vil gerne til [stednavn]'. 'Ingin' = at ville/ønske. 'Pergi' = at gå/rejse. 'Ke' = til (retning). Dette er en grundlæggende konstruktion til at udtrykke ønske om at rejse.",
+        "en": "'Saya ingin pergi ke [place name]' means 'I want to go to [place name]'. 'Ingin' = to want/wish. 'Pergi' = to go/travel. 'Ke' = to (direction). This is a basic construction for expressing a wish to travel.",
+        "id": "'Saya ingin pergi ke [nama tempat]' artinya 'Saya ingin pergi ke [nama tempat]'. 'Ingin' = ingin/berharap. 'Pergi' = pergi/bepergian. 'Ke' = ke (arah). Ini adalah konstruksi dasar untuk mengungkapkan keinginan bepergian."
+      },
+      "examples": [
+        {
+          "source": "Jeg vil gerne til Bali.",
+          "target": "Saya ingin pergi ke Bali."
+        },
+        {
+          "source": "Jeg vil gerne til Jakarta.",
+          "target": "Saya ingin pergi ke Jakarta."
+        },
+        {
+          "source": "Hun vil gerne til Yogyakarta.",
+          "target": "Dia ingin pergi ke Yogyakarta."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Peg på hvert stednavn og sig det højt med korrekt stavelsesopdelng og betoning: Jakarta / Bali / Surabaya / Yogyakarta / Sumatra / Lombok / Sulawesi / Kalimantan.",
+        "en": "Point to each place name and say it aloud with correct syllable division and stress: Jakarta / Bali / Surabaya / Yogyakarta / Sumatra / Lombok / Sulawesi / Kalimantan.",
+        "id": "Tunjuk setiap nama tempat dan ucapkan dengan keras dengan pembagian suku kata dan tekanan yang benar: Jakarta / Bali / Surabaya / Yogyakarta / Sumatra / Lombok / Sulawesi / Kalimantan."
+      },
+      "answerShape": {
+        "da": "Ja-KAR-ta / BA-li / Su-ra-BA-ya / Yog-ya-KAR-ta / Su-MA-tra / LOM-bok / Su-la-WE-si / Ka-li-MAN-tan",
+        "en": "Ja-KAR-ta / BA-li / Su-ra-BA-ya / Yog-ya-KAR-ta / Su-MA-tra / LOM-bok / Su-la-WE-si / Ka-li-MAN-tan",
+        "id": "Ja-KAR-ta / BA-li / Su-ra-BA-ya / Yog-ya-KAR-ta / Su-MA-tra / LOM-bok / Su-la-WE-si / Ka-li-MAN-tan"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Byg en sætning med mønstret 'Saya ingin pergi ke ___' for tre af de lærte stednavne. Sig sætningerne højt.",
+        "en": "Build a sentence using the pattern 'Saya ingin pergi ke ___' for three of the learned place names. Say the sentences aloud.",
+        "id": "Buat kalimat dengan pola 'Saya ingin pergi ke ___' untuk tiga nama tempat yang telah dipelajari. Ucapkan kalimat-kalimatnya dengan keras."
+      },
+      "answerShape": {
+        "da": "Feks: 'Saya ingin pergi ke Bali.' / 'Saya ingin pergi ke Yogyakarta.' / 'Saya ingin pergi ke Lombok.' Korrekt betoning på stednavnene.",
+        "en": "E.g.: 'Saya ingin pergi ke Bali.' / 'Saya ingin pergi ke Yogyakarta.' / 'Saya ingin pergi ke Lombok.' Correct stress on place names.",
+        "id": "Mis.: 'Saya ingin pergi ke Bali.' / 'Saya ingin pergi ke Yogyakarta.' / 'Saya ingin pergi ke Lombok.' Tekanan yang benar pada nama tempat."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilket af de lærte stednavne er sværest at udtale for dig, og hvorfor? Hvad gør det svært – vokal, konsonant eller betoning?",
+        "en": "Which of the learned place names is hardest for you to pronounce, and why? What makes it difficult – vowel, consonant, or stress?",
+        "id": "Nama tempat mana yang paling sulit Anda ucapkan, dan mengapa? Apa yang membuatnya sulit – vokal, konsonan, atau tekanan?"
+      },
+      "answerShape": {
+        "da": "Individuelle svar. Typisk: Yogyakarta (Y+G kombination) og Kalimantan (mange stavelser) er de sværeste.",
+        "en": "Individual answers. Typically: Yogyakarta (Y+G combination) and Kalimantan (many syllables) are the hardest.",
+        "id": "Jawaban individual. Biasanya: Yogyakarta (kombinasi Y+G) dan Kalimantan (banyak suku kata) adalah yang paling sulit."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme00-lesson07-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Indonesiske stednavne og personnavne i udtale",
+        "en": "Indonesian place names and personal names in pronunciation",
+        "id": "Nama tempat dan nama orang Indonesia dalam pengucapan"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-2",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 45,
+  "title": {
+    "da": "Møder og Præsentationer",
+    "en": "Meetings and Presentations",
+    "id": "Rapat dan Presentasi"
+  },
+  "summary": {
+    "da": "Lær det formelle sprog til møder: åbne en dagsorden, præsentere og stille spørgsmål.",
+    "en": "Learn the formal language for meetings: opening an agenda, presenting, and asking questions.",
+    "id": "Pelajari bahasa formal untuk rapat: membuka agenda, mempresentasikan, dan mengajukan pertanyaan."
+  },
+  "objectives": [
+    {
+      "da": "Bruge formelle mødesætninger som 'Rapat dimulai jam...' og 'Agenda hari ini adalah...'.",
+      "en": "Use formal meeting phrases such as 'Rapat dimulai jam...' and 'Agenda hari ini adalah...'.",
+      "id": "Menggunakan kalimat rapat formal seperti 'Rapat dimulai jam...' dan 'Agenda hari ini adalah...'."
+    },
+    {
+      "da": "Indlede en præsentation med 'Saya ingin mempresentasikan...'.",
+      "en": "Open a presentation with 'Saya ingin mempresentasikan...'.",
+      "id": "Memulai presentasi dengan 'Saya ingin mempresentasikan...'."
+    },
+    {
+      "da": "Stille og besvare spørgsmål i en formel mødesetting.",
+      "en": "Ask and answer questions in a formal meeting setting.",
+      "id": "Mengajukan dan menjawab pertanyaan dalam situasi rapat formal."
+    }
+  ],
+  "unit": {
+    "slug": "unit-07",
+    "order": 7,
+    "title": {
+      "da": "Arbejde og Professionelle Rutiner",
+      "en": "Work and Professional Routines",
+      "id": "Pekerjaan dan Rutinitas Profesional"
+    },
+    "summary": {
+      "da": "Sproget på arbejdspladsen og i professionelle sammenhænge.",
+      "en": "Language in the workplace and professional contexts.",
+      "id": "Bahasa di tempat kerja dan konteks profesional."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Stil eleverne spørgsmålet: 'Hvad er det sværeste ved at deltage i et møde på et fremmedsprog?' Lad dem diskutere i par.",
+        "en": "Ask learners: 'What is the hardest thing about participating in a meeting in a foreign language?' Let them discuss in pairs.",
+        "id": "Tanyakan kepada siswa: 'Apa hal tersulit saat mengikuti rapat dalam bahasa asing?' Biarkan mereka berdiskusi berpasangan."
+      },
+      "flow": [
+        {
+          "da": "Introducer mødesprog via en liste på tavlen. Læreren læser op og eleverne gentager som kor.",
+          "en": "Introduce meeting language via a list on the board. Teacher reads aloud and learners repeat as a chorus.",
+          "id": "Perkenalkan bahasa rapat melalui daftar di papan tulis. Pengajar membaca keras dan siswa mengulangi bersama-sama."
+        },
+        {
+          "da": "Opdel klassen i grupper på fire: én mødeleder, én præsentant, to deltagere. Rollespil et kort teammøde.",
+          "en": "Divide the class into groups of four: one meeting chair, one presenter, two participants. Role-play a short team meeting.",
+          "id": "Bagi kelas menjadi kelompok empat orang: satu pemimpin rapat, satu presenter, dua peserta. Mainkan rapat tim singkat."
+        },
+        {
+          "da": "Gennemgå registerforskel: hvad siger man til en ven vs. hvad siger man i et formelt møde?",
+          "en": "Review register difference: what do you say to a friend vs. what do you say in a formal meeting?",
+          "id": "Tinjau perbedaan register: apa yang Anda katakan kepada teman vs. apa yang Anda katakan dalam rapat formal?"
+        }
+      ],
+      "notes": [
+        {
+          "da": "I indonesiske møder åbner mødeleder ofte med 'Assalamualaikum' (muslimsk hilsen) eller 'Selamat pagi, semuanya'. Begge er normale og bør accepteres.",
+          "en": "In Indonesian meetings the chair often opens with 'Assalamualaikum' (Islamic greeting) or 'Selamat pagi, semuanya'. Both are normal and should be accepted.",
+          "id": "Dalam rapat Indonesia, pemimpin rapat sering membuka dengan 'Assalamualaikum' (salam Islam) atau 'Selamat pagi, semuanya'. Keduanya normal dan harus diterima."
+        },
+        {
+          "da": "Formelt 'Anda' bruges til ukendte og overordnede. Uformelt 'kamu' bruges til nære kolleger.",
+          "en": "Formal 'Anda' is used for strangers and superiors. Informal 'kamu' is used for close colleagues.",
+          "id": "Formal 'Anda' digunakan untuk orang yang tidak dikenal dan atasan. Informal 'kamu' digunakan untuk rekan kerja dekat."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Studer mødesætningerne og skriv en kort dagsorden på tre punkter på indonesisk.",
+          "en": "Study the meeting phrases and write a short agenda with three points in Indonesian.",
+          "id": "Pelajari kalimat-kalimat rapat dan tulis agenda singkat dengan tiga poin dalam bahasa Indonesia."
+        },
+        {
+          "da": "Øv dig i at præsentere din mini-dagsorden højt, som om du åbner et rigtigt møde.",
+          "en": "Practise presenting your mini-agenda aloud as if you are opening a real meeting.",
+          "id": "Latih diri Anda mempresentasikan agenda mini dengan keras seolah Anda membuka rapat sungguhan."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du åbne et møde med tid, hilsen og dagsordensintroduktion på indonesisk?",
+          "en": "Can you open a meeting with time, greeting, and agenda introduction in Indonesian?",
+          "id": "Bisakah Anda membuka rapat dengan waktu, salam, dan pengantar agenda dalam bahasa Indonesia?"
+        },
+        {
+          "da": "Kan du bede om meninger og stille spørgsmål på formelt indonesisk?",
+          "en": "Can you ask for opinions and pose questions in formal Indonesian?",
+          "id": "Bisakah Anda meminta pendapat dan mengajukan pertanyaan dalam bahasa Indonesia formal?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Pak Budi (mødeleder)",
+      "source": "Selamat pagi, semuanya. Rapat dimulai jam sembilan tepat. Terima kasih sudah hadir. Agenda hari ini adalah evaluasi proyek bulan lalu dan rencana untuk kuartal berikutnya.",
+      "target": "Selamat pagi, semuanya. Rapat dimulai jam sembilan tepat. Terima kasih sudah hadir. Agenda hari ini adalah evaluasi proyek bulan lalu dan rencana untuk kuartal berikutnya."
+    },
+    {
+      "speaker": "Siti (teamleder)",
+      "source": "Baik, Pak Budi. Saya ingin mempresentasikan hasil kerja tim saya selama bulan Oktober. Apakah semua sudah menerima laporan yang saya kirim kemarin?",
+      "target": "Baik, Pak Budi. Saya ingin mempresentasikan hasil kerja tim saya selama bulan Oktober. Apakah semua sudah menerima laporan yang saya kirim kemarin?"
+    },
+    {
+      "speaker": "André",
+      "source": "Ya, sudah saya terima. Terima kasih, Bu Siti. Saya ada satu pertanyaan setelah presentasi nanti.",
+      "target": "Ya, sudah saya terima. Terima kasih, Bu Siti. Saya ada satu pertanyaan setelah presentasi nanti."
+    },
+    {
+      "speaker": "Siti",
+      "source": "Tentu, silakan. Jadi, secara keseluruhan, proyek kita berjalan dengan baik. Target tercapai delapan puluh persen. Ada beberapa tantangan di minggu ketiga, tetapi sudah diselesaikan.",
+      "target": "Tentu, silakan. Jadi, secara keseluruhan, proyek kita berjalan dengan baik. Target tercapai delapan puluh persen. Ada beberapa tantangan di minggu ketiga, tetapi sudah diselesaikan."
+    },
+    {
+      "speaker": "Pak Budi",
+      "source": "Bagus sekali. Ada pertanyaan dari peserta lain? Bagaimana pendapat Anda, André, tentang strategi untuk bulan depan?",
+      "target": "Bagus sekali. Ada pertanyaan dari peserta lain? Bagaimana pendapat Anda, André, tentang strategi untuk bulan depan?"
+    },
+    {
+      "speaker": "André",
+      "source": "Menurut saya, kita perlu menambah komunikasi dengan klien lebih sering. Saya pikir itu bisa membantu mencapai target seratus persen bulan depan.",
+      "target": "Menurut saya, kita perlu menambah komunikasi dengan klien lebih sering. Saya pikir itu bisa membantu mencapai target seratus persen bulan depan."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "rapat",
+      "target": "møde",
+      "note": {
+        "da": "Det generelle ord for et møde i professionel sammenhæng.",
+        "en": "The general word for a meeting in a professional context.",
+        "id": "Kata umum untuk pertemuan dalam konteks profesional."
+      }
+    },
+    {
+      "source": "agenda",
+      "target": "dagsorden",
+      "note": {
+        "da": "Lånord fra portugisisk/latin. Bruges identisk med dansk.",
+        "en": "Loanword from Portuguese/Latin. Used identically to English.",
+        "id": "Kata pinjaman dari bahasa Portugis/Latin. Digunakan sama seperti dalam bahasa Inggris."
+      }
+    },
+    {
+      "source": "mempresentasikan",
+      "target": "at præsentere",
+      "note": {
+        "da": "Verbum afledt af 'presentasi'. Bemærk præfikset 'mem-'.",
+        "en": "Verb derived from 'presentasi'. Note the 'mem-' prefix.",
+        "id": "Kata kerja turunan dari 'presentasi'. Perhatikan awalan 'mem-'."
+      }
+    },
+    {
+      "source": "peserta",
+      "target": "deltager",
+      "note": {
+        "da": "Bruges om alle mødedeltagere.",
+        "en": "Used for all meeting participants.",
+        "id": "Digunakan untuk semua peserta rapat."
+      }
+    },
+    {
+      "source": "Bagaimana pendapat Anda?",
+      "target": "Hvad er din mening? / Hvad synes du?",
+      "note": {
+        "da": "Formel måde at bede om en mening. Brug 'kamu' uformelt.",
+        "en": "Formal way to ask for an opinion. Use 'kamu' informally.",
+        "id": "Cara formal untuk meminta pendapat. Gunakan 'kamu' secara informal."
+      }
+    },
+    {
+      "source": "laporan",
+      "target": "rapport / rapport",
+      "note": {
+        "da": "Skriftlig rapport eller status.",
+        "en": "Written report or status update.",
+        "id": "Laporan tertulis atau pembaruan status."
+      }
+    },
+    {
+      "source": "Menurut saya...",
+      "target": "Efter min mening... / Jeg mener...",
+      "note": {
+        "da": "Standardfrase til at give sin mening i formelle sammenhænge.",
+        "en": "Standard phrase for giving one's opinion in formal contexts.",
+        "id": "Frasa standar untuk memberikan pendapat dalam konteks formal."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Rapat dimulai jam [klokkeslæt]. / Agenda hari ini adalah [emne].",
+      "explanation": {
+        "da": "Formelle åbningssætninger til møder. 'Dimulai' er passiv ('startes'). 'Adalah' fungerer som en formel kopula ('er').",
+        "en": "Formal opening sentences for meetings. 'Dimulai' is passive ('is started'). 'Adalah' functions as a formal copula ('is').",
+        "id": "Kalimat pembuka formal untuk rapat. 'Dimulai' adalah bentuk pasif ('dimulai'). 'Adalah' berfungsi sebagai kopula formal ('adalah')."
+      },
+      "examples": [
+        {
+          "source": "Mødet begynder klokken ti.",
+          "target": "Rapat dimulai jam sepuluh."
+        },
+        {
+          "source": "Dagens dagsorden er årsregnskabet.",
+          "target": "Agenda hari ini adalah laporan tahunan."
+        },
+        {
+          "source": "Er der spørgsmål fra deltagerne?",
+          "target": "Ada pertanyaan dari para peserta?"
+        }
+      ]
+    },
+    {
+      "pattern": "Saya ingin mempresentasikan... / Bagaimana pendapat Anda tentang...?",
+      "explanation": {
+        "da": "Formelt præsentationssprog. 'Saya ingin' (jeg vil gerne) er høfligt og formelt. 'Tentang' betyder 'om/vedrørende'.",
+        "en": "Formal presentation language. 'Saya ingin' (I would like) is polite and formal. 'Tentang' means 'about/regarding'.",
+        "id": "Bahasa presentasi formal. 'Saya ingin' (saya ingin) adalah sopan dan formal. 'Tentang' berarti 'tentang/mengenai'."
+      },
+      "examples": [
+        {
+          "source": "Jeg vil gerne præsentere resultaterne for dette kvartal.",
+          "target": "Saya ingin mempresentasikan hasil untuk kuartal ini."
+        },
+        {
+          "source": "Hvad synes du om den nye strategi?",
+          "target": "Bagaimana pendapat Anda tentang strategi baru ini?"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Åbn et fiktivt møde. Sig velkomsthilsen, hvornår mødet begynder, og nævn to dagsordenspunkter.",
+        "en": "Open a fictional meeting. Say the welcome greeting, when the meeting starts, and mention two agenda items.",
+        "id": "Buka rapat fiksi. Ucapkan salam sambutan, kapan rapat dimulai, dan sebutkan dua agenda."
+      },
+      "answerShape": {
+        "da": "Tre til fire sætninger i formel mødetone.",
+        "en": "Three to four sentences in formal meeting tone.",
+        "id": "Tiga hingga empat kalimat dengan nada rapat formal."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen igen. Skriv de tre vigtigste mødesætninger du hører, og oversæt dem til dansk.",
+        "en": "Listen to the dialogue again. Write the three most important meeting phrases you hear and translate them into Danish.",
+        "id": "Dengarkan dialog lagi. Tulis tiga kalimat rapat terpenting yang Anda dengar dan terjemahkan ke dalam bahasa Denmark."
+      },
+      "answerShape": {
+        "da": "En liste med tre indonesiske sætninger og deres danske oversættelse.",
+        "en": "A list of three Indonesian sentences and their Danish translation.",
+        "id": "Daftar tiga kalimat Indonesia dan terjemahan bahasa Denmarknya."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilke forskelle ser du mellem et formelt møde på dansk og på indonesisk? Tænk på hilsener, tiltaleformer og struktur.",
+        "en": "What differences do you notice between a formal meeting in Danish and in Indonesian? Think about greetings, forms of address, and structure.",
+        "id": "Perbedaan apa yang Anda perhatikan antara rapat formal dalam bahasa Denmark dan bahasa Indonesia? Pikirkan tentang salam, bentuk sapaan, dan struktur."
+      },
+      "answerShape": {
+        "da": "To til tre observationer skrevet på indonesisk eller dansk.",
+        "en": "Two to three observations written in Indonesian or Danish.",
+        "id": "Dua hingga tiga pengamatan yang ditulis dalam bahasa Indonesia atau Denmark."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-unit07-lesson02-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Et indonesisk teammøde i aktion",
+        "en": "An Indonesian team meeting in action",
+        "id": "Rapat tim Indonesia beraksi"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

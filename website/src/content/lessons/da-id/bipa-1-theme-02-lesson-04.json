@@ -1,0 +1,298 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 4,
+  "slug": "lesson-04",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Pekerjaan — Erhverv og Beskæftigelse",
+    "en": "Pekerjaan — Professions and Occupations",
+    "id": "Pekerjaan"
+  },
+  "summary": {
+    "da": "Lær at tale om erhverv og beskæftigelse. Forstå to måder at sige 'Jeg arbejder som...' på indonesisk, og lær et bredt udvalg af erhvervsbetegnelser.",
+    "en": "Learn to talk about professions and occupations. Understand two ways of saying 'I work as...' in Indonesian, and learn a broad range of job titles.",
+    "id": "Belajar berbicara tentang pekerjaan. Pahami dua cara mengatakan 'Saya bekerja sebagai...' dalam bahasa Indonesia, dan pelajari berbagai macam sebutan pekerjaan."
+  },
+  "objectives": [
+    {
+      "da": "Bruge både 'Saya bekerja sebagai...' og 'Saya seorang...' korrekt.",
+      "en": "Use both 'Saya bekerja sebagai...' and 'Saya seorang...' correctly.",
+      "id": "Menggunakan 'Saya bekerja sebagai...' dan 'Saya seorang...' dengan benar."
+    },
+    {
+      "da": "Nævne mindst otte erhvervsbetegnelser på indonesisk.",
+      "en": "Name at least eight job titles in Indonesian.",
+      "id": "Menyebutkan setidaknya delapan sebutan pekerjaan dalam bahasa Indonesia."
+    },
+    {
+      "da": "Stille og besvare spørgsmålet 'Apa pekerjaan kamu?'",
+      "en": "Ask and answer the question 'Apa pekerjaan kamu?'",
+      "id": "Menanyakan dan menjawab pertanyaan 'Apa pekerjaan kamu?'"
+    }
+  ],
+  "unit": {
+    "slug": "theme-02",
+    "order": 2,
+    "title": {
+      "da": "Tema 2: Identitet",
+      "en": "Theme 2: Identity",
+      "id": "Tema 2: Identitas"
+    },
+    "summary": {
+      "da": "Hvem er du? Personlige oplysninger og selvbeskrivelse.",
+      "en": "Who are you? Personal details and self-description.",
+      "id": "Siapa kamu? Informasi pribadi dan deskripsi diri."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Skriv 'Apa pekerjaan kamu?' på tavlen. Lad eleverne gætte hvad det betyder. Introducer så de to svarmønstre side om side.",
+        "en": "Write 'Apa pekerjaan kamu?' on the board. Let students guess what it means. Then introduce the two answer patterns side by side.",
+        "id": "Tuliskan 'Apa pekerjaan kamu?' di papan tulis. Biarkan siswa menebak artinya. Kemudian perkenalkan dua pola jawaban secara berdampingan."
+      },
+      "flow": [
+        {
+          "da": "Gennemgå strukturerne: 'Saya seorang arsitek' (identitetserklæring) vs. 'Saya bekerja sebagai arsitek' (beskrivelseserklæring). Begge er korrekte.",
+          "en": "Go through the structures: 'Saya seorang arsitek' (identity statement) vs. 'Saya bekerja sebagai arsitek' (description statement). Both are correct.",
+          "id": "Bahas struktur: 'Saya seorang arsitek' (pernyataan identitas) vs. 'Saya bekerja sebagai arsitek' (pernyataan deskripsi). Keduanya benar."
+        },
+        {
+          "da": "Lav en bingo-øvelse: Skriv erhvervsbetegnelser på kort. Eleverne spørger hinanden 'Apa pekerjaanmu?' og krydser kort af.",
+          "en": "Do a bingo exercise: Write job titles on cards. Students ask each other 'Apa pekerjaanmu?' and cross off cards.",
+          "id": "Lakukan latihan bingo: Tuliskan sebutan pekerjaan di kartu. Siswa bertanya satu sama lain 'Apa pekerjaanmu?' dan mencoret kartu."
+        },
+        {
+          "da": "Diskuter rollespil: En jobsamtale på A1-niveau – interviewer spørger om navn, alder og erhverv.",
+          "en": "Discuss role play: A job interview at A1 level – interviewer asks about name, age, and profession.",
+          "id": "Bahas permainan peran: Wawancara kerja di level A1 – pewawancara menanyakan nama, usia, dan pekerjaan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Seorang = se + orang = én person. Bruges som ubestemt artikel foran menneskeord. Fx seorang guru = en lærer.",
+          "en": "Seorang = se + orang = one person. Used as an indefinite article before human nouns. E.g. seorang guru = a teacher.",
+          "id": "Seorang = se + orang = satu orang. Digunakan sebagai artikel tidak tentu sebelum kata benda manusia. Misalnya seorang guru = seorang guru."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Vælg fem erhvervsbetegnelser du finder interessante og skriv sætninger med begge strukturer for hver.",
+          "en": "Choose five job titles you find interesting and write sentences using both structures for each.",
+          "id": "Pilih lima sebutan pekerjaan yang menurut Anda menarik dan tuliskan kalimat menggunakan kedua struktur untuk masing-masing."
+        },
+        {
+          "da": "Øv at svare på 'Apa pekerjaan kamu?' med dit eget erhverv eller drømmejob.",
+          "en": "Practice answering 'Apa pekerjaan kamu?' with your own profession or dream job.",
+          "id": "Berlatihlah menjawab 'Apa pekerjaan kamu?' dengan pekerjaan Anda sendiri atau pekerjaan impian."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige dit eget erhverv (eller dit drømmejob) på indonesisk på to forskellige måder?",
+          "en": "Can you say your own profession (or dream job) in Indonesian in two different ways?",
+          "id": "Dapatkah Anda menyebutkan pekerjaan Anda sendiri (atau pekerjaan impian) dalam bahasa Indonesia dengan dua cara berbeda?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Pewawancara (Interviewer)",
+      "source": "Selamat pagi. Hvad hedder du?",
+      "target": "Selamat pagi. Siapa nama Anda?"
+    },
+    {
+      "speaker": "Mads",
+      "source": "Selamat pagi. Navn saya Mads Nielsen.",
+      "target": "Selamat pagi. Nama saya Mads Nielsen."
+    },
+    {
+      "speaker": "Pewawancara (Interviewer)",
+      "source": "Apa pekerjaan Anda sekarang?",
+      "target": "Apa pekerjaan Anda sekarang?"
+    },
+    {
+      "speaker": "Mads",
+      "source": "Saya seorang fotografer. Jeg arbejder for et avismagasin i Danmark.",
+      "target": "Saya seorang fotografer. Saya bekerja untuk sebuah majalah berita di Denmark."
+    },
+    {
+      "speaker": "Pewawancara (Interviewer)",
+      "source": "Menarik! Og du vil lære indonesisk til dit arbejde?",
+      "target": "Menarik! Dan Anda ingin belajar bahasa Indonesia untuk pekerjaan Anda?"
+    },
+    {
+      "speaker": "Mads",
+      "source": "Ya. Saya ingin bekerja sebagai fotografer di Indonesia.",
+      "target": "Ya. Saya ingin bekerja sebagai fotografer di Indonesia."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Erhverv / Arbejde",
+      "target": "Pekerjaan",
+      "note": {
+        "da": "Fra kerja = arbejde. Pekerjaan = det arbejde man har. Kerja = at arbejde (verbum).",
+        "en": "From kerja = work. Pekerjaan = the work one has. Kerja = to work (verb).",
+        "id": "Dari kerja = bekerja. Pekerjaan = pekerjaan yang dimiliki. Kerja = bekerja (kata kerja)."
+      }
+    },
+    {
+      "source": "Arkitekt",
+      "target": "Arsitek",
+      "note": {
+        "da": "Genkendelig fra engelsk architect.",
+        "en": "Recognizable from English architect.",
+        "id": "Dapat dikenali dari bahasa Inggris architect."
+      }
+    },
+    {
+      "source": "Fotograf",
+      "target": "Fotografer",
+      "note": {
+        "da": "Næsten identisk med dansk og engelsk.",
+        "en": "Almost identical to Danish and English.",
+        "id": "Hampir identik dengan bahasa Denmark dan Inggris."
+      }
+    },
+    {
+      "source": "Forfatter",
+      "target": "Penulis",
+      "note": {
+        "da": "Fra tulis = skrive. Penulis = en der skriver.",
+        "en": "From tulis = to write. Penulis = one who writes.",
+        "id": "Dari tulis = menulis. Penulis = orang yang menulis."
+      }
+    },
+    {
+      "source": "Bonde / Landmand",
+      "target": "Petani",
+      "note": {
+        "da": "Fra tani = landbrug/agerbrug. Petani er et meget respekteret erhverv i Indonesien.",
+        "en": "From tani = farming/agriculture. Petani is a highly respected occupation in Indonesia.",
+        "id": "Dari tani = pertanian. Petani adalah pekerjaan yang sangat dihormati di Indonesia."
+      }
+    },
+    {
+      "source": "Fisker",
+      "target": "Nelayan",
+      "note": {
+        "da": "Fra laut = hav. Nelayan = havets person/fisker.",
+        "en": "From laut = sea. Nelayan = person of the sea/fisherman.",
+        "id": "Dari laut = laut. Nelayan = orang laut/nelayan."
+      }
+    },
+    {
+      "source": "Husmor / Hjemmegående",
+      "target": "Ibu rumah tangga",
+      "note": {
+        "da": "Bogstaveligt: mor af husstanden. Denne rolle er meget respekteret i indonesisk kultur.",
+        "en": "Literally: mother of the household. This role is highly respected in Indonesian culture.",
+        "id": "Harfiah: ibu rumah tangga. Peran ini sangat dihormati dalam budaya Indonesia."
+      }
+    },
+    {
+      "source": "Politibetjent",
+      "target": "Polisi",
+      "note": {
+        "da": "Genkendelig fra dansk 'politi'.",
+        "en": "Recognizable from the Danish/English 'police'.",
+        "id": "Dapat dikenali dari kata 'polisi'."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya seorang [erhverv].",
+      "explanation": {
+        "da": "Seorang (= se + orang = én person) fungerer som en ubestemt artikel foran menneske-navneord. Ingen verbum 'at være' kræves.",
+        "en": "Seorang (= se + orang = one person) functions as an indefinite article before human nouns. No verb 'to be' is required.",
+        "id": "Seorang (= se + orang = satu orang) berfungsi sebagai artikel tidak tentu sebelum kata benda manusia. Tidak diperlukan kata kerja 'adalah'."
+      },
+      "examples": [
+        { "source": "Jeg er lærer.", "target": "Saya seorang guru." },
+        { "source": "Hun er pilot.", "target": "Dia seorang pilot." },
+        { "source": "Er du forfatter?", "target": "Apakah kamu seorang penulis?" }
+      ]
+    },
+    {
+      "pattern": "Saya bekerja sebagai [erhverv].",
+      "explanation": {
+        "da": "Bekerja = at arbejde. Sebagai = som/i egenskab af. Denne form er lidt mere beskrivende end seorang og bruges ofte i professionelle sammenhænge.",
+        "en": "Bekerja = to work. Sebagai = as/in the capacity of. This form is slightly more descriptive than seorang and is often used in professional contexts.",
+        "id": "Bekerja = bekerja. Sebagai = sebagai. Bentuk ini sedikit lebih deskriptif daripada seorang dan sering digunakan dalam konteks profesional."
+      },
+      "examples": [
+        { "source": "Jeg arbejder som læge.", "target": "Saya bekerja sebagai dokter." },
+        { "source": "Han arbejder som sælger.", "target": "Dia bekerja sebagai pedagang." }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Fortæl om dit eget erhverv (eller drømmejob) med begge strukturer: 'Saya seorang ...' og 'Saya bekerja sebagai ...'",
+        "en": "Tell about your own profession (or dream job) using both structures: 'Saya seorang ...' and 'Saya bekerja sebagai ...'",
+        "id": "Ceritakan pekerjaan Anda sendiri (atau pekerjaan impian) menggunakan kedua struktur: 'Saya seorang ...' dan 'Saya bekerja sebagai ...'"
+      },
+      "answerShape": {
+        "da": "Saya seorang [erhverv]. Saya bekerja sebagai [erhverv].",
+        "en": "Saya seorang [profession]. Saya bekerja sebagai [profession].",
+        "id": "Saya seorang [pekerjaan]. Saya bekerja sebagai [pekerjaan]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Lav tre sætninger: 'Ayah saya seorang...', 'Ibu saya bekerja sebagai...', 'Teman saya seorang...'",
+        "en": "Make three sentences: 'Ayah saya seorang...', 'Ibu saya bekerja sebagai...', 'Teman saya seorang...'",
+        "id": "Buat tiga kalimat: 'Ayah saya seorang...', 'Ibu saya bekerja sebagai...', 'Teman saya seorang...'"
+      },
+      "answerShape": {
+        "da": "Frie svar med korrekt struktur.",
+        "en": "Free answers with correct structure.",
+        "id": "Jawaban bebas dengan struktur yang benar."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen og svar: Hvad er Mads' erhverv, og i hvilket land vil han gerne arbejde?",
+        "en": "Listen to the dialogue and answer: What is Mads' profession, and in which country does he want to work?",
+        "id": "Dengarkan dialog dan jawab: Apa pekerjaan Mads, dan di negara mana dia ingin bekerja?"
+      },
+      "answerShape": {
+        "da": "Erhverv: ... Land: ...",
+        "en": "Profession: ... Country: ...",
+        "id": "Pekerjaan: ... Negara: ..."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme02-lesson04-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Erhverv og Arbejde i Indonesien",
+        "en": "Professions and Work in Indonesia",
+        "id": "Pekerjaan di Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

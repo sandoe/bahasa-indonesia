@@ -1,0 +1,52 @@
+{
+  "slug": "bipa-1",
+  "order": 1,
+  "cefr": "A1",
+  "stage": {
+    "da": "Begynder",
+    "en": "Beginner",
+    "id": "Pemula"
+  },
+  "title": {
+    "da": "BIPA 1 · Rejsen Begynder",
+    "en": "BIPA 1 · The Journey Begins",
+    "id": "BIPA 1 · Perjalanan Dimulai"
+  },
+  "summary": {
+    "da": "Fra det første ord til basis-hverdag. En logisk rejse gennem 12 temaer, der giver dig et stærkt sprogligt fundament.",
+    "en": "From the first word to basic daily life. A logical journey through 12 themes that gives you a strong language foundation.",
+    "id": "Dari kata pertama hingga keseharian dasar. Perjalanan logis melalui 12 tema yang memberi Anda fondasi bahasa yang kuat."
+  },
+  "focus": [
+    {
+      "da": "Fundament & Udtale",
+      "en": "Foundation & Pronunciation",
+      "id": "Dasar & Pelafalan"
+    },
+    {
+      "da": "Identitet & Familie",
+      "en": "Identity & Family",
+      "id": "Identitas & Keluarga"
+    },
+    {
+      "da": "Hverdag & Overlevelse",
+      "en": "Daily Life & Survival",
+      "id": "Keseharian & Bertahan Hidup"
+    }
+  ],
+  "teacherPositioning": {
+    "da": "Underviseren styrer tryg progression med fokus på mundtlig interaktion i de 12 temaer.",
+    "en": "The teacher guides a safe progression focusing on oral interaction across the 12 themes.",
+    "id": "Pengajar memandu progres yang aman dengan fokus pada interaksi lisan di 12 tema."
+  },
+  "selfStudyPositioning": {
+    "da": "Selvstuderende følger en rød tråd fra alfabetet til praktisk hverdagssprog.",
+    "en": "Self-study learners follow a clear path from the alphabet to practical daily language.",
+    "id": "Pembelajar mandiri mengikuti alur yang jelas dari alfabet hingga bahasa sehari-hari yang praktis."
+  },
+  "supportedPairs": ["da-id", "id-da", "en-id", "id-en"],
+  "palette": {
+    "accent": "#ff8a3d",
+    "glow": "#ffd26d"
+  }
+}

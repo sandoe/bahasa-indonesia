@@ -1,0 +1,304 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Keluarga Inti – Kernefamilien",
+    "en": "Keluarga Inti – Core Family",
+    "id": "Keluarga Inti – Anggota Keluarga Utama"
+  },
+  "summary": {
+    "da": "Lær navnene på de nærmeste familiemedlemmer på indonesisk og forstå, at indonesisk skelner mellem ældre og yngre søskende – ikke dreng og pige.",
+    "en": "Learn the names of core family members in Indonesian and understand that Indonesian distinguishes older and younger siblings – not brother and sister.",
+    "id": "Pelajari nama-nama anggota keluarga inti dalam bahasa Indonesia dan pahami bahwa bahasa Indonesia membedakan kakak dan adik – bukan laki-laki dan perempuan."
+  },
+  "objectives": [
+    {
+      "da": "Navngive mindst seks kernefamiliemedlemmer på indonesisk.",
+      "en": "Name at least six core family members in Indonesian.",
+      "id": "Menyebutkan setidaknya enam anggota keluarga inti dalam bahasa Indonesia."
+    },
+    {
+      "da": "Forklare forskellen på 'kakak' og 'adik' kontra det danske 'bror' og 'søster'.",
+      "en": "Explain the difference between 'kakak' and 'adik' versus the Danish 'bror' and 'søster'.",
+      "id": "Menjelaskan perbedaan antara 'kakak' dan 'adik' dibandingkan dengan 'bror' dan 'søster' dalam bahasa Denmark."
+    },
+    {
+      "da": "Præsentere familiemedlemmer fra et foto med enkle sætninger.",
+      "en": "Introduce family members from a photo using simple sentences.",
+      "id": "Memperkenalkan anggota keluarga dari foto dengan kalimat sederhana."
+    }
+  ],
+  "unit": {
+    "slug": "theme-04",
+    "order": 4,
+    "title": {
+      "da": "Tema 4: Min Familie",
+      "en": "Theme 4: My Family",
+      "id": "Tema 4: Keluarga Saya"
+    },
+    "summary": {
+      "da": "Familiebetegnelser og at tale om sin familie.",
+      "en": "Family terms and talking about your family.",
+      "id": "Istilah keluarga dan berbicara tentang keluarga."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis et billede af en familie (gerne fra en indonesisk kontekst). Spørg: 'Hvem er disse mennesker?' og lad eleverne gætte sammenhængen.",
+        "en": "Show a picture of a family (ideally from an Indonesian context). Ask: 'Who are these people?' and let students guess the relationships.",
+        "id": "Tampilkan gambar sebuah keluarga (sebaiknya dari konteks Indonesia). Tanyakan: 'Siapa orang-orang ini?' dan biarkan siswa menebak hubungannya."
+      },
+      "flow": [
+        {
+          "da": "Introducer kernefamilietermer: ayah, ibu, anak, kakak, adik. Understreg at kakak/adik ikke fortæller køn – man skal bruge 'laki-laki' eller 'perempuan' for det.",
+          "en": "Introduce core family terms: ayah, ibu, anak, kakak, adik. Stress that kakak/adik do not indicate gender – you must add 'laki-laki' or 'perempuan' for that.",
+          "id": "Perkenalkan istilah keluarga inti: ayah, ibu, anak, kakak, adik. Tekankan bahwa kakak/adik tidak menunjukkan jenis kelamin – harus menambahkan 'laki-laki' atau 'perempuan' untuk itu."
+        },
+        {
+          "da": "Øv præsentation af familiemedlemmer: 'Ini ayah saya.' 'Ini kakak saya.' Lad eleverne præsentere billeder fra deres egne telefoner.",
+          "en": "Practice introducing family members: 'Ini ayah saya.' 'Ini kakak saya.' Have students introduce photos from their own phones.",
+          "id": "Latih memperkenalkan anggota keluarga: 'Ini ayah saya.' 'Ini kakak saya.' Mintalah siswa memperkenalkan foto dari ponsel mereka sendiri."
+        },
+        {
+          "da": "Sammenlign med dansk: danskere siger 'bror' og 'søster' (køn), indonesiere siger 'kakak' og 'adik' (alder). Diskuter kulturforskellen.",
+          "en": "Compare with Danish: Danes say 'bror' and 'søster' (gender), Indonesians say 'kakak' and 'adik' (age). Discuss the cultural difference.",
+          "id": "Bandingkan dengan bahasa Denmark: orang Denmark mengatakan 'bror' dan 'søster' (jenis kelamin), orang Indonesia mengatakan 'kakak' dan 'adik' (usia). Diskusikan perbedaan budaya."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Mange elever forveksler 'bapak' og 'ayah' – begge betyder far, men 'bapak' er mere formelt og bruges også som tiltaleform for ældre mænd.",
+          "en": "Many students confuse 'bapak' and 'ayah' – both mean father, but 'bapak' is more formal and is also used as a form of address for older men.",
+          "id": "Banyak siswa membingungkan 'bapak' dan 'ayah' – keduanya berarti ayah, tetapi 'bapak' lebih formal dan juga digunakan sebagai bentuk sapaan untuk pria yang lebih tua."
+        },
+        {
+          "da": "Ligeledes er 'ibu' og 'mama' begge brugt for mor – 'ibu' er formelt, 'mama' er hverdagssprog i mange familier.",
+          "en": "Similarly, 'ibu' and 'mama' are both used for mother – 'ibu' is formal, 'mama' is everyday language in many families.",
+          "id": "Demikian pula, 'ibu' dan 'mama' keduanya digunakan untuk ibu – 'ibu' bersifat formal, 'mama' adalah bahasa sehari-hari di banyak keluarga."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Tegn dit eget familietræ og skriv hvert familiemedlem på indonesisk. Husk: brug kakak/adik og tilføj laki-laki/perempuan hvis nødvendigt.",
+          "en": "Draw your own family tree and write each family member in Indonesian. Remember: use kakak/adik and add laki-laki/perempuan if needed.",
+          "id": "Gambarlah pohon keluarga Anda sendiri dan tuliskan setiap anggota keluarga dalam bahasa Indonesia. Ingat: gunakan kakak/adik dan tambahkan laki-laki/perempuan jika diperlukan."
+        },
+        {
+          "da": "Øv sætningen 'Ini [familiemedlem] saya.' for hvert familiemedlem i dit træ.",
+          "en": "Practice the sentence 'Ini [family member] saya.' for each family member in your tree.",
+          "id": "Latih kalimat 'Ini [anggota keluarga] saya.' untuk setiap anggota keluarga dalam pohon Anda."
+        },
+        {
+          "da": "Lyt til dialogeksemplet og identificer hvem der præsenteres.",
+          "en": "Listen to the dialogue example and identify who is being introduced.",
+          "id": "Dengarkan contoh dialog dan identifikasi siapa yang diperkenalkan."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige navnene på mindst seks familiemedlemmer uden at kigge?",
+          "en": "Can you say the names of at least six family members without looking?",
+          "id": "Bisakah Anda menyebutkan nama setidaknya enam anggota keluarga tanpa melihat?"
+        },
+        {
+          "da": "Forstår du hvornår man siger 'kakak laki-laki' kontra blot 'kakak'?",
+          "en": "Do you understand when to say 'kakak laki-laki' versus just 'kakak'?",
+          "id": "Apakah Anda memahami kapan harus mengatakan 'kakak laki-laki' dibandingkan hanya 'kakak'?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Mads",
+      "source": "Ani, hvem er det på billedet?",
+      "target": "Ani, siapa yang ada di foto ini?"
+    },
+    {
+      "speaker": "Ani",
+      "source": "Ini keluarga saya. Ini ayah saya dan ini ibu saya.",
+      "target": "Det er min familie. Det er min far og det er min mor."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Og de to børn?",
+      "target": "Lalu dua anak itu?"
+    },
+    {
+      "speaker": "Ani",
+      "source": "Ini kakak saya – dia perempuan. Dan ini adik saya – dia laki-laki.",
+      "target": "Det er min storesøster. Og det er min lillebror."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Jadi 'kakak' bisa perempuan atau laki-laki?",
+      "target": "Så 'kakak' kan være en pige eller en dreng?"
+    },
+    {
+      "speaker": "Ani",
+      "source": "Ya, betul! 'Kakak' artinya lebih tua, bukan laki-laki atau perempuan.",
+      "target": "Ja, rigtigt! 'Kakak' betyder ældre – ikke dreng eller pige."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Far / Fader",
+      "target": "Ayah / Bapak",
+      "note": {
+        "da": "'Ayah' er hverdagsord; 'bapak' er mere formelt og bruges også som tiltaleform.",
+        "en": "'Ayah' is the everyday word; 'bapak' is more formal and also used as a form of address.",
+        "id": "'Ayah' adalah kata sehari-hari; 'bapak' lebih formal dan juga digunakan sebagai sapaan."
+      }
+    },
+    {
+      "source": "Mor / Moder",
+      "target": "Ibu / Mama",
+      "note": {
+        "da": "'Ibu' er formelt; 'mama' bruges i hverdagen i mange familier.",
+        "en": "'Ibu' is formal; 'mama' is used in everyday speech in many families.",
+        "id": "'Ibu' bersifat formal; 'mama' digunakan dalam percakapan sehari-hari di banyak keluarga."
+      }
+    },
+    {
+      "source": "Barn / Børn",
+      "target": "Anak",
+      "note": {
+        "da": "Bruges om ét barn eller børn generelt. For flertal tilføj 'anak-anak'.",
+        "en": "Used for one child or children in general. For plural add 'anak-anak'.",
+        "id": "Digunakan untuk satu anak atau anak-anak secara umum. Untuk jamak tambahkan 'anak-anak'."
+      }
+    },
+    {
+      "source": "Ældre søskende (storebror/storesøster)",
+      "target": "Kakak",
+      "note": {
+        "da": "Kønsnetral – tilføj 'laki-laki' (dreng) eller 'perempuan' (pige) for at præcisere.",
+        "en": "Gender-neutral – add 'laki-laki' (male) or 'perempuan' (female) to specify.",
+        "id": "Netral gender – tambahkan 'laki-laki' atau 'perempuan' untuk mempertegas."
+      }
+    },
+    {
+      "source": "Yngre søskende (lillebror/lillesøster)",
+      "target": "Adik",
+      "note": {
+        "da": "Ligesom 'kakak' er denne kønsnetral. Alder afgør valget, ikke køn.",
+        "en": "Like 'kakak', this is gender-neutral. Age determines the choice, not gender.",
+        "id": "Seperti 'kakak', ini netral gender. Usia yang menentukan pilihan, bukan jenis kelamin."
+      }
+    },
+    {
+      "source": "Bror",
+      "target": "Saudara laki-laki",
+      "note": {
+        "da": "Bruges når man eksplicit vil sige 'min mandlige søskende', uanset alder.",
+        "en": "Used when explicitly saying 'my male sibling', regardless of age.",
+        "id": "Digunakan ketika secara eksplisit menyebut 'saudara laki-laki saya', tanpa memandang usia."
+      }
+    },
+    {
+      "source": "Søster",
+      "target": "Saudara perempuan",
+      "note": {
+        "da": "Bruges når man eksplicit vil sige 'min kvindelige søskende', uanset alder.",
+        "en": "Used when explicitly saying 'my female sibling', regardless of age.",
+        "id": "Digunakan ketika secara eksplisit menyebut 'saudara perempuan saya', tanpa memandang usia."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Ini + [familiemedlem] + saya",
+      "explanation": {
+        "da": "'Ini' betyder 'dette/det her'. Sæt det foran familiemedlemmet og tilføj 'saya' (min/mit/mine) bagefter. Ingen 'er'-ord nødvendig.",
+        "en": "'Ini' means 'this/this is'. Put it before the family member and add 'saya' (my) after. No verb 'to be' needed.",
+        "id": "'Ini' berarti 'ini'. Letakkan di depan anggota keluarga dan tambahkan 'saya' (saya punya/milik saya) setelahnya. Tidak perlu kata kerja 'adalah'."
+      },
+      "examples": [
+        { "source": "Det er min far.", "target": "Ini ayah saya." },
+        { "source": "Det er min storesøster.", "target": "Ini kakak saya." },
+        { "source": "Det er mit barn.", "target": "Ini anak saya." }
+      ]
+    },
+    {
+      "pattern": "Kakak / Adik + laki-laki / perempuan",
+      "explanation": {
+        "da": "Kakak og adik er kønneutrale. Tilføj 'laki-laki' (mand) eller 'perempuan' (kvinde) for at angive køn. Udelad det hvis ikke nødvendigt.",
+        "en": "Kakak and adik are gender-neutral. Add 'laki-laki' (male) or 'perempuan' (female) to indicate gender. Omit it if not necessary.",
+        "id": "Kakak dan adik bersifat netral gender. Tambahkan 'laki-laki' atau 'perempuan' untuk menunjukkan jenis kelamin. Hilangkan jika tidak diperlukan."
+      },
+      "examples": [
+        { "source": "Min storesøster", "target": "Kakak perempuan saya" },
+        { "source": "Min lillebror", "target": "Adik laki-laki saya" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Hold et billede (eller tegning) af din familie og præsenter hvert familiemedlem: 'Ini [familiemedlem] saya.'",
+        "en": "Hold a photo (or drawing) of your family and introduce each member: 'Ini [family member] saya.'",
+        "id": "Pegang foto (atau gambar) keluarga Anda dan perkenalkan setiap anggota: 'Ini [anggota keluarga] saya.'"
+      },
+      "answerShape": {
+        "da": "To til fire sætninger med 'Ini ... saya.'",
+        "en": "Two to four sentences using 'Ini ... saya.'",
+        "id": "Dua hingga empat kalimat menggunakan 'Ini ... saya.'"
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Oversæt til indonesisk: 1) min storesøster  2) min lillebror  3) mine forældre  4) mit eneste barn.",
+        "en": "Translate into Indonesian: 1) my older sister  2) my younger brother  3) my parents  4) my only child.",
+        "id": "Terjemahkan ke dalam bahasa Indonesia: 1) kakak perempuan saya  2) adik laki-laki saya  3) orang tua saya  4) anak tunggal saya."
+      },
+      "answerShape": {
+        "da": "Fire korte fraser på indonesisk.",
+        "en": "Four short phrases in Indonesian.",
+        "id": "Empat frasa singkat dalam bahasa Indonesia."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad synes du er mest interessant ved at indonesisk skelner efter alder og ikke køn for søskende? Kender du andre sprog der gør det samme?",
+        "en": "What do you find most interesting about Indonesian distinguishing siblings by age rather than gender? Do you know other languages that do the same?",
+        "id": "Apa yang menurut Anda paling menarik tentang bahasa Indonesia yang membedakan saudara kandung berdasarkan usia bukan jenis kelamin? Apakah Anda tahu bahasa lain yang melakukan hal yang sama?"
+      },
+      "answerShape": {
+        "da": "To til tre sætninger på dansk eller indonesisk.",
+        "en": "Two to three sentences in Danish or Indonesian.",
+        "id": "Dua hingga tiga kalimat dalam bahasa Denmark atau Indonesia."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme04-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Præsentation af kernefamilien på indonesisk",
+        "en": "Introducing the core family in Indonesian",
+        "id": "Memperkenalkan keluarga inti dalam bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

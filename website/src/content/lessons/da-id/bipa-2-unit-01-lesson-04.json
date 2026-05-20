@@ -1,0 +1,291 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-2",
+  "order": 4,
+  "slug": "lesson-04",
+  "durationMinutes": 45,
+  "title": {
+    "da": "Tag den Offentlige Transport",
+    "en": "Taking Public Transport",
+    "id": "Naik Angkutan Umum"
+  },
+  "summary": {
+    "da": "Lær at navigere Indonesiens offentlige transport — angkot, busser og ojek — herunder at forhandle om prisen med en ojek-chauffør.",
+    "en": "Learn to navigate Indonesia's public transport — angkot, buses, and ojek — including negotiating the fare with an ojek driver.",
+    "id": "Belajar menavigasi transportasi umum Indonesia — angkot, bus, dan ojek — termasuk menegosiasikan ongkos dengan pengemudi ojek."
+  },
+  "objectives": [
+    {
+      "da": "Navngive og beskrive mindst fire typer offentlig transport i Indonesien.",
+      "en": "Name and describe at least four types of public transport in Indonesia.",
+      "id": "Menyebutkan dan mendeskripsikan setidaknya empat jenis transportasi umum di Indonesia."
+    },
+    {
+      "da": "Bruge destinationsudtryk med 'ke + sted' for at angive destination.",
+      "en": "Use destination expressions with 'ke + place' to state a destination.",
+      "id": "Menggunakan ekspresi tujuan dengan 'ke + tempat' untuk menyatakan tujuan."
+    },
+    {
+      "da": "Forhandle om en ojek-pris og bede om at blive sat af med 'minta turun'.",
+      "en": "Negotiate an ojek fare and ask to be dropped off using 'minta turun'.",
+      "id": "Menegosiasikan ongkos ojek dan meminta turun menggunakan 'minta turun'."
+    }
+  ],
+  "unit": {
+    "slug": "unit-01",
+    "order": 1,
+    "title": {
+      "da": "Hverdag ude i Byen",
+      "en": "Everyday Life in Town",
+      "id": "Keseharian di Kota"
+    },
+    "summary": {
+      "da": "Sproget i brug: marked, butik, bank, posthus og transport.",
+      "en": "Language in use: market, shop, bank, post office, and transport.",
+      "id": "Bahasa dalam praktik: pasar, toko, bank, kantor pos, dan transportasi."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis et kort over en indonesisk by med ruter markeret. Spørg eleverne: 'Hvordan ville du komme fra A til B uden bil?' Diskuter i to minutter.",
+        "en": "Show a map of an Indonesian city with routes marked. Ask students: 'How would you get from A to B without a car?' Discuss for two minutes.",
+        "id": "Tampilkan peta kota Indonesia dengan rute yang ditandai. Tanya siswa: 'Bagaimana caramu pergi dari A ke B tanpa mobil?' Diskusikan selama dua menit."
+      },
+      "flow": [
+        {
+          "da": "Introducer de fem transporttyper med billeder. Diskuter, hvad der gør hver unik: pris, rute, sikkerhed, komfort.",
+          "en": "Introduce the five transport types with pictures. Discuss what makes each unique: price, route, safety, comfort.",
+          "id": "Perkenalkan lima jenis transportasi dengan gambar. Diskusikan apa yang membuat masing-masing unik: harga, rute, keamanan, kenyamanan."
+        },
+        {
+          "da": "Øv grammatikken: 'ke + sted'. Elever siger destinationer rundt i klassen. Tilføj 'naik + transportmiddel' for en hel sætning.",
+          "en": "Practise the grammar: 'ke + place'. Students say destinations around the class. Add 'naik + transport' for a complete sentence.",
+          "id": "Latih tata bahasa: 'ke + tempat'. Siswa menyebutkan tujuan bergantian di kelas. Tambahkan 'naik + transportasi' untuk kalimat lengkap."
+        },
+        {
+          "da": "Rollespil: éleven er passager, læreren er ojek-chauffør. Forhandl pris, rejs, og brug 'minta turun' på et bestemt sted.",
+          "en": "Role-play: student is the passenger, teacher is the ojek driver. Negotiate fare, travel, and use 'minta turun' at a specific place.",
+          "id": "Permainan peran: siswa adalah penumpang, guru adalah pengemudi ojek. Negosiasikan ongkos, lakukan perjalanan, dan gunakan 'minta turun' di tempat tertentu."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Gojek og Grab har i vidt omfang erstattet de traditionelle ojeks i store byer — appen viser prisen på forhånd. Nævn dette som et kulturelt skift.",
+          "en": "Gojek and Grab have largely replaced traditional ojeks in major cities — the app shows the price upfront. Mention this as a cultural shift.",
+          "id": "Gojek dan Grab sebagian besar telah menggantikan ojek tradisional di kota-kota besar — aplikasi menampilkan harga di muka. Sebutkan ini sebagai pergeseran budaya."
+        },
+        {
+          "da": "Bajaj er karakteristiske orange trehjulede taxier, der stadig bruges i Jakarta. Godt samtalestof til kulturel bevidsthed.",
+          "en": "Bajaj are the distinctive orange three-wheeled taxis still used in Jakarta. Good conversation starter for cultural awareness.",
+          "id": "Bajaj adalah taksi roda tiga berwarna oranye yang khas dan masih digunakan di Jakarta. Bahan percakapan yang baik untuk kesadaran budaya."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lær dialogen udenad. Fokuser på forhandlingsturene og afstigning-vendingen 'minta turun di sini'.",
+          "en": "Memorise the dialogue. Focus on the negotiation turns and the drop-off phrase 'minta turun di sini'.",
+          "id": "Hafalkan dialog. Fokus pada giliran negosiasi dan ungkapan turun 'minta turun di sini'."
+        },
+        {
+          "da": "Skriv en mini-guide (5 sætninger) til en turist om, hvordan man tager angkot i din by.",
+          "en": "Write a mini-guide (5 sentences) for a tourist on how to take an angkot in your city.",
+          "id": "Tulis panduan mini (5 kalimat) untuk turis tentang cara naik angkot di kotamu."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du spørge om pris til en destination, forhandle en gang ned og bede om at blive sat af — alt sammen flydende?",
+          "en": "Can you ask for the fare to a destination, negotiate once, and ask to be dropped off — all fluently?",
+          "id": "Bisakah kamu menanyakan ongkos ke tujuan, bernegosiasi sekali, dan meminta turun — semuanya dengan lancar?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Sarah",
+      "source": "Undskyld, kører du til stationen?",
+      "target": "Permisi, Pak, ke stasiun bisa?"
+    },
+    {
+      "speaker": "Tukang ojek",
+      "source": "Ja, til stationen. Femogtyve tusind, okay?",
+      "target": "Bisa, ke stasiun. Dua puluh lima ribu, ya?"
+    },
+    {
+      "speaker": "Sarah",
+      "source": "Av, det er lidt dyrt. Kan det ikke blive tyve tusind?",
+      "target": "Wah, agak mahal. Bisa dua puluh ribu saja?"
+    },
+    {
+      "speaker": "Tukang ojek",
+      "source": "Okay, to og tyve tusind — endelig pris. Kom op!",
+      "target": "Oke, dua puluh dua ribu — harga pas. Naik saja!"
+    },
+    {
+      "speaker": "Sarah",
+      "source": "Tak. Kan du stoppe foran den store bygning derovre?",
+      "target": "Terima kasih. Minta turun di depan gedung besar itu ya, Pak."
+    },
+    {
+      "speaker": "Tukang ojek",
+      "source": "Javel, vi er fremme om et øjeblik. Sæt dig godt fast!",
+      "target": "Siap, sebentar lagi sampai. Pegang erat-erat ya!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "delt minibus",
+      "target": "angkot",
+      "note": {
+        "da": "Forkortelse af 'angkutan kota' (bybil). Lille minibus med fast rute, ingen fast stoppested.",
+        "en": "Short for 'angkutan kota' (city vehicle). Small minibus on fixed route, no fixed stops.",
+        "id": "Singkatan dari 'angkutan kota'. Minibus kecil dengan rute tetap, tidak ada halte tetap."
+      }
+    },
+    {
+      "source": "motorcykeltaxi",
+      "target": "ojek",
+      "note": {
+        "da": "Motorcykeltaxi til hurtig transport i bytrafikken. Pris forhandles.",
+        "en": "Motorcycle taxi for quick transport through city traffic. Price is negotiated.",
+        "id": "Taksi motor untuk transportasi cepat menembus kemacetan kota. Harga dinegosiasikan."
+      }
+    },
+    {
+      "source": "trehjulet taxi (orange)",
+      "target": "bajaj",
+      "note": {
+        "da": "Karakteristisk orange tredelt taxa fra Jakarta. Kører på komprimeret naturgas.",
+        "en": "Distinctive orange three-wheeled taxi from Jakarta. Runs on compressed natural gas.",
+        "id": "Taksi roda tiga berwarna oranye yang khas dari Jakarta. Berbahan bakar gas alam terkompresi."
+      }
+    },
+    {
+      "source": "til (destination)",
+      "target": "ke",
+      "note": {
+        "da": "Præposition for destination. 'Ke stasiun' = til stationen. Bruges altid foran stednavne.",
+        "en": "Preposition for destination. 'Ke stasiun' = to the station. Always used before place names.",
+        "id": "Preposisi untuk tujuan. 'Ke stasiun' = ke stasiun. Selalu digunakan sebelum nama tempat."
+      }
+    },
+    {
+      "source": "at bede om at komme af",
+      "target": "minta turun",
+      "note": {
+        "da": "'Minta' (bede om) + 'turun' (gå ned/stige af). 'Minta turun di sini' = jeg vil af her.",
+        "en": "'Minta' (to request) + 'turun' (to go down/alight). 'Minta turun di sini' = I'd like to get off here.",
+        "id": "'Minta' + 'turun'. 'Minta turun di sini' = saya mau turun di sini."
+      }
+    },
+    {
+      "source": "at stige på",
+      "target": "naik",
+      "note": {
+        "da": "Bruges for alle transportmidler: 'naik bus', 'naik ojek', 'naik kereta'. Modsat: 'turun'.",
+        "en": "Used for all transport modes: 'naik bus', 'naik ojek', 'naik kereta'. Opposite: 'turun'.",
+        "id": "Digunakan untuk semua moda transportasi: 'naik bus', 'naik ojek', 'naik kereta'. Antonim: 'turun'."
+      }
+    },
+    {
+      "source": "kan det lade sig gøre / er det muligt",
+      "target": "bisa",
+      "note": {
+        "da": "Meget fleksibelt ord: 'bisa' alene som spørgsmål = er det muligt? Bruges også som 'kan'.",
+        "en": "Very flexible word: 'bisa' alone as a question = is it possible? Also used as 'can'.",
+        "id": "Kata yang sangat fleksibel: 'bisa' sendiri sebagai pertanyaan = bisa tidak? Juga digunakan sebagai 'dapat'."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "ke + stednavn (destination)",
+      "explanation": {
+        "da": "'Ke' er den indonesiske præposition for bevægelse mod et sted. Den bruges foran alle stednavne for at angive destination. I forbindelse med transport: 'naik [transportmiddel] ke [sted]'.",
+        "en": "'Ke' is the Indonesian preposition for movement towards a place. It is used before all place names to indicate destination. Combined with transport: 'naik [transport] ke [place]'.",
+        "id": "'Ke' adalah preposisi bahasa Indonesia untuk gerakan menuju suatu tempat. Digunakan sebelum semua nama tempat untuk menunjukkan tujuan. Dikombinasikan dengan transportasi: 'naik [transportasi] ke [tempat]'."
+      },
+      "examples": [
+        {
+          "source": "Jeg tager bus til markedet.",
+          "target": "Saya naik bus ke pasar."
+        },
+        {
+          "source": "Til stationen — er det muligt?",
+          "target": "Ke stasiun, bisa?"
+        },
+        {
+          "source": "Jeg vil gerne af foran banken.",
+          "target": "Minta turun di depan bank."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Du skal til et hospital i Jakarta. Stop en ojek, forhandl prisen fra Rp 35.000 ned til en pris, du er tilfreds med, og bed om at blive sat af ved indgangen.",
+        "en": "You need to get to a hospital in Jakarta. Stop an ojek, negotiate the price down from Rp 35,000 to a price you are happy with, and ask to be dropped off at the entrance.",
+        "id": "Kamu perlu pergi ke rumah sakit di Jakarta. Hentikan ojek, negosiasikan harga dari Rp 35.000 ke harga yang kamu setuju, dan minta turun di depan pintu masuk."
+      },
+      "answerShape": {
+        "da": "Brug: 'Ke rumah sakit, berapa?' → forhandle → 'oke, deal' → 'minta turun di depan pintu masuk'.",
+        "en": "Use: 'Ke rumah sakit, berapa?' → negotiate → 'oke, deal' → 'minta turun di depan pintu masuk'.",
+        "id": "Gunakan: 'Ke rumah sakit, berapa?' → negosiasi → 'oke, deal' → 'minta turun di depan pintu masuk'."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Byg fem sætninger der beskriver din daglige tur til arbejde/skole ved hjælp af 'naik ... ke ...'",
+        "en": "Build five sentences describing your daily commute using 'naik ... ke ...'",
+        "id": "Buat lima kalimat yang menggambarkan perjalanan harianmu ke tempat kerja/sekolah menggunakan 'naik ... ke ...'"
+      },
+      "answerShape": {
+        "da": "F.eks. 'Saya naik kereta ke kantor setiap pagi.' Brug fem forskellige transportmidler eller steder.",
+        "en": "E.g. 'Saya naik kereta ke kantor setiap pagi.' Use five different transport modes or places.",
+        "id": "Mis. 'Saya naik kereta ke kantor setiap pagi.' Gunakan lima moda transportasi atau tempat yang berbeda."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen igen. Hvad er den endelige pris, chaufføren accepterer? Hvad siger Sarah, inden hun stiger af?",
+        "en": "Listen to the dialogue again. What is the final price the driver accepts? What does Sarah say before getting off?",
+        "id": "Dengarkan dialog lagi. Berapa harga akhir yang diterima pengemudi? Apa yang dikatakan Sarah sebelum turun?"
+      },
+      "answerShape": {
+        "da": "Endelig pris: dua puluh dua ribu (22.000 rupiah). Sarah siger: 'Minta turun di depan gedung besar itu ya, Pak.'",
+        "en": "Final price: dua puluh dua ribu (22,000 rupiah). Sarah says: 'Minta turun di depan gedung besar itu ya, Pak.'",
+        "id": "Harga akhir: dua puluh dua ribu (Rp 22.000). Sarah berkata: 'Minta turun di depan gedung besar itu ya, Pak.'"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-unit01-lesson04-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Angkot, Ojek og Bajaj: Transport i Jakarta",
+        "en": "Angkot, Ojek, and Bajaj: Transport in Jakarta",
+        "id": "Angkot, Ojek, dan Bajaj: Transportasi di Jakarta"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

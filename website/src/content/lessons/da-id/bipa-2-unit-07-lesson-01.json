@@ -1,0 +1,333 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-2",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 45,
+  "title": {
+    "da": "Arbejdsmiljøet",
+    "en": "The Work Environment",
+    "id": "Lingkungan Kerja"
+  },
+  "summary": {
+    "da": "Lær at beskrive et kontor, dets rum og kollegers roller på din første arbejdsdag.",
+    "en": "Learn to describe an office, its rooms, and colleagues' roles on your first day at work.",
+    "id": "Belajar mendeskripsikan kantor, ruangannya, dan peran rekan kerja pada hari pertama bekerja."
+  },
+  "objectives": [
+    {
+      "da": "Navngive rum og genstande på et kontor.",
+      "en": "Name rooms and objects in an office.",
+      "id": "Menyebutkan ruangan dan benda-benda di kantor."
+    },
+    {
+      "da": "Beskrive kollegers roller med 'rekan kerja', 'atasan' og 'bawahan'.",
+      "en": "Describe colleagues' roles using 'rekan kerja', 'atasan', and 'bawahan'.",
+      "id": "Mendeskripsikan peran rekan kerja menggunakan 'rekan kerja', 'atasan', dan 'bawahan'."
+    },
+    {
+      "da": "Skelne mellem 'bekerja di' og 'bekerja sebagai'.",
+      "en": "Distinguish between 'bekerja di' and 'bekerja sebagai'.",
+      "id": "Membedakan antara 'bekerja di' dan 'bekerja sebagai'."
+    }
+  ],
+  "unit": {
+    "slug": "unit-07",
+    "order": 7,
+    "title": {
+      "da": "Arbejde og Professionelle Rutiner",
+      "en": "Work and Professional Routines",
+      "id": "Pekerjaan dan Rutinitas Profesional"
+    },
+    "summary": {
+      "da": "Sproget på arbejdspladsen og i professionelle sammenhænge.",
+      "en": "Language in the workplace and professional contexts.",
+      "id": "Bahasa di tempat kerja dan konteks profesional."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis et billede af et åbent kontormiljø og bed eleverne navngive hvad de kan se.",
+        "en": "Show a picture of an open office environment and ask learners to name what they see.",
+        "id": "Tampilkan gambar lingkungan kantor terbuka dan minta siswa menyebutkan apa yang mereka lihat."
+      },
+      "flow": [
+        {
+          "da": "Introducer kontorvokabular via billedkort. Læreren peger og eleverne gentager.",
+          "en": "Introduce office vocabulary using picture cards. Teacher points and learners repeat.",
+          "id": "Perkenalkan kosakata kantor melalui kartu gambar. Pengajar menunjuk dan siswa mengulangi."
+        },
+        {
+          "da": "Gå igennem grammatikreglen 'bekerja di' (sted) vs 'bekerja sebagai' (rolle). Giv eksempler på tavlen.",
+          "en": "Go through the grammar rule 'bekerja di' (place) vs 'bekerja sebagai' (role). Give examples on the board.",
+          "id": "Bahas aturan tata bahasa 'bekerja di' (tempat) vs 'bekerja sebagai' (peran). Berikan contoh di papan tulis."
+        },
+        {
+          "da": "Spil dialogen i klassen: én elev er den nye medarbejder, én er kollegaen der viser rundt.",
+          "en": "Role-play the dialogue in class: one learner is the new employee, one is the colleague giving a tour.",
+          "id": "Mainkan dialog di kelas: satu siswa sebagai karyawan baru, satu sebagai rekan kerja yang mengantar tur."
+        },
+        {
+          "da": "Eleverne laver mini-sætninger om deres 'drømmekollega' med det lærte vokabular.",
+          "en": "Learners make mini-sentences about their 'dream colleague' using the learned vocabulary.",
+          "id": "Siswa membuat kalimat mini tentang 'rekan kerja impian' menggunakan kosakata yang telah dipelajari."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Mange indonesiske kontorer bruger engelske lånord som 'meeting', 'deadline', 'printer' — accept disse, men introducer de indonesiske varianter.",
+          "en": "Many Indonesian offices use English loanwords like 'meeting', 'deadline', 'printer' — accept these, but introduce the Indonesian equivalents.",
+          "id": "Banyak kantor Indonesia menggunakan kata pinjaman dari bahasa Inggris seperti 'meeting', 'deadline', 'printer' — terima ini, tetapi perkenalkan padanannya dalam bahasa Indonesia."
+        },
+        {
+          "da": "HRD (Human Resources Department) udtales som bogstaver h-e-er-de og bruges bredt i Indonesien.",
+          "en": "HRD (Human Resources Department) is pronounced as letters h-e-er-de and is widely used in Indonesia.",
+          "id": "HRD (Human Resources Department) diucapkan sebagai huruf h-e-er-de dan digunakan secara luas di Indonesia."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Læs vokabularlisten og tegn dit eget kontordiagram med indonesiske etiketter.",
+          "en": "Read the vocabulary list and draw your own office diagram with Indonesian labels.",
+          "id": "Baca daftar kosakata dan gambar diagram kantor Anda sendiri dengan label bahasa Indonesia."
+        },
+        {
+          "da": "Øv grammatikreglen ved at skrive fem sætninger om dig selv: to med 'bekerja di' og to med 'bekerja sebagai'.",
+          "en": "Practise the grammar rule by writing five sentences about yourself: two with 'bekerja di' and two with 'bekerja sebagai'.",
+          "id": "Latih aturan tata bahasa dengan menulis lima kalimat tentang diri Anda: dua dengan 'bekerja di' dan dua dengan 'bekerja sebagai'."
+        },
+        {
+          "da": "Lyt til dialogen og gentag Andrés sætninger højt for at øve udtale.",
+          "en": "Listen to the dialogue and repeat André's sentences aloud to practise pronunciation.",
+          "id": "Dengarkan dialog dan ulangi kalimat-kalimat André dengan keras untuk melatih pengucapan."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du nævne mindst fem kontorsteder eller genstande på indonesisk?",
+          "en": "Can you name at least five office locations or objects in Indonesian?",
+          "id": "Bisakah Anda menyebutkan setidaknya lima lokasi atau benda kantor dalam bahasa Indonesia?"
+        },
+        {
+          "da": "Kan du forklare forskellen på 'bekerja di' og 'bekerja sebagai' med et eksempel?",
+          "en": "Can you explain the difference between 'bekerja di' and 'bekerja sebagai' with an example?",
+          "id": "Bisakah Anda menjelaskan perbedaan antara 'bekerja di' dan 'bekerja sebagai' dengan sebuah contoh?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Rina (kollega)",
+      "source": "Selamat datang di kantor kami, André! Saya Rina, rekan kerja Anda di departemen pemasaran. Mari saya tunjukkan sekitar.",
+      "target": "Selamat datang di kantor kami, André! Saya Rina, rekan kerja Anda di departemen pemasaran. Mari saya tunjukkan sekitar."
+    },
+    {
+      "speaker": "André (ny medarbejder)",
+      "source": "Terima kasih, Rina. Saya sangat senang bisa bekerja di sini. Ini kantor yang besar sekali!",
+      "target": "Terima kasih, Rina. Saya sangat senang bisa bekerja di sini. Ini kantor yang besar sekali!"
+    },
+    {
+      "speaker": "Rina",
+      "source": "Ya, ada tiga lantai. Lantai ini adalah ruang kerja utama. Di sana ada ruang rapat besar, dan di sebelah kiri ada pantri tempat kita bisa makan siang.",
+      "target": "Ya, ada tiga lantai. Lantai ini adalah ruang kerja utama. Di sana ada ruang rapat besar, dan di sebelah kiri ada pantri tempat kita bisa makan siang."
+    },
+    {
+      "speaker": "André",
+      "source": "Meja kerja saya yang mana? Dan di mana saya bisa mencetak dokumen?",
+      "target": "Meja kerja saya yang mana? Dan di mana saya bisa mencetak dokumen?"
+    },
+    {
+      "speaker": "Rina",
+      "source": "Meja kerja Anda ada di pojok sana, dekat jendela. Printernya ada di samping loker. Atasan kita, Pak Budi, bekerja sebagai manajer pemasaran — kantornya di ujung koridor.",
+      "target": "Meja kerja Anda ada di pojok sana, dekat jendela. Printernya ada di samping loker. Atasan kita, Pak Budi, bekerja sebagai manajer pemasaran — kantornya di ujung koridor."
+    },
+    {
+      "speaker": "André",
+      "source": "Baik. Dan bagaimana cara ke lantai atas? Apakah ada lift?",
+      "target": "Baik. Dan bagaimana cara ke lantai atas? Apakah ada lift?"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "kantor",
+      "target": "kontor / office",
+      "note": {
+        "da": "Grundlæggende ord for arbejdspladsen.",
+        "en": "Basic word for the workplace.",
+        "id": "Kata dasar untuk tempat bekerja."
+      }
+    },
+    {
+      "source": "ruang rapat",
+      "target": "mødelokale",
+      "note": {
+        "da": "'Ruang' = rum, 'rapat' = møde.",
+        "en": "'Ruang' = room, 'rapat' = meeting.",
+        "id": "'Ruang' = ruangan, 'rapat' = pertemuan."
+      }
+    },
+    {
+      "source": "meja kerja",
+      "target": "skrivebord / arbejdsbord",
+      "note": {
+        "da": "'Meja' = bord, 'kerja' = arbejde.",
+        "en": "'Meja' = table, 'kerja' = work.",
+        "id": "'Meja' = meja, 'kerja' = bekerja."
+      }
+    },
+    {
+      "source": "lift",
+      "target": "elevator / lift",
+      "note": {
+        "da": "Lånord fra engelsk, bruges overalt.",
+        "en": "Loanword from English, used everywhere.",
+        "id": "Kata pinjaman dari bahasa Inggris, digunakan di mana-mana."
+      }
+    },
+    {
+      "source": "rekan kerja",
+      "target": "kollega",
+      "note": {
+        "da": "'Rekan' = kammerat/kollega, 'kerja' = arbejde.",
+        "en": "'Rekan' = companion/colleague, 'kerja' = work.",
+        "id": "'Rekan' = teman/kolega, 'kerja' = bekerja."
+      }
+    },
+    {
+      "source": "atasan",
+      "target": "chef / overordnet",
+      "note": {
+        "da": "Fra 'atas' (oppe). Formelt ord for supervisor eller leder.",
+        "en": "From 'atas' (above). Formal word for supervisor or manager.",
+        "id": "Dari kata 'atas'. Kata formal untuk supervisor atau pemimpin."
+      }
+    },
+    {
+      "source": "bawahan",
+      "target": "underordnet / medarbejder under ens ledelse",
+      "note": {
+        "da": "Fra 'bawah' (nede). Modsætning til 'atasan'.",
+        "en": "From 'bawah' (below). Opposite of 'atasan'.",
+        "id": "Dari kata 'bawah'. Kebalikan dari 'atasan'."
+      }
+    },
+    {
+      "source": "pantri / dapur kecil",
+      "target": "tekøkken / pausekøkken",
+      "note": {
+        "da": "'Pantri' er et lånord. 'Dapur kecil' = lille køkken.",
+        "en": "'Pantri' is a loanword. 'Dapur kecil' = small kitchen.",
+        "id": "'Pantri' adalah kata pinjaman. 'Dapur kecil' = dapur kecil."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "bekerja di + [sted]",
+      "explanation": {
+        "da": "'Bekerja di' angiver det fysiske sted, hvor man arbejder. Brug det til bygninger, byer og virksomheder.",
+        "en": "'Bekerja di' indicates the physical place where one works. Use it for buildings, cities, and companies.",
+        "id": "'Bekerja di' menunjukkan tempat fisik di mana seseorang bekerja. Gunakan untuk gedung, kota, dan perusahaan."
+      },
+      "examples": [
+        {
+          "source": "Jeg arbejder på et hospital.",
+          "target": "Saya bekerja di rumah sakit."
+        },
+        {
+          "source": "Han arbejder i Jakarta.",
+          "target": "Dia bekerja di Jakarta."
+        }
+      ]
+    },
+    {
+      "pattern": "bekerja sebagai + [rolle/titel]",
+      "explanation": {
+        "da": "'Bekerja sebagai' angiver jobfunktionen eller titlen. Brug det til stillingsbetegnelser og roller.",
+        "en": "'Bekerja sebagai' indicates the job function or title. Use it for job titles and roles.",
+        "id": "'Bekerja sebagai' menunjukkan fungsi pekerjaan atau jabatan. Gunakan untuk jabatan dan peran pekerjaan."
+      },
+      "examples": [
+        {
+          "source": "Hun arbejder som lærer.",
+          "target": "Dia bekerja sebagai guru."
+        },
+        {
+          "source": "Jeg arbejder som ingeniør i et stort firma.",
+          "target": "Saya bekerja sebagai insinyur di perusahaan besar."
+        },
+        {
+          "source": "Min bror arbejder som HRD-chef.",
+          "target": "Kakak saya bekerja sebagai kepala HRD."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Forestil dig at du er ny på et kontor i Jakarta. Præsenter dig selv for en kollega og fortæl, hvor du arbejder, og hvad din stilling er.",
+        "en": "Imagine you are new to an office in Jakarta. Introduce yourself to a colleague and say where you work and what your position is.",
+        "id": "Bayangkan Anda baru di sebuah kantor di Jakarta. Perkenalkan diri Anda kepada rekan kerja dan sebutkan di mana Anda bekerja dan apa jabatan Anda."
+      },
+      "answerShape": {
+        "da": "To til tre sætninger med 'bekerja di' og 'bekerja sebagai'.",
+        "en": "Two to three sentences using 'bekerja di' and 'bekerja sebagai'.",
+        "id": "Dua hingga tiga kalimat menggunakan 'bekerja di' dan 'bekerja sebagai'."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Tegn en simpel plantegning af et kontor og skriv de indonesiske navne på mindst seks steder eller genstande.",
+        "en": "Draw a simple floor plan of an office and write the Indonesian names for at least six locations or objects.",
+        "id": "Gambar denah sederhana sebuah kantor dan tulis nama-nama Indonesia untuk setidaknya enam lokasi atau benda."
+      },
+      "answerShape": {
+        "da": "En annoteret tegning eller liste over seks kontorsteder og genstande.",
+        "en": "An annotated drawing or list of six office locations and objects.",
+        "id": "Gambar beranotasi atau daftar enam lokasi dan benda kantor."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Beskriv din egen arbejdsplads (eller en drømmeworkspace) på indonesisk. Hvad er der der? Hvem arbejder der?",
+        "en": "Describe your own workplace (or a dream workspace) in Indonesian. What is there? Who works there?",
+        "id": "Deskripsikan tempat kerja Anda sendiri (atau tempat kerja impian) dalam bahasa Indonesia. Apa saja yang ada di sana? Siapa yang bekerja di sana?"
+      },
+      "answerShape": {
+        "da": "Tre til fem sætninger med kontorvokabular og 'bekerja di/sebagai'.",
+        "en": "Three to five sentences using office vocabulary and 'bekerja di/sebagai'.",
+        "id": "Tiga hingga lima kalimat menggunakan kosakata kantor dan 'bekerja di/sebagai'."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-unit07-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Rundvisning på et indonesisk kontor",
+        "en": "A tour of an Indonesian office",
+        "id": "Tur kantor Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

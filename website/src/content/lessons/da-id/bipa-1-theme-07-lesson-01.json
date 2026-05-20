@@ -1,0 +1,296 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Rutinitas Pagi — Morgenrutinen",
+    "en": "Rutinitas Pagi — Morning Routine",
+    "id": "Rutinitas Pagi"
+  },
+  "summary": {
+    "da": "Lær ordforråd for morgenrutinen: at vågne, bade, børste tænder, klæde sig på, spise morgenmad og tage afsted. Indonesisk bruger ikke tempusbøjning — rækkefølgen viser handlingsforløbet.",
+    "en": "Learn vocabulary for the morning routine: waking up, showering, brushing teeth, getting dressed, having breakfast, and departing. Indonesian uses no tense conjugation — sequence signals the flow of actions.",
+    "id": "Pelajari kosakata rutinitas pagi: bangun, mandi, gosok gigi, berpakaian, sarapan, dan berangkat. Bahasa Indonesia tidak menggunakan konjugasi kala — urutan menunjukkan alur tindakan."
+  },
+  "objectives": [
+    {
+      "da": "Navngive seks til otte morgenaktiviteter på indonesisk",
+      "en": "Name six to eight morning activities in Indonesian",
+      "id": "Menyebutkan enam hingga delapan aktivitas pagi dalam bahasa Indonesia"
+    },
+    {
+      "da": "Beskrive sin morgenrutine i rækkefølge med tidsord (pertama, lalu, kemudian, setelah itu)",
+      "en": "Describe your morning routine in sequence using time words (pertama, lalu, kemudian, setelah itu)",
+      "id": "Mendeskripsikan rutinitas pagi secara berurutan menggunakan kata urutan (pertama, lalu, kemudian, setelah itu)"
+    },
+    {
+      "da": "Fortælle en ven om sin morgenrutine i en simpel samtale",
+      "en": "Tell a friend about your morning routine in a simple conversation",
+      "id": "Menceritakan rutinitas pagi kepada teman dalam percakapan sederhana"
+    }
+  ],
+  "unit": {
+    "slug": "theme-07",
+    "order": 7,
+    "title": {
+      "da": "Tema 7: Min Hverdag",
+      "en": "Theme 7: My Daily Life",
+      "id": "Tema 7: Keseharian Saya"
+    },
+    "summary": {
+      "da": "Daglige rutiner og aktiviteter fra morgen til aften.",
+      "en": "Daily routines and activities from morning to evening.",
+      "id": "Rutinitas dan aktivitas harian dari pagi hingga malam."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg klassen: 'Hvad er det første, du gør om morgenen?' Notér svarene på tavlen på dansk og introducer derefter de indonesiske ord en ad gangen.",
+        "en": "Ask the class: 'What is the first thing you do in the morning?' Note the answers on the board in Danish, then introduce the Indonesian words one by one.",
+        "id": "Tanya kelas: 'Apa hal pertama yang kamu lakukan di pagi hari?' Catat jawaban di papan dalam bahasa Denmark, lalu perkenalkan kata-kata Indonesia satu per satu."
+      },
+      "flow": [
+        {
+          "da": "Introducer ordforrådet med miming: læreren mimer hver handling (vågne, gabe, bade osv.) og eleverne gætter og siger det indonesiske ord.",
+          "en": "Introduce the vocabulary with mime: teacher mimes each action (wake up, yawn, shower, etc.) and students guess and say the Indonesian word.",
+          "id": "Perkenalkan kosakata dengan pantomim: guru memperagakan setiap tindakan (bangun, menguap, mandi, dll.) dan siswa menebak dan menyebutkan kata dalam bahasa Indonesia."
+        },
+        {
+          "da": "Forklar rækkefølgeord: pertama (først), lalu/kemudian (derefter), setelah itu (efter det). Øv med morgenrutine-sekvenser.",
+          "en": "Explain sequence words: pertama (first), lalu/kemudian (then), setelah itu (after that). Practise with morning routine sequences.",
+          "id": "Jelaskan kata urutan: pertama (pertama), lalu/kemudian (kemudian), setelah itu (setelah itu). Latih dengan urutan rutinitas pagi."
+        },
+        {
+          "da": "Par-aktivitet: eleverne beskriver hinandens morgenrutiner. Lyt og stil spørgsmål.",
+          "en": "Pair activity: students describe each other's morning routines. Listen and ask questions.",
+          "id": "Aktivitas berpasangan: siswa mendeskripsikan rutinitas pagi satu sama lain. Dengarkan dan ajukan pertanyaan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "I indonesisk er det normalt at bade om morgenen OG aftenen. Mandi refererer til begge. Dette kan overraske danske elever.",
+          "en": "In Indonesian culture it is normal to shower both morning AND evening. Mandi refers to both. This may surprise Danish students.",
+          "id": "Dalam budaya Indonesia, normal untuk mandi pagi DAN sore. Mandi merujuk pada keduanya. Ini mungkin mengejutkan siswa Denmark."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv din morgenrutine på indonesisk med rækkefølgeord: pertama, lalu, kemudian, setelah itu, akhirnya.",
+          "en": "Write your morning routine in Indonesian using sequence words: pertama, lalu, kemudian, setelah itu, akhirnya.",
+          "id": "Tuliskan rutinitas pagimu dalam bahasa Indonesia menggunakan kata urutan: pertama, lalu, kemudian, setelah itu, akhirnya."
+        },
+        {
+          "da": "Lyt til dialogen og notér i hvilken rækkefølge Ana udfører sine morgenaktiviteter.",
+          "en": "Listen to the dialogue and note the order in which Ana performs her morning activities.",
+          "id": "Dengarkan dialog dan catat urutan aktivitas pagi Ana."
+        },
+        {
+          "da": "Øv at sige morgenrutinen højt — forestil dig, at du optager en kort video om din morgen.",
+          "en": "Practise saying the morning routine aloud — imagine you are recording a short video about your morning.",
+          "id": "Latih mengucapkan rutinitas pagi dengan keras — bayangkan kamu merekam video singkat tentang pagimu."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Sig seks morgenaktiviteter på indonesisk i rækkefølge uden at se på dine noter.",
+          "en": "Say six morning activities in Indonesian in order without looking at your notes.",
+          "id": "Sebutkan enam aktivitas pagi dalam bahasa Indonesia secara berurutan tanpa melihat catatan."
+        },
+        {
+          "da": "Hvad betyder 'Pertama saya bangun, lalu saya mandi'? Oversæt til dansk.",
+          "en": "What does 'Pertama saya bangun, lalu saya mandi' mean? Translate to Danish.",
+          "id": "Apa arti 'Pertama saya bangun, lalu saya mandi'? Terjemahkan ke bahasa Denmark."
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Ana",
+      "source": "Kamu biasanya bangun jam berapa?",
+      "target": "Hvad tid vågner du normalt?"
+    },
+    {
+      "speaker": "Beni",
+      "source": "Saya bangun jam enam pagi. Langsung mandi.",
+      "target": "Jeg vågner klokken seks om morgenen. Straks i bad."
+    },
+    {
+      "speaker": "Ana",
+      "source": "Habis mandi ngapain?",
+      "target": "Hvad gør du efter badet?"
+    },
+    {
+      "speaker": "Beni",
+      "source": "Gosok gigi, berpakaian, lalu sarapan. Biasanya makan nasi atau roti.",
+      "target": "Børster tænder, klæder mig på, derefter morgenmad. Normalt ris eller brød."
+    },
+    {
+      "speaker": "Ana",
+      "source": "Jam berapa kamu berangkat ke kantor?",
+      "target": "Hvad tid tager du afsted til kontoret?"
+    },
+    {
+      "speaker": "Beni",
+      "source": "Jam tujuh kurang seperempat. Harus menghindari macet!",
+      "target": "Kvart i syv. Jeg er nødt til at undgå trafikken!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "bangun",
+      "target": "at vågne / to wake up",
+      "note": {
+        "da": "Også: 'bangun tidur' = vågne fra søvn; 'bangun pagi' = tidligt oppe",
+        "en": "Also: 'bangun tidur' = wake from sleep; 'bangun pagi' = up early",
+        "id": "Juga: 'bangun tidur' = bangun dari tidur; 'bangun pagi' = bangun pagi-pagi"
+      }
+    },
+    {
+      "source": "mandi",
+      "target": "at bade / to shower or bathe",
+      "note": {
+        "da": "Inkluderer både brusebad og karbad; normalt sker det to gange dagligt i Indonesien",
+        "en": "Includes both shower and bath; normally done twice daily in Indonesia",
+        "id": "Mencakup mandi shower maupun berendam; biasanya dilakukan dua kali sehari di Indonesia"
+      }
+    },
+    {
+      "source": "gosok gigi",
+      "target": "at børste tænder / to brush teeth",
+      "note": {
+        "da": "'Gosok' = gnide/skrubbe; 'gigi' = tænder",
+        "en": "'Gosok' = to rub/scrub; 'gigi' = teeth",
+        "id": "'Gosok' = menggosok; 'gigi' = gigi"
+      }
+    },
+    {
+      "source": "berpakaian",
+      "target": "at klæde sig på / to get dressed",
+      "note": {
+        "da": "'Pakaian' = tøj; 'ber-' gør det til en handling man udfører",
+        "en": "'Pakaian' = clothing; 'ber-' makes it an action one performs",
+        "id": "'Pakaian' = pakaian; awalan 'ber-' menjadikannya kata kerja"
+      }
+    },
+    {
+      "source": "sarapan",
+      "target": "at spise morgenmad / breakfast",
+      "note": {
+        "da": "Kan bruges som verbum ('saya sarapan') og substantiv ('sarapan saya adalah...')",
+        "en": "Can be used as verb ('saya sarapan') and noun ('sarapan saya adalah...')",
+        "id": "Bisa digunakan sebagai kata kerja ('saya sarapan') dan kata benda ('sarapan saya adalah...')"
+      }
+    },
+    {
+      "source": "berangkat",
+      "target": "at tage afsted / to leave / to depart",
+      "note": {
+        "da": "Bruges specifikt om det øjeblik, man forlader hjemmet/et sted for at begive sig til et andet",
+        "en": "Used specifically for the moment of leaving home/a place to go somewhere else",
+        "id": "Digunakan khusus untuk saat meninggalkan rumah/suatu tempat untuk pergi ke tempat lain"
+      }
+    },
+    {
+      "source": "pertama ... lalu ... kemudian ... setelah itu",
+      "target": "først ... derefter ... derefter ... efter det",
+      "note": {
+        "da": "Rækkefølgeord der strukturerer en handlingssekvens; 'akhirnya' = endelig/til sidst",
+        "en": "Sequence words that structure a series of actions; 'akhirnya' = finally",
+        "id": "Kata urutan yang menyusun serangkaian tindakan; 'akhirnya' = akhirnya/pada akhirnya"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Rækkefølgeord til at beskrive rutiner: pertama, lalu, kemudian, setelah itu, akhirnya",
+      "explanation": {
+        "da": "I indonesisk fortæller rækkefølgeord os, i hvilken orden handlinger sker. Verbet ændrer sig ikke. Disse ord er det primære middel til at vise et handlingsforløb.",
+        "en": "In Indonesian, sequence words tell us the order in which actions happen. The verb does not change. These words are the primary means of showing a flow of actions.",
+        "id": "Dalam bahasa Indonesia, kata urutan memberi tahu kita urutan tindakan terjadi. Kata kerja tidak berubah. Kata-kata ini adalah sarana utama untuk menunjukkan alur tindakan."
+      },
+      "examples": [
+        {
+          "source": "Pertama saya bangun, lalu mandi.",
+          "target": "Først vågner jeg, derefter bader jeg. / First I wake up, then I shower."
+        },
+        {
+          "source": "Kemudian saya gosok gigi dan berpakaian.",
+          "target": "Derefter børster jeg tænder og klæder mig på. / Then I brush my teeth and get dressed."
+        },
+        {
+          "source": "Setelah itu saya sarapan, akhirnya berangkat.",
+          "target": "Efter det spiser jeg morgenmad, til sidst tager jeg afsted. / After that I have breakfast, finally I leave."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Beskriv din morgenrutine i fem sætninger ved hjælp af rækkefølgeord. Brug mindst fire af ordforrådsordene.",
+        "en": "Describe your morning routine in five sentences using sequence words. Use at least four vocabulary words.",
+        "id": "Deskripsikan rutinitas pagimu dalam lima kalimat menggunakan kata urutan. Gunakan setidaknya empat kata kosakata."
+      },
+      "answerShape": {
+        "da": "Pertama saya [aktivitet], lalu [aktivitet], kemudian [aktivitet]...",
+        "en": "Pertama saya [activity], lalu [activity], kemudian [activity]...",
+        "id": "Pertama saya [aktivitas], lalu [aktivitas], kemudian [aktivitas]..."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen og opskriv Benis morgenroutine i rækkefølge.",
+        "en": "Listen to the dialogue and write down Beni's morning routine in order.",
+        "id": "Dengarkan dialog dan tuliskan rutinitas pagi Beni secara berurutan."
+      },
+      "answerShape": {
+        "da": "Bangun → mandi → gosok gigi → berpakaian → sarapan → berangkat.",
+        "en": "Bangun → mandi → gosok gigi → berpakaian → sarapan → berangkat.",
+        "id": "Bangun → mandi → gosok gigi → berpakaian → sarapan → berangkat."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en kort besked til en ven og beskriv din perfekte morgen. Hvad ville du gøre, og hvornår?",
+        "en": "Write a short message to a friend describing your perfect morning. What would you do, and when?",
+        "id": "Tulis pesan singkat kepada teman mendeskripsikan pagi idealmu. Apa yang akan kamu lakukan, dan kapan?"
+      },
+      "answerShape": {
+        "da": "Pagi ideal saya: pertama [aktivitet] jam [N], kemudian [aktivitet]...",
+        "en": "Pagi ideal saya: pertama [activity] jam [N], kemudian [activity]...",
+        "id": "Pagi ideal saya: pertama [aktivitas] jam [N], kemudian [aktivitas]..."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme07-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Morgenrutinen på indonesisk — Rutinitas Pagi",
+        "en": "The Morning Routine in Indonesian — Rutinitas Pagi",
+        "id": "Rutinitas Pagi — Aktivitas Pagi Hari dalam Bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

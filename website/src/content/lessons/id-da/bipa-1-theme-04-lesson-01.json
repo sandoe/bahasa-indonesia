@@ -1,0 +1,247 @@
+{
+  "pair": "id-da",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Min familie",
+    "en": "My Family",
+    "id": "Keluarga saya"
+  },
+  "summary": {
+    "da": "Lær de vigtigste familieord på dansk og hvordan du præsenterer familiemedlemmer enkelt.",
+    "en": "Learn the key family words in Danish and how to introduce family members simply.",
+    "id": "Pelajari kosakata keluarga utama dalam bahasa Denmark dan cara memperkenalkan anggota keluarga secara sederhana."
+  },
+  "objectives": [
+    {
+      "da": "Nævne nære familiemedlemmer på dansk.",
+      "en": "Name close family members in Danish.",
+      "id": "Menyebutkan anggota keluarga dekat dalam bahasa Denmark."
+    },
+    {
+      "da": "Sige “det er min...” om mindst tre personer.",
+      "en": "Say “that is my...” about at least three people.",
+      "id": "Mengatakan “det er min...” tentang setidaknya tiga orang."
+    },
+    {
+      "da": "Skrive en kort familiepræsentation.",
+      "en": "Write a short family introduction.",
+      "id": "Menulis perkenalan keluarga singkat."
+    }
+  ],
+  "unit": {
+    "slug": "theme-04",
+    "order": 4,
+    "title": {
+      "da": "Tema 4: Min Familie",
+      "en": "Theme 4: My Family",
+      "id": "Tema 4: Keluarga Saya"
+    },
+    "summary": {
+      "da": "Familieord, relationer og små beskrivelser.",
+      "en": "Family words, relations, and short descriptions.",
+      "id": "Kosakata keluarga, relasi, dan deskripsi singkat."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis en enkel familietegning og spørg hvem personerne er.",
+        "en": "Show a simple family drawing and ask who the people are.",
+        "id": "Tunjukkan gambar keluarga sederhana dan tanyakan siapa orang-orang itu."
+      },
+      "flow": [
+        {
+          "da": "Introducer mor, far, søster, bror, bedstemor og bedstefar.",
+          "en": "Introduce mother, father, sister, brother, grandmother, and grandfather.",
+          "id": "Perkenalkan ibu, ayah, saudara perempuan, saudara laki-laki, nenek, dan kakek."
+        },
+        {
+          "da": "Modelér “det er min mor” og “han er min bror”.",
+          "en": "Model “that is my mother” and “he is my brother”.",
+          "id": "Tunjukkan “det er min mor” dan “han er min bror”."
+        },
+        {
+          "da": "Lad eleverne præsentere en virkelig eller fiktiv familie.",
+          "en": "Let students present a real or fictional family.",
+          "id": "Minta siswa memperkenalkan keluarga nyata atau fiktif."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Familieord fungerer godt med billeder. Brug mange gentagelser og pegning.",
+          "en": "Family words work well with pictures. Use lots of repetition and pointing.",
+          "id": "Kosakata keluarga sangat cocok dengan gambar. Gunakan banyak pengulangan dan penunjukan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lav en lille familieliste med danske ord.",
+          "en": "Make a small family list with Danish words.",
+          "id": "Buat daftar keluarga kecil dengan kosakata Denmark."
+        },
+        {
+          "da": "Skriv tre sætninger om din familie.",
+          "en": "Write three sentences about your family.",
+          "id": "Tulis tiga kalimat tentang keluarga Anda."
+        },
+        {
+          "da": "Læs dialogen og byt familiemedlemmerne ud med dine egne.",
+          "en": "Read the dialogue and replace the family members with your own.",
+          "id": "Baca dialog dan ganti anggota keluarga dengan anggota keluarga Anda sendiri."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du nævne mindst fire familieord på dansk?",
+          "en": "Can you name at least four family words in Danish?",
+          "id": "Bisakah Anda menyebutkan setidaknya empat kosakata keluarga dalam bahasa Denmark?"
+        },
+        {
+          "da": "Kan du sige “det er min...” om et familiemedlem?",
+          "en": "Can you say “that is my...” about a family member?",
+          "id": "Bisakah Anda mengatakan “det er min...” tentang seorang anggota keluarga?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Nadia",
+      "source": "Ini ibu saya.",
+      "target": "Det er min mor."
+    },
+    {
+      "speaker": "Peter",
+      "source": "Dan itu siapa?",
+      "target": "Og hvem er det?"
+    },
+    {
+      "speaker": "Nadia",
+      "source": "Dia saudara laki-laki saya. Namanya Arif.",
+      "target": "Det er min bror. Han hedder Arif."
+    },
+    {
+      "speaker": "Peter",
+      "source": "Keluargamu besar.",
+      "target": "Din familie er stor."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "ibu",
+      "target": "mor",
+      "note": {
+        "da": "Et af de første og vigtigste familieord.",
+        "en": "One of the first and most important family words.",
+        "id": "Salah satu kosakata keluarga pertama dan terpenting."
+      }
+    },
+    {
+      "source": "ayah",
+      "target": "far",
+      "note": {
+        "da": "Meget brugt i enkle familiepræsentationer.",
+        "en": "Very common in simple family introductions.",
+        "id": "Sangat sering digunakan dalam perkenalan keluarga sederhana."
+      }
+    },
+    {
+      "source": "saudara perempuan / laki-laki",
+      "target": "søster / bror",
+      "note": {
+        "da": "Gode basisord til familie og identitet.",
+        "en": "Good basic words for family and identity.",
+        "id": "Kosakata dasar yang baik untuk keluarga dan identitas."
+      }
+    },
+    {
+      "source": "keluarga",
+      "target": "familie",
+      "note": {
+        "da": "Centralt ord i temaet.",
+        "en": "Central word in the theme.",
+        "id": "Kata inti dalam tema ini."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Det er min... / Han er min... / Hun er min...",
+      "explanation": {
+        "da": "Dansk bruger ofte “det er...” til at præsentere en person eller ting. Derefter kan du bruge han/hun til at beskrive relationen videre.",
+        "en": "Danish often uses “det er...” to introduce a person or thing. After that you can use he/she to describe the relation further.",
+        "id": "Bahasa Denmark sering menggunakan “det er...” untuk memperkenalkan seseorang atau benda. Setelah itu Anda dapat menggunakan han/hun untuk menjelaskan relasi lebih lanjut."
+      },
+      "examples": [
+        {
+          "source": "Ini ibu saya.",
+          "target": "Det er min mor."
+        },
+        {
+          "source": "Dia saudara perempuan saya.",
+          "target": "Hun er min søster."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til en familiepræsentation og match personer og relationer.",
+        "en": "Listen to a family introduction and match people and relations.",
+        "id": "Dengarkan perkenalan keluarga dan cocokkan orang serta relasinya."
+      },
+      "answerShape": {
+        "da": "Et lille match.",
+        "en": "A small matching task.",
+        "id": "Pencocokan kecil."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Præsenter to familiemedlemmer på dansk.",
+        "en": "Introduce two family members in Danish.",
+        "id": "Perkenalkan dua anggota keluarga dalam bahasa Denmark."
+      },
+      "answerShape": {
+        "da": "To til tre korte sætninger.",
+        "en": "Two to three short sentences.",
+        "id": "Dua hingga tiga kalimat pendek."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en kort tekst om din familie.",
+        "en": "Write a short text about your family.",
+        "id": "Tulis teks singkat tentang keluarga Anda."
+      },
+      "answerShape": {
+        "da": "Tre korte linjer.",
+        "en": "Three short lines.",
+        "id": "Tiga baris pendek."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilket familieord tror du bliver mest nyttigt for dig først?",
+        "en": "Which family word do you think will be most useful for you first?",
+        "id": "Kosakata keluarga mana yang menurut Anda akan paling berguna terlebih dahulu?"
+      },
+      "answerShape": {
+        "da": "En kort sætning.",
+        "en": "One short sentence.",
+        "id": "Satu kalimat pendek."
+      }
+    }
+  ],
+  "media": []
+}

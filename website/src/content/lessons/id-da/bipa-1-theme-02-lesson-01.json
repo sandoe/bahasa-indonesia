@@ -1,0 +1,251 @@
+{
+  "pair": "id-da",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Jeg kommer fra...",
+    "en": "I Come From...",
+    "id": "Saya berasal dari..."
+  },
+  "summary": {
+    "da": "Lær at fortælle hvor du kommer fra, hvor du bor, og hvilke sprog du taler på dansk.",
+    "en": "Learn to say where you come from, where you live, and which languages you speak in Danish.",
+    "id": "Belajar mengatakan dari mana Anda berasal, di mana Anda tinggal, dan bahasa apa yang Anda gunakan dalam bahasa Denmark."
+  },
+  "objectives": [
+    {
+      "da": "Sige “jeg kommer fra...” og “jeg bor i...”.",
+      "en": "Say “jeg kommer fra...” and “jeg bor i...”.",
+      "id": "Mengatakan “jeg kommer fra...” dan “jeg bor i...”."
+    },
+    {
+      "da": "Nævne mindst ét sprog du taler.",
+      "en": "Mention at least one language you speak.",
+      "id": "Menyebutkan setidaknya satu bahasa yang Anda gunakan."
+    },
+    {
+      "da": "Stille enkle identitetsspørgsmål til andre.",
+      "en": "Ask simple identity questions to others.",
+      "id": "Mengajukan pertanyaan identitas sederhana kepada orang lain."
+    }
+  ],
+  "unit": {
+    "slug": "theme-02",
+    "order": 2,
+    "title": {
+      "da": "Tema 2: Identitet",
+      "en": "Theme 2: Identity",
+      "id": "Tema 2: Identitas"
+    },
+    "summary": {
+      "da": "Navn, oprindelse, bopæl og sprog.",
+      "en": "Name, origin, place of living, and language.",
+      "id": "Nama, asal, tempat tinggal, dan bahasa."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Bed eleverne pege på et kort og sige deres land på indonesisk først, derefter på dansk.",
+        "en": "Ask students to point to a map and say their country in Indonesian first, then in Danish.",
+        "id": "Minta siswa menunjuk peta dan menyebutkan negara mereka dalam bahasa Indonesia terlebih dahulu, lalu dalam bahasa Denmark."
+      },
+      "flow": [
+        {
+          "da": "Modelér “jeg kommer fra Indonesia” og “jeg bor i København”.",
+          "en": "Model “jeg kommer fra Indonesia” and “jeg bor i Copenhagen”.",
+          "id": "Tunjukkan “jeg kommer fra Indonesia” dan “jeg bor i København”."
+        },
+        {
+          "da": "Arbejd med sprog: “jeg taler indonesisk, dansk og engelsk”.",
+          "en": "Work with languages: “I speak Indonesian, Danish and English”.",
+          "id": "Latih bahasa: “jeg taler indonesisk, dansk og engelsk”."
+        },
+        {
+          "da": "Lad eleverne interviewe hinanden med tre faste spørgsmål.",
+          "en": "Let students interview each other with three fixed questions.",
+          "id": "Minta siswa saling mewawancarai dengan tiga pertanyaan tetap."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Hold fokus på hele sætninger. Identitetstemaet er godt til at træne dansk ordstilling tidligt.",
+          "en": "Keep the focus on full sentences. The identity theme is good for early Danish word order practice.",
+          "id": "Fokuslah pada kalimat utuh. Tema identitas baik untuk melatih urutan kata bahasa Denmark sejak awal."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv fire linjer om dig selv på dansk.",
+          "en": "Write four lines about yourself in Danish.",
+          "id": "Tulis empat baris tentang diri Anda dalam bahasa Denmark."
+        },
+        {
+          "da": "Læs dialogen højt og byt roller.",
+          "en": "Read the dialogue aloud and switch roles.",
+          "id": "Baca dialog dengan suara keras dan berganti peran."
+        },
+        {
+          "da": "Lav en lille profil om en ven.",
+          "en": "Make a small profile about a friend.",
+          "id": "Buat profil kecil tentang seorang teman."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige hvor du kommer fra og hvor du bor?",
+          "en": "Can you say where you come from and where you live?",
+          "id": "Bisakah Anda mengatakan dari mana Anda berasal dan di mana Anda tinggal?"
+        },
+        {
+          "da": "Kan du nævne dine sprog i én sætning?",
+          "en": "Can you mention your languages in one sentence?",
+          "id": "Bisakah Anda menyebutkan bahasa-bahasa Anda dalam satu kalimat?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Dewi",
+      "source": "Saya dari Bandung, tetapi sekarang tinggal di Aarhus.",
+      "target": "Jeg kommer fra Bandung, men nu bor jeg i Aarhus."
+    },
+    {
+      "speaker": "Lasse",
+      "source": "Oh, menarik. Bahasa apa yang kamu gunakan?",
+      "target": "Nå, spændende. Hvilke sprog taler du?"
+    },
+    {
+      "speaker": "Dewi",
+      "source": "Saya taler bahasa Indonesia, engelsk, og lidt dansk.",
+      "target": "Jeg taler indonesisk, engelsk og lidt dansk."
+    },
+    {
+      "speaker": "Lasse",
+      "source": "Bagus! Saya bor i Odense.",
+      "target": "Fint! Jeg bor i Odense."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "saya berasal dari",
+      "target": "jeg kommer fra",
+      "note": {
+        "da": "Bruges til oprindelse eller hjemland.",
+        "en": "Used for origin or home country.",
+        "id": "Digunakan untuk asal atau negara asal."
+      }
+    },
+    {
+      "source": "saya tinggal di",
+      "target": "jeg bor i",
+      "note": {
+        "da": "Bruges til nuværende bopæl.",
+        "en": "Used for current place of residence.",
+        "id": "Digunakan untuk tempat tinggal saat ini."
+      }
+    },
+    {
+      "source": "bahasa",
+      "target": "sprog",
+      "note": {
+        "da": "Nyttigt når du fortæller hvad du taler.",
+        "en": "Useful when you tell what you speak.",
+        "id": "Berguna ketika Anda mengatakan bahasa apa yang Anda gunakan."
+      }
+    },
+    {
+      "source": "saya berbicara",
+      "target": "jeg taler",
+      "note": {
+        "da": "Det mest direkte mønster for sprog.",
+        "en": "The most direct pattern for language use.",
+        "id": "Pola paling langsung untuk bahasa."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Jeg kommer fra... / Jeg bor i... / Jeg taler...",
+      "explanation": {
+        "da": "Dansk identitetssprog bygges ofte med enkle subjekt-verbum-mønstre. “Jeg” kommer først, derefter verbet.",
+        "en": "Danish identity language is often built with simple subject-verb patterns. “Jeg” comes first, then the verb.",
+        "id": "Bahasa identitas dalam bahasa Denmark sering dibangun dengan pola subjek-kata kerja yang sederhana. “Jeg” muncul lebih dulu, lalu kata kerja."
+      },
+      "examples": [
+        {
+          "source": "Saya berasal dari Indonesia.",
+          "target": "Jeg kommer fra Indonesien."
+        },
+        {
+          "source": "Saya tinggal di Aalborg.",
+          "target": "Jeg bor i Aalborg."
+        },
+        {
+          "source": "Saya berbicara bahasa Indonesia dan sedikit bahasa Denmark.",
+          "target": "Jeg taler indonesisk og lidt dansk."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til tre personer og match land, by og sprog.",
+        "en": "Listen to three people and match country, city, and language.",
+        "id": "Dengarkan tiga orang dan cocokkan negara, kota, dan bahasa."
+      },
+      "answerShape": {
+        "da": "Et simpelt matchskema.",
+        "en": "A simple matching chart.",
+        "id": "Tabel pencocokan sederhana."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Fortæl kort hvem du er, hvor du kommer fra, og hvor du bor.",
+        "en": "Briefly say who you are, where you come from, and where you live.",
+        "id": "Ceritakan secara singkat siapa Anda, dari mana Anda berasal, dan di mana Anda tinggal."
+      },
+      "answerShape": {
+        "da": "Tre hele sætninger.",
+        "en": "Three full sentences.",
+        "id": "Tiga kalimat lengkap."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en profiltekst på 3-4 linjer om dig selv.",
+        "en": "Write a 3-4 line profile text about yourself.",
+        "id": "Tulis teks profil 3-4 baris tentang diri Anda."
+      },
+      "answerShape": {
+        "da": "En kort profil.",
+        "en": "A short profile.",
+        "id": "Profil singkat."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilken identitetsoplysning er vigtigst at kunne sige først på dansk?",
+        "en": "Which piece of identity information is most important to be able to say first in Danish?",
+        "id": "Informasi identitas mana yang paling penting untuk dapat dikatakan terlebih dahulu dalam bahasa Denmark?"
+      },
+      "answerShape": {
+        "da": "To korte sætninger.",
+        "en": "Two short sentences.",
+        "id": "Dua kalimat singkat."
+      }
+    }
+  ],
+  "media": []
+}

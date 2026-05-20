@@ -1,0 +1,298 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 3,
+  "slug": "lesson-03",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Kebangsaan dan Bahasa — Nationalitet og Sprog",
+    "en": "Kebangsaan dan Bahasa — Nationality and Language",
+    "id": "Kebangsaan dan Bahasa"
+  },
+  "summary": {
+    "da": "Lær at udtrykke nationalitet og de sprog, du taler. Lær navnene på relevante lande og nationaliteter samt strukturen for at sige 'Jeg er fra ...' og 'Jeg taler ...'.",
+    "en": "Learn to express nationality and the languages you speak. Learn the names of relevant countries and nationalities, and the structure for saying 'I am from ...' and 'I speak ...'.",
+    "id": "Belajar mengungkapkan kebangsaan dan bahasa yang Anda kuasai. Pelajari nama-nama negara dan kebangsaan yang relevan, serta struktur untuk mengatakan 'Saya dari ...' dan 'Saya berbicara ...'."
+  },
+  "objectives": [
+    {
+      "da": "Sige sin nationalitet med strukturen 'Saya orang [land].'",
+      "en": "State your nationality using the structure 'Saya orang [country].'",
+      "id": "Menyebutkan kebangsaan Anda dengan struktur 'Saya orang [negara].'"
+    },
+    {
+      "da": "Sige hvilke sprog du taler med 'Saya berbicara bahasa ...'",
+      "en": "Say which languages you speak using 'Saya berbicara bahasa ...'",
+      "id": "Menyebutkan bahasa yang Anda kuasai dengan 'Saya berbicara bahasa ...'"
+    },
+    {
+      "da": "Nævne mindst seks landes navne og tilhørende nationaliteter på indonesisk.",
+      "en": "Name at least six countries and their corresponding nationalities in Indonesian.",
+      "id": "Menyebutkan setidaknya enam nama negara dan kebangsaan terkait dalam bahasa Indonesia."
+    }
+  ],
+  "unit": {
+    "slug": "theme-02",
+    "order": 2,
+    "title": {
+      "da": "Tema 2: Identitet",
+      "en": "Theme 2: Identity",
+      "id": "Tema 2: Identitas"
+    },
+    "summary": {
+      "da": "Hvem er du? Personlige oplysninger og selvbeskrivelse.",
+      "en": "Who are you? Personal details and self-description.",
+      "id": "Siapa kamu? Informasi pribadi dan deskripsi diri."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis et verdenskort og peg på Indonesia, Denmark og andre lande som eleverne kender. Spørg: Hvad hedder dit land på indonesisk?",
+        "en": "Show a world map and point to Indonesia, Denmark, and other countries students know. Ask: What is your country called in Indonesian?",
+        "id": "Tunjukkan peta dunia dan tunjuk Indonesia, Denmark, dan negara-negara lain yang dikenal siswa. Tanyakan: Apa nama negaramu dalam bahasa Indonesia?"
+      },
+      "flow": [
+        {
+          "da": "Lær strukturen: Saya orang + [land-navn]. Bemærk: orang Indonesia = indonesisk person, ikke 'indonesisk' som adjektiv.",
+          "en": "Teach the structure: Saya orang + [country name]. Note: orang Indonesia = Indonesian person, not 'Indonesian' as an adjective.",
+          "id": "Ajarkan struktur: Saya orang + [nama negara]. Perhatikan: orang Indonesia = orang Indonesia, bukan 'Indonesia' sebagai kata sifat."
+        },
+        {
+          "da": "Præsenter bahasa + [land-navn] for sprog. Fx bahasa Denmark = det danske sprog.",
+          "en": "Introduce bahasa + [country name] for languages. E.g. bahasa Denmark = the Danish language.",
+          "id": "Perkenalkan bahasa + [nama negara] untuk bahasa. Misalnya bahasa Denmark = bahasa Denmark."
+        },
+        {
+          "da": "Lav en hurtig runde: Alle siger 'Saya orang ... dan saya berbicara bahasa ...' Ret udtale undervejs.",
+          "en": "Do a quick round: Everyone says 'Saya orang ... dan saya berbicara bahasa ...' Correct pronunciation along the way.",
+          "id": "Lakukan putaran cepat: Semua orang mengatakan 'Saya orang ... dan saya berbicara bahasa ...' Koreksi pelafalan di sepanjang jalan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Norge hedder Norwegia (ikke Norweiga). Sverige hedder Swedia. Påpeg at mange vestlige lande er genkendelige.",
+          "en": "Norway is Norwegia (not Norweiga). Sweden is Swedia. Point out that many Western countries are recognizable.",
+          "id": "Norwegia (bukan Norweiga). Swedia. Tunjukkan bahwa banyak negara Barat mudah dikenali."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv en komplet selvpræsentation: navn, nationalitet og de sprog du taler.",
+          "en": "Write a complete self-introduction: name, nationality, and the languages you speak.",
+          "id": "Tuliskan perkenalan diri yang lengkap: nama, kebangsaan, dan bahasa yang Anda kuasai."
+        },
+        {
+          "da": "Lær navnene på fem lande, der er relevante for din baggrund eller interesser.",
+          "en": "Learn the names of five countries that are relevant to your background or interests.",
+          "id": "Pelajari nama lima negara yang relevan dengan latar belakang atau minat Anda."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige 'Jeg er dansker og taler dansk og indonesisk' på indonesisk uden at kigge?",
+          "en": "Can you say 'I am Danish and speak Danish and Indonesian' in Indonesian without looking?",
+          "id": "Dapatkah Anda mengatakan 'Saya orang Denmark dan berbicara bahasa Denmark dan bahasa Indonesia' tanpa melihat?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Bu Sari (Lærer)",
+      "source": "Vi er mange nationaliteter i klassen i dag. Hvem vil fortælle os, hvorfra de kommer?",
+      "target": "Kita ada banyak kebangsaan di kelas hari ini. Siapa yang mau cerita asal mereka?"
+    },
+    {
+      "speaker": "Mads",
+      "source": "Saya orang Denmark. Saya berbicara bahasa Denmark dan sedikit bahasa Indonesia.",
+      "target": "Saya orang Denmark. Saya berbicara bahasa Denmark dan sedikit bahasa Indonesia."
+    },
+    {
+      "speaker": "Hana",
+      "source": "Saya orang Jerman. Saya berbicara bahasa Jerman dan bahasa Inggris.",
+      "target": "Saya orang Jerman. Saya berbicara bahasa Jerman dan bahasa Inggris."
+    },
+    {
+      "speaker": "Bu Sari (Lærer)",
+      "source": "Bagus sekali! Og jeg er indonesisk. Saya orang Indonesia dari Yogyakarta.",
+      "target": "Bagus sekali! Dan saya orang Indonesia, dari Yogyakarta."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Bu Sari, tales der mange sprog i Indonesien?",
+      "target": "Bu Sari, apakah banyak bahasa yang digunakan di Indonesia?"
+    },
+    {
+      "speaker": "Bu Sari (Lærer)",
+      "source": "Ja! Over 700 lokale sprog. Men bahasa Indonesia er vores fælles nationalsprog.",
+      "target": "Ya! Lebih dari 700 bahasa daerah. Tapi bahasa Indonesia adalah bahasa nasional kita bersama."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Nationalitet",
+      "target": "Kebangsaan",
+      "note": {
+        "da": "Kebangsaan fra kata bangsa = folk/nation.",
+        "en": "Kebangsaan from kata bangsa = people/nation.",
+        "id": "Kebangsaan dari kata bangsa = bangsa/rakyat."
+      }
+    },
+    {
+      "source": "Dansker / Danmark",
+      "target": "Orang Denmark / Denmark",
+      "note": {
+        "da": "Landet er uændret: Denmark. Nationalitet: orang Denmark (bogstaveligt: person fra Danmark).",
+        "en": "The country is unchanged: Denmark. Nationality: orang Denmark (literally: person from Denmark).",
+        "id": "Negaranya tidak berubah: Denmark. Kebangsaan: orang Denmark (harfiah: orang dari Denmark)."
+      }
+    },
+    {
+      "source": "Indonesia",
+      "target": "Indonesia / orang Indonesia",
+      "note": {
+        "da": "Landet og nationaliteten staves ens. Orang Indonesia = en indonesier.",
+        "en": "Country and nationality are spelled the same. Orang Indonesia = an Indonesian person.",
+        "id": "Negara dan kebangsaan dieja sama. Orang Indonesia = seorang warga Indonesia."
+      }
+    },
+    {
+      "source": "Sproget",
+      "target": "Bahasa",
+      "note": {
+        "da": "Bahasa betyder sprog. Bahasa Indonesia = det indonesiske sprog.",
+        "en": "Bahasa means language. Bahasa Indonesia = the Indonesian language.",
+        "id": "Bahasa berarti bahasa. Bahasa Indonesia = bahasa Indonesia."
+      }
+    },
+    {
+      "source": "At tale / at snakke",
+      "target": "Berbicara",
+      "note": {
+        "da": "Berbicara = tale/snakke generelt. Bicara = tale/snakke (basis). Ber- præfiks tilføjer 'gøre noget'.",
+        "en": "Berbicara = speak/talk in general. Bicara = speak/talk (base). Ber- prefix adds 'doing something'.",
+        "id": "Berbicara = berbicara secara umum. Bicara = berbicara (dasar). Awalan ber- menambahkan 'melakukan sesuatu'."
+      }
+    },
+    {
+      "source": "Sverige / svensk",
+      "target": "Swedia / orang Swedia",
+      "note": {
+        "da": "Sveriges indonesiske navn er Swedia.",
+        "en": "Sweden's Indonesian name is Swedia.",
+        "id": "Nama Indonesia untuk Swedia adalah Swedia."
+      }
+    },
+    {
+      "source": "England / engelsk",
+      "target": "Inggris / orang Inggris",
+      "note": {
+        "da": "Inggris dækker England, Storbritannien og bruges til engelsk som sprog.",
+        "en": "Inggris covers England, Britain, and is used for English as a language.",
+        "id": "Inggris mencakup Inggris, Britania, dan digunakan untuk bahasa Inggris."
+      }
+    },
+    {
+      "source": "Lidt / en smule",
+      "target": "Sedikit",
+      "note": {
+        "da": "Saya berbicara bahasa Indonesia sedikit = Jeg taler lidt indonesisk.",
+        "en": "Saya berbicara bahasa Indonesia sedikit = I speak a little Indonesian.",
+        "id": "Saya berbicara bahasa Indonesia sedikit = Saya berbicara sedikit bahasa Indonesia."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya orang [Landsnavn].",
+      "explanation": {
+        "da": "Orang = person/menneske. Saya orang Denmark = Jeg er en person fra Danmark. Der er intet verbum 'at være' i denne konstruktion.",
+        "en": "Orang = person/human. Saya orang Denmark = I am a person from Denmark. There is no verb 'to be' in this construction.",
+        "id": "Orang = orang/manusia. Saya orang Denmark = Saya adalah orang dari Denmark. Tidak ada kata kerja 'adalah' dalam konstruksi ini."
+      },
+      "examples": [
+        { "source": "Jeg er dansker.", "target": "Saya orang Denmark." },
+        { "source": "Hun er indonesisk.", "target": "Dia orang Indonesia." },
+        { "source": "De er norske.", "target": "Mereka orang Norwegia." }
+      ]
+    },
+    {
+      "pattern": "Saya berbicara bahasa [Sprog].",
+      "explanation": {
+        "da": "Bahasa præcederer altid sprognavnet. Berbicara = tale. Saya bisa berbicara = jeg kan tale. Bisa tilføjer 'kan/evner'.",
+        "en": "Bahasa always precedes the language name. Berbicara = speak. Saya bisa berbicara = I can speak. Bisa adds 'can/ability'.",
+        "id": "Bahasa selalu mendahului nama bahasa. Berbicara = berbicara. Saya bisa berbicara = saya bisa berbicara. Bisa menambahkan 'bisa/kemampuan'."
+      },
+      "examples": [
+        { "source": "Jeg taler dansk.", "target": "Saya berbicara bahasa Denmark." },
+        { "source": "Kan du tale indonesisk?", "target": "Bisakah kamu berbicara bahasa Indonesia?" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Præsenter din nationalitet og de sprog du taler: 'Saya orang ... Saya berbicara bahasa ...'",
+        "en": "Introduce your nationality and the languages you speak: 'Saya orang ... Saya berbicara bahasa ...'",
+        "id": "Perkenalkan kebangsaan Anda dan bahasa yang Anda kuasai: 'Saya orang ... Saya berbicara bahasa ...'"
+      },
+      "answerShape": {
+        "da": "Saya orang [nationalitet]. Saya berbicara bahasa [sprog].",
+        "en": "Saya orang [nationality]. Saya berbicara bahasa [language].",
+        "id": "Saya orang [kebangsaan]. Saya berbicara bahasa [bahasa]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Oversæt: 'Min ven er svensk og taler svensk og engelsk.'",
+        "en": "Translate: 'My friend is Swedish and speaks Swedish and English.'",
+        "id": "Terjemahkan: 'Teman saya orang Swedia dan berbicara bahasa Swedia dan bahasa Inggris.'"
+      },
+      "answerShape": {
+        "da": "Teman saya orang Swedia dan berbicara bahasa Swedia dan bahasa Inggris.",
+        "en": "Teman saya orang Swedia dan berbicara bahasa Swedia dan bahasa Inggris.",
+        "id": "Teman saya orang Swedia dan berbicara bahasa Swedia dan bahasa Inggris."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til præsentationen og skriv ned: Hvilken nationalitet er personen, og hvilke sprog taler de?",
+        "en": "Listen to the presentation and write down: What nationality is the person, and what languages do they speak?",
+        "id": "Dengarkan perkenalan dan tuliskan: Apa kebangsaan orang tersebut, dan bahasa apa yang mereka kuasai?"
+      },
+      "answerShape": {
+        "da": "Nationalitet: ... Sprog: ...",
+        "en": "Nationality: ... Languages: ...",
+        "id": "Kebangsaan: ... Bahasa: ..."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme02-lesson03-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Nationaliteter og Sprog i Indonesien",
+        "en": "Nationalities and Languages in Indonesia",
+        "id": "Kebangsaan dan Bahasa di Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

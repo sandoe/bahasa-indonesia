@@ -1,0 +1,334 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-2",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 45,
+  "title": {
+    "da": "Planlæg en rejse",
+    "en": "Planning a trip",
+    "id": "Merencanakan Perjalanan"
+  },
+  "summary": {
+    "da": "Lær at planlægge en tur med fokus på destination, varighed, transport og overnatning.",
+    "en": "Learn to plan a trip focusing on destination, duration, transport, and accommodation.",
+    "id": "Belajar merencanakan perjalanan dengan fokus pada tujuan, durasi, transportasi, dan akomodasi."
+  },
+  "objectives": [
+    {
+      "da": "Spørge og svare om rejseplaner ved hjælp af 'mau' og 'rencana'.",
+      "en": "Ask and answer about travel plans using 'mau' and 'rencana'.",
+      "id": "Bertanya dan menjawab tentang rencana perjalanan menggunakan 'mau' dan 'rencana'."
+    },
+    {
+      "da": "Diskutere destination, rejsevarighed, transportmiddel og overnatningssted.",
+      "en": "Discuss destination, trip duration, mode of transport, and place of stay.",
+      "id": "Mendiskusikan tujuan, lamanya perjalanan, alat transportasi, dan tempat menginap."
+    },
+    {
+      "da": "Bruge rejserelateret ordforråd flydende i samtale.",
+      "en": "Use travel-related vocabulary fluently in conversation.",
+      "id": "Menggunakan kosakata terkait perjalanan dengan lancar dalam percakapan."
+    }
+  ],
+  "unit": {
+    "slug": "unit-05",
+    "order": 5,
+    "title": {
+      "da": "Rejser og Turisme",
+      "en": "Travel and Tourism",
+      "id": "Perjalanan dan Wisata"
+    },
+    "summary": {
+      "da": "Planlæg og gennemfør rejser i Indonesia med sproget som kompas.",
+      "en": "Plan and complete trips in Indonesia with language as your compass.",
+      "id": "Rencanakan dan laksanakan perjalanan di Indonesia dengan bahasa sebagai kompas."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg eleverne: 'Har du nogensinde rejst til et sted i Asien? Hvad var det første du skulle planlægge?' Skriv 'mau ke mana?' på tavlen og introducer emnet.",
+        "en": "Ask students: 'Have you ever travelled to a place in Asia? What was the first thing you had to plan?' Write 'mau ke mana?' on the board and introduce the topic.",
+        "id": "Tanya siswa: 'Pernahkah kamu pergi ke suatu tempat di Asia? Apa yang pertama kali harus kamu rencanakan?' Tuliskan 'mau ke mana?' di papan tulis dan perkenalkan topik."
+      },
+      "flow": [
+        {
+          "da": "Præsenter de fire planlægningselementer (destination, varighed, transport, overnatning) med billeder af Bali.",
+          "en": "Present the four planning elements (destination, duration, transport, accommodation) with images of Bali.",
+          "id": "Perkenalkan empat elemen perencanaan (tujuan, durasi, transportasi, akomodasi) dengan gambar-gambar Bali."
+        },
+        {
+          "da": "Introducer grammatik: 'mau + verb' og 'rencana + verb'. Giv eksempler og lad eleverne danne egne sætninger.",
+          "en": "Introduce grammar: 'mau + verb' and 'rencana + verb'. Give examples and have students form their own sentences.",
+          "id": "Perkenalkan tata bahasa: 'mau + kata kerja' dan 'rencana + kata kerja'. Berikan contoh dan minta siswa membuat kalimat mereka sendiri."
+        },
+        {
+          "da": "Læs dialogen højt med rollespil. Eleverne gentager og øver med en partner.",
+          "en": "Read the dialogue aloud with role-play. Students repeat and practise with a partner.",
+          "id": "Bacakan dialog dengan permainan peran. Siswa mengulangi dan berlatih bersama pasangan."
+        },
+        {
+          "da": "Aktivitet: Par-planlægning. Eleverne vælger en destination i Indonesien og planlægger 4 elementer på indonesisk.",
+          "en": "Activity: Pair planning. Students choose a destination in Indonesia and plan 4 elements in Indonesian.",
+          "id": "Aktivitas: Perencanaan berpasangan. Siswa memilih destinasi di Indonesia dan merencanakan 4 elemen dalam bahasa Indonesia."
+        },
+        {
+          "da": "Afslutning: Hver par præsenterer deres rejseplan kortfattet for klassen.",
+          "en": "Closing: Each pair briefly presents their travel plan to the class.",
+          "id": "Penutup: Setiap pasangan mempresentasikan rencana perjalanan mereka secara singkat kepada kelas."
+        }
+      ],
+      "notes": [
+        {
+          "da": "'Mau' kan betyde både 'vil' og 'skal til at' alt efter kontekst. Gør opmærksom på denne dobbelte funktion.",
+          "en": "'Mau' can mean both 'want to' and 'going to' depending on context. Draw attention to this dual function.",
+          "id": "'Mau' bisa berarti 'ingin' dan 'akan' tergantung konteks. Perhatikan fungsi ganda ini."
+        },
+        {
+          "da": "Eleverne kan have svært ved 'naik apa?' — forklar at 'naik' bruges til alle transportmidler ('naik pesawat', 'naik bus', 'naik kapal').",
+          "en": "Students may struggle with 'naik apa?' — explain that 'naik' is used for all modes of transport ('naik pesawat', 'naik bus', 'naik kapal').",
+          "id": "Siswa mungkin kesulitan dengan 'naik apa?' — jelaskan bahwa 'naik' digunakan untuk semua moda transportasi ('naik pesawat', 'naik bus', 'naik kapal')."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lyt til dialogen og læs ordlisten. Skriv de fire planlægningsspørgsmål ned på dansk og indonesisk.",
+          "en": "Listen to the dialogue and read the vocabulary list. Write down the four planning questions in Danish and Indonesian.",
+          "id": "Dengarkan dialog dan baca daftar kosakata. Tuliskan empat pertanyaan perencanaan dalam bahasa Denmark dan Indonesia."
+        },
+        {
+          "da": "Studer grammatikmønstrene. Lav fem sætninger med 'mau' og fem med 'rencana' om din drømmetur til Indonesien.",
+          "en": "Study the grammar patterns. Make five sentences with 'mau' and five with 'rencana' about your dream trip to Indonesia.",
+          "id": "Pelajari pola tata bahasa. Buat lima kalimat dengan 'mau' dan lima dengan 'rencana' tentang perjalanan impianmu ke Indonesia."
+        },
+        {
+          "da": "Udfør aktiviteterne. Forestil dig at du planlægger en tur med en ven og skriv en kort plan på 6-8 sætninger.",
+          "en": "Complete the activities. Imagine you are planning a trip with a friend and write a short plan of 6-8 sentences.",
+          "id": "Selesaikan aktivitas. Bayangkan kamu merencanakan perjalanan bersama teman dan tuliskan rencana singkat 6-8 kalimat."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du stille og besvare de fire planlægningsspørgsmål på indonesisk uden at se noter?",
+          "en": "Can you ask and answer the four planning questions in Indonesian without looking at notes?",
+          "id": "Bisakah kamu mengajukan dan menjawab empat pertanyaan perencanaan dalam bahasa Indonesia tanpa melihat catatan?"
+        },
+        {
+          "da": "Kan du bruge 'mau + verb' og 'rencana + verb' korrekt i to separate sætninger?",
+          "en": "Can you use 'mau + verb' and 'rencana + verb' correctly in two separate sentences?",
+          "id": "Bisakah kamu menggunakan 'mau + kata kerja' dan 'rencana + kata kerja' dengan benar dalam dua kalimat terpisah?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Siti",
+      "source": "Hei Budi, liburan semester depan kita mau ke mana?",
+      "target": "Hej Budi, i næste semester — hvor vil vi hen i ferien?"
+    },
+    {
+      "speaker": "Budi",
+      "source": "Aku rencana pergi ke Bali. Kamu mau ikut?",
+      "target": "Jeg planlægger at tage til Bali. Vil du med?"
+    },
+    {
+      "speaker": "Siti",
+      "source": "Mau banget! Kita mau pergi berapa lama?",
+      "target": "Ja, meget gerne! Hvor lang tid vil vi rejse?"
+    },
+    {
+      "speaker": "Budi",
+      "source": "Rencana kita pergi selama satu minggu. Kita naik pesawat dari Jakarta.",
+      "target": "Vi planlægger at tage afsted i en uge. Vi flyver fra Jakarta."
+    },
+    {
+      "speaker": "Siti",
+      "source": "Bagus. Kita mau menginap di mana? Di hotel atau villa?",
+      "target": "Fint. Hvor vil vi overnatte? På hotel eller villa?"
+    },
+    {
+      "speaker": "Budi",
+      "source": "Aku rencana memesan villa dekat pantai. Lebih murah dan lebih nyaman.",
+      "target": "Jeg planlægger at booke en villa tæt på stranden. Det er billigere og mere behageligt."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "pergi ke",
+      "target": "at tage til / at rejse til",
+      "note": {
+        "da": "'Pergi ke' bruges for at angive destination for en rejse.",
+        "en": "'Pergi ke' is used to indicate the destination of a journey.",
+        "id": "'Pergi ke' digunakan untuk menunjukkan tujuan perjalanan."
+      }
+    },
+    {
+      "source": "liburan",
+      "target": "ferie / fri",
+      "note": {
+        "da": "Bruges om ferieperioder og fridage generelt.",
+        "en": "Used for holiday periods and days off in general.",
+        "id": "Digunakan untuk periode liburan dan hari libur pada umumnya."
+      }
+    },
+    {
+      "source": "berapa lama",
+      "target": "hvor lang tid",
+      "note": {
+        "da": "Spørgsmål om varighed. 'Berapa lama kamu di Bali?' = Hvor lang tid er du i Bali?",
+        "en": "Question about duration. 'Berapa lama kamu di Bali?' = How long are you in Bali?",
+        "id": "Pertanyaan tentang durasi. 'Berapa lama kamu di Bali?' = Berapa lama kamu di Bali?"
+      }
+    },
+    {
+      "source": "naik pesawat",
+      "target": "flyve / tage fly",
+      "note": {
+        "da": "'Naik' bruges med alle transportmidler: naik bus, naik kapal, naik kereta.",
+        "en": "'Naik' is used with all modes of transport: naik bus, naik kapal, naik kereta.",
+        "id": "'Naik' digunakan dengan semua moda transportasi: naik bus, naik kapal, naik kereta."
+      }
+    },
+    {
+      "source": "menginap",
+      "target": "overnatte / bo (midlertidigt)",
+      "note": {
+        "da": "Specifikt om midlertidig overnatning under rejse.",
+        "en": "Specifically about temporary overnight stays while travelling.",
+        "id": "Khusus tentang menginap sementara saat bepergian."
+      }
+    },
+    {
+      "source": "memesan",
+      "target": "at bestille / at reservere",
+      "note": {
+        "da": "Bruges til bestilling af hotel, billet, bord osv.",
+        "en": "Used for booking hotels, tickets, tables etc.",
+        "id": "Digunakan untuk memesan hotel, tiket, meja, dan sebagainya."
+      }
+    },
+    {
+      "source": "dekat pantai",
+      "target": "tæt på stranden",
+      "note": {
+        "da": "'Dekat' = tæt på. 'Dekat stasiun' = tæt på stationen.",
+        "en": "'Dekat' = close to. 'Dekat stasiun' = close to the station.",
+        "id": "'Dekat' = dekat dengan. 'Dekat stasiun' = dekat dengan stasiun."
+      }
+    },
+    {
+      "source": "nyaman",
+      "target": "behagelig / komfortabel",
+      "note": {
+        "da": "Meget bruges om overnatningssteder, sæder og omgivelser.",
+        "en": "Widely used about accommodation, seating, and surroundings.",
+        "id": "Sering digunakan untuk tempat menginap, tempat duduk, dan lingkungan sekitar."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "mau + verb",
+      "explanation": {
+        "da": "'Mau' placeres foran verbet og udtrykker ønske om at gøre noget ('vil') eller hensigt ('skal til at'). Det svarer til 'vil' og 'skal' i dansk. Eksempel: 'Saya mau pergi' = Jeg vil tage afsted.",
+        "en": "'Mau' is placed before the verb and expresses desire ('want to') or near-future intention ('going to'). It functions like both 'want to' and 'will' in English. Example: 'Saya mau pergi' = I want to/am going to go.",
+        "id": "'Mau' ditempatkan sebelum kata kerja dan menyatakan keinginan ('ingin') atau niat dekat masa depan ('akan'). Contoh: 'Saya mau pergi' = Saya ingin/akan pergi."
+      },
+      "examples": [
+        {
+          "source": "Kita mau ke mana tahun depan?",
+          "target": "Hvor vil vi hen næste år?"
+        },
+        {
+          "source": "Dia mau memesan tiket pesawat hari ini.",
+          "target": "Han/hun vil bestille en flybillet i dag."
+        }
+      ]
+    },
+    {
+      "pattern": "rencana + verb",
+      "explanation": {
+        "da": "'Rencana' (plan) bruges foran et verbum for at udtrykke en bevidst, forberedt plan. Det er mere formel og konkret end 'mau'. Eksempel: 'Saya rencana berangkat Senin' = Jeg planlægger at tage afsted mandag.",
+        "en": "'Rencana' (plan) is used before a verb to express a deliberate, prepared plan. It is more formal and concrete than 'mau'. Example: 'Saya rencana berangkat Senin' = I plan to leave on Monday.",
+        "id": "'Rencana' digunakan sebelum kata kerja untuk mengungkapkan rencana yang disengaja dan terencana. Lebih formal dan konkret daripada 'mau'. Contoh: 'Saya rencana berangkat Senin' = Saya berencana berangkat hari Senin."
+      },
+      "examples": [
+        {
+          "source": "Kami rencana menginap di villa selama lima hari.",
+          "target": "Vi planlægger at bo i en villa i fem dage."
+        },
+        {
+          "source": "Dia rencana naik kereta ke Yogyakarta.",
+          "target": "Han/hun planlægger at tage toget til Yogyakarta."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Forestil dig at du planlægger en tur til Lombok med en ven. Stil og besvar de fire planlægningsspørgsmål: destination, varighed, transport og overnatning.",
+        "en": "Imagine you are planning a trip to Lombok with a friend. Ask and answer the four planning questions: destination, duration, transport, and accommodation.",
+        "id": "Bayangkan kamu merencanakan perjalanan ke Lombok bersama seorang teman. Ajukan dan jawab empat pertanyaan perencanaan: tujuan, durasi, transportasi, dan akomodasi."
+      },
+      "answerShape": {
+        "da": "En samtale med mindst fire spørgsmål og svar, der bruger 'mau' og 'rencana' naturligt.",
+        "en": "A conversation with at least four questions and answers, using 'mau' and 'rencana' naturally.",
+        "id": "Sebuah percakapan dengan setidaknya empat pertanyaan dan jawaban, menggunakan 'mau' dan 'rencana' secara alami."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en rejseplan på 5-7 sætninger for en uges tur til Yogyakarta. Brug 'mau' mindst to gange og 'rencana' mindst to gange.",
+        "en": "Write a travel plan of 5-7 sentences for a week-long trip to Yogyakarta. Use 'mau' at least twice and 'rencana' at least twice.",
+        "id": "Tuliskan rencana perjalanan 5-7 kalimat untuk perjalanan satu minggu ke Yogyakarta. Gunakan 'mau' setidaknya dua kali dan 'rencana' setidaknya dua kali."
+      },
+      "answerShape": {
+        "da": "Et sammenhængende afsnit med korrekt brug af 'mau + verb' og 'rencana + verb', der dækker alle fire planlægningselementer.",
+        "en": "A coherent paragraph with correct use of 'mau + verb' and 'rencana + verb', covering all four planning elements.",
+        "id": "Paragraf yang koheren dengan penggunaan 'mau + kata kerja' dan 'rencana + kata kerja' yang benar, mencakup keempat elemen perencanaan."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvad er forskellen på at bruge 'mau' og 'rencana' i indonesisk? Hvornår ville du vælge det ene frem for det andet? Skriv 3-4 sætninger på dansk eller indonesisk.",
+        "en": "What is the difference between using 'mau' and 'rencana' in Indonesian? When would you choose one over the other? Write 3-4 sentences in Danish or Indonesian.",
+        "id": "Apa perbedaan antara menggunakan 'mau' dan 'rencana' dalam bahasa Indonesia? Kapan kamu akan memilih salah satunya? Tulis 3-4 kalimat dalam bahasa Denmark atau Indonesia."
+      },
+      "answerShape": {
+        "da": "En kort refleksion der forklarer nuancen med mindst ét eksempel for hvert mønster.",
+        "en": "A brief reflection explaining the nuance with at least one example for each pattern.",
+        "id": "Refleksi singkat yang menjelaskan nuansa dengan setidaknya satu contoh untuk setiap pola."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-unit05-lesson01-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "To venner planlægger en tur til Bali",
+        "en": "Two friends planning a trip to Bali",
+        "id": "Dua teman merencanakan perjalanan ke Bali"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

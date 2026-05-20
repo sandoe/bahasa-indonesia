@@ -1,0 +1,305 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 3,
+  "slug": "lesson-03",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Hari dalam Seminggu — Ugedage",
+    "en": "Hari dalam Seminggu — Days of the Week",
+    "id": "Hari dalam Seminggu"
+  },
+  "summary": {
+    "da": "Lær de syv ugedage på indonesisk og brug dem i mødeplanlægning med udtrykkene 'hari [dag]' og 'pada hari [dag]'.",
+    "en": "Learn the seven days of the week in Indonesian and use them in meeting scheduling with the expressions 'hari [day]' and 'pada hari [day]'.",
+    "id": "Pelajari tujuh hari dalam seminggu dalam bahasa Indonesia dan gunakan dalam penjadwalan pertemuan."
+  },
+  "objectives": [
+    {
+      "da": "Navngive alle syv ugedage på indonesisk i rækkefølge",
+      "en": "Name all seven days of the week in Indonesian in order",
+      "id": "Menyebutkan ketujuh hari dalam seminggu dalam bahasa Indonesia secara berurutan"
+    },
+    {
+      "da": "Skelne mellem 'hari Senin' (uspecifik) og 'pada hari Senin' (specifik/tilbagevendende)",
+      "en": "Distinguish between 'hari Senin' (unspecific) and 'pada hari Senin' (specific/recurring)",
+      "id": "Membedakan 'hari Senin' dan 'pada hari Senin'"
+    },
+    {
+      "da": "Planlægge et møde ved hjælp af ugedage og klokkeslæt",
+      "en": "Schedule a meeting using days of the week and clock times",
+      "id": "Menjadwalkan pertemuan menggunakan hari dan waktu"
+    }
+  ],
+  "unit": {
+    "slug": "theme-06",
+    "order": 6,
+    "title": {
+      "da": "Tema 6: Tid & Dato",
+      "en": "Theme 6: Time & Date",
+      "id": "Tema 6: Waktu & Tanggal"
+    },
+    "summary": {
+      "da": "Klokkeslæt, ugedage, måneder og datoer.",
+      "en": "Clock time, days, months, and dates.",
+      "id": "Waktu, hari, bulan, dan tanggal."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg klassen, hvilken dag det er i dag på dansk, og skriv det på tavlen. Introducer derefter den indonesiske ækvivalent og vis hele ugen.",
+        "en": "Ask the class what day it is today in Danish and write it on the board. Then introduce the Indonesian equivalent and display the full week.",
+        "id": "Tanyakan kepada kelas hari apa hari ini dalam bahasa Denmark dan tuliskan di papan. Lalu perkenalkan padanannya dalam bahasa Indonesia dan tampilkan seluruh minggu."
+      },
+      "flow": [
+        {
+          "da": "Introducer alle syv ugedage med udtale. Fremhæv, at Minggu (søndag) også er ordet for 'uge'.",
+          "en": "Introduce all seven days of the week with pronunciation. Highlight that Minggu (Sunday) is also the word for 'week'.",
+          "id": "Perkenalkan ketujuh hari dengan pengucapan. Soroti bahwa Minggu (Minggu) juga berarti 'minggu/pekan'."
+        },
+        {
+          "da": "Forklar forskellen: 'hari Senin' = mandag (generelt); 'pada hari Senin' = på mandag (specifikt/tilbagevendende).",
+          "en": "Explain the difference: 'hari Senin' = Monday (general); 'pada hari Senin' = on Monday (specific/recurring).",
+          "id": "Jelaskan perbedaan: 'hari Senin' = Senin (umum); 'pada hari Senin' = pada hari Senin (spesifik/berulang)."
+        },
+        {
+          "da": "Par-aktivitet: planlæg et ugeprogram med dialogscenarier — hvornår mødes I?",
+          "en": "Pair activity: plan a weekly schedule using dialogue scenarios — when will you meet?",
+          "id": "Aktivitas berpasangan: rencanakan jadwal mingguan menggunakan skenario dialog — kapan kalian bertemu?"
+        }
+      ],
+      "notes": [
+        {
+          "da": "Minggu betyder både 'søndag' og 'uge'. Sammenhængen afgør betydningen. Akhir minggu / akhir pekan = weekend.",
+          "en": "Minggu means both 'Sunday' and 'week'. Context determines the meaning. Akhir minggu / akhir pekan = weekend.",
+          "id": "Minggu berarti 'Minggu' (hari) dan 'minggu' (waktu). Konteks menentukan artinya. Akhir minggu / akhir pekan = akhir pekan."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Memorér rækkefølgen: Senin, Selasa, Rabu, Kamis, Jumat, Sabtu, Minggu. Øv ved at synge eller sige dem rytmisk.",
+          "en": "Memorise the order: Senin, Selasa, Rabu, Kamis, Jumat, Sabtu, Minggu. Practise by saying them rhythmically.",
+          "id": "Hafal urutannya: Senin, Selasa, Rabu, Kamis, Jumat, Sabtu, Minggu. Latih dengan mengucapkan secara berirama."
+        },
+        {
+          "da": "Lav din personlige ugeplan på indonesisk: skriv en aktivitet for hver dag med 'pada hari...'.",
+          "en": "Create your personal weekly schedule in Indonesian: write one activity for each day using 'pada hari...'.",
+          "id": "Buat jadwal mingguan pribadi dalam bahasa Indonesia: tulis satu aktivitas untuk setiap hari menggunakan 'pada hari...'."
+        },
+        {
+          "da": "Lyt til dialogen og notér, hvilke dage der nævnes, og hvornår mødet planlægges.",
+          "en": "Listen to the dialogue and note which days are mentioned and when the meeting is scheduled.",
+          "id": "Dengarkan dialog dan catat hari-hari yang disebutkan serta kapan pertemuan dijadwalkan."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Sig alle syv ugedage uden at se på dine noter.",
+          "en": "Say all seven days of the week without looking at your notes.",
+          "id": "Sebutkan ketujuh hari dalam seminggu tanpa melihat catatan."
+        },
+        {
+          "da": "Hvad er forskellen på 'hari Rabu' og 'pada hari Rabu'? Giv et eksempel på hver.",
+          "en": "What is the difference between 'hari Rabu' and 'pada hari Rabu'? Give an example of each.",
+          "id": "Apa perbedaan antara 'hari Rabu' dan 'pada hari Rabu'? Berikan contoh masing-masing."
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Sari",
+      "source": "Halo, Pak Hendra. Kita bisa rapat kapan?",
+      "target": "Hej, hr. Hendra. Hvornår kan vi holde møde?"
+    },
+    {
+      "speaker": "Hendra",
+      "source": "Bagaimana kalau hari Rabu atau hari Kamis?",
+      "target": "Hvad med onsdag eller torsdag?"
+    },
+    {
+      "speaker": "Sari",
+      "source": "Hari Rabu saya ada rapat lain. Hari Kamis bisa.",
+      "target": "Onsdag har jeg et andet møde. Torsdag kan jeg."
+    },
+    {
+      "speaker": "Hendra",
+      "source": "Baik. Pada hari Kamis, jam berapa?",
+      "target": "Godt. På torsdag, hvad tid?"
+    },
+    {
+      "speaker": "Sari",
+      "source": "Jam sepuluh pagi, bagaimana?",
+      "target": "Klokken ti om morgenen, hvad synes du?"
+    },
+    {
+      "speaker": "Hendra",
+      "source": "Jam sepuluh pagi pada hari Kamis. Oke, kita ketemu di ruang rapat.",
+      "target": "Klokken ti om morgenen på torsdag. OK, vi mødes i mødelokalet."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Senin",
+      "target": "mandag / Monday",
+      "note": {
+        "da": "Afledt af arabisk 'ithnayn' (to); anden dag",
+        "en": "Derived from Arabic 'ithnayn' (two); second day",
+        "id": "Berasal dari bahasa Arab 'ithnayn' (dua); hari kedua"
+      }
+    },
+    {
+      "source": "Selasa",
+      "target": "tirsdag / Tuesday",
+      "note": {
+        "da": "Afledt af arabisk 'tsalaatha' (tre)",
+        "en": "Derived from Arabic 'tsalaatha' (three)",
+        "id": "Berasal dari bahasa Arab 'tsalaatha' (tiga)"
+      }
+    },
+    {
+      "source": "Rabu",
+      "target": "onsdag / Wednesday",
+      "note": {
+        "da": "Afledt af arabisk 'arba'a' (fire)",
+        "en": "Derived from Arabic 'arba'a' (four)",
+        "id": "Berasal dari bahasa Arab 'arba'a' (empat)"
+      }
+    },
+    {
+      "source": "Kamis",
+      "target": "torsdag / Thursday",
+      "note": {
+        "da": "Afledt af arabisk 'khamsa' (fem)",
+        "en": "Derived from Arabic 'khamsa' (five)",
+        "id": "Berasal dari bahasa Arab 'khamsa' (lima)"
+      }
+    },
+    {
+      "source": "Jumat",
+      "target": "fredag / Friday",
+      "note": {
+        "da": "Islamisk bønnedag; mange muslimske indonesere holder frokostpause til bøn",
+        "en": "Islamic prayer day; many Muslim Indonesians take a midday prayer break",
+        "id": "Hari Jumat adalah hari salat Jumat; banyak muslim Indonesia beribadah di siang hari"
+      }
+    },
+    {
+      "source": "Sabtu",
+      "target": "lørdag / Saturday",
+      "note": {
+        "da": "Afledt af 'Sabbat' via arabisk; sammenlign med engelsk 'Saturday'",
+        "en": "Derived from 'Sabbath' via Arabic; compare English 'Saturday'",
+        "id": "Berasal dari kata 'Sabat' melalui bahasa Arab"
+      }
+    },
+    {
+      "source": "Minggu",
+      "target": "søndag / Sunday — og 'uge' / and 'week'",
+      "note": {
+        "da": "Dobbelt betydning: 'Minggu ini' = denne uge; 'hari Minggu' = søndag",
+        "en": "Double meaning: 'Minggu ini' = this week; 'hari Minggu' = Sunday",
+        "id": "Dua arti: 'Minggu ini' = minggu ini; 'hari Minggu' = hari Minggu"
+      }
+    },
+    {
+      "source": "pada hari",
+      "target": "på (ugedag) / on (day of week)",
+      "note": {
+        "da": "Bruges til at angive en specifik dag: 'pada hari Senin' = på mandag",
+        "en": "Used to specify a particular day: 'pada hari Senin' = on Monday",
+        "id": "Digunakan untuk menunjukkan hari tertentu: 'pada hari Senin' = pada hari Senin"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "hari [dag] vs. pada hari [dag]",
+      "explanation": {
+        "da": "'Hari [dag]' refererer til dagen generelt (i dag er mandag). 'Pada hari [dag]' specificerer hvornår noget sker (på mandag holder vi møde). 'Pada' svarer til dansk 'på' som tidsmarkør.",
+        "en": "'Hari [day]' refers to the day in general (today is Monday). 'Pada hari [day]' specifies when something happens (on Monday we have a meeting). 'Pada' corresponds to 'on' as a time marker.",
+        "id": "'Hari [hari]' mengacu pada hari secara umum. 'Pada hari [hari]' menentukan kapan sesuatu terjadi. 'Pada' berfungsi sebagai penanda waktu."
+      },
+      "examples": [
+        {
+          "source": "Hari ini hari Selasa.",
+          "target": "I dag er det tirsdag. / Today is Tuesday."
+        },
+        {
+          "source": "Kita rapat pada hari Kamis.",
+          "target": "Vi holder møde på torsdag. / We have a meeting on Thursday."
+        },
+        {
+          "source": "Pada hari Jumat, saya tidak kerja.",
+          "target": "På fredag arbejder jeg ikke. / On Friday, I don't work."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig, hvad du gør på tre forskellige dage i denne uge. Brug 'pada hari...' for hver.",
+        "en": "Say what you do on three different days this week. Use 'pada hari...' for each.",
+        "id": "Ceritakan apa yang kamu lakukan pada tiga hari berbeda minggu ini. Gunakan 'pada hari...' untuk masing-masing."
+      },
+      "answerShape": {
+        "da": "Pada hari [dag] saya [aktivitet].",
+        "en": "Pada hari [day] saya [activity].",
+        "id": "Pada hari [hari] saya [aktivitas]."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen og skriv ned: Hvilken dag og hvilken tid er mødet planlagt til?",
+        "en": "Listen to the dialogue and write down: Which day and time is the meeting scheduled?",
+        "id": "Dengarkan dialog dan tuliskan: Hari apa dan jam berapa pertemuan dijadwalkan?"
+      },
+      "answerShape": {
+        "da": "Hari Kamis, jam sepuluh pagi.",
+        "en": "Hari Kamis, jam sepuluh pagi.",
+        "id": "Hari Kamis, jam sepuluh pagi."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv en kort SMS på indonesisk, hvor du foreslår et mødetidspunkt til en kollega. Brug dag + klokkeslæt.",
+        "en": "Write a short text message in Indonesian suggesting a meeting time to a colleague. Use day + clock time.",
+        "id": "Tulis pesan singkat dalam bahasa Indonesia yang menyarankan waktu pertemuan kepada rekan kerja. Gunakan hari + waktu."
+      },
+      "answerShape": {
+        "da": "Bagaimana kalau [dag] jam [tal]? / Kita bisa rapat pada hari [dag]?",
+        "en": "Bagaimana kalau [day] jam [number]? / Kita bisa rapat pada hari [day]?",
+        "id": "Bagaimana kalau [hari] jam [angka]? / Kita bisa rapat pada hari [hari]?"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme06-lesson03-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Ugedage på indonesisk — Hari dalam Seminggu",
+        "en": "Days of the Week in Indonesian — Hari dalam Seminggu",
+        "id": "Hari dalam Seminggu — Belajar Nama-Nama Hari"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

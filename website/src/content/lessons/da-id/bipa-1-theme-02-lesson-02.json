@@ -1,0 +1,277 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Berapa Umurmu? — Hvor Gammel Er Du?",
+    "en": "Berapa Umurmu? — How Old Are You?",
+    "id": "Berapa Umurmu?"
+  },
+  "summary": {
+    "da": "Lær at spørge om og udtrykke alder på indonesisk, og forstå den kulturelle baggrund for, at aldersrelaterede spørgsmål er helt normale i Indonesien.",
+    "en": "Learn to ask about and express age in Indonesian, and understand the cultural context of why age-related questions are completely normal in Indonesia.",
+    "id": "Belajar menanyakan dan mengungkapkan usia dalam bahasa Indonesia, serta memahami konteks budaya mengapa pertanyaan tentang usia sangat wajar di Indonesia."
+  },
+  "objectives": [
+    {
+      "da": "Spørge om og svare på spørgsmål om alder med berumur og berusia.",
+      "en": "Ask about and answer questions about age using berumur and berusia.",
+      "id": "Menanyakan dan menjawab pertanyaan tentang usia menggunakan berumur dan berusia."
+    },
+    {
+      "da": "Bruge aldersrelateret ordforråd: umur, usia, tahun, muda, tua.",
+      "en": "Use age-related vocabulary: umur, usia, tahun, muda, tua.",
+      "id": "Menggunakan kosakata terkait usia: umur, usia, tahun, muda, tua."
+    },
+    {
+      "da": "Forstå den kulturelle norm om, at det er acceptabelt at spørge om alder i Indonesien.",
+      "en": "Understand the cultural norm that it is acceptable to ask about age in Indonesia.",
+      "id": "Memahami norma budaya bahwa menanyakan usia adalah hal yang wajar di Indonesia."
+    }
+  ],
+  "unit": {
+    "slug": "theme-02",
+    "order": 2,
+    "title": {
+      "da": "Tema 2: Identitet",
+      "en": "Theme 2: Identity",
+      "id": "Tema 2: Identitas"
+    },
+    "summary": {
+      "da": "Hvem er du? Personlige oplysninger og selvbeskrivelse.",
+      "en": "Who are you? Personal details and self-description.",
+      "id": "Siapa kamu? Informasi pribadi dan deskripsi diri."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg klassen: 'Er det uhøfligt at spørge nogen om deres alder i Danmark?' Brug svaret til at introducere den indonesiske kulturelle norm.",
+        "en": "Ask the class: 'Is it rude to ask someone their age in Denmark?' Use the answer to introduce the Indonesian cultural norm.",
+        "id": "Tanyakan kepada kelas: 'Apakah tidak sopan menanyakan usia seseorang di Denmark?' Gunakan jawabannya untuk memperkenalkan norma budaya Indonesia."
+      },
+      "flow": [
+        {
+          "da": "Introducer formlen: 'Saya berumur [tal] tahun.' Skriv den på tavlen med et eksempel med din egen alder.",
+          "en": "Introduce the formula: 'Saya berumur [number] tahun.' Write it on the board with an example using your own age.",
+          "id": "Perkenalkan rumus: 'Saya berumur [angka] tahun.' Tuliskan di papan tulis dengan contoh menggunakan usia Anda sendiri."
+        },
+        {
+          "da": "Forklar at berumur og berusia er synonymer. Berusia er lidt mere formel/skriftsproglig.",
+          "en": "Explain that berumur and berusia are synonyms. Berusia is slightly more formal/written.",
+          "id": "Jelaskan bahwa berumur dan berusia adalah sinonim. Berusia sedikit lebih formal/tulisan."
+        },
+        {
+          "da": "Lad eleverne gå rundt og spørge hinanden om alder. Fokus på flydende udtale.",
+          "en": "Have students walk around and ask each other about age. Focus on fluent pronunciation.",
+          "id": "Minta siswa berkeliling dan menanyakan usia satu sama lain. Fokus pada pelafalan yang lancar."
+        }
+      ],
+      "notes": [
+        {
+          "da": "I Indonesien bruges alder til at bestemme, hvordan man tiltaler nogen. Ældre personer kaldes Bapak/Ibu (Bapak = hr., Ibu = fru), yngre kaldes Mas/Mbak eller ved navn.",
+          "en": "In Indonesia, age is used to determine how to address someone. Older people are called Bapak/Ibu, younger ones Mas/Mbak or by name.",
+          "id": "Di Indonesia, usia digunakan untuk menentukan cara menyapa seseorang. Orang yang lebih tua dipanggil Bapak/Ibu, yang lebih muda dipanggil Mas/Mbak atau dengan nama."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Skriv din fødselsdato på indonesisk: dag, måned og år. Øv at sige det højt.",
+          "en": "Write your date of birth in Indonesian: day, month, and year. Practice saying it aloud.",
+          "id": "Tuliskan tanggal lahir Anda dalam bahasa Indonesia: hari, bulan, dan tahun. Berlatihlah mengucapkannya dengan keras."
+        },
+        {
+          "da": "Lær sætningen 'Saya lahir pada tanggal [dato].' Brug den om dig selv.",
+          "en": "Learn the sentence 'Saya lahir pada tanggal [date].' Use it about yourself.",
+          "id": "Pelajari kalimat 'Saya lahir pada tanggal [tanggal].' Gunakan tentang diri Anda sendiri."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige din alder flydende på indonesisk? Fx 'Saya berumur tiga puluh dua tahun.'",
+          "en": "Can you say your age fluently in Indonesian? E.g. 'Saya berumur tiga puluh dua tahun.'",
+          "id": "Dapatkah Anda menyebutkan usia Anda dengan lancar dalam bahasa Indonesia? Misalnya 'Saya berumur tiga puluh dua tahun.'"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Rina",
+      "source": "Hej! Jeg hedder Rina. Hvad hedder du?",
+      "target": "Hei! Nama saya Rina. Siapa nama kamu?"
+    },
+    {
+      "speaker": "Mads",
+      "source": "Jeg hedder Mads. Dejligt at møde dig, Rina.",
+      "target": "Nama saya Mads. Senang bertemu denganmu, Rina."
+    },
+    {
+      "speaker": "Rina",
+      "source": "Hvor gammel er du, Mads? Jeg er 24 år.",
+      "target": "Berapa umur kamu, Mads? Saya berumur dua puluh empat tahun."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Jeg er 26 år. Er det normalt at spørge om alder her?",
+      "target": "Saya berumur dua puluh enam tahun. Apakah normal menanyakan usia di sini?"
+    },
+    {
+      "speaker": "Rina",
+      "source": "Ja, meget normalt! Vi bruger alder til at vide, hvordan vi skal hilse på hinanden.",
+      "target": "Ya, sangat normal! Kami menggunakan usia untuk mengetahui cara menyapa satu sama lain."
+    },
+    {
+      "speaker": "Mads",
+      "source": "Interessant! I Danmark er det lidt privat.",
+      "target": "Menarik! Di Denmark hal itu agak pribadi."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "Alder",
+      "target": "Umur",
+      "note": {
+        "da": "Det mest almindelige ord for alder i hverdagstale.",
+        "en": "The most common word for age in everyday speech.",
+        "id": "Kata yang paling umum untuk usia dalam percakapan sehari-hari."
+      }
+    },
+    {
+      "source": "Alder (formel)",
+      "target": "Usia",
+      "note": {
+        "da": "Mere formel variant. Bruges i formularer og officielle tekster.",
+        "en": "More formal variant. Used in forms and official texts.",
+        "id": "Varian yang lebih formal. Digunakan dalam formulir dan teks resmi."
+      }
+    },
+    {
+      "source": "År",
+      "target": "Tahun",
+      "note": {
+        "da": "Tahun bruges til både alder og kalenderår.",
+        "en": "Tahun is used for both age and calendar year.",
+        "id": "Tahun digunakan untuk usia dan tahun kalender."
+      }
+    },
+    {
+      "source": "Ung",
+      "target": "Muda",
+      "note": {
+        "da": "Anak muda = ung person/unge mennesker.",
+        "en": "Anak muda = young person/young people.",
+        "id": "Anak muda = orang muda."
+      }
+    },
+    {
+      "source": "Gammel",
+      "target": "Tua",
+      "note": {
+        "da": "Bruges om alder, ikke om ting. Untuk ting der er gamle bruges 'lama' (gammelt/forældet).",
+        "en": "Used for age, not for things. For old things use 'lama' (old/dated).",
+        "id": "Digunakan untuk usia, bukan untuk benda. Untuk benda yang lama gunakan 'lama'."
+      }
+    },
+    {
+      "source": "Født",
+      "target": "Lahir",
+      "note": {
+        "da": "Saya lahir di = Jeg er født i. Bruges med stedsangivelse.",
+        "en": "Saya lahir di = I was born in. Used with a place.",
+        "id": "Saya lahir di = Saya lahir di. Digunakan dengan tempat."
+      }
+    },
+    {
+      "source": "Fødselsdag",
+      "target": "Ulang tahun",
+      "note": {
+        "da": "Bogstaveligt: 'vende tilbage (til) år'. Selamat ulang tahun = Tillykke med fødselsdagen.",
+        "en": "Literally: 'return (to the) year'. Selamat ulang tahun = Happy birthday.",
+        "id": "Harfiah: 'kembali (ke) tahun'. Selamat ulang tahun = Selamat ulang tahun."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya berumur [tal] tahun.",
+      "explanation": {
+        "da": "Ber- er et præfiks der dannet af substantiver skaber 'have-verber'. Berumur = have en alder. Strukturen er: subjekt + berumur/berusia + tal + tahun.",
+        "en": "Ber- is a prefix that, added to nouns, creates 'have-verbs'. Berumur = to have an age. The structure is: subject + berumur/berusia + number + tahun.",
+        "id": "Ber- adalah awalan yang, ditambahkan pada kata benda, membentuk 'kata kerja memiliki'. Berumur = memiliki usia. Strukturnya: subjek + berumur/berusia + angka + tahun."
+      },
+      "examples": [
+        { "source": "Jeg er 25 år gammel.", "target": "Saya berumur dua puluh lima tahun." },
+        { "source": "Han er 30 år gammel.", "target": "Dia berumur tiga puluh tahun." },
+        { "source": "Hvor gammel er du?", "target": "Berapa umur kamu?" }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Sig din alder på indonesisk. Brug sætningen: 'Saya berumur ... tahun.'",
+        "en": "Say your age in Indonesian. Use the sentence: 'Saya berumur ... tahun.'",
+        "id": "Sebutkan usia Anda dalam bahasa Indonesia. Gunakan kalimat: 'Saya berumur ... tahun.'"
+      },
+      "answerShape": {
+        "da": "Saya berumur [tal] tahun.",
+        "en": "Saya berumur [number] tahun.",
+        "id": "Saya berumur [angka] tahun."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Oversæt: 'Hvor gammel er din far?' og 'Jeg er ældre end dig.'",
+        "en": "Translate: 'How old is your father?' and 'I am older than you.'",
+        "id": "Terjemahkan: 'Berapa umur ayahmu?' dan 'Saya lebih tua dari kamu.'"
+      },
+      "answerShape": {
+        "da": "Berapa umur ayahmu? / Saya lebih tua dari kamu.",
+        "en": "Berapa umur ayahmu? / Saya lebih tua dari kamu.",
+        "id": "Berapa umur ayahmu? / Saya lebih tua dari kamu."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Vil det føles anderledes for dig at svare på 'Berapa umur kamu?' fra en indonesisk fremmed? Hvad tror du det afspejler om kultur?",
+        "en": "Would it feel different to you to answer 'Berapa umur kamu?' from an Indonesian stranger? What do you think this reflects about culture?",
+        "id": "Apakah Anda merasa berbeda jika menjawab 'Berapa umur kamu?' dari orang asing Indonesia? Apa yang menurut Anda ini mencerminkan tentang budaya?"
+      },
+      "answerShape": {
+        "da": "Fri refleksion om kulturforskelle.",
+        "en": "Free reflection on cultural differences.",
+        "id": "Refleksi bebas tentang perbedaan budaya."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme02-lesson02-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "At Spørge om Alder i Indonesien",
+        "en": "Asking About Age in Indonesia",
+        "id": "Menanyakan Usia di Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

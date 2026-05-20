@@ -1,0 +1,287 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 2,
+  "slug": "lesson-02",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Transportmidler",
+    "en": "Means of Transport",
+    "id": "Transportasi"
+  },
+  "summary": {
+    "da": "Lær de vigtigste transportmidler i Indonesien og brug strukturen 'naik + køretøj' til at fortælle, hvordan du rejser.",
+    "en": "Learn the main means of transport in Indonesia and use the structure 'naik + vehicle' to say how you travel.",
+    "id": "Pelajari alat transportasi utama di Indonesia dan gunakan struktur 'naik + kendaraan' untuk menyatakan cara Anda bepergian."
+  },
+  "objectives": [
+    {
+      "da": "Navngive mindst seks transportmidler på indonesisk.",
+      "en": "Name at least six means of transport in Indonesian.",
+      "id": "Menyebutkan setidaknya enam alat transportasi dalam bahasa Indonesia."
+    },
+    {
+      "da": "Bruge strukturen 'naik + køretøj' korrekt i en sætning.",
+      "en": "Use the structure 'naik + vehicle' correctly in a sentence.",
+      "id": "Menggunakan struktur 'naik + kendaraan' dengan benar dalam kalimat."
+    },
+    {
+      "da": "Diskutere transportvalg og begrunde sit valg på simpelt indonesisk.",
+      "en": "Discuss transport choices and give a simple reason in Indonesian.",
+      "id": "Mendiskusikan pilihan transportasi dan memberikan alasan sederhana dalam bahasa Indonesia."
+    }
+  ],
+  "unit": {
+    "slug": "theme-10",
+    "order": 10,
+    "title": {
+      "da": "Tema 10: Byen & Transport",
+      "en": "Theme 10: City & Transport",
+      "id": "Tema 10: Kota & Transportasi"
+    },
+    "summary": {
+      "da": "At navigere i en indonesisk by og bruge offentlig transport.",
+      "en": "Navigating an Indonesian city and using public transport.",
+      "id": "Menavigasi kota Indonesia dan menggunakan transportasi umum."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg klassen: Hvordan kom du hertil i dag? Skriv 'Naik apa?' på tavlen og introducer emnet.",
+        "en": "Ask the class: How did you get here today? Write 'Naik apa?' on the board and introduce the topic.",
+        "id": "Tanyakan kepada kelas: Bagaimana kamu sampai ke sini hari ini? Tuliskan 'Naik apa?' di papan dan perkenalkan topiknya."
+      },
+      "flow": [
+        {
+          "da": "Introducer hvert transportmiddel med billeder og den tilhørende 'naik...'-struktur. Fremhæv, at 'naik' bogstaveligt betyder 'at stige op på/ind i', og bruges om alle transportmidler undtagen gang.",
+          "en": "Introduce each means of transport with pictures and the corresponding 'naik...' structure. Highlight that 'naik' literally means 'to board/mount' and is used for all transport except walking.",
+          "id": "Perkenalkan setiap alat transportasi dengan gambar dan struktur 'naik...' yang sesuai. Tekankan bahwa 'naik' secara harfiah berarti 'menaiki' dan digunakan untuk semua transportasi kecuali berjalan kaki."
+        },
+        {
+          "da": "Diskuter Jakarta-scenarier: Hvornår tager man bus, MRT, ojek osv.? Hvad er fordele og ulemper? Brug kendte begreber som 'macet' (trafikprop).",
+          "en": "Discuss Jakarta scenarios: When does one take a bus, MRT, ojek, etc.? What are the advantages and disadvantages? Introduce 'macet' (traffic jam).",
+          "id": "Diskusikan skenario Jakarta: Kapan naik bus, MRT, ojek, dll.? Apa keuntungan dan kerugiannya? Perkenalkan 'macet' (kemacetan lalu lintas)."
+        },
+        {
+          "da": "Rollespil: Eleverne planlægger en rejse fra hotel til strand i Jakarta. De skal forhandle om transportmidlet og bruge 'naik...'-strukturen.",
+          "en": "Role play: Students plan a journey from hotel to beach in Jakarta. They must negotiate the transport and use the 'naik...' structure.",
+          "id": "Bermain peran: Siswa merencanakan perjalanan dari hotel ke pantai di Jakarta. Mereka harus bernegosiasi tentang transportasi dan menggunakan struktur 'naik...'."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Ojek er en motorcykeltaxi, der er helt unik for Sydøstasien. Apps som Gojek og Grab har moderniseret ojek-kulturen. Det er en fremragende kulturel samtale om, hvordan teknologi ændrer traditioner.",
+          "en": "Ojek is a motorcycle taxi unique to South-East Asia. Apps like Gojek and Grab have modernised ojek culture. This is an excellent cultural conversation about how technology changes traditions.",
+          "id": "Ojek adalah ojek motor yang unik di Asia Tenggara. Aplikasi seperti Gojek dan Grab telah memodernisasi budaya ojek. Ini adalah diskusi budaya yang sangat baik tentang bagaimana teknologi mengubah tradisi."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lyt til og gentag hvert transportmiddel-ord. Forestil dig, at du stiger på hvert køretøj, mens du siger 'Naik [transportmiddel].'",
+          "en": "Listen to and repeat each transport word. Imagine yourself boarding each vehicle as you say 'Naik [transport].'",
+          "id": "Dengarkan dan ulangi setiap kata transportasi. Bayangkan Anda menaiki setiap kendaraan saat mengucapkan 'Naik [transportasi].'"
+        },
+        {
+          "da": "Skriv tre sætninger om, hvordan du normalt transporterer dig: Saya biasanya naik...",
+          "en": "Write three sentences about how you normally travel: Saya biasanya naik...",
+          "id": "Tulis tiga kalimat tentang cara Anda biasanya bepergian: Saya biasanya naik..."
+        },
+        {
+          "da": "Øv dialogen med en ven eller høj til dig selv. Skift roller og prøv at forklare, hvorfor du vælger ét transportmiddel frem for et andet.",
+          "en": "Practise the dialogue with a friend or aloud to yourself. Switch roles and try to explain why you choose one means of transport over another.",
+          "id": "Latih dialog dengan teman atau dengan keras pada diri sendiri. Berganti peran dan coba jelaskan mengapa Anda memilih satu alat transportasi daripada yang lain."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige, hvordan du rejser til seks forskellige destinationer ved hjælp af 'naik...'?",
+          "en": "Can you say how you travel to six different destinations using 'naik...'?",
+          "id": "Bisakah kamu mengatakan cara bepergian ke enam destinasi berbeda menggunakan 'naik...'?"
+        },
+        {
+          "da": "Kan du forklare, hvad 'naik' betyder, og hvorfor 'berjalan kaki' er anderledes?",
+          "en": "Can you explain what 'naik' means and why 'berjalan kaki' is different?",
+          "id": "Bisakah kamu menjelaskan apa arti 'naik' dan mengapa 'berjalan kaki' berbeda?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Budi",
+      "source": "Kamu mau ke mana hari ini, Rina?",
+      "target": "Hvor skal du hen i dag, Rina?"
+    },
+    {
+      "speaker": "Rina",
+      "source": "Saya mau ke kantor di Sudirman. Kamu juga ke sana?",
+      "target": "Jeg skal på kontoret i Sudirman. Skal du også derhen?"
+    },
+    {
+      "speaker": "Budi",
+      "source": "Ya, tapi saya biasanya naik ojek. Kamu naik apa?",
+      "target": "Ja, men jeg tager normalt ojek. Hvad tager du?"
+    },
+    {
+      "speaker": "Rina",
+      "source": "Saya mau naik MRT hari ini. Lebih cepat daripada naik taksi waktu macet.",
+      "target": "Jeg vil tage MRT i dag. Det er hurtigere end taxa i trafikken."
+    },
+    {
+      "speaker": "Budi",
+      "source": "Bagus juga! Stasiun MRT-nya dekat dari sini.",
+      "target": "God ide! MRT-stationen er tæt på herfra."
+    },
+    {
+      "speaker": "Rina",
+      "source": "Ayo kita naik MRT bersama-sama!",
+      "target": "Lad os tage MRT sammen!"
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "At gå (til fods)",
+      "target": "Berjalan kaki",
+      "note": {
+        "da": "Bogstaveligt: 'at gå med fod'. Bruger ikke 'naik' – for naik kræver et køretøj.",
+        "en": "Literally: 'to walk with feet'. Does not use 'naik' – because naik requires a vehicle.",
+        "id": "Secara harfiah: 'berjalan dengan kaki'. Tidak menggunakan 'naik' – karena naik memerlukan kendaraan."
+      }
+    },
+    {
+      "source": "At tage bus",
+      "target": "Naik bus",
+      "note": {
+        "da": "Bus er meget udbredt i indonesiske byer. I Jakarta er TransJakarta BRT-systemet vigtigt.",
+        "en": "Buses are very common in Indonesian cities. In Jakarta, the TransJakarta BRT system is important.",
+        "id": "Bus sangat umum di kota-kota Indonesia. Di Jakarta, sistem BRT TransJakarta sangat penting."
+      }
+    },
+    {
+      "source": "At tage tog",
+      "target": "Naik kereta",
+      "note": {
+        "da": "Kereta = tog. Fuld form: naik kereta api (api = ild/damp, fra damptog-æraen).",
+        "en": "Kereta = train. Full form: naik kereta api (api = fire/steam, from the steam train era).",
+        "id": "Kereta = kereta api. Bentuk lengkap: naik kereta api (api = api, dari era kereta uap)."
+      }
+    },
+    {
+      "source": "At tage taxa",
+      "target": "Naik taksi",
+      "note": {
+        "da": "Traditionelle taxa samt app-baserede (Grab, Gojek) er meget udbredte.",
+        "en": "Traditional taxis as well as app-based ones (Grab, Gojek) are very common.",
+        "id": "Taksi tradisional maupun berbasis aplikasi (Grab, Gojek) sangat umum."
+      }
+    },
+    {
+      "source": "At tage motorcykeltaxi",
+      "target": "Naik ojek",
+      "note": {
+        "da": "Ojek er en motorcykeltaxi, unik for Sydøstasien. Nu også tilgængelig via app (Go-Ride, GrabBike).",
+        "en": "Ojek is a motorcycle taxi, unique to South-East Asia. Now also available via app (Go-Ride, GrabBike).",
+        "id": "Ojek adalah taksi motor, unik di Asia Tenggara. Kini juga tersedia melalui aplikasi (Go-Ride, GrabBike)."
+      }
+    },
+    {
+      "source": "At tage fly",
+      "target": "Naik pesawat",
+      "note": {
+        "da": "Pesawat = fly. Fuld form: pesawat terbang (terbang = at flyve). Meget vigtigt i Indonesien med 17.000 øer.",
+        "en": "Pesawat = plane. Full form: pesawat terbang (terbang = to fly). Very important in Indonesia with 17,000 islands.",
+        "id": "Pesawat = pesawat terbang. Bentuk lengkap: pesawat terbang (terbang = terbang). Sangat penting di Indonesia dengan 17.000 pulau."
+      }
+    },
+    {
+      "source": "At tage båd / færge",
+      "target": "Naik kapal",
+      "note": {
+        "da": "Kapal = skib/båd. Afgørende transportmiddel i et ørige med 17.000 øer.",
+        "en": "Kapal = ship/boat. Essential transport in an archipelago with 17,000 islands.",
+        "id": "Kapal = kapal/perahu. Transportasi penting di kepulauan dengan 17.000 pulau."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Naik + køretøj",
+      "explanation": {
+        "da": "'Naik' betyder bogstaveligt 'at stige op' og bruges foran alle køretøjer for at sige, at man tager det pågældende transportmiddel. Undtagelsen er at gå til fods: 'berjalan kaki'.",
+        "en": "'Naik' literally means 'to board/mount' and is placed before any vehicle to say you take that means of transport. The exception is walking: 'berjalan kaki'.",
+        "id": "'Naik' secara harfiah berarti 'menaiki' dan diletakkan sebelum kendaraan apa pun untuk menyatakan cara bepergian. Pengecualiannya adalah berjalan kaki."
+      },
+      "examples": [
+        { "source": "Jeg tager bus.", "target": "Saya naik bus." },
+        { "source": "De tager fly til Bali.", "target": "Mereka naik pesawat ke Bali." },
+        { "source": "Han går til skole.", "target": "Dia berjalan kaki ke sekolah." }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Fortæl din partner, hvordan du rejser til tre steder (f.eks. til arbejde, til centrum, til en anden by). Brug 'Saya naik...' eller 'Saya berjalan kaki.'",
+        "en": "Tell your partner how you travel to three places (e.g. to work, to the city centre, to another city). Use 'Saya naik...' or 'Saya berjalan kaki.'",
+        "id": "Ceritakan kepada pasanganmu cara kamu bepergian ke tiga tempat (misalnya ke tempat kerja, ke pusat kota, ke kota lain). Gunakan 'Saya naik...' atau 'Saya berjalan kaki.'"
+      },
+      "answerShape": {
+        "da": "Saya naik [transportmiddel] ke [sted]. / Saya berjalan kaki ke [sted].",
+        "en": "Saya naik [transport] ke [place]. / Saya berjalan kaki ke [place].",
+        "id": "Saya naik [transportasi] ke [tempat]. / Saya berjalan kaki ke [tempat]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Byg sætninger: Kombiner et subjekt, 'naik', et transportmiddel og en destination. Lav mindst fire sætninger.",
+        "en": "Build sentences: Combine a subject, 'naik', a means of transport, and a destination. Make at least four sentences.",
+        "id": "Buat kalimat: Gabungkan subjek, 'naik', alat transportasi, dan tujuan. Buat setidaknya empat kalimat."
+      },
+      "answerShape": {
+        "da": "[Subjekt] naik [transportmiddel] ke [destination].",
+        "en": "[Subject] naik [transport] ke [destination].",
+        "id": "[Subjek] naik [transportasi] ke [tujuan]."
+      }
+    },
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til dialogen igen. Notér: Hvilke transportmidler nævnes? Hvorfor vælger Rina MRT frem for taxa?",
+        "en": "Listen to the dialogue again. Note: Which means of transport are mentioned? Why does Rina choose MRT over taxi?",
+        "id": "Dengarkan dialog lagi. Catat: Alat transportasi apa saja yang disebutkan? Mengapa Rina memilih MRT daripada taksi?"
+      },
+      "answerShape": {
+        "da": "Ojek, MRT og taksi nævnes. Rina vælger MRT fordi det er hurtigere under trafikprop (macet).",
+        "en": "Ojek, MRT and taxi are mentioned. Rina chooses MRT because it is faster during traffic jams (macet).",
+        "id": "Ojek, MRT, dan taksi disebutkan. Rina memilih MRT karena lebih cepat saat macet."
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme10-lesson02-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Transportmidler i Jakarta",
+        "en": "Means of Transport in Jakarta",
+        "id": "Alat Transportasi di Jakarta"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}

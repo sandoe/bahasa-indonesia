@@ -1,0 +1,247 @@
+{
+  "pair": "id-da",
+  "courseSlug": "bipa-1",
+  "order": 1,
+  "slug": "lesson-01",
+  "durationMinutes": 35,
+  "title": {
+    "da": "Mad og drikke",
+    "en": "Food and Drink",
+    "id": "Makanan dan minuman"
+  },
+  "summary": {
+    "da": "Lær at sige hvad du gerne vil spise og drikke, og hvad du kan lide i en enkel dansk hverdagssamtale.",
+    "en": "Learn to say what you want to eat and drink and what you like in a simple Danish everyday conversation.",
+    "id": "Belajar mengatakan apa yang ingin Anda makan dan minum serta apa yang Anda sukai dalam percakapan sehari-hari sederhana dalam bahasa Denmark."
+  },
+  "objectives": [
+    {
+      "da": "Nævne almindelige retter og drikke på dansk.",
+      "en": "Name common foods and drinks in Danish.",
+      "id": "Menyebutkan makanan dan minuman umum dalam bahasa Denmark."
+    },
+    {
+      "da": "Sige hvad du gerne vil have.",
+      "en": "Say what you would like to have.",
+      "id": "Mengatakan apa yang ingin Anda miliki/makan."
+    },
+    {
+      "da": "Føre en kort samtale om madpræferencer.",
+      "en": "Hold a short conversation about food preferences.",
+      "id": "Melakukan percakapan singkat tentang preferensi makanan."
+    }
+  ],
+  "unit": {
+    "slug": "theme-09",
+    "order": 9,
+    "title": {
+      "da": "Tema 9: Mad & Drikke",
+      "en": "Theme 9: Food & Drink",
+      "id": "Tema 9: Makanan & Minuman"
+    },
+    "summary": {
+      "da": "Smag, valg og enkel madkommunikation.",
+      "en": "Taste, choices, and simple food communication.",
+      "id": "Rasa, pilihan, dan komunikasi sederhana tentang makanan."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Vis madbilleder og spørg hvad eleverne allerede kender på dansk.",
+        "en": "Show food pictures and ask what students already know in Danish.",
+        "id": "Tunjukkan gambar makanan dan tanyakan apa yang sudah diketahui siswa dalam bahasa Denmark."
+      },
+      "flow": [
+        {
+          "da": "Introducer brød, kaffe, te, vand, ris, suppe, kylling.",
+          "en": "Introduce bread, coffee, tea, water, rice, soup, chicken.",
+          "id": "Perkenalkan roti, kopi, teh, air, nasi, sup, ayam."
+        },
+        {
+          "da": "Byg mønstre som “jeg vil gerne have...” og “jeg kan godt lide...”.",
+          "en": "Build patterns like “I would like...” and “I like...”.",
+          "id": "Bangun pola seperti “jeg vil gerne have...” dan “jeg kan godt lide...”."
+        },
+        {
+          "da": "Lav korte menudialoger i par.",
+          "en": "Make short menu dialogues in pairs.",
+          "id": "Buat dialog menu singkat secara berpasangan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "Madord er højfrekvente og giver hurtig følelse af brugbart dansk.",
+          "en": "Food words are high-frequency and quickly give a feeling of useful Danish.",
+          "id": "Kosakata makanan memiliki frekuensi tinggi dan cepat memberi rasa bahwa bahasa Denmark berguna."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Lav en lille menu med ting du kan lide.",
+          "en": "Make a small menu with things you like.",
+          "id": "Buat menu kecil dengan hal-hal yang Anda sukai."
+        },
+        {
+          "da": "Skriv to sætninger om hvad du vil drikke og spise.",
+          "en": "Write two sentences about what you want to drink and eat.",
+          "id": "Tulis dua kalimat tentang apa yang ingin Anda minum dan makan."
+        },
+        {
+          "da": "Læs dialogen højt og marker valgene.",
+          "en": "Read the dialogue aloud and mark the choices.",
+          "id": "Baca dialog dengan suara keras dan tandai pilihannya."
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du bestille én ting at spise og én ting at drikke?",
+          "en": "Can you order one thing to eat and one thing to drink?",
+          "id": "Bisakah Anda memesan satu makanan dan satu minuman?"
+        },
+        {
+          "da": "Kan du sige hvad du godt kan lide?",
+          "en": "Can you say what you like?",
+          "id": "Bisakah Anda mengatakan apa yang Anda sukai?"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Riko",
+      "source": "Kamu mau makan apa?",
+      "target": "Hvad vil du gerne spise?"
+    },
+    {
+      "speaker": "Maja",
+      "source": "Saya vil gerne have suppe og brød.",
+      "target": "Jeg vil gerne have suppe og brød."
+    },
+    {
+      "speaker": "Riko",
+      "source": "Og kamu mau minum apa?",
+      "target": "Og hvad vil du gerne drikke?"
+    },
+    {
+      "speaker": "Maja",
+      "source": "Saya vil gerne have te.",
+      "target": "Jeg vil gerne have te."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "roti",
+      "target": "brød",
+      "note": {
+        "da": "Et meget almindeligt dansk madord.",
+        "en": "A very common Danish food word.",
+        "id": "Kosakata makanan Denmark yang sangat umum."
+      }
+    },
+    {
+      "source": "air / teh / kopi",
+      "target": "vand / te / kaffe",
+      "note": {
+        "da": "Tre nyttige basisdrikke.",
+        "en": "Three useful basic drinks.",
+        "id": "Tiga minuman dasar yang berguna."
+      }
+    },
+    {
+      "source": "sup / nasi / ayam",
+      "target": "suppe / ris / kylling",
+      "note": {
+        "da": "Gode første ord til simple valg.",
+        "en": "Good first words for simple choices.",
+        "id": "Kata pertama yang baik untuk pilihan sederhana."
+      }
+    },
+    {
+      "source": "saya ingin / saya suka",
+      "target": "jeg vil gerne have / jeg kan godt lide",
+      "note": {
+        "da": "To kernemønstre i begyndersamtaler om mad.",
+        "en": "Two core patterns in beginner food conversations.",
+        "id": "Dua pola inti dalam percakapan pemula tentang makanan."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Jeg vil gerne have... / Jeg kan godt lide...",
+      "explanation": {
+        "da": "De to vigtigste begyndermønstre til ønsker og præferencer om mad og drikke.",
+        "en": "The two most important beginner patterns for wishes and preferences about food and drink.",
+        "id": "Dua pola pemula terpenting untuk keinginan dan preferensi tentang makanan dan minuman."
+      },
+      "examples": [
+        {
+          "source": "Saya ingin teh.",
+          "target": "Jeg vil gerne have te."
+        },
+        {
+          "source": "Saya suka sup.",
+          "target": "Jeg kan godt lide suppe."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til en bestilling og skriv hvad personen vil have.",
+        "en": "Listen to an order and write what the person wants.",
+        "id": "Dengarkan pesanan dan tuliskan apa yang diinginkan orang tersebut."
+      },
+      "answerShape": {
+        "da": "Et kort svar.",
+        "en": "A short answer.",
+        "id": "Jawaban singkat."
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Bestil noget at spise og drikke på dansk.",
+        "en": "Order something to eat and drink in Danish.",
+        "id": "Pesan sesuatu untuk dimakan dan diminum dalam bahasa Denmark."
+      },
+      "answerShape": {
+        "da": "To korte sætninger.",
+        "en": "Two short sentences.",
+        "id": "Dua kalimat pendek."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Skriv din egen lille cafébestilling.",
+        "en": "Write your own small café order.",
+        "id": "Tulis pesanan kafe kecil Anda sendiri."
+      },
+      "answerShape": {
+        "da": "En til to linjer.",
+        "en": "One to two lines.",
+        "id": "Satu hingga dua baris."
+      }
+    },
+    {
+      "kind": "reflect",
+      "prompt": {
+        "da": "Hvilke danske madord vil du få mest brug for først?",
+        "en": "Which Danish food words will you need most first?",
+        "id": "Kosakata makanan bahasa Denmark mana yang paling Anda butuhkan terlebih dahulu?"
+      },
+      "answerShape": {
+        "da": "En kort liste.",
+        "en": "A short list.",
+        "id": "Daftar singkat."
+      }
+    }
+  ],
+  "media": []
+}

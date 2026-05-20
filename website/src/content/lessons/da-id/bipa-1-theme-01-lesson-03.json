@@ -1,0 +1,327 @@
+{
+  "pair": "da-id",
+  "courseSlug": "bipa-1",
+  "order": 3,
+  "slug": "lesson-03",
+  "durationMinutes": 30,
+  "title": {
+    "da": "Hvad Arbejder Du Med?",
+    "en": "What Do You Do for Work?",
+    "id": "Apa Pekerjaan Kamu?"
+  },
+  "summary": {
+    "da": "Lær at præsentere og spørge om erhverv. Mønster: 'Saya seorang guru/dokter/mahasiswa.' 'Kamu bekerja di mana?' Vokabular: guru, dokter, mahasiswa, pengusaha, perawat, insinyur.",
+    "en": "Learn to present and ask about professions. Pattern: 'Saya seorang guru/dokter/mahasiswa.' 'Kamu bekerja di mana?' Vocabulary: guru, dokter, mahasiswa, pengusaha, perawat, insinyur.",
+    "id": "Pelajari cara menyebutkan dan menanyakan pekerjaan. Pola: 'Saya seorang guru/dokter/mahasiswa.' 'Kamu bekerja di mana?' Kosakata: guru, dokter, mahasiswa, pengusaha, perawat, insinyur."
+  },
+  "objectives": [
+    {
+      "da": "Sige sit erhverv med mønstret 'Saya seorang [erhverv]'",
+      "en": "Say one's profession using the pattern 'Saya seorang [profession]'",
+      "id": "Menyebutkan pekerjaan dengan pola 'Saya seorang [pekerjaan]'"
+    },
+    {
+      "da": "Spørge en anden om deres erhverv og arbejdssted",
+      "en": "Ask another person about their profession and workplace",
+      "id": "Menanyakan pekerjaan dan tempat kerja orang lain"
+    },
+    {
+      "da": "Genkende og udtale mindst seks erhvervsbetegnelser korrekt",
+      "en": "Recognise and correctly pronounce at least six professional titles",
+      "id": "Mengenali dan mengucapkan dengan benar setidaknya enam sebutan profesi"
+    }
+  ],
+  "unit": {
+    "slug": "theme-01",
+    "order": 1,
+    "title": {
+      "da": "Tema 1: Første Møde",
+      "en": "Theme 1: First Meeting",
+      "id": "Tema 1: Pertemuan Pertama"
+    },
+    "summary": {
+      "da": "Hilsner og den allerførste kontakt med sproget.",
+      "en": "Greetings and first contact with the language.",
+      "id": "Salam dan kontak pertama dengan bahasa."
+    }
+  },
+  "modes": {
+    "teacher": {
+      "opener": {
+        "da": "Spørg eleverne på indonesisk: 'Kamu seorang apa?' (Hvad er du?) og skriv svarene på tavlen i formen 'Saya seorang ___'. Introducer seorang = en/et (for mennesker). Vis at seorang = se + orang = én person.",
+        "en": "Ask students in Indonesian: 'Kamu seorang apa?' (What are you?) and write the answers on the board in the form 'Saya seorang ___'. Introduce seorang = a/an (for people). Show that seorang = se + orang = one person.",
+        "id": "Tanya siswa dalam bahasa Indonesia: 'Kamu seorang apa?' dan tulis jawaban di papan dalam bentuk 'Saya seorang ___'. Perkenalkan seorang = satu (untuk orang). Tunjukkan bahwa seorang = se + orang = satu orang."
+      },
+      "flow": [
+        {
+          "da": "Flashcards: Vis billeder af forskellige erhverv – eleverne siger erhvervet på indonesisk. Læreren bekræfter. Introducer alle seks erhverv med udtale og stavelsesopdelinger.",
+          "en": "Flashcards: Show pictures of different professions – students say the profession in Indonesian. Teacher confirms. Introduce all six professions with pronunciation and syllable divisions.",
+          "id": "Kartu bergambar: Tampilkan gambar berbagai pekerjaan – siswa menyebutkan pekerjaan dalam bahasa Indonesia. Guru mengkonfirmasi. Perkenalkan semua enam pekerjaan dengan pengucapan dan pembagian suku kata."
+        },
+        {
+          "da": "Dialogøvelse: Par A og B øver spørgsmål og svar om erhverv. A: 'Kamu seorang apa?' B: 'Saya seorang [erhverv]. Kamu bekerja di mana?' Skift efter tre runder.",
+          "en": "Dialogue practice: Pairs A and B practise questions and answers about professions. A: 'Kamu seorang apa?' B: 'Saya seorang [profession]. Kamu bekerja di mana?' Switch after three rounds.",
+          "id": "Latihan dialog: Pasangan A dan B berlatih pertanyaan dan jawaban tentang pekerjaan. A: 'Kamu seorang apa?' B: 'Saya seorang [pekerjaan]. Kamu bekerja di mana?' Ganti setelah tiga putaran."
+        },
+        {
+          "da": "Partyrollespil: Brug dialogeksemplet. To elever mødes 'til en fest' og præsenterer sig. De skal inkludere navn, nationalitet (fra tidligere lektioner) og erhverv.",
+          "en": "Party role play: Use the dialogue example. Two students meet 'at a party' and introduce themselves. They must include name, nationality (from previous lessons), and profession.",
+          "id": "Bermain peran pesta: Gunakan contoh dialog. Dua siswa bertemu 'di sebuah pesta' dan memperkenalkan diri. Mereka harus menyertakan nama, kewarganegaraan (dari pelajaran sebelumnya), dan pekerjaan."
+        }
+      ],
+      "notes": [
+        {
+          "da": "For 'mahasiswa' (universitetsstuderende) bruges seorang korrekt. Men man kan også sige 'Saya mahasiswa' uden seorang – begge er grammatisk korrekte. Præsenter den udvidede form som standard for begyndere.",
+          "en": "For 'mahasiswa' (university student) seorang is correctly used. But one can also say 'Saya mahasiswa' without seorang – both are grammatically correct. Present the fuller form as standard for beginners.",
+          "id": "Untuk 'mahasiswa' (mahasiswa universitas), seorang digunakan dengan benar. Tetapi seseorang juga bisa mengatakan 'Saya mahasiswa' tanpa seorang – keduanya benar secara tata bahasa. Sajikan bentuk yang lebih lengkap sebagai standar untuk pemula."
+        },
+        {
+          "da": "Insinyur (ingeniør) er et lånord fra nederlandsk 'ingenieur'. Mange indonesiske professionsbetegnelser er lånord fra nederlandsk pga. kolonitiden. Andre eksempler: dokter (fra nederlandsk 'dokter').",
+          "en": "Insinyur (engineer) is a loanword from Dutch 'ingenieur'. Many Indonesian professional titles are loanwords from Dutch due to the colonial period. Other examples: dokter (from Dutch 'dokter').",
+          "id": "Insinyur (insinyur) adalah kata pinjaman dari bahasa Belanda 'ingenieur'. Banyak sebutan profesi bahasa Indonesia adalah kata pinjaman dari bahasa Belanda karena masa kolonial. Contoh lain: dokter (dari bahasa Belanda 'dokter')."
+        }
+      ]
+    },
+    "selfStudy": {
+      "path": [
+        {
+          "da": "Øv mønstret: Sig 'Saya seorang [erhverv]' for hvert erhverv i vokabularet. Lav derefter de negative/korrektive former: 'Saya bukan seorang [erhverv]' (Jeg er ikke en [erhverv]).",
+          "en": "Practise the pattern: Say 'Saya seorang [profession]' for each profession in the vocabulary. Then make the negative/corrective forms: 'Saya bukan seorang [profession]' (I am not a [profession]).",
+          "id": "Latih pola: Ucapkan 'Saya seorang [pekerjaan]' untuk setiap pekerjaan dalam kosakata. Kemudian buat bentuk negatif/korektif: 'Saya bukan seorang [pekerjaan]' (Saya bukan seorang [pekerjaan])."
+        },
+        {
+          "da": "Forestil dig at du møder en indonesisk person til en fest. Skriv tre sætninger om dig selv: navn, erhverv og arbejdssted. Fx: 'Nama saya Lars. Saya seorang insinyur. Saya bekerja di Kopenhagen.'",
+          "en": "Imagine you are meeting an Indonesian person at a party. Write three sentences about yourself: name, profession, and workplace. E.g.: 'Nama saya Lars. Saya seorang insinyur. Saya bekerja di Kopenhagen.'",
+          "id": "Bayangkan Anda bertemu orang Indonesia di sebuah pesta. Tulis tiga kalimat tentang diri Anda: nama, pekerjaan, dan tempat kerja. Mis.: 'Nama saya Lars. Saya seorang insinyur. Saya bekerja di Kopenhagen.'"
+        }
+      ],
+      "checkpoints": [
+        {
+          "da": "Kan du sige dit eget erhverv (eller et ønsket erhverv) med mønstret 'Saya seorang ___'?",
+          "en": "Can you say your own profession (or a desired profession) using the pattern 'Saya seorang ___'?",
+          "id": "Dapatkah Anda menyebutkan pekerjaan Anda sendiri (atau pekerjaan yang diinginkan) dengan pola 'Saya seorang ___'?"
+        },
+        {
+          "da": "Kan du spørge og svare på indonesisk: 'Kamu bekerja di mana?' / 'Saya bekerja di ___.'",
+          "en": "Can you ask and answer in Indonesian: 'Kamu bekerja di mana?' / 'Saya bekerja di ___.'",
+          "id": "Dapatkah Anda bertanya dan menjawab dalam bahasa Indonesia: 'Kamu bekerja di mana?' / 'Saya bekerja di ___.'"
+        }
+      ]
+    }
+  },
+  "dialogue": [
+    {
+      "speaker": "Agus",
+      "source": "Hej! Jeg hedder Agus. Er du ny her til festen?",
+      "target": "Hai! Nama saya Agus. Kamu baru di pesta ini?"
+    },
+    {
+      "speaker": "Sari",
+      "source": "Ja! Jeg hedder Sari. Hyggeligt at møde dig, Agus.",
+      "target": "Iya! Nama saya Sari. Senang bertemu kamu, Agus."
+    },
+    {
+      "speaker": "Agus",
+      "source": "Hvad arbejder du med, Sari?",
+      "target": "Kamu bekerja apa, Sari?"
+    },
+    {
+      "speaker": "Sari",
+      "source": "Jeg er sygeplejerske. Jeg arbejder på et hospital. Og du?",
+      "target": "Saya seorang perawat. Saya bekerja di rumah sakit. Kalau kamu?"
+    },
+    {
+      "speaker": "Agus",
+      "source": "Jeg er ingeniør. Jeg arbejder i en byggefirma. Hvor arbejder du henne?",
+      "target": "Saya seorang insinyur. Saya bekerja di perusahaan konstruksi. Kamu bekerja di mana?"
+    },
+    {
+      "speaker": "Sari",
+      "source": "Jeg arbejder på Cipto Mangunkusumo-hospitalet i Jakarta.",
+      "target": "Saya bekerja di Rumah Sakit Cipto Mangunkusumo di Jakarta."
+    }
+  ],
+  "vocabulary": [
+    {
+      "source": "lærer",
+      "target": "guru",
+      "note": {
+        "da": "2 stavelser: GU-ru. Et lånord der nu bruges i mange sprog. 'Saya seorang guru.'",
+        "en": "2 syllables: GU-ru. A loanword now used in many languages. 'Saya seorang guru.'",
+        "id": "2 suku kata: GU-ru. Kata pinjaman yang kini digunakan di banyak bahasa. 'Saya seorang guru.'"
+      }
+    },
+    {
+      "source": "læge / doktor",
+      "target": "dokter",
+      "note": {
+        "da": "2 stavelser: DOK-ter. Lånord fra nederlandsk. 'Saya seorang dokter.'",
+        "en": "2 syllables: DOK-ter. Loanword from Dutch. 'Saya seorang dokter.'",
+        "id": "2 suku kata: DOK-ter. Kata pinjaman dari bahasa Belanda. 'Saya seorang dokter.'"
+      }
+    },
+    {
+      "source": "universitetsstuderende",
+      "target": "mahasiswa",
+      "note": {
+        "da": "4 stavelser: ma-ha-SIS-wa. 'Maha' = stor (Sanskrit). 'Siswa' = elev. Altså: stor elev = universitetsstuderende.",
+        "en": "4 syllables: ma-ha-SIS-wa. 'Maha' = great (Sanskrit). 'Siswa' = pupil. So: great pupil = university student.",
+        "id": "4 suku kata: ma-ha-SIS-wa. 'Maha' = besar (Sansekerta). 'Siswa' = pelajar. Jadi: pelajar besar = mahasiswa."
+      }
+    },
+    {
+      "source": "forretningsmand / iværksætter",
+      "target": "pengusaha",
+      "note": {
+        "da": "4 stavelser: peng-u-SA-ha. Af 'usaha' (indsats/forretning). 'Saya seorang pengusaha.'",
+        "en": "4 syllables: peng-u-SA-ha. From 'usaha' (effort/business). 'Saya seorang pengusaha.'",
+        "id": "4 suku kata: peng-u-SA-ha. Dari kata 'usaha' (usaha/bisnis). 'Saya seorang pengusaha.'"
+      }
+    },
+    {
+      "source": "sygeplejerske",
+      "target": "perawat",
+      "note": {
+        "da": "3 stavelser: pe-RA-wat. Af 'rawat' (at pleje/passe). Kønneutral betegnelse.",
+        "en": "3 syllables: pe-RA-wat. From 'rawat' (to care for/nurse). Gender-neutral term.",
+        "id": "3 suku kata: pe-RA-wat. Dari kata 'rawat' (merawat). Istilah yang netral gender."
+      }
+    },
+    {
+      "source": "ingeniør",
+      "target": "insinyur",
+      "note": {
+        "da": "3 stavelser: in-si-NYUR. Lånord fra nederlandsk 'ingenieur'. Bemærk NY-lyden.",
+        "en": "3 syllables: in-si-NYUR. Loanword from Dutch 'ingenieur'. Note the NY sound.",
+        "id": "3 suku kata: in-si-NYUR. Kata pinjaman dari bahasa Belanda 'ingenieur'. Perhatikan bunyi NY."
+      }
+    },
+    {
+      "source": "at arbejde",
+      "target": "bekerja",
+      "note": {
+        "da": "3 stavelser: be-KER-ja. Af 'kerja' (arbejde). 'Kamu bekerja di mana?' = Hvor arbejder du?",
+        "en": "3 syllables: be-KER-ja. From 'kerja' (work). 'Kamu bekerja di mana?' = Where do you work?",
+        "id": "3 suku kata: be-KER-ja. Dari kata 'kerja' (pekerjaan). 'Kamu bekerja di mana?' = Di mana kamu bekerja?"
+      }
+    },
+    {
+      "source": "en (om mennesker) / en person",
+      "target": "seorang",
+      "note": {
+        "da": "3 stavelser: se-O-rang. Se = én, orang = person. Bruges kun om mennesker. 'Saya seorang guru' = Jeg er en lærer.",
+        "en": "3 syllables: se-O-rang. Se = one, orang = person. Used only for people. 'Saya seorang guru' = I am a teacher.",
+        "id": "3 suku kata: se-O-rang. Se = satu, orang = orang. Digunakan hanya untuk orang. 'Saya seorang guru' = Saya seorang guru."
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "pattern": "Saya seorang + erhverv",
+      "explanation": {
+        "da": "For at sige hvad man arbejder med bruger man: 'Saya seorang [erhverv]' = Jeg er en [erhverv]. 'Seorang' er ubestemt artikel for personer (én person). Benægtelsen er: 'Saya bukan seorang [erhverv]' = Jeg er ikke en [erhverv]. Spørgsmålet er: 'Kamu seorang apa?' eller 'Kamu bekerja apa?' = Hvad arbejder du med?",
+        "en": "To say what one does for work, use: 'Saya seorang [profession]' = I am a [profession]. 'Seorang' is the indefinite article for people (one person). Negation: 'Saya bukan seorang [profession]' = I am not a [profession]. The question is: 'Kamu seorang apa?' or 'Kamu bekerja apa?' = What do you do for work?",
+        "id": "Untuk menyebutkan pekerjaan, gunakan: 'Saya seorang [pekerjaan]' = Saya seorang [pekerjaan]. 'Seorang' adalah artikel tak tentu untuk orang (satu orang). Negasi: 'Saya bukan seorang [pekerjaan]' = Saya bukan seorang [pekerjaan]. Pertanyaannya adalah: 'Kamu seorang apa?' atau 'Kamu bekerja apa?'"
+      },
+      "examples": [
+        {
+          "source": "Jeg er læge.",
+          "target": "Saya seorang dokter."
+        },
+        {
+          "source": "Hun er sygeplejerske.",
+          "target": "Dia seorang perawat."
+        },
+        {
+          "source": "Hvad arbejder du med?",
+          "target": "Kamu bekerja apa? / Kamu seorang apa?"
+        }
+      ]
+    },
+    {
+      "pattern": "Kamu bekerja di mana? / Saya bekerja di + sted",
+      "explanation": {
+        "da": "'Di mana' = Hvor (spørger om sted). 'Di' = præpositionen 'i/på/ved' for sted. 'Bekerja' = at arbejde. Svarmønstret: 'Saya bekerja di [sted].' Note: 'di' bruges til steder i ro (ikke til retning, hvor 'ke' bruges).",
+        "en": "'Di mana' = Where (asking about location). 'Di' = the preposition 'at/in/on' for place. 'Bekerja' = to work. Answer pattern: 'Saya bekerja di [place].' Note: 'di' is used for locations at rest (not for direction, where 'ke' is used).",
+        "id": "'Di mana' = Di mana (menanyakan lokasi). 'Di' = preposisi untuk tempat (di). 'Bekerja' = bekerja. Pola jawaban: 'Saya bekerja di [tempat].' Catatan: 'di' digunakan untuk lokasi diam (bukan untuk arah, di mana 'ke' digunakan)."
+      },
+      "examples": [
+        {
+          "source": "Hvor arbejder du?",
+          "target": "Kamu bekerja di mana?"
+        },
+        {
+          "source": "Jeg arbejder på et hospital.",
+          "target": "Saya bekerja di rumah sakit."
+        },
+        {
+          "source": "Han arbejder i en skole.",
+          "target": "Dia bekerja di sekolah."
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "kind": "listen",
+      "prompt": {
+        "da": "Lyt til de fire korte præsentationer og notér: (1) Hvad hedder personen? (2) Hvad er deres erhverv? (3) Hvor arbejder de? Svar på dansk eller indonesisk.",
+        "en": "Listen to the four short introductions and note: (1) What is the person's name? (2) What is their profession? (3) Where do they work? Answer in Danish or Indonesian.",
+        "id": "Dengarkan empat perkenalan singkat dan catat: (1) Siapa nama orang tersebut? (2) Apa pekerjaan mereka? (3) Di mana mereka bekerja? Jawab dalam bahasa Denmark atau Indonesia."
+      },
+      "answerShape": {
+        "da": "Svar varierer baseret på lydklippene. Elever bør kunne identificere navn, erhverv og arbejdssted fra 'Saya seorang...' og 'Saya bekerja di...' mønstre.",
+        "en": "Answers vary based on audio clips. Students should be able to identify name, profession, and workplace from 'Saya seorang...' and 'Saya bekerja di...' patterns.",
+        "id": "Jawaban bervariasi berdasarkan klip audio. Siswa harus dapat mengidentifikasi nama, pekerjaan, dan tempat kerja dari pola 'Saya seorang...' dan 'Saya bekerja di...'"
+      }
+    },
+    {
+      "kind": "speak",
+      "prompt": {
+        "da": "Præsenter dig selv med dit rigtige (eller fiktive) erhverv: navn + erhverv + arbejdssted. Brug mønstret: 'Nama saya ___. Saya seorang ___. Saya bekerja di ___.'",
+        "en": "Introduce yourself with your real (or fictional) profession: name + profession + workplace. Use the pattern: 'Nama saya ___. Saya seorang ___. Saya bekerja di ___.'",
+        "id": "Perkenalkan diri Anda dengan pekerjaan nyata (atau fiksi): nama + pekerjaan + tempat kerja. Gunakan pola: 'Nama saya ___. Saya seorang ___. Saya bekerja di ___.'"
+      },
+      "answerShape": {
+        "da": "Individuelle svar. Mønster overholdt: Nama saya [navn]. Saya seorang [erhverv]. Saya bekerja di [sted].",
+        "en": "Individual answers. Pattern followed: Nama saya [name]. Saya seorang [profession]. Saya bekerja di [place].",
+        "id": "Jawaban individual. Pola diikuti: Nama saya [nama]. Saya seorang [pekerjaan]. Saya bekerja di [tempat]."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Sæt disse ord i den rigtige rækkefølge til en sætning: (1) seorang / Saya / dokter / adalah → (2) bekerja / di / Saya / rumah sakit → (3) apa / Kamu / bekerja",
+        "en": "Put these words in the correct order to form a sentence: (1) seorang / Saya / dokter / adalah → (2) bekerja / di / Saya / rumah sakit → (3) apa / Kamu / bekerja",
+        "id": "Susun kata-kata ini dalam urutan yang benar untuk membentuk kalimat: (1) seorang / Saya / dokter / adalah → (2) bekerja / di / Saya / rumah sakit → (3) apa / Kamu / bekerja"
+      },
+      "answerShape": {
+        "da": "(1) Saya seorang dokter. (2) Saya bekerja di rumah sakit. (3) Kamu bekerja apa?",
+        "en": "(1) Saya seorang dokter. (2) Saya bekerja di rumah sakit. (3) Kamu bekerja apa?",
+        "id": "(1) Saya seorang dokter. (2) Saya bekerja di rumah sakit. (3) Kamu bekerja apa?"
+      }
+    }
+  ],
+  "media": [
+    {
+      "id": "video-theme01-lesson03-01",
+      "type": "video",
+      "provider": "placeholder",
+      "status": "placeholder",
+      "title": {
+        "da": "Erhverv og arbejde på indonesisk",
+        "en": "Professions and work in Indonesian",
+        "id": "Pekerjaan dalam bahasa Indonesia"
+      },
+      "note": {
+        "da": "Erstattes med egen video.",
+        "en": "Replace with own video.",
+        "id": "Ganti dengan video sendiri."
+      },
+      "rights": {
+        "owner": "internal",
+        "publicSafe": true
+      }
+    }
+  ]
+}
