@@ -404,29 +404,35 @@ const pageCopy = {
       margin-right: auto;
     }
     .theme-module {
-      background: white;
-      border: 1px solid var(--line);
-      border-radius: var(--radius-lg);
+      background: rgba(255, 255, 255, 0.85);
+      border: 1px solid rgba(255, 255, 255, 0.7);
+      border-radius: 32px;
       padding: 3rem;
       position: relative;
       overflow: hidden;
       display: flex;
       flex-direction: column;
       gap: 2.5rem;
-      box-shadow: 0 4px 24px rgba(0,0,0,0.03);
-      transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+      box-shadow: 0 20px 40px rgba(11, 21, 22, 0.04), inset 0 0 0 1px rgba(255, 255, 255, 0.5);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      transition: all 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
     }
     .theme-module.has-content {
       border-left: 8px solid var(--teal);
     }
     .theme-module.is-empty {
-      background: rgba(255, 255, 255, 0.5);
+      background: rgba(255, 255, 255, 0.4);
       border-style: dashed;
+      border-color: var(--line);
       opacity: 0.8;
+      box-shadow: none;
     }
-    .theme-module:hover {
-      transform: translateY(-5px);
-      box-shadow: var(--shadow);
+    .theme-module:not(.is-empty):hover {
+      transform: translateY(-8px) scale(1.01);
+      border-color: rgba(255, 255, 255, 0.9);
+      box-shadow: var(--shadow-hover), inset 0 0 0 1px rgba(255, 255, 255, 0.8);
+      background: rgba(255, 255, 255, 0.95);
     }
     .theme-header-row {
       display: flex;
@@ -436,7 +442,7 @@ const pageCopy = {
     .theme-badge-v2 {
       width: 90px;
       height: 90px;
-      background: var(--teal);
+      background: linear-gradient(135deg, var(--teal-light), var(--teal));
       color: white;
       border-radius: 24px;
       display: flex;
@@ -444,7 +450,7 @@ const pageCopy = {
       align-items: center;
       justify-content: center;
       flex-shrink: 0;
-      box-shadow: 0 12px 24px rgba(28, 77, 79, 0.15);
+      box-shadow: 0 16px 32px rgba(20, 62, 64, 0.25), inset 0 2px 0 rgba(255, 255, 255, 0.2);
     }
     .theme-badge-v2 .label {
       font-size: 0.7rem;
@@ -541,15 +547,29 @@ const pageCopy = {
     /* Non-BIPA1 Theme Group Styles */
     .theme-group {
       display: grid;
-      grid-template-columns: 280px 1fr;
+      grid-template-columns: 320px 1fr;
       gap: 3rem;
       margin-bottom: 4rem;
       padding-top: 2rem;
-      border-top: 1px solid var(--line);
+      border-top: 1px dashed var(--line);
     }
     .theme-info {
       display: flex;
       gap: 1.5rem;
+      background: rgba(255, 255, 255, 0.75);
+      border: 1px solid rgba(255, 255, 255, 0.8);
+      border-radius: 28px;
+      padding: 2.5rem 2rem;
+      box-shadow: 0 20px 40px rgba(11, 21, 22, 0.03), inset 0 0 0 1px rgba(255, 255, 255, 0.5);
+      backdrop-filter: blur(20px);
+      -webkit-backdrop-filter: blur(20px);
+      align-self: start;
+      transition: all 0.4s ease;
+    }
+    .theme-info:hover {
+      background: rgba(255, 255, 255, 0.9);
+      box-shadow: var(--shadow-hover);
+      transform: translateY(-4px);
     }
     .theme-number {
       display: flex;
@@ -557,23 +577,24 @@ const pageCopy = {
       align-items: center;
     }
     .theme-number .num {
-      width: 45px;
-      height: 45px;
-      background: var(--teal);
+      width: 50px;
+      height: 50px;
+      background: linear-gradient(135deg, var(--teal-light), var(--teal));
       color: white;
-      border-radius: 12px;
+      border-radius: 14px;
       display: grid;
       place-items: center;
       font-weight: 900;
-      font-size: 1.2rem;
+      font-size: 1.3rem;
       flex-shrink: 0;
+      box-shadow: 0 8px 16px rgba(20, 62, 64, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.2);
     }
     .theme-number .line {
-      width: 2px;
+      width: 3px;
       flex-grow: 1;
-      background: linear-gradient(180deg, var(--teal) 0%, transparent 100%);
-      margin-top: 1rem;
-      opacity: 0.2;
+      background: linear-gradient(180deg, var(--teal) 0%, rgba(37, 160, 120, 0.4) 50%, transparent 100%);
+      margin-top: 1.5rem;
+      border-radius: 3px;
     }
     .theme-text h3 {
       font-size: 1.6rem;

@@ -2,15 +2,16 @@
   /* Defineret Brand Palette: En varm, sofistikeret "Sands & Teal" tema */
   --bg: #fdfaf5;
   --bg-deep: #f2e6d5;
-  --surface: rgba(255, 255, 255, 0.9);
-  --ink: #0d1a1c;
+  --surface: rgba(255, 255, 255, 0.85);
+  --ink: #0b1516; /* Deepened ink */
   --muted: #4a5a5c;
-  --accent: #ff8a3d; /* Den brændte orange fra før, men mere fokuseret */
-  --accent-glow: rgba(255, 138, 61, 0.4);
-  --teal: #1c4d4f;
-  --teal-light: #2cb68b;
+  --accent: #ff7a1f; /* More vibrant burnt orange */
+  --accent-glow: rgba(255, 122, 31, 0.4);
+  --teal: #143e40; /* Deeper teal for headings */
+  --teal-light: #25a078;
   --line: rgba(13, 26, 28, 0.08);
-  --shadow: 0 30px 60px rgba(13, 26, 28, 0.1);
+  --shadow: 0 30px 60px rgba(13, 26, 28, 0.08);
+  --shadow-hover: 0 40px 80px rgba(255, 122, 31, 0.15);
   --radius-xl: 40px;
   --radius-lg: 24px;
   --content: 1200px;
@@ -18,7 +19,10 @@
 
 *, *::before, *::after { box-sizing: border-box; }
 
-@keyframes fadeInUp {
+*:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 4px;
+}@keyframes fadeInUp {
   from { opacity: 0; transform: translateY(30px); }
   to { opacity: 1; transform: translateY(0); }
 }
@@ -60,7 +64,7 @@ body {
 
 /* Typography Overhaul */
 h1, h2, h3, h4 {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-weight: 800;
   line-height: 1.05;
   letter-spacing: -0.03em;
@@ -109,11 +113,13 @@ p {
   font-size: 1.1rem;
   transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   animation: pulse-glow 3s infinite;
+  box-shadow: 0 8px 24px rgba(20, 62, 64, 0.3);
 }
 
 .primary-link:hover {
   transform: scale(1.05) translateY(-3px);
   background: var(--ink);
+  box-shadow: 0 12px 32px rgba(11, 21, 22, 0.4);
 }
 
 .primary-link svg {
@@ -131,7 +137,8 @@ p {
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: var(--radius-xl);
-  backdrop-filter: blur(20px);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
   padding: 4rem;
   margin-top: 3rem;
   box-shadow: var(--shadow);
