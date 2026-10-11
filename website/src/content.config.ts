@@ -89,9 +89,27 @@ const lessonsCollection = defineCollection({
     ),
     activities: z.array(
       z.object({
-        kind: z.enum(["listen", "speak", "build", "reflect"]),
+        kind: z.enum(["listen", "speak", "build", "reflect", "analyze"]),
         prompt: localizedText,
-        answerShape: localizedText
+        answerShape: localizedText,
+        reading: z.object({
+          title: localizedText,
+          text: localizedText
+        }).optional(),
+        analysisTable: z.array(
+          z.object({
+            structure: localizedText,
+            textExcerpt: localizedText,
+            languageFeature: localizedText
+          })
+        ).optional(),
+        alphabetTable: z.array(
+          z.object({
+            letter: z.string(),
+            pronunciation: z.string(),
+            example: localizedText
+          })
+        ).optional()
       })
     ),
     media: z.array(

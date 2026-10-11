@@ -166,15 +166,60 @@
         "en": "Pronounce both vowels clearly: A-ir.",
         "id": "Lafalkan kedua vokal dengan jelas: A-ir."
       }
+    },
+    {
+      "source": "Spejl",
+      "target": "Cermin",
+      "note": {
+        "da": "C = 'tj' og E = blødt 'ø' (Pepet).",
+        "en": "C = 'ch' and E = 'uh' (Pepet).",
+        "id": "C = 'tj' dan E = 'e' lemah (Pepet)."
+      }
+    },
+    {
+      "source": "Seks",
+      "target": "Enam",
+      "note": {
+        "da": "Start med det bløde 'ø' (Pepet).",
+        "en": "Starts with 'uh' (Pepet).",
+        "id": "Dimulai dengan 'e' lemah (Pepet)."
+      }
+    },
+    {
+      "source": "And (Dyr)",
+      "target": "Bebek",
+      "note": {
+        "da": "Skarpt 'æ/e' (Taling).",
+        "en": "Sharp 'e' sound (Taling).",
+        "id": "Bunyi 'e' keras (Taling)."
+      }
+    },
+    {
+      "source": "Konge",
+      "target": "Raja",
+      "note": {
+        "da": "Rullende R og engelsk 'dj'-lyd.",
+        "en": "Rolling R and English 'j'.",
+        "id": "R bergetar dan bunyi 'dj'."
+      }
+    },
+    {
+      "source": "Fisk",
+      "target": "Ikan",
+      "note": {
+        "da": "Helt rene, korte vokaler: I-kan.",
+        "en": "Pure, short vowels: I-kan.",
+        "id": "Vokal murni dan pendek: I-kan."
+      }
     }
   ],
   "grammar": [
     {
-      "pattern": "De 5 Rene Vokaler",
+      "pattern": "De 4 Faste Vokaler (A, I, O, U)",
       "explanation": {
-        "da": "Indonesiske vokaler er korte og præcise. A (ah), E (eh/uh), I (ee), O (oh), U (oo). De ændrer sig aldrig baseret på nabobogstaver.",
-        "en": "Indonesian vowels are short and precise. A (ah), E (eh/uh), I (ee), O (oh), U (oo). They never change based on neighboring letters.",
-        "id": "Vokal bahasa Indonesia pendek dan tepat. A (ah), E (eh/uh), I (ee), O (oh), U (oo). Mereka tidak pernah berubah berdasarkan huruf tetangga."
+        "da": "I modsætning til dansk, hvor vokaler ændrer sig hele tiden, er 4 af de indonesiske vokaler utroligt stabile. A (ah), I (ee), O (oh), U (oo). De udtales altid kort og præcist og ændrer aldrig lyd baseret på nabobogstaver.",
+        "en": "Unlike English, where vowels change constantly, 4 of the Indonesian vowels are incredibly stable. A (ah), I (ee), O (oh), U (oo). They are always short and precise.",
+        "id": "Tidak seperti bahasa Inggris atau Denmark, 4 vokal bahasa Indonesia sangat stabil. A (ah), I (ee), O (oh), U (oo)."
       },
       "examples": [
         { "source": "Awan (Sky)", "target": "Ah-wan" },
@@ -183,19 +228,75 @@
       ]
     },
     {
-      "pattern": "Det Rullende R",
+      "pattern": "De to E-lyde (Pepet & Taling)",
       "explanation": {
-        "da": "I Indonesien 'sover' tungen ikke bagerst i munden. R skal rulle aktivt mod fortænderne.",
-        "en": "In Indonesia, the tongue doesn't 'sleep' in the back of the mouth. R must roll actively against the front teeth.",
-        "id": "Di Indonesia, lidah tidak 'tidur' di bagian belakang mulut. R harus bergetar aktif di gigi depan."
+        "da": "Bogstavet 'E' er undtagelsen! Det har to forskellige lyde. Den første kaldes 'Pepet' og lyder som et kort, blødt 'ø' eller 'æ' (som i starten af ordet 'enam' = seks). Den anden kaldes 'Taling' og lyder som et skarpere 'e' eller 'æ' (som i 'bebek' = and). Udtalen står desværre ikke i ordbogen, så man må lære det sammen med ordet.",
+        "en": "The letter 'E' is the exception! It has two sounds. 'Pepet' sounds like the 'a' in 'about' (e.g. enam = six). 'Taling' sounds like 'e' in 'bed' (e.g. bebek = duck).",
+        "id": "Huruf 'E' adalah pengecualian! Ia memiliki dua bunyi. 'Pepet' terdengar seperti 'e' lemah (enam = enam). 'Taling' terdengar seperti 'e' keras (bebek = bebek)."
       },
       "examples": [
-        { "source": "Raja (Konge)", "target": "Rrr-aja" },
-        { "source": "Roti (Brød)", "target": "Rrr-oti" }
+        { "source": "Seks (Pepet / blødt Ø-agtigt)", "target": "Enam (Ø-nam)" },
+        { "source": "Guld (Pepet / blødt Ø-agtigt)", "target": "Emas (Ø-mas)" },
+        { "source": "And (Taling / skarpere Æ-agtigt)", "target": "Bebek (Bæ-bæk)" }
+      ]
+    },
+    {
+      "pattern": "Konsonanter der snyder (C, J, G, R)",
+      "explanation": {
+        "da": "Nogle indonesiske konsonanter udtales markant anderledes end på dansk, og dem skal man være opmærksom på fra starten: C er ALTID en 'tj'-lyd. J er altid en engelsk 'dj'-lyd (som i Jam). G er ALTID hårdt (som i Gave). Og R skal rulle tydeligt på tungespidsen.",
+        "en": "Some consonants are pronounced quite differently from Danish. C is ALWAYS a 'ch' sound. J is like in 'Jam'. G is ALWAYS hard. And R must be rolled.",
+        "id": "Beberapa konsonan dilafalkan secara berbeda. C selalu bunyi 'tj'. J seperti dalam 'Jam'. G selalu keras. Dan R harus bergetar."
+      },
+      "examples": [
+        { "source": "Chokolade (C = tj)", "target": "Cokelat" },
+        { "source": "Vej / Gade (J = dj)", "target": "Jalan" },
+        { "source": "Lærer (G = hårdt)", "target": "Guru" },
+        { "source": "Brød (R = rullende)", "target": "Roti" }
       ]
     }
   ],
   "activities": [
+    {
+      "kind": "analyze",
+      "prompt": {
+        "da": "Gennemgå det fulde indonesiske alfabet herunder og de tilhørende lyde.",
+        "en": "Review the full Indonesian alphabet below and their corresponding sounds.",
+        "id": "Tinjau abjad lengkap bahasa Indonesia di bawah ini beserta bunyinya."
+      },
+      "answerShape": {
+        "da": "Udtaleguide og oversigt.",
+        "en": "Pronunciation guide and overview.",
+        "id": "Panduan dan ringkasan pelafalan."
+      },
+      "alphabetTable": [
+        { "letter": "A", "pronunciation": "a", "example": { "da": "Som i 'abe' eller 'kage'", "en": "Like 'a' in 'father'", "id": "Seperti 'a' pada 'ayah'" } },
+        { "letter": "B", "pronunciation": "be", "example": { "da": "Som på dansk", "en": "Like in English", "id": "Sama" } },
+        { "letter": "C", "pronunciation": "ce", "example": { "da": "Tj-lyd, som i engelsk 'chalk'. ALDRIG 's' eller 'k'.", "en": "'Ch' sound, like 'chalk'", "id": "Bunyi 'tj'" } },
+        { "letter": "D", "pronunciation": "de", "example": { "da": "Som på dansk (hårdt)", "en": "Like in English", "id": "Sama" } },
+        { "letter": "E", "pronunciation": "e", "example": { "da": "Har to lyde: 'Pepet' (lyder som kort 'ø', fx 'enam' = seks) og 'Taling' (lyder som 'æ/e', fx 'bebek' = and)", "en": "Two sounds: 'Pepet' (e.g. enam) and 'Taling' (e.g. bebek)", "id": "Dua bunyi: 'Pepet' (enam) dan 'Taling' (bebek)" } },
+        { "letter": "F", "pronunciation": "ef", "example": { "da": "Som på dansk", "en": "Like in English", "id": "Sama" } },
+        { "letter": "G", "pronunciation": "ge", "example": { "da": "Altid hårdt, som i 'gave'", "en": "Always hard, like 'go'", "id": "Selalu keras" } },
+        { "letter": "H", "pronunciation": "ha", "example": { "da": "Som på dansk", "en": "Like in English", "id": "Sama" } },
+        { "letter": "I", "pronunciation": "i", "example": { "da": "Som et skarpt 'i', feks 'is'", "en": "Like 'ee' in 'see'", "id": "Seperti 'i' pada 'ikan'" } },
+        { "letter": "J", "pronunciation": "je", "example": { "da": "Som engelsk 'Jam' eller 'Junior'", "en": "Like 'j' in 'jam'", "id": "Seperti 'j' pada 'jalan'" } },
+        { "letter": "K", "pronunciation": "ka", "example": { "da": "Som på dansk", "en": "Like in English", "id": "Sama" } },
+        { "letter": "L", "pronunciation": "el", "example": { "da": "Som på dansk", "en": "Like in English", "id": "Sama" } },
+        { "letter": "M", "pronunciation": "em", "example": { "da": "Som på dansk", "en": "Like in English", "id": "Sama" } },
+        { "letter": "N", "pronunciation": "en", "example": { "da": "Som på dansk", "en": "Like in English", "id": "Sama" } },
+        { "letter": "O", "pronunciation": "o", "example": { "da": "Kort 'å'-lyd som i 'ost'", "en": "Like 'o' in 'go'", "id": "Seperti 'o' pada 'orang'" } },
+        { "letter": "P", "pronunciation": "pe", "example": { "da": "Som på dansk", "en": "Like in English", "id": "Sama" } },
+        { "letter": "Q", "pronunciation": "ki", "example": { "da": "Bruges næsten kun i låneord. Udtales ofte som 'k'", "en": "Mostly in loanwords", "id": "Sama" } },
+        { "letter": "R", "pronunciation": "er", "example": { "da": "Skal rulle tydeligt på tungen", "en": "Rolled 'r'", "id": "Bergetar di ujung lidah" } },
+        { "letter": "S", "pronunciation": "es", "example": { "da": "Som på dansk", "en": "Like in English", "id": "Sama" } },
+        { "letter": "T", "pronunciation": "te", "example": { "da": "Som på dansk", "en": "Like in English", "id": "Sama" } },
+        { "letter": "U", "pronunciation": "u", "example": { "da": "Som et 'o', f.eks. 'ko'", "en": "Like 'oo' in 'boot'", "id": "Seperti 'u' pada 'uang'" } },
+        { "letter": "V", "pronunciation": "ve", "example": { "da": "Ofte udtalt mere som 'f' i praksis", "en": "Often pronounced like 'f'", "id": "Sering dilafalkan seperti 'f'" } },
+        { "letter": "W", "pronunciation": "we", "example": { "da": "Som engelsk 'Water'", "en": "Like in English", "id": "Sama" } },
+        { "letter": "X", "pronunciation": "eks", "example": { "da": "Bruges næsten kun i låneord", "en": "Mostly in loanwords", "id": "Sama" } },
+        { "letter": "Y", "pronunciation": "ye", "example": { "da": "Som et dansk 'j', f.eks. i 'ja'", "en": "Like 'y' in 'yes'", "id": "Seperti 'y' pada 'ya'" } },
+        { "letter": "Z", "pronunciation": "zet", "example": { "da": "Som engelsk 'Zebra'", "en": "Like in English", "id": "Sama" } }
+      ]
+    },
     {
       "kind": "speak",
       "prompt": {

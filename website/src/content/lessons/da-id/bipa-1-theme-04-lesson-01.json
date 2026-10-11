@@ -240,6 +240,67 @@
   ],
   "activities": [
     {
+      "kind": "analyze",
+      "prompt": {
+        "da": "Læs teksten 'Hadiah Ulang Tahun' (Fødselsdagsgave) og analyser dens struktur og sproglige træk i tabellen.",
+        "en": "Read the text 'Hadiah Ulang Tahun' (Birthday Gift) and analyze its structure and language features in the table.",
+        "id": "Bacalah teks 'Hadiah Ulang Tahun' dan analisislah struktur serta ciri kebahasaannya di dalam tabel."
+      },
+      "answerShape": {
+        "da": "Læs og forstå tabellens opbygning.",
+        "en": "Read and understand the table's structure.",
+        "id": "Baca dan pahami struktur tabel tersebut."
+      },
+      "reading": {
+        "title": {
+          "da": "Hadiah Ulang Tahun (Fødselsdagsgave)",
+          "en": "Hadiah Ulang Tahun (Birthday Gift)",
+          "id": "Hadiah Ulang Tahun"
+        },
+        "text": {
+          "da": "Nama saya Mega. Umur saya 18 tahun. Tahun ini saya merayakan hari ulang tahun saya dengan keluarga. Keluarga saya memberi banyak hadiah. Ayah dan Ibu membelikan saya sepeda baru. Saya sangat senang. Kakak perempuan saya, Tari, memberi saya buku cerita. Dia tahu saya suka membaca. Adik laki-laki saya, Budi, membuatkan saya kartu ucapan buatan tangan yang sangat lucu. Semua hadiah itu sangat berarti bagi saya.",
+          "en": "Nama saya Mega. Umur saya 18 tahun. Tahun ini saya merayakan hari ulang tahun saya dengan keluarga. Keluarga saya memberi banyak hadiah. Ayah dan Ibu membelikan saya sepeda baru. Saya sangat senang. Kakak perempuan saya, Tari, memberi saya buku cerita. Dia tahu saya suka membaca. Adik laki-laki saya, Budi, membuatkan saya kartu ucapan buatan tangan yang sangat lucu. Semua hadiah itu sangat berarti bagi saya.",
+          "id": "Nama saya Mega. Umur saya 18 tahun. Tahun ini saya merayakan hari ulang tahun saya dengan keluarga. Keluarga saya memberi banyak hadiah. Ayah dan Ibu membelikan saya sepeda baru. Saya sangat senang. Kakak perempuan saya, Tari, memberi saya buku cerita. Dia tahu saya suka membaca. Adik laki-laki saya, Budi, membuatkan saya kartu ucapan buatan tangan yang sangat lucu. Semua hadiah itu sangat berarti bagi saya."
+        }
+      },
+      "analysisTable": [
+        {
+          "structure": {
+            "da": "Identifikation",
+            "en": "Identification",
+            "id": "Identifikasi"
+          },
+          "textExcerpt": {
+            "da": "\"Nama saya Mega. Umur saya 18 tahun. Tahun ini saya merayakan hari ulang tahun saya dengan keluarga. Keluarga saya memberi banyak hadiah.\"",
+            "en": "\"Nama saya Mega. Umur saya 18 tahun. Tahun ini saya merayakan hari ulang tahun saya dengan keluarga. Keluarga saya memberi banyak hadiah.\"",
+            "id": "\"Nama saya Mega. Umur saya 18 tahun. Tahun ini saya merayakan hari ulang tahun saya dengan keluarga. Keluarga saya memberi banyak hadiah.\""
+          },
+          "languageFeature": {
+            "da": "Introducerer personen og begivenheden.",
+            "en": "Introduces the person and event.",
+            "id": "Memperkenalkan orang dan peristiwa."
+          }
+        },
+        {
+          "structure": {
+            "da": "Beskrivelse",
+            "en": "Description",
+            "id": "Deskripsi"
+          },
+          "textExcerpt": {
+            "da": "\"Ayah dan Ibu membelikan saya sepeda baru. Saya sangat senang. Kakak perempuan saya, Tari, memberi saya buku cerita...\"",
+            "en": "\"Ayah dan Ibu membelikan saya sepeda baru. Saya sangat senang. Kakak perempuan saya, Tari, memberi saya buku cerita...\"",
+            "id": "\"Ayah dan Ibu membelikan saya sepeda baru. Saya sangat senang. Kakak perempuan saya, Tari, memberi saya buku cerita...\""
+          },
+          "languageFeature": {
+            "da": "Brug af pronominer (saya, dia) og specifikke ord for familiemedlemmer (Ayah, Ibu, Kakak, Adik).",
+            "en": "Use of pronouns (saya, dia) and specific family member words (Ayah, Ibu, Kakak, Adik).",
+            "id": "Penggunaan pronomina (saya, dia) dan kata-kata anggota keluarga tertentu (Ayah, Ibu, Kakak, Adik)."
+          }
+        }
+      ]
+    },
+    {
       "kind": "speak",
       "prompt": {
         "da": "Hold et billede (eller tegning) af din familie og præsenter hvert familiemedlem: 'Ini [familiemedlem] saya.'",

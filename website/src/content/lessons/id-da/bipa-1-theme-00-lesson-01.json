@@ -197,53 +197,66 @@
     {
       "kind": "listen",
       "prompt": {
-        "da": "Lyt til fire korte danske ord og markér hvilke to der lyder mest ens.",
-        "en": "Listen to four short Danish words and mark which two sound most alike.",
-        "id": "Dengarkan empat kata pendek bahasa Denmark dan tandai dua kata yang terdengar paling mirip."
+        "da": "Lyt grundigt til lærerens udtale af ordene 'tak', 'dag', og 'jeg'. Prøv at identificere forskellen på den hårde og den bløde konsonant. Notér derefter to andre danske ord, du har hørt, som lyder blødere, end de staves.",
+        "en": "Listen closely to the teacher's pronunciation of the words 'tak', 'dag', and 'jeg'. Try to identify the difference between the hard and the soft consonant. Then note down two other Danish words you've heard that sound softer than they are spelled.",
+        "id": "Dengarkan baik-baik pengucapan guru untuk kata 'tak', 'dag', dan 'jeg'. Cobalah untuk mengidentifikasi perbedaan antara konsonan keras dan lembut. Kemudian catat dua kata bahasa Denmark lain yang pernah Anda dengar yang terdengar lebih lembut daripada ejaannya."
       },
       "answerShape": {
-        "da": "Et kort valg med begrundelse.",
-        "en": "A short choice with explanation.",
-        "id": "Pilihan singkat dengan alasan."
+        "da": "En kort liste med to ord og en kort beskrivelse af forskellen.",
+        "en": "A short list of two words and a brief description of the difference.",
+        "id": "Daftar singkat berisi dua kata dan penjelasan singkat tentang perbedaannya."
       }
     },
     {
       "kind": "speak",
       "prompt": {
-        "da": "Sig “hej, tak, jeg hedder...” højt tre gange med roligt tempo.",
-        "en": "Say “hej, tak, jeg hedder...” aloud three times at a calm pace.",
-        "id": "Ucapkan “hej, tak, jeg hedder...” dengan suara keras tiga kali dengan tempo tenang."
+        "da": "Læs følgende introduktion højt tre gange, og fokuser på rytmen frem for at udtale hvert enkelt bogstav: 'Hej, goddag. Jeg hedder [Dit Navn]. Tak.' Optag gerne dig selv og lyt til forskellen mellem første og tredje forsøg.",
+        "en": "Read the following introduction aloud three times, focusing on the rhythm rather than pronouncing every single letter: 'Hej, goddag. Jeg hedder [Your Name]. Tak.' Feel free to record yourself and listen to the difference between the first and third attempt.",
+        "id": "Bacalah perkenalan berikut dengan suara keras tiga kali, fokuslah pada ritmenya daripada mengucapkan setiap huruf: 'Hej, goddag. Jeg hedder [Nama Anda]. Tak.' Jangan ragu untuk merekam diri Anda dan mendengarkan perbedaan antara percobaan pertama dan ketiga."
       },
       "answerShape": {
-        "da": "Kort udtaleøvelse.",
-        "en": "Short pronunciation exercise.",
-        "id": "Latihan pengucapan singkat."
+        "da": "En mundtlig øvelse og optagelse, efterfulgt af et notat om dine fremskridt.",
+        "en": "A speaking exercise and recording, followed by a note on your progress.",
+        "id": "Latihan berbicara dan rekaman, diikuti dengan catatan tentang kemajuan Anda."
       }
     },
     {
       "kind": "build",
       "prompt": {
-        "da": "Skriv din egen første linje på dansk: “Hej, jeg hedder ...”",
-        "en": "Write your own first line in Danish: “Hej, jeg hedder ...”",
-        "id": "Tulis kalimat pertama Anda sendiri dalam bahasa Denmark: “Hej, jeg hedder ...”"
+        "da": "Skriv en kort dialog mellem to personer, der mødes for første gang. Brug ordene 'hej', 'goddag', 'jeg hedder', og 'tak'. Sørg for, at mindst én af personerne introducerer sig selv, og den anden svarer høfligt.",
+        "en": "Write a short dialogue between two people meeting for the first time. Use the words 'hej', 'goddag', 'jeg hedder', and 'tak'. Make sure at least one person introduces themselves, and the other responds politely.",
+        "id": "Tulislah dialog singkat antara dua orang yang bertemu untuk pertama kalinya. Gunakan kata 'hej', 'goddag', 'jeg hedder', dan 'tak'. Pastikan setidaknya satu orang memperkenalkan diri, dan yang lain membalas dengan sopan."
       },
       "answerShape": {
-        "da": "En kort sætning.",
-        "en": "One short sentence.",
-        "id": "Satu kalimat pendek."
+        "da": "En dialog på cirka 4-6 linjer.",
+        "en": "A dialogue of about 4-6 lines.",
+        "id": "Dialog sekitar 4-6 baris."
       }
     },
     {
       "kind": "reflect",
       "prompt": {
-        "da": "Hvilken dansk lyd virker sværest lige nu, og hvorfor?",
-        "en": "Which Danish sound feels hardest right now, and why?",
-        "id": "Bunyi bahasa Denmark mana yang terasa paling sulit saat ini, dan mengapa?"
+        "da": "Tænk over forholdet mellem skriftsprog og talesprog på dansk sammenlignet med indonesisk. På indonesisk læses de fleste bogstaver præcis som de skrives. Hvordan påvirker den danske udtale din måde at lære nye ord på?",
+        "en": "Think about the relationship between written and spoken Danish compared to Indonesian. In Indonesian, most letters are read exactly as they are written. How does the Danish pronunciation affect the way you learn new words?",
+        "id": "Pikirkan tentang hubungan antara bahasa Denmark tertulis dan lisan dibandingkan dengan bahasa Indonesia. Dalam bahasa Indonesia, sebagian besar huruf dibaca persis seperti yang tertulis. Bagaimana pengucapan bahasa Denmark memengaruhi cara Anda mempelajari kata-kata baru?"
       },
       "answerShape": {
-        "da": "To korte sætninger.",
-        "en": "Two short sentences.",
-        "id": "Dua kalimat singkat."
+        "da": "Et kort afsnit (2-3 sætninger) med dine tanker om at lære danske ord.",
+        "en": "A short paragraph (2-3 sentences) with your thoughts on learning Danish words.",
+        "id": "Satu paragraf pendek (2-3 kalimat) berisi pemikiran Anda tentang mempelajari kata-kata bahasa Denmark."
+      }
+    },
+    {
+      "kind": "build",
+      "prompt": {
+        "da": "Lav tre varianter af din egen præsentation. En meget kort, en lidt længere og en høflig version, hvor du inkorporerer 'goddag' i stedet for 'hej'.",
+        "en": "Create three variations of your own introduction. A very short one, a slightly longer one, and a polite version where you incorporate 'goddag' instead of 'hej'.",
+        "id": "Buat tiga variasi perkenalan Anda sendiri. Versi yang sangat pendek, agak panjang, dan sopan di mana Anda memasukkan 'goddag' sebagai ganti 'hej'."
+      },
+      "answerShape": {
+        "da": "Tre forskellige sætninger eller små afsnit.",
+        "en": "Three different sentences or small paragraphs.",
+        "id": "Tiga kalimat atau paragraf kecil yang berbeda."
       }
     }
   ],
